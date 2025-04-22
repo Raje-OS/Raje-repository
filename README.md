@@ -234,8 +234,25 @@ dinámica y vibrante donde cada voz cuenta.
 # 1.2.1. Antecedentes y problemática
 
 <table>
-<tr> <td> hola </td>    </tr>
-  <tr>  <td> hola </td>  </tr>
+<tr> <td> What ( Qué ): 
+En el área del entretenimiento digital, los usuarios buscan cada vez más plataformas 
+donde puedan descubrir y compartir opiniones sobre películas, series y libros. Sin 
+embargo, las opciones disponibles suelen estar limitadas por filtros y políticas de 
+moderación que restringen la libertad de expresión y la autenticidad de las opiniones. 
+Además, muchas de las aplicaciones disponibles carecen de funcionalidades clave, 
+como la ausencia de perfiles y una interfaz para explorar las opiniones de otros usuarios. 
+La falta de una aplicación adecuada a opiniones de películas, series y libros limita al 
+público a tomar decisiones informadas. Sin un lugar en el que los usuarios expresen y 
+lean opiniones auténticas se pierde la diversidad de perspectivas que enriquece la 
+experiencia de descubrir nuevo contenido. Por ende, se restringe el acceso a un amplio 
+conjunto de opiniones, lo cual afecta la experiencia general de entretenimiento y la 
+capacidad de descubrir contenido relevante.  </td> </tr>
+  <tr>  <td> When ( Cuándo ): El problema aparece cuando los usuarios quieren buscar de 
+opiniones auténticas sobre películas, series y libros. A menudo, ellos se enfrentan a la 
+frustración de encontrar reseñas moderadas en las plataformas existentes. En 
+consecuencia, los usuarios no pueden evaluar de manera precisa si un contenido se 
+alinea con sus intereses, porque las reseñas disponibles a menudo están influenciadas 
+por restricciones.  </td>  </tr>
   <tr> </tr>
 </table>
 
