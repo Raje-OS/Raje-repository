@@ -234,15 +234,11 @@ dinámica y vibrante donde cada voz cuenta.
 # 1.2.1. Antecedentes y problemática
 
 <table>
-  <thead>
-    <tr>
-      <th> 5 W y 2 H </th>
-    </tr>
-  </thead>
-  
+
   <tbody>
-<tr> <td> What ( Qué ): 
-En el área del entretenimiento digital, los usuarios buscan cada vez más plataformas 
+    <tr>
+      <td> What ( Qué ) </td>
+      <td>En el área del entretenimiento digital, los usuarios buscan cada vez más plataformas 
 donde puedan descubrir y compartir opiniones sobre películas, series y libros. Sin 
 embargo, las opciones disponibles suelen estar limitadas por filtros y políticas de 
 moderación que restringen la libertad de expresión y la autenticidad de las opiniones. 
@@ -253,16 +249,57 @@ público a tomar decisiones informadas. Sin un lugar en el que los usuarios expr
 lean opiniones auténticas se pierde la diversidad de perspectivas que enriquece la 
 experiencia de descubrir nuevo contenido. Por ende, se restringe el acceso a un amplio 
 conjunto de opiniones, lo cual afecta la experiencia general de entretenimiento y la 
-capacidad de descubrir contenido relevante.  </td> </tr>
-  <tr>  <td> When ( Cuándo ): El problema aparece cuando los usuarios quieren buscar de 
+capacidad de descubrir contenido relevante. </td>
+    </tr>
+    <tr>
+      <td> When ( Cuándo ) </td>
+      <td> El problema aparece cuando los usuarios quieren buscar de 
 opiniones auténticas sobre películas, series y libros. A menudo, ellos se enfrentan a la 
 frustración de encontrar reseñas moderadas en las plataformas existentes. En 
 consecuencia, los usuarios no pueden evaluar de manera precisa si un contenido se 
 alinea con sus intereses, porque las reseñas disponibles a menudo están influenciadas 
-por restricciones.  </td>  </tr>
-  <tr> </tr>
-    </tbody>
+por restricciones. </td>
+    </tr>
+    <tr>
+      <td> Where ( Dónde ) </td>
+      <td> Los problemas de la falta de una aplicación que permita opiniones de 
+películas, series y libros sin filtros ni censura se aprecia en múltiples lugares, como 
+plataformas de streaming, redes sociales, sitios de crítica y reseñas, foros en línea, etc. 
+En estas plataformas, las opiniones de los usuarios a menudo están sujetas a moderación 
+o políticas que restringen la libre expresión. Esta situación limita el acceso a una 
+diversidad de perspectivas que afecta la capacidad de los usuarios para descubrir 
+opiniones auténticas. </td>
+    </tr>
+    <tr>
+      <td> Who ( Quién ) </td>
+      <td>  Esta problemática afecta a diversos grupos de personas. En primer 
+lugar, los espectadores y lectores que buscan opiniones para decidir qué contenido 
+consumir se ven limitados por la falta de un espacio que ofrezca críticas genuinas. 
+También impacta a críticos independientes o aficionados, quienes no tienen una 
+plataforma adecuada para expresar sus opiniones sin temor a la censura. Además, las 
+comunidades de nicho con intereses específicos enfrentan dificultades para encontrar y 
+compartir opiniones relevantes que se alineen con sus gustos únicos.  </td>
+    </tr>
+    <tr>
+      <td> Why ( Por qué ) </td>
+      <td> La causa principal del problema es la falta de espacios que prioricen 
+la autenticidad y la libertad de expresión, lo que lleva a una interacción superficial o 
+condicionada entre los usuarios y sus comunidades. Las plataformas tradicionales 
+pueden estar influenciadas por agendas comerciales, lo que diluye la sinceridad de las 
+opiniones compartidas. </td>
+    </tr>
+     <tr>
+      <td> How ( Cómo) </td>
+      <td> Utilizando una aplicación que te permite no solo expresar tus opiniones 
+sobre contenido audiovisual y literario, sino también leer las críticas de otros usuarios. </td>
+    </tr>
+     <tr>
+      <td> How much ( Cuánto ) </td>
+      <td> </td>
+    </tr>
+  </tbody>
 </table>
+
 
 ### Capítulo II: Requirements Elicitation & Analysis
 ####2.1. Competidores
