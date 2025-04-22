@@ -217,6 +217,7 @@ excepcionales. </td>
     </tr>
   </tbody>
 </table>
+# 1.2. Solution profile
 ### Capítulo II: Requirements Elicitation & Analysis
 ####2.1. Competidores
 
