@@ -234,6 +234,12 @@ dinámica y vibrante donde cada voz cuenta.
 # 1.2.1. Antecedentes y problemática
 
 <table>
+  <thead>
+    <tr>
+      <th> 5 W y 2 H </th>
+    </tr>
+  </thead>
+  
   <tbody>
 <tr> <td> What ( Qué ): 
 En el área del entretenimiento digital, los usuarios buscan cada vez más plataformas 
