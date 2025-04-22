@@ -218,7 +218,7 @@ excepcionales. </td>
   </tbody>
 </table>
 
-## 1.1. Solution Profile
+## 1.2. Solution Profile
 
 
 ### Capítulo II: Requirements Elicitation & Analysis
