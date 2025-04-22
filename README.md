@@ -220,6 +220,24 @@ excepcionales. </td>
 
 ## 1.2. Solution Profile
 
+Raje de Caleta Innovations es una plataforma innovadora que permite a los usuarios expresar 
+sus opiniones de manera auténtica y sin filtros sobre películas, series, libros y más. Inspirada 
+en la jerga latina "rajar," que significa hablar sin rodeos, Raje ofrece un espacio donde la 
+libertad de expresión es fundamental. Además, la plataforma les muestra dónde está disponible 
+el contenido, ya sea en plataformas de streaming o librerías. Los usuarios pueden rankear el 
+contenido que consumen, dejar opiniones sinceras, y recibir recomendaciones personalizadas. 
+Además, podrán ver la lista de sus opiniones y calificaciones, así como el contenido que han 
+consumido, directamente en su perfil. Con un enfoque en la autenticidad, Raje redefine la 
+manera en que las personas interactúan con el entretenimiento, fomentando una comunidad 
+dinámica y vibrante donde cada voz cuenta. 
+
+# 1.2.1. Antecedentes y problemática
+
+<table>
+<tr> </tr>
+  <tr> </tr>
+  <tr> </tr>
+</table>
 
 ### Capítulo II: Requirements Elicitation & Analysis
 ####2.1. Competidores
