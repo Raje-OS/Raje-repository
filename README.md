@@ -184,3 +184,66 @@ Visión: Nos vemos como una empresa líder en la creación de un entorno donde l
     </tr>
   </tbody>
 </table>
+### Capítulo II: Requirements Elicitation & Analysis
+#### 2.1. Competidores
+
+**Marketplace de Facebook: ** Es la opción más usada para comprar y vender ropa usada en Perú. Es gratuito, tiene gran alcance, pero no está especializado en moda y carece de filtros adecuados.
+
+**Instagram: ** Muchas tiendas independientes venden ropa vintage o de segunda mano a través de Instagram, con una estética cuidada y fuerte conexión con su audiencia.
+
+#2.1.1. Análisis competitivo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
