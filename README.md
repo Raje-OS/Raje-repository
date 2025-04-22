@@ -217,7 +217,8 @@ excepcionales. </td>
     </tr>
   </tbody>
 </table>
-## 1.2. Solution Profile
+
+## 1.1. Startup Profile
 
 
 ### Capítulo II: Requirements Elicitation & Analysis
