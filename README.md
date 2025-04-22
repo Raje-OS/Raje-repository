@@ -234,8 +234,8 @@ dinámica y vibrante donde cada voz cuenta.
 # 1.2.1. Antecedentes y problemática
 
 <table>
-<tr> </tr>
-  <tr> </tr>
+<tr> hola  </tr>
+  <tr> uwu </tr>
   <tr> </tr>
 </table>
 
