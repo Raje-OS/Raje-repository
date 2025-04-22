@@ -186,8 +186,8 @@ tiene un impacto real y duradero.
     </tr>
     <tr>
       <td> HOLA </td>
-      <td> Jose Mateo Cabanillas Meza- Ingeniería 
-de Software-u202311458 
+      <td> Jose Mateo Cabanillas Meza
+        - Ingeniería de Software-u202311458 
  
 Mi nombre es Mateo Cabanillas y en la 
 actualidad estoy cursando el quinto ciclo de 
