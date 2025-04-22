@@ -234,6 +234,7 @@ dinámica y vibrante donde cada voz cuenta.
 # 1.2.1. Antecedentes y problemática
 
 <table>
+  <tbody>
 <tr> <td> What ( Qué ): 
 En el área del entretenimiento digital, los usuarios buscan cada vez más plataformas 
 donde puedan descubrir y compartir opiniones sobre películas, series y libros. Sin 
@@ -254,6 +255,7 @@ consecuencia, los usuarios no pueden evaluar de manera precisa si un contenido s
 alinea con sus intereses, porque las reseñas disponibles a menudo están influenciadas 
 por restricciones.  </td>  </tr>
   <tr> </tr>
+    </tbody>
 </table>
 
 ### Capítulo II: Requirements Elicitation & Analysis
