@@ -598,60 +598,82 @@ usuarios encontrar nuevas películas y series según sus intereses?
 
 ### 2.3.2. User Task Matrix
 #### Consumidor de contenido multimedia – Lucas Castro
+
 <table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Tarea</th>
-      <th>Frecuencia</th>
-      <th>Prioridad</th>
-      <th>Frustración</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Buscar qué película, serie o libro ver o leer</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Media</td>
-    </tr>
-    <tr>
-      <td>Leer opiniones de otros antes de decidir</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Escribir una reseña después de ver algo</td>
-      <td>Media</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Calificar contenido con estrellas</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Baja</td>
-    </tr>
-    <tr>
-      <td>Encontrar contenido nuevo según sus gustos</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Ver su historial de contenido consumido</td>
-      <td>Baja</td>
-      <td>Media</td>
-      <td>Media</td>
-    </tr>
-    <tr>
-      <td>Seguir a otros usuarios con gustos similares</td>
-      <td>Media</td>
-      <td>Media</td>
-      <td>Media</td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>Actividad</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frustración</th>
+  </tr>
+  <tr>
+    <td>Leer reseñas de un contenido que le llama la atención</td>
+    <td>Antes de decidir si verlo o leerlo</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Escribir reseñas u opiniones sobre contenido consumido</td>
+    <td>Después de ver una película, serie o leer un libro</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Calificar contenido con estrellas</td>
+    <td>Después de consumir contenido multimedia</td>
+    <td>Media</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Buscar contenido según sus intereses (género, palabra clave, etc.)</td>
+    <td>Diario</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Consultar su historial de contenido y reseñas</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Seguir a otros usuarios con gustos similares</td>
+    <td>Ocasional, cuando encuentra usuarios con opiniones afines</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Ver en qué plataforma está disponible un contenido</td>
+    <td>Antes de decidir qué contenido ver o leer</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Ver en qué librería cercana puede adquirir un libro</td>
+    <td>Al buscar un libro que le interesa</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Explorar recomendaciones personalizadas</td>
+    <td>Diario</td>
+    <td>Muy Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Comentar reseñas de otros usuarios</td>
+    <td>Ocasional, si una opinión le llama la atención</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Compartir sus opiniones sin censura</td>
+    <td>Cada vez que publica una reseña o comentario</td>
+    <td>Muy Alta</td>
+    <td>Alta</td>
+  </tr>
 </table>
+
 
 #### Dueño de librería – Raúl Torres
 <table border="1" cellpadding="8" cellspacing="0">
