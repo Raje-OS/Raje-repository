@@ -590,6 +590,19 @@ contenido de tu plataforma?
 contenido que ofreces? 
 7. ¿Cómo te gustaría que fuera una colaboración con una plataforma que permita a los 
 usuarios encontrar nuevas películas y series según sus intereses?
+
+### 2.2.2 Registro de entrevista
+
+-Andres Jonathan Santos Espinoza (consumidor de contenido multimedia)
+
+<img src="Report_Assets/Lucas Castro.png" alt="User Persona 1" width="1000" height="1000"/>
+
+### Analisis de entrevista
+
+-Andres Jonathan Santos Espinoza (consumidor de contenido multimedia):
+
+En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lima, se muestra como un consumidor cuidadoso y con preferencias marcadas, especialmente por las películas. Suele apoyarse en reseñas y recomendaciones de su entorno o de redes sociales como TikTok para decidir qué ver o leer. Destaca que, aunque toma en cuenta la opinión de otros, cuando deja sus propias reseñas lo hace desde su experiencia personal. También señala su incomodidad con la censura en los comentarios de algunas plataformas y plantea que le gustaría recibir sugerencias de contenido más personalizadas según sus gustos. Su visión encaja muy bien con la propuesta de RAJE, que busca ser un espacio abierto donde los usuarios puedan expresarse libremente y descubrir contenido afín a sus intereses. 
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 <img src="Report_Assets/Lucas Castro.png" alt="User Persona 1" width="1000" height="1000"/>
