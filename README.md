@@ -336,7 +336,7 @@ visibilidad y engagement de su contenido.
 <table>
   <thead>
     <tr>
-      <th>Nombre / Categoría</th>
+      <th>Aspecto</th>
       <th>Raje</th>
       <th>Letterboxd</th>
       <th>Goodreads</th>
@@ -344,6 +344,10 @@ visibilidad y engagement de su contenido.
     </tr>
   </thead>
   <tbody>
+    <!-- Sección: Perfil -->
+    <tr>
+      <td colspan="5" style="background-color:#f0f0f0;"><strong>Perfil</strong></td>
+    </tr>
     <tr>
       <td><strong>Overview</strong></td>
       <td>Plataforma que permite opinar libremente y sin censura sobre películas, libros y series.</td>
@@ -352,91 +356,93 @@ visibilidad y engagement de su contenido.
       <td>Motor de recomendación de películas y series con IA.</td>
     </tr>
     <tr>
-      <td><strong>Ventaja competitiva / Valor ofrecido</strong></td>
-      <td>Opiniones sin censura + integración de libros, series y películas + conexión con plataformas externas.</td>
-      <td>Comunidad cinéfila activa y herramientas visuales (listas, diarios).</td>
-      <td>Comunidad extensa de lectores + estadísticas y seguimiento de lecturas.</td>
-      <td>Recomendaciones 100% personalizadas basadas en gustos y emociones.</td>
-    </tr>
-    <tr>
       <td><strong>Mercado objetivo</strong></td>
       <td>Jóvenes adultos con fuerte opinión cultural; lectores y cinéfilos activos.</td>
       <td>Cinéfilos de todas las edades que desean compartir y explorar críticas.</td>
       <td>Lectores frecuentes y amantes de los libros.</td>
       <td>Espectadores que buscan contenido afín a sus emociones o estados de ánimo.</td>
     </tr>
+
+    <!-- Sección: Marketing -->
+    <tr>
+      <td colspan="5" style="background-color:#f0f0f0;"><strong>Estrategia de Marketing</strong></td>
+    </tr>
     <tr>
       <td><strong>Estrategias de marketing</strong></td>
-      <td>Enfoque en libertad de expresión, conexión con librerías y alianzas con plataformas de streaming.</td>
-      <td>Marketing de boca a boca + fuerte presencia en festivales de cine.</td>
+      <td>Libertad de expresión, alianzas con librerías y plataformas de streaming.</td>
+      <td>Marketing de boca a boca y presencia en festivales de cine.</td>
       <td>Alianzas con editoriales y recomendaciones internas.</td>
-      <td>Publicidad por influencers, segmentación emocional y experiencia personalizada.</td>
+      <td>Influencers, enfoque emocional, experiencia personalizada.</td>
+    </tr>
+
+    <!-- Sección: Producto -->
+    <tr>
+      <td colspan="5" style="background-color:#f0f0f0;"><strong>Producto</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Valor ofrecido</strong></td>
+      <td>Opiniones sin censura, integración de libros, películas y series.</td>
+      <td>Herramientas visuales y comunidad activa.</td>
+      <td>Estadísticas de lectura y comunidad de lectores.</td>
+      <td>Recomendaciones basadas en emociones y gustos.</td>
     </tr>
     <tr>
       <td><strong>Productos &amp; Servicios</strong></td>
-      <td>Reseñas libres, rankings, perfiles personalizados, recomendaciones, conexión con plataformas externas.</td>
-      <td>Reseñas, rankings, creación de listas, diarios de películas.</td>
-      <td>Reseñas, seguimiento de lecturas, retos de lectura anuales.</td>
-      <td>Recomendador inteligente, exploración visual basada en sentimientos y géneros.</td>
+      <td>Reseñas libres, rankings, perfiles personalizados, recomendaciones.</td>
+      <td>Reseñas, listas, diarios de películas.</td>
+      <td>Reseñas, retos de lectura, seguimiento de libros.</td>
+      <td>Exploración visual, motor inteligente de recomendaciones.</td>
     </tr>
     <tr>
       <td><strong>Precios &amp; Costos</strong></td>
-      <td>Gratuito, con potencial modelo freemium para funciones avanzadas o sin anuncios.</td>
-      <td>Gratuito, versión Pro con estadísticas extra.</td>
+      <td>Gratuito, con posible modelo freemium.</td>
+      <td>Gratuito, versión Pro con estadísticas.</td>
       <td>Gratuito.</td>
-      <td>Gratuito con modelo de monetización por afiliaciones.</td>
+      <td>Gratuito con monetización por afiliaciones.</td>
     </tr>
     <tr>
       <td><strong>Canales de distribución</strong></td>
-      <td>Aplicación móvil y versión web (en desarrollo).</td>
+      <td>Aplicación móvil y web (en desarrollo).</td>
       <td>Web y app móvil.</td>
       <td>Web y app móvil.</td>
       <td>Web y app móvil.</td>
+    </tr>
+
+    <!-- Sección: Análisis SWOT -->
+    <tr>
+      <td colspan="5" style="background-color:#f0f0f0;"><strong>Análisis SWOT</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Fortalezas</strong></td>
+      <td>Opiniones sin filtros, integración multimedia, perfil personal.</td>
+      <td>Comunidad activa, enfoque exclusivo en cine.</td>
+      <td>Base de datos amplia, comunidad de lectores.</td>
+      <td>IA personalizada, interfaz intuitiva.</td>
+    </tr>
+    <tr>
+      <td><strong>Debilidades</strong></td>
+      <td>Base de usuarios nueva, dependencia de alianzas.</td>
+      <td>Limitado a cine.</td>
+      <td>Interfaz anticuada, baja personalización.</td>
+      <td>Sin comunidad visible, funciones limitadas.</td>
+    </tr>
+    <tr>
+      <td><strong>Oportunidades</strong></td>
+      <td>Alianzas con librerías y plataformas, adopción por nichos.</td>
+      <td>Expandirse a otros formatos como series o libros.</td>
+      <td>Integrar multimedia, mejorar experiencia visual.</td>
+      <td>Expansión en LATAM, personalización avanzada.</td>
+    </tr>
+    <tr>
+      <td><strong>Amenazas</strong></td>
+      <td>Restricciones a la libertad de expresión, competencia consolidada.</td>
+      <td>Nuevas apps con más libertad o funciones.</td>
+      <td>Pérdida de usuarios por falta de innovación.</td>
+      <td>Competencia de algoritmos de plataformas grandes.</td>
     </tr>
   </tbody>
 </table>
 
-<table>
-  <thead>
-    <tr>
-      <th>Categoría</th>
-      <th>Raje</th>
-      <th>Letterboxd</th>
-      <th>Goodreads</th>
-      <th>Taste.io</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Fortalezas</strong></td>
-      <td>Opiniones sin filtros, integración multimedia, perfil personal, enfoque en libertad de expresión.</td>
-      <td>Comunidad activa, diseño visual atractivo, enfoque exclusivo en cine.</td>
-      <td>Amplia base de datos, comunidad activa de lectores.</td>
-      <td>IA personalizada, UI intuitiva, enfoque emocional.</td>
-    </tr>
-    <tr>
-      <td><strong>Debilidades</strong></td>
-      <td>Plataforma nueva, poca base de usuarios inicial, dependencia de alianzas.</td>
-      <td>Limitado a cine, sin integración con libros o series.</td>
-      <td>Interfaz anticuada, limitado a libros, baja personalización.</td>
-      <td>Recomendaciones aún limitadas, sin comunidad activa visible.</td>
-    </tr>
-    <tr>
-      <td><strong>Oportunidades</strong></td>
-      <td>Alianzas con librerías y plataformas de streaming, adopción por nichos que valoran lo auténtico.</td>
-      <td>Integrarse con otras formas de contenido como series o libros.</td>
-      <td>Modernizar interfaz, integrar audio o video reseñas.</td>
-      <td>Crecer en LATAM o con usuarios no tradicionales.</td>
-    </tr>
-    <tr>
-      <td><strong>Amenazas</strong></td>
-      <td>Regulaciones sobre libertad de expresión, competencia con plataformas establecidas.</td>
-      <td>Nuevas apps con más funcionalidades o libertad de expresión.</td>
-      <td>Pérdida de usuarios por falta de innovación.</td>
-      <td>Competencia fuerte de algoritmos en plataformas como Netflix.</td>
-    </tr>
-  </tbody>
-</table>
 
 
 footoooooooo
