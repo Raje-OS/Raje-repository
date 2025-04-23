@@ -472,6 +472,82 @@ visibilidad y engagement de su contenido.
 
 
 footoooooooo
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+<h2>Estrategias y Tácticas Preliminares</h2>
+
+<p>
+Esta sección presenta las estrategias iniciales de Raje para afrontar el entorno competitivo. Cada estrategia responde a al menos dos factores del análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas), con el fin de posicionar a Raje como una plataforma única, atractiva y sostenible frente a sus principales competidores.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Estrategia</th>
+      <th>Relación con FODA</th>
+      <th>Tácticas específicas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Potenciar la experiencia de usuario con una interfaz superior</td>
+      <td>Fortalezas (interfaz moderna), Amenazas (competencia consolidada)</td>
+      <td>
+        - Invertir en diseño UX/UI con enfoque en accesibilidad y velocidad.<br>
+        - Probar con usuarios para mantener un diseño más atractivo que Letterboxd o Goodreads.<br>
+        - Lanzar campañas comparativas resaltando la fluidez visual y usabilidad de Raje.
+      </td>
+    </tr>
+    <tr>
+      <td>Establecer alianzas estratégicas con plataformas de streaming y librerías</td>
+      <td>Oportunidades (colaboraciones), Debilidades (poca base de usuarios)</td>
+      <td>
+        - Contactar librerías y plataformas de nicho para integración de contenido y promociones cruzadas.<br>
+        - Crear funciones de "ver ahora" o "comprar el libro" directamente desde Raje.<br>
+        - Usar estas alianzas como gancho para atraer nuevos usuarios.
+      </td>
+    </tr>
+    <tr>
+      <td>Fomentar la libertad de expresión como diferencial de marca</td>
+      <td>Fortalezas (opiniones sin censura), Amenazas (regulaciones)</td>
+      <td>
+        - Establecer políticas claras de moderación sin censura injustificada.<br>
+        - Posicionar a Raje como espacio seguro y libre para opinar sobre contenido cultural.<br>
+        - Trabajar en un sistema de reputación comunitaria para balancear libertad con responsabilidad.
+      </td>
+    </tr>
+    <tr>
+      <td>Gamificar la participación para activar la comunidad</td>
+      <td>Debilidades (poca base activa), Oportunidades (nicho que valora lo auténtico)</td>
+      <td>
+        - Crear sistemas de puntos, logros y recompensas para reseñadores frecuentes.<br>
+        - Promover retos mensuales de reseñas.<br>
+        - Integrar rankings locales y globales de actividad.
+      </td>
+    </tr>
+    <tr>
+      <td>Diferenciarse con una experiencia de contenido unificada (libros, películas y series)</td>
+      <td>Fortalezas (multiformato), Debilidades (nueva plataforma)</td>
+      <td>
+        - Ofrecer exploración cruzada entre libros, series y películas.<br>
+        - Implementar perfiles temáticos personalizados por tipo de contenido.<br>
+        - Promover a Raje como la única app que centraliza toda tu vida cultural.
+      </td>
+    </tr>
+    <tr>
+      <td>Expandirse primero en nichos culturales activos</td>
+      <td>Oportunidades (nicho cultural), Amenazas (plataformas masivas)</td>
+      <td>
+        - Realizar activaciones en eventos culturales con códigos de acceso exclusivo.<br>
+        - Crear embajadores de Raje en comunidades culturales.<br>
+        - Lanzar campañas específicas para cinéfilos y lectores intensivos.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
