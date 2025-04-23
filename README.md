@@ -449,7 +449,7 @@ visibilidad y engagement de su contenido.
     <tr>
       <td>Debilidades</td>
       <td>Base de usuarios nueva, dependencia de alianzas.</td>
-      <td>Limitado a cine.</td>
+      <td>Limitado a cine e Interfaz poco intuitiva</td>
       <td>Interfaz anticuada, baja personalización.</td>
       <td>Sin comunidad visible, funciones limitadas.</td>
     </tr>
