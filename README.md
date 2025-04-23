@@ -514,7 +514,16 @@ contenido de tu plataforma?
 contenido que ofreces? 
 7. ¿Cómo te gustaría que fuera una colaboración con una plataforma que permita a los 
 usuarios encontrar nuevas películas y series según sus intereses?
-
+## 2.3. Needfinding
+### 2.3.1. User Personas
+![User Persona 1](Report_Assets/UPC_logo_transparente.png)
+![User Persona 2](Report_Assets/UPC_logo_transparente.png)
+![User Persona 3](Report_Assets/UPC_logo_transparente.png)
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-is Scenario Mapping
+## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
