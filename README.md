@@ -531,38 +531,73 @@ usuarios encontrar nuevas películas y series según sus intereses?
       <th>Descripción</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td>EPIC-1</td>
-      <td>Gestión de Cuenta</td>
-      <td>Como usuario, deseo acceder a mi cuenta privada para ingresar de forma segura a la plataforma</td>
-    </tr>
-    <tr>
-      <td>EPIC-2</td>
-      <td>Personalización de Perfil</td>
-      <td>Como consumidor de contenido, deseo actualizar mis intereses y gustos para recibir recomendaciones personalizadas.</td>
-    </tr>
-    <tr>
-      <td>EPIC-3</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EPIC-4</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EPIC-5</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EPIC-6</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
+ <tbody>
+  <tr>
+    <td>EPIC-1</td>
+    <td>Gestión de Cuenta</td>
+    <td>Permite a los usuarios registrarse, iniciar sesión, recuperar contraseñas y gestionar la seguridad de sus credenciales en la plataforma Raje.</td>
+  </tr>
+  <tr>
+    <td>EPIC-2</td>
+    <td>Personalización de Perfil</td>
+    <td>Permite a los usuarios editar su información personal, intereses (géneros favoritos, autores, directores), foto de perfil y configuraciones.</td>
+  </tr>
+  <tr>
+    <td>EPIC-3</td>
+    <td>Gestión de Contenido Multimedia</td>
+    <td>Permite a los usuarios registrar, buscar y visualizar información sobre películas, series y libros disponibles en la plataforma.</td>
+  </tr>
+  <tr>
+    <td>EPIC-4</td>
+    <td>Gestión de Reseñas y Calificaciones</td>
+    <td>Permite a los usuarios publicar reseñas, otorgar calificaciones y leer comentarios de otros usuarios sobre libros, películas o series.</td>
+  </tr>
+  <tr>
+    <td>EPIC-5</td>
+    <td>Sistema de Recomendaciones</td>
+    <td>Genera sugerencias personalizadas de contenido basadas en el historial de interacciones, preferencias e intereses del usuario.</td>
+  </tr>
+  <tr>
+    <td>EPIC-6</td>
+    <td>Descubrimiento de Contenido</td>
+    <td>Permite a los usuarios encontrar nuevas películas, series o libros mediante filtros, rankings, exploración temática o recomendaciones del sistema.</td>
+  </tr>
+  <tr>
+    <td>EPIC-7</td>
+    <td>Gestión de Librerías</td>
+    <td>Permite a los dueños de librerías crear un perfil comercial, publicar libros disponibles, promociones, eventos literarios y novedades editoriales.</td>
+  </tr>
+  <tr>
+    <td>EPIC-8</td>
+    <td>Interacción Librería–Usuario</td>
+    <td>Facilita la conexión entre lectores y librerías mediante recomendaciones basadas en reseñas, libros destacados y eventos alineados a sus intereses.</td>
+  </tr>
+  <tr>
+    <td>EPIC-9</td>
+    <td>Gestión de Plataformas de Streaming</td>
+    <td>Permite a plataformas de streaming asociadas integrar su catálogo, promocionar contenido y visualizar métricas sobre tendencias y preferencias.</td>
+  </tr>
+  <tr>
+    <td>EPIC-10</td>
+    <td>Análisis de Datos para Socios</td>
+    <td>Proporciona a librerías y plataformas aliadas reportes analíticos sobre tendencias de consumo, popularidad de contenidos y perfiles de usuarios.</td>
+  </tr>
+  <tr>
+    <td>EPIC-11</td>
+    <td>Gestión de Comunidad</td>
+    <td>Permite a los usuarios interactuar entre sí mediante comentarios, seguidores, listas compartidas y actividades según afinidades culturales.</td>
+  </tr>
+  <tr>
+    <td>EPIC-12</td>
+    <td>Notificaciones y Recordatorios</td>
+    <td>Envía alertas sobre recomendaciones, respuestas a reseñas, eventos de librerías o lanzamientos próximos relacionados con los intereses del usuario.</td>
+  </tr>
+  <tr>
+    <td>EPIC-13</td>
+    <td>Gestión de Colaboraciones</td>
+    <td>Facilita la integración y gestión de acuerdos con librerías y plataformas de streaming, definiendo términos de colaboración y beneficios mutuos.</td>
+  </tr>
+</tbody>
 </table>
 
 ### User Stories
@@ -757,9 +792,6 @@ Cuando intento recuperar la contraseña,
 Entonces el sistema debe mostrar un mensaje indicando que no se ha encontrado una cuenta asociada con ese correo.
             </td>
             <td>EP01</td>
-        </td>
-            <td>EP00</td>
-        </tr>
         <tr>
             <td>US-11</td>
             <td>Ver análisis de libros mejor valorados </td>
