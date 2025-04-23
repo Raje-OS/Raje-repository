@@ -303,11 +303,33 @@ sobre contenido audiovisual y literario, sino también leer las críticas de otr
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
+Hoy en día, millones de personas buscan recomendaciones auténticas sobre libros, películas y series antes de decidir qué consumir. Sin embargo, las plataformas actuales están llenas de filtros, políticas de moderación o algoritmos que limitan la libertad de expresión. Esto impide que los usuarios compartan opiniones sinceras y que descubran contenido relevante basado en experiencias reales.
+
+Además, muchos consumidores se sienten frustrados porque no pueden dejar reseñas completas ni recibir sugerencias personalizadas que realmente se ajusten a sus gustos. La ausencia de perfiles, historial de reseñas o interacción entre usuarios reduce la calidad de la experiencia.
+
+Del lado de los creadores o distribuidores de contenido, como dueños de librerías o plataformas de streaming, también hay una brecha. No cuentan con herramientas para conectar directamente con su audiencia a través de opiniones genuinas, ni aprovechar esa data para mejorar sus recomendaciones o promociones.
 
 #### 1.2.2.2. Lean UX Assumptions
 
+##### Opiniones auténticas tienen valor
+Los usuarios valoran más una opinión real, aunque sea crítica, que una reseña genérica o influenciada por intereses comerciales. Quieren sentirse parte de una comunidad donde puedan expresarse con libertad y conocer lo que piensan otros usuarios parecidos a ellos.
+
+##### Simplicidad y personalización en la experiencia
+Los usuarios desean una plataforma que les permita explorar contenido fácilmente, con recomendaciones ajustadas a sus gustos reales. Si tienen un perfil personal donde pueden ver sus opiniones, calificaciones y descubrimientos, se sentirán más identificados con la plataforma y volverán con más frecuencia.
+
+##### Integración con librerías y plataformas
+Dueños de librerías y administradores de plataformas de streaming están interesados en conocer las opiniones reales de los usuarios. Si pueden acceder a esta información de manera organizada y con análisis útiles, podrán adaptar su oferta y conectar mejor con sus públicos objetivos.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+##### Opinión libre y sin censura
+Creemos que si brindamos a los usuarios un espacio donde puedan publicar sus opiniones sin censura, se generará un mayor sentido de pertenencia y autenticidad. Esto podría incrementar en un 20 % el número de reseñas activas por usuario al mes, medido a través de su historial de participación.
+
+##### Perfil personalizado con historial
+Creemos que si cada usuario puede tener un perfil que almacene sus opiniones, calificaciones y el contenido que ha consumido, se fortalecerá el compromiso con la plataforma. Esto se reflejará en un aumento del 25 % en visitas recurrentes por usuario, medido por sesiones activas semanales.
+
+##### Valor para negocios y creadores de contenido
+Creemos que si los dueños de librerías y plataformas de streaming tienen acceso a análisis de tendencias y opiniones, podrán adaptar mejor su catálogo y promociones. Esto se medirá por la tasa de participación de estos actores en la plataforma y el número de colaboraciones activas generadas.
 #### 1.2.2.4. Lean UX Canvas
 
 ### 1.3. Segmentos objetivos
