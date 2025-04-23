@@ -595,15 +595,221 @@ usuarios encontrar nuevas películas y series según sus intereses?
 <img src="Report_Assets/Lucas Castro.png" alt="User Persona 1" width="1000" height="1000"/>
 <img src="Report_Assets/Raúl Torres .png" alt="User Persona 2" width="1000" height="1000"/>
 <img src="Report_Assets/Camila Herrera.png" alt="User Persona 3" width="1000" height="1000"/>
+
 ### 2.3.2. User Task Matrix
+
 ### 2.3.3. User Journey Mapping
+
 ### 2.3.4. Empathy Mapping
+
 ### 2.3.5. As-is Scenario Mapping
+#### As Is – Lucas Castro
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Etapa</th>
+      <th>Acciones</th>
+      <th>Pensamientos</th>
+      <th>Sentimientos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Buscar qué ver o leer</td>
+      <td>Navega entre múltiples plataformas o redes sociales</td>
+      <td>“¿Qué puedo ver hoy que realmente me guste?”</td>
+      <td>Frustración, indecisión</td>
+    </tr>
+    <tr>
+      <td>Leer opiniones</td>
+      <td>Revisa reseñas filtradas en plataformas o redes</td>
+      <td>“¿Esto es real o está influenciado por publicidad?”</td>
+      <td>Desconfianza</td>
+    </tr>
+    <tr>
+      <td>Escribir reseñas</td>
+      <td>No encuentra un espacio claro para expresarse</td>
+      <td>“Mi opinión no tiene espacio aquí.”</td>
+      <td>Desmotivación</td>
+    </tr>
+    <tr>
+      <td>Recibir recomendaciones</td>
+      <td>Recibe sugerencias genéricas o repetitivas</td>
+      <td>“Esto no tiene nada que ver conmigo.”</td>
+      <td>Insatisfacción</td>
+    </tr>
+  </tbody>
+</table>
+
+#### As Is – Raúl Torres
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Etapa</th>
+      <th>Acciones</th>
+      <th>Pensamientos</th>
+      <th>Sentimientos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Promocionar libros</td>
+      <td>Usa Facebook o WhatsApp para dar visibilidad</td>
+      <td>“No sé si estoy alcanzando al público correcto.”</td>
+      <td>Incertidumbre</td>
+    </tr>
+    <tr>
+      <td>Conocer intereses del público</td>
+      <td>Se basa en intuición o conversación directa</td>
+      <td>“Podría recomendar mejor si supiera qué buscan.”</td>
+      <td>Limitado, curioso</td>
+    </tr>
+    <tr>
+      <td>Recibir retroalimentación</td>
+      <td>Escucha comentarios ocasionales</td>
+      <td>“Ojalá más gente me dijera qué piensa.”</td>
+      <td>Desconectado</td>
+    </tr>
+  </tbody>
+</table>
+
+#### As Is – Camila Herrera</h3>
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Etapa</th>
+      <th>Acciones</th>
+      <th>Pensamientos</th>
+      <th>Sentimientos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Evaluar contenido</td>
+      <td>Revisa métricas de reproducción y likes</td>
+      <td>“Esto me dice qué ven, pero no qué sienten.”</td>
+      <td>Incompleto</td>
+    </tr>
+    <tr>
+      <td>Recibir feedback</td>
+      <td>Depende de encuestas o redes sociales</td>
+      <td>“Necesito algo más directo y específico.”</td>
+      <td>Frustración</td>
+    </tr>
+    <tr>
+      <td>Ajustar catálogo</td>
+      <td>Toma decisiones con datos limitados</td>
+      <td>“Estoy adivinando más que acertando.”</td>
+      <td>Riesgo, duda</td>
+    </tr>
+  </tbody>
+</table>
 ## 2.4. Ubiquitous Language
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+#### To Be – Lucas Castro
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Etapa</th>
+      <th>Acciones</th>
+      <th>Pensamientos</th>
+      <th>Sentimientos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Buscar qué ver o leer</td>
+      <td>Usa Raje para ver contenido relacionado con sus gustos</td>
+      <td>“¡Esto suena justo a lo que estaba buscando!”</td>
+      <td>Entusiasmo, descubrimiento</td>
+    </tr>
+    <tr>
+      <td>Leer opiniones</td>
+      <td>Lee reseñas reales, sin censura</td>
+      <td>“Confío en esta reseña, me ayuda a decidir.”</td>
+      <td>Seguridad, confianza</td>
+    </tr>
+    <tr>
+      <td>Escribir reseñas</td>
+      <td>Publica libremente en su perfil</td>
+      <td>“Puedo decir exactamente lo que pienso.”</td>
+      <td>Empoderamiento</td>
+    </tr>
+    <tr>
+      <td>Recibir recomendaciones</td>
+      <td>Obtiene sugerencias personalizadas</td>
+      <td>“¡Esta app realmente me entiende!”</td>
+      <td>Satisfacción, fidelidad</td>
+    </tr>
+  </tbody>
+</table>
 
+#### To Be – Raúl Torres
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Etapa</th>
+      <th>Acciones</th>
+      <th>Pensamientos</th>
+      <th>Sentimientos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Promocionar libros</td>
+      <td>Publica los más valorados en Raje</td>
+      <td>“Puedo destacar justo lo que está gustando más.”</td>
+      <td>Confianza, control</td>
+    </tr>
+    <tr>
+      <td>Conocer intereses del público</td>
+      <td>Consulta tendencias en Raje</td>
+      <td>“Ahora sé qué libros buscan mis lectores.”</td>
+      <td>Enlace con su comunidad</td>
+    </tr>
+    <tr>
+      <td>Recibir retroalimentación</td>
+      <td>Lee reseñas sobre los libros que vende</td>
+      <td>“Esto me ayuda a mejorar mi catálogo.”</td>
+      <td>Participación, conexión</td>
+    </tr>
+  </tbody>
+</table>
+
+#### To Be – Camila Herrera
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Etapa</th>
+      <th>Acciones</th>
+      <th>Pensamientos</th>
+      <th>Sentimientos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Evaluar contenido</td>
+      <td>Accede a análisis cualitativo desde Raje</td>
+      <td>“Ahora sé por qué ciertos títulos impactan más.”</td>
+      <td>Claridad, enfoque</td>
+    </tr>
+    <tr>
+      <td>Recibir feedback</td>
+      <td>Visualiza reseñas auténticas</td>
+      <td>“Esto me permite entender mejor al usuario final.”</td>
+      <td>Precisión, estrategia</td>
+    </tr>
+    <tr>
+      <td>Ajustar catálogo</td>
+      <td>Aplica mejoras basadas en opiniones</td>
+      <td>“Mis decisiones están alineadas con lo que importa.”</td>
+      <td>Seguridad, confianza</td>
+    </tr>
+  </tbody>
+</table>
 ## 3.2. User Stories
 
 ### Epics
