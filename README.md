@@ -757,62 +757,120 @@ Cuando intento recuperar la contraseña,
 Entonces el sistema debe mostrar un mensaje indicando que no se ha encontrado una cuenta asociada con ese correo.
             </td>
             <td>EP01</td>
-        </tr>
-        <tr>
-            <td>US-09</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>US-10</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+        </td>
+            <td>EP00</td>
         </tr>
         <tr>
             <td>US-11</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Ver análisis de libros mejor valorados </td>
+            <td>Como dueño de librería, quiero poder ver un análisis de los libros con mejor valoración y reseñas en la plataforma, para poder hacer promociones basadas en estas valoraciones. ​</td>
+            <td>Escenario 1: Acceso al top de libros valorados
+Dado que soy un dueño de librería autenticado
+Cuando ingreso al dashboard
+Entonces veo una tabla con los 10 libros más valorados y reseñados
+Escenario 2: Filtro por género
+Dado que estoy en el panel de librería
+Cuando selecciono el género “Mangas”
+Entonces la lista se actualiza con los mejores libros valorados de ese género
+Escenario 3: Filtro por género inexistente
+Dado que estoy en el panel de librería
+Cuando selecciono un genero inexistente
+Entonces el sistema muestra un mensaje: “Genero no existente”
+</td>
+            <td>EP00</td>
         </tr>
         <tr>
             <td>US-12</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Analizar opiniones de usuarios </td>
+            <td>Como administrador de plataforma de streaming, quiero analizar las opiniones de los usuarios sobre mi contenido, para ajustar mi catálogo y ofrecer mejores opciones que se alineen con sus preferencias. ​</td>
+            <td>Escenario 1: Métricas generales por contenido
+Dado que soy administrador de plataforma
+Cuando accedo al panel de análisis
+Entonces veo calificación promedio 
+Escenario 2: Filtro por fecha
+Dado que quiero analizar los últimos 30 días
+Cuando aplico un filtro de fecha
+Entonces el panel muestra solo métricas del rango indicado
+Escenario 3: Filtro por género
+Dado que administro contenido de múltiples géneros
+Cuando selecciono “Drama”
+Entonces el sistema actualiza las métricas solo con contenido etiquetado como drama
+</td>
+            <td>EP00</td>
         </tr>
         <tr>
             <td>US-13</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Ver perfil de autor o actores</td>
+            <td>Como usuario, quiero poder ver la biografía y datos de un autor o actor (nombre, biografía, fecha de nacimiento, etc.), para conocer más sobre sus trabajos. ​</td>
+            <td>Escenario 1: Registro exitoso
+Dado que soy un nuevo usuario
+Cuando completo el formulario de registro
+Entonces el sistema crea mi cuenta y me redirige al perfil
+Escenario 2: Inicio de sesión válido
+Dado que ya tengo una cuenta
+Cuando ingreso mis credenciales correctamente
+Entonces accedo a mi perfil y funciones completas
+Escenario 3: Error en inicio de sesión
+Dado que escribo mal mi contraseña
+Cuando intento iniciar sesión
+Entonces el sistema muestra un mensaje de error y permite reintentar
+</td>
+            <td>EP00</td>
         </tr>
         <tr>
             <td>US-14</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Consultar elenco de película/serie </td>
+            <td>Como usuario, quiero ver el listado de actores y sus roles en una película o serie, para tener contexto sobre el reparto. ​</td>
+            <td>Escenario 1: Visualización básica de reparto
+Dado que estoy en una ficha de serie
+Cuando despliego la sección “Elenco”
+Entonces aparece una lista con los actores y sus roles
+Escenario 2: Acceso a perfil desde reparto
+Dado que veo a un actor en el elenco
+Cuando hago clic en su nombre
+Entonces accedo a su perfil detallado
+Escenario 3: Mostrar número de episodios
+Dado que es una serie con múltiples temporadas
+Cuando consulto el elenco
+Entonces cada actor muestra en cuántos episodios ha participado</td>
+            <td>EP00</td>
         </tr>
         <tr>
             <td>US-15</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
+            <td>Gestionar suscripciones a plataformas </td>
+            <td>Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil, para que la plataforma sepa dónde busco contenido. ​</td>
+            <td>Escenario 1: Agregar plataforma
+Dado que estoy en “Plataformas suscritas”
+Cuando selecciono “Netflix” y guardo
+Entonces aparece en mi lista de suscripciones y se usa para filtrar disponibilidad
+Escenario 2: Eliminar plataforma
+Dado que ya no uso una plataforma
+Cuando la desmarco y guardo
+Entonces desaparece de mi perfil y afecta mis recomendaciones
+Escenario 3: Ver contenido solo en mis plataformas  
+Dado que tengo varias suscripciones activas
+Cuando activo el filtro “Solo mis plataformas”
+Entonces solo se muestran contenidos disponibles en esas
+</td>
         <tr>
             <td>US-16</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Marcar contenido como favorito </td>
+            <td>Como consumidor de contenido multimedia, quiero poder marcar una película, serie o libro como favorito, ztener un acceso rápido a mi contenido preferido. </td>
+            <td>Escenario 1: Añadir a favoritos
+Dado que estoy viendo una serie
+Cuando pulso el ícono de estrella
+Entonces se añade a mi lista de favoritos y el ícono cambia a relleno
+Escenario 2: Eliminar de favoritos
+Dado que un contenido ya es favorito
+Cuando lo desmarco
+Entonces se elimina de la lista de favoritos
+Escenario 3: Visual feedback
+Dado que hago clic en el icono
+Cuando se registra la acción
+Entonces veo una notificación “Agregado a favoritos” o “Eliminado de favoritos”
+
+</td>
+            <td>EP00</td>
         <tr>
             <td>US-17</td>
             <td></td>
