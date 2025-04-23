@@ -333,7 +333,111 @@ visibilidad y engagement de su contenido.
 
 ### 2.1.1. Análisis competitivo
 
-fotooo
+<table>
+  <thead>
+    <tr>
+      <th>Nombre / Categoría</th>
+      <th>Raje</th>
+      <th>Letterboxd</th>
+      <th>Goodreads</th>
+      <th>Taste.io</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Overview</strong></td>
+      <td>Plataforma que permite opinar libremente y sin censura sobre películas, libros y series.</td>
+      <td>Red social centrada en reseñas y listas de películas.</td>
+      <td>Comunidad centrada en la literatura con reseñas y ratings.</td>
+      <td>Motor de recomendación de películas y series con IA.</td>
+    </tr>
+    <tr>
+      <td><strong>Ventaja competitiva / Valor ofrecido</strong></td>
+      <td>Opiniones sin censura + integración de libros, series y películas + conexión con plataformas externas.</td>
+      <td>Comunidad cinéfila activa y herramientas visuales (listas, diarios).</td>
+      <td>Comunidad extensa de lectores + estadísticas y seguimiento de lecturas.</td>
+      <td>Recomendaciones 100% personalizadas basadas en gustos y emociones.</td>
+    </tr>
+    <tr>
+      <td><strong>Mercado objetivo</strong></td>
+      <td>Jóvenes adultos con fuerte opinión cultural; lectores y cinéfilos activos.</td>
+      <td>Cinéfilos de todas las edades que desean compartir y explorar críticas.</td>
+      <td>Lectores frecuentes y amantes de los libros.</td>
+      <td>Espectadores que buscan contenido afín a sus emociones o estados de ánimo.</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias de marketing</strong></td>
+      <td>Enfoque en libertad de expresión, conexión con librerías y alianzas con plataformas de streaming.</td>
+      <td>Marketing de boca a boca + fuerte presencia en festivales de cine.</td>
+      <td>Alianzas con editoriales y recomendaciones internas.</td>
+      <td>Publicidad por influencers, segmentación emocional y experiencia personalizada.</td>
+    </tr>
+    <tr>
+      <td><strong>Productos &amp; Servicios</strong></td>
+      <td>Reseñas libres, rankings, perfiles personalizados, recomendaciones, conexión con plataformas externas.</td>
+      <td>Reseñas, rankings, creación de listas, diarios de películas.</td>
+      <td>Reseñas, seguimiento de lecturas, retos de lectura anuales.</td>
+      <td>Recomendador inteligente, exploración visual basada en sentimientos y géneros.</td>
+    </tr>
+    <tr>
+      <td><strong>Precios &amp; Costos</strong></td>
+      <td>Gratuito, con potencial modelo freemium para funciones avanzadas o sin anuncios.</td>
+      <td>Gratuito, versión Pro con estadísticas extra.</td>
+      <td>Gratuito.</td>
+      <td>Gratuito con modelo de monetización por afiliaciones.</td>
+    </tr>
+    <tr>
+      <td><strong>Canales de distribución</strong></td>
+      <td>Aplicación móvil y versión web (en desarrollo).</td>
+      <td>Web y app móvil.</td>
+      <td>Web y app móvil.</td>
+      <td>Web y app móvil.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Categoría</th>
+      <th>Raje</th>
+      <th>Letterboxd</th>
+      <th>Goodreads</th>
+      <th>Taste.io</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Fortalezas</strong></td>
+      <td>Opiniones sin filtros, integración multimedia, perfil personal, enfoque en libertad de expresión.</td>
+      <td>Comunidad activa, diseño visual atractivo, enfoque exclusivo en cine.</td>
+      <td>Amplia base de datos, comunidad activa de lectores.</td>
+      <td>IA personalizada, UI intuitiva, enfoque emocional.</td>
+    </tr>
+    <tr>
+      <td><strong>Debilidades</strong></td>
+      <td>Plataforma nueva, poca base de usuarios inicial, dependencia de alianzas.</td>
+      <td>Limitado a cine, sin integración con libros o series.</td>
+      <td>Interfaz anticuada, limitado a libros, baja personalización.</td>
+      <td>Recomendaciones aún limitadas, sin comunidad activa visible.</td>
+    </tr>
+    <tr>
+      <td><strong>Oportunidades</strong></td>
+      <td>Alianzas con librerías y plataformas de streaming, adopción por nichos que valoran lo auténtico.</td>
+      <td>Integrarse con otras formas de contenido como series o libros.</td>
+      <td>Modernizar interfaz, integrar audio o video reseñas.</td>
+      <td>Crecer en LATAM o con usuarios no tradicionales.</td>
+    </tr>
+    <tr>
+      <td><strong>Amenazas</strong></td>
+      <td>Regulaciones sobre libertad de expresión, competencia con plataformas establecidas.</td>
+      <td>Nuevas apps con más funcionalidades o libertad de expresión.</td>
+      <td>Pérdida de usuarios por falta de innovación.</td>
+      <td>Competencia fuerte de algoritmos en plataformas como Netflix.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 footoooooooo
 ## 2.2. Entrevistas
