@@ -852,6 +852,7 @@ Dado que tengo varias suscripciones activas
 Cuando activo el filtro “Solo mis plataformas”
 Entonces solo se muestran contenidos disponibles en esas
 </td>
+          <td>EP00</td>
         <tr>
             <td>US-16</td>
             <td>Marcar contenido como favorito </td>
@@ -873,13 +874,120 @@ Entonces veo una notificación “Agregado a favoritos” o “Eliminado de favo
             <td>EP00</td>
         <tr>
             <td>US-17</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Listar mis favoritos </td>
+            <td>Como consumidor de contenido multimedia, quiero ver en mi perfil una sección “Favoritos” con todas las obras que marqué, para acceder rápidamente a ellas. </td>
+            <td>Escenario 1: Acceso a favoritos
+Dado que tengo contenidos marcados
+Cuando voy a “Favoritos” desde mi perfil
+Entonces veo una lista con portadas, títulos y calificaciones
+Escenario 2: Lista vacía
+Dado que aún no he agregado favoritos
+Cuando ingreso a la sección
+Entonces el sistema muestra un mensaje motivando a marcar contenido como favorito
+Escenario 3: Navegación desde favoritos
+Dado que estoy en la lista
+Cuando hago clic en una obra
+Entonces soy redirigido a la ficha completa de ese contenido</td>
+            <td>EP00</td>
         </tr>
         <tr>
             <td>US-18</td>
+            <td>Feed de contenido trending </td>
+            <td>Como usuario, quiero ver un feed de “Tendencias” con contenidos más reseñados y mejor valorados en la última semana, para descubrir lo más popular. </td>
+            <td>Escenario 1: Cargar contenido popular
+Dado que ingreso a la sección “Tendencias”
+Cuando la página se carga
+Entonces veo el top de contenidos más reseñados y valorados esta semana
+Escenario 2: Tendencias sin reseñas
+Dado que no hay reseñas recientes
+Cuando accedo al feed
+Entonces el sistema muestra un mensaje: “Aún no hay tendencias disponibles”
+Escenario 3: Acceso desde la home
+Dado que estoy en la pantalla principal
+Cuando hago clic en “Ver más” bajo “Tendencias”
+Entonces se abre la sección completa con más recomendaciones populares</td>
+            <td>EP00</td>
+        </tr>
+        </tr>
+        <tr>
+            <td>US-19</td>
+            <td>Ver trailers y portadas </td>
+            <td>Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie dentro de la ficha de contenido, para tener un adelanto visual antes de consumirla. </td>
+            <td>Dado que estoy en la ficha de una película
+Cuando cargo la sección “Multimedia”
+Entonces se muestra el tráiler en un reproductor de video embebido
+Escenario 2: Imagen de portada cargada correctamente
+Dado que consulto la página de una serie
+Cuando accedo a la sección de contenido
+Entonces aparece la imagen oficial de portada en alta resolución
+Escenario 3: Multimedia no disponible
+Dado que el contenido no tiene tráiler cargado
+Cuando accedo a la sección “Multimedia”
+Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”</td>
+            <td>EP00</td>
+        </tr>
+        </tr>
+        <tr>
+            <td>US-20</td>
+            <td>Marcar contenido como “Visto” </td>
+            <td>Como usuario, quiero marcar manualmente una película, serie o libro como “Visto/Leído”, para mantener mi historial actualizado. ​</td>
+            <td>Escenario 1: Marcar manualmente como visto
+Dado que he terminado de ver una serie
+Cuando entro a su ficha y pulso “Marcar como visto”
+Entonces se guarda en mi historial y el botón cambia a “Visto”
+Escenario 2: Evitar recomendaciones repetidas
+Dado que he marcado varios contenidos como vistos
+Cuando se generan nuevas recomendaciones
+Entonces no incluyen contenido ya visto
+Escenario 3: Desmarcar un contenido visto
+Dado que marqué por error una película como vista
+Cuando entro a su ficha y desactivo el estado
+Entonces se elimina del historial y vuelve a estar disponible para recomendaciones
+</td>
+            <td>EP00</td>
+        </tr>
+        </tr>
+        <tr>
+            <td>US-21</td>
+            <td>Recordar próxima fecha de estreno </td>
+            <td>Como usuario, quiero recibir un recordatorio antes del estreno de una película o temporada de serie que me interesa, para agendarme con anticipación.</td>
+            <td>Escenario 1: Crear recordatorio para contenido próximo
+Dado que estoy en la ficha de una película próxima a estrenarse
+Cuando activo “Recordarme” y selecciono un día antes
+Entonces recibo una notificación por email en la fecha elegida
+Escenario 2: Notificación en la app
+Dado que activé un recordatorio
+Cuando abro la app el día del estreno
+Entonces veo una alerta dentro de la plataforma avisándome del estreno
+Escenario 3: Edición o cancelación del recordatorio
+Dado que ya configuré un aviso
+Cuando ingreso a la configuración de recordatorios
+Entonces puedo modificar la fecha o cancelar el recordatorio</td>
+            <td>EP00</td>
+        </tr>
+        </tr>
+        <tr>
+            <td>US-22</td>
+            <td>Bloquear usuario </td>
+            <td>Como usuario, quiero bloquear a otro usuario cuyas reseñas o mensajes me resulten molestos, para no seguir viendo su actividad. ​</td>
+            <td>Escenario 1: Bloquear desde perfil
+Dado que estoy viendo el perfil de otro usuario
+Cuando hago clic en “Bloquear” y confirmo
+Entonces sus publicaciones dejan de mostrarse en mi feed y no puede escribirme
+Escenario 2: Ver listado de usuarios bloqueados
+Dado que he bloqueado a varios usuarios
+Cuando accedo a configuración de privacidad
+Entonces veo la lista completa con opción de desbloquear
+Escenario 3: Intento de interacción bloqueada
+Dado que un usuario está bloqueado por mí
+Cuando intenta comentar una de mis reseñas
+Entonces el sistema impide la acción y le muestra un mensaje: “No puedes interactuar con este usuario”
+</td>
+            <td>EP00</td>
+        </tr>
+        </tr>
+        <tr>
+            <td>US-23</td>
             <td></td>
             <td></td>
             <td></td>
