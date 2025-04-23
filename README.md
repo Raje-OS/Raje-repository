@@ -344,97 +344,90 @@ visibilidad y engagement de su contenido.
     </tr>
   </thead>
   <tbody>
-    <!-- Sección: Perfil -->
     <tr>
-      <td colspan="5" style="background-color:#f0f0f0;"><strong>Perfil</strong></td>
+      <td colspan="5"><strong>Perfil</strong></td>
     </tr>
     <tr>
-      <td><strong>Overview</strong></td>
+      <td>Overview</td>
       <td>Plataforma que permite opinar libremente y sin censura sobre películas, libros y series.</td>
       <td>Red social centrada en reseñas y listas de películas.</td>
       <td>Comunidad centrada en la literatura con reseñas y ratings.</td>
       <td>Motor de recomendación de películas y series con IA.</td>
     </tr>
     <tr>
-      <td><strong>Mercado objetivo</strong></td>
+      <td>Mercado objetivo</td>
       <td>Jóvenes adultos con fuerte opinión cultural; lectores y cinéfilos activos.</td>
       <td>Cinéfilos de todas las edades que desean compartir y explorar críticas.</td>
       <td>Lectores frecuentes y amantes de los libros.</td>
       <td>Espectadores que buscan contenido afín a sus emociones o estados de ánimo.</td>
     </tr>
-
-    <!-- Sección: Marketing -->
     <tr>
-      <td colspan="5" style="background-color:#f0f0f0;"><strong>Estrategia de Marketing</strong></td>
+      <td colspan="5"><strong>Estrategia de marketing</strong></td>
     </tr>
     <tr>
-      <td><strong>Estrategias de marketing</strong></td>
+      <td>Estrategias de marketing</td>
       <td>Libertad de expresión, alianzas con librerías y plataformas de streaming.</td>
       <td>Marketing de boca a boca y presencia en festivales de cine.</td>
       <td>Alianzas con editoriales y recomendaciones internas.</td>
       <td>Influencers, enfoque emocional, experiencia personalizada.</td>
     </tr>
-
-    <!-- Sección: Producto -->
     <tr>
-      <td colspan="5" style="background-color:#f0f0f0;"><strong>Producto</strong></td>
+      <td colspan="5"><strong>Producto</strong></td>
     </tr>
     <tr>
-      <td><strong>Valor ofrecido</strong></td>
+      <td>Valor ofrecido</td>
       <td>Opiniones sin censura, integración de libros, películas y series.</td>
       <td>Herramientas visuales y comunidad activa.</td>
       <td>Estadísticas de lectura y comunidad de lectores.</td>
       <td>Recomendaciones basadas en emociones y gustos.</td>
     </tr>
     <tr>
-      <td><strong>Productos &amp; Servicios</strong></td>
+      <td>Productos y servicios</td>
       <td>Reseñas libres, rankings, perfiles personalizados, recomendaciones.</td>
       <td>Reseñas, listas, diarios de películas.</td>
       <td>Reseñas, retos de lectura, seguimiento de libros.</td>
       <td>Exploración visual, motor inteligente de recomendaciones.</td>
     </tr>
     <tr>
-      <td><strong>Precios &amp; Costos</strong></td>
+      <td>Precios y costos</td>
       <td>Gratuito, con posible modelo freemium.</td>
       <td>Gratuito, versión Pro con estadísticas.</td>
       <td>Gratuito.</td>
       <td>Gratuito con monetización por afiliaciones.</td>
     </tr>
     <tr>
-      <td><strong>Canales de distribución</strong></td>
+      <td>Canales de distribución</td>
       <td>Aplicación móvil y web (en desarrollo).</td>
       <td>Web y app móvil.</td>
       <td>Web y app móvil.</td>
       <td>Web y app móvil.</td>
     </tr>
-
-    <!-- Sección: Análisis SWOT -->
     <tr>
-      <td colspan="5" style="background-color:#f0f0f0;"><strong>Análisis SWOT</strong></td>
+      <td colspan="5"><strong>Análisis SWOT</strong></td>
     </tr>
     <tr>
-      <td><strong>Fortalezas</strong></td>
+      <td>Fortalezas</td>
       <td>Opiniones sin filtros, integración multimedia, perfil personal.</td>
       <td>Comunidad activa, enfoque exclusivo en cine.</td>
       <td>Base de datos amplia, comunidad de lectores.</td>
       <td>IA personalizada, interfaz intuitiva.</td>
     </tr>
     <tr>
-      <td><strong>Debilidades</strong></td>
+      <td>Debilidades</td>
       <td>Base de usuarios nueva, dependencia de alianzas.</td>
       <td>Limitado a cine.</td>
       <td>Interfaz anticuada, baja personalización.</td>
       <td>Sin comunidad visible, funciones limitadas.</td>
     </tr>
     <tr>
-      <td><strong>Oportunidades</strong></td>
+      <td>Oportunidades</td>
       <td>Alianzas con librerías y plataformas, adopción por nichos.</td>
       <td>Expandirse a otros formatos como series o libros.</td>
       <td>Integrar multimedia, mejorar experiencia visual.</td>
       <td>Expansión en LATAM, personalización avanzada.</td>
     </tr>
     <tr>
-      <td><strong>Amenazas</strong></td>
+      <td>Amenazas</td>
       <td>Restricciones a la libertad de expresión, competencia consolidada.</td>
       <td>Nuevas apps con más libertad o funciones.</td>
       <td>Pérdida de usuarios por falta de innovación.</td>
@@ -442,7 +435,6 @@ visibilidad y engagement de su contenido.
     </tr>
   </tbody>
 </table>
-
 
 
 footoooooooo
