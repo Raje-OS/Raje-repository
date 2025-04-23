@@ -331,7 +331,7 @@ Creemos que si cada usuario puede tener un perfil que almacene sus opiniones, ca
 ##### Valor para negocios y creadores de contenido
 Creemos que si los dueños de librerías y plataformas de streaming tienen acceso a análisis de tendencias y opiniones, podrán adaptar mejor su catálogo y promociones. Esto se medirá por la tasa de participación de estos actores en la plataforma y el número de colaboraciones activas generadas.
 #### 1.2.2.4. Lean UX Canvas
-
+![LeanUxCanvas](Report_Assets/LeanUxCanvas.PNG)
 ### 1.3. Segmentos objetivos
 
 1. Consumidores de contenido multimedia 
