@@ -516,9 +516,9 @@ contenido que ofreces?
 usuarios encontrar nuevas películas y series según sus intereses?
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-<img src="Report_Assets/Lucas Castro.png" alt="User Persona 1" width="100"/>
-<img src="Report_Assets/Raúl Torres .png" alt="User Persona 2" width="100"/>
-<img src="Report_Assets/Camila Herrera.png" alt="User Persona 3" width="100"/>
+<img src="Report_Assets/Lucas Castro.png" alt="User Persona 1" width="1000" height="1000"/>
+<img src="Report_Assets/Raúl Torres .png" alt="User Persona 2" width="1000" height="1000"/>
+<img src="Report_Assets/Camila Herrera.png" alt="User Persona 3" width="1000" height="1000"/>
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
