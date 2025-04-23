@@ -150,11 +150,11 @@ Sarmiento Medina Loreley U202310005<br>
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-### Capítulo I: Introducción
+# Capítulo I: Introducción
 
 ## 1.1. Startup Profile
 
-# 1.1.1. Descripción de la Startup
+### 1.1.1. Descripción de la Startup
 
 Caleta Innovations es una startup enfocada en revolucionar la forma en que las personas expresan sus opiniones y acceden
 a contenido literario y audiovisual. En Caleta Innovations, valoramos la libertad de expresión y creemos en la
@@ -170,7 +170,7 @@ el motor de una comunidad vibrante y dinámica. Aspiramos a ser la referencia gl
 sus perspectivas de manera genuina, enriqueciendo el acceso a contenido diverso y creando un espacio donde cada voz
 tiene un impacto real y duradero.
 
-# 1.1.2. Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de integrantes del equipo
 
 <table>
   <thead>
@@ -181,11 +181,11 @@ tiene un impacto real y duradero.
   </thead>
   <tbody>
     <tr>
-      <td></td>
+      <td><img src="Report_Assets/integrante1.png" alt="Integrante 1" width="100"/></td>
       <td></td>
     </tr>
     <tr>
-      <td> HOLA </td>
+       <td><img src="Report_Assets/integrante2.png" alt="Integrante 2" width="100"/></td>
       <td> Jose Mateo Cabanillas Meza
         - Ingeniería de Software-u202311458 
  
@@ -204,17 +204,17 @@ la colaboración para lograr resultados
 excepcionales. </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
+      <td><img src="Report_Assets/integrante3.png" alt="Integrante 3" width="100"/></td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="Report_Assets/integrante4.png" alt="Integrante 4" width="100"/></td>
       <td></td>
     </tr>
+     <tr>
+    <td><img src="Report_Assets/integrante5.png" alt="Integrante 5" width="100"/></td>
+    <td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la       información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto</td>
+  </tr>
   </tbody>
 </table>
 
@@ -231,7 +231,7 @@ consumido, directamente en su perfil. Con un enfoque en la autenticidad, Raje re
 manera en que las personas interactúan con el entretenimiento, fomentando una comunidad 
 dinámica y vibrante donde cada voz cuenta. 
 
-# 1.2.1. Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 
 <table>
 
@@ -300,21 +300,84 @@ sobre contenido audiovisual y literario, sino también leer las críticas de otr
   </tbody>
 </table>
 
+### 1.2.2. Lean UX Process
 
-### Capítulo II: Requirements Elicitation & Analysis
-####2.1. Competidores
+#### 1.2.2.1. Lean UX Problem Statements
 
-**Marketplace de Facebook:** Es la opción más usada para comprar y vender ropa usada en Perú. Es gratuito, tiene gran
-alcance, pero no está especializado en moda y carece de filtros adecuados.
+#### 1.2.2.2. Lean UX Assumptions
 
-**Instagram:** Muchas tiendas independientes venden ropa vintage o de segunda mano a través de Instagram, con una
-estética cuidada y fuerte conexión con su audiencia.
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
-# 2.1.1. Análisis competitivo
+#### 1.2.2.4. Lean UX Canvas
+
+### 1.3. Segmentos objetivos
+
+1. Consumidores de contenido multimedia 
+Este segmento incluye a personas apasionadas por películas, libros, series que buscan un 
+espacio para compartir opiniones auténticas y recibir recomendaciones personalizadas en Raje.
+
+2. Dueños de Librerías 
+Los dueños de librerías pueden conectar con lectores apasionados a través de Raje, 
+promocionando sus libros en función de reseñas y calificaciones, y ofreciendo lanzamientos y 
+eventos alineados con los intereses de los usuarios.
+
+3. Plataformas de Streaming 
+Las plataformas de streaming pueden usar Raje para analizar tendencias, ajustar su catálogo y 
+recomendar contenido a usuarios que buscan nuevas películas y series, maximizando la 
+visibilidad y engagement de su contenido.
+
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+
+
+
+### 2.1.1. Análisis competitivo
 
 fotooo
 
 footoooooooo
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+-Preguntas para consumidores de contenido multimedia 
+1. ¿A menudo disfrutas de alguna serie,película o libro?
+2. ¿Qué criterios utilizas al elegir qué contenido consumir?
+3. ¿Sueles leer opiniones o reseñas antes de ver una película, serie o leer un libro? 
+4. ¿Cómo descubres nuevas películas, series o libros? 
+5. ¿Con qué frecuencia dejas opiniones o reseñas sobre el contenido que consumes? Si es 
+así, ¿qué te motiva a hacerlo? 
+6. ¿Usualmente usas plataformas para dejar reseñas o donde sueles dejar tu opinión? 
+7. ¿Qué importancia le das a las opiniones de otros usuarios antes de elegir qué contenido 
+consumir? 
+8. ¿Te gustaría que las recomendaciones de películas, series o libros se ajusten más a tus 
+gustos? Si es asi, como? 
+9. ¿Qué aspectos no te han convencido o crees que deberían mejorarse en una plataforma 
+que permite hacer reseñas sobre contenido?
+
+-Preguntas para Dueños de Librerías
+1. ¿Cómo promocionas actualmente los libros en tu librería? 
+2. ¿Cómo suelen descubrir los clientes tu librería? 
+3. ¿Te gustaría que existiera una plataforma donde los lectores descubran libros mediante 
+reseñas de otros usuarios y como beneficiaria a tu negocio? 
+4. ¿Cree que las reseñas de libros influyen en la decisión de compra de los clientes? Si es 
+así ¿De qué manera? 
+5. ¿Sueles recibir comentarios o recomendaciones de tus clientes? ¿Qué haces con esa 
+información? 
+6. Si pudieras conectar tu librería con una plataforma donde las personas descubren libros 
+según sus intereses, ¿cómo te gustaría que fuera esa colaboración?
+
+-Preguntas para Plataformas de Streaming
+1. ¿Cómo deciden qué series o películas promocionar? 
+2. ¿Qué aspectos consideran más importantes y útiles al promocionar una serie o película? 
+3. ¿Cómo sueles enterarte de lo que más disfrutan los usuarios en tu plataforma?
+4. ¿Crees que obtener los datos de una aplicación, donde los usuarios dejen reseñas y 
+reciban recomendaciones personalizadas, beneficiaría a tu plataforma? 
+5. ¿Cómo quisieras que los usuarios reciban sugerencias en la aplicación sobre el 
+contenido de tu plataforma? 
+6. ¿Cómo crees que los comentarios de los usuarios podrían ayudarte a mejorar el 
+contenido que ofreces? 
+7. ¿Cómo te gustaría que fuera una colaboración con una plataforma que permita a los 
+usuarios encontrar nuevas películas y series según sus intereses?
 
 # Capítulo III: Requirements Specification
 
