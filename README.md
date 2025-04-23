@@ -595,7 +595,7 @@ usuarios encontrar nuevas películas y series según sus intereses?
 
 -Andres Jonathan Santos Espinoza (consumidor de contenido multimedia)
 
-<img src="Report_Assets/Lucas Castro.png" alt="User Persona 1" width="1000" height="1000"/>
+<img src="Report_Assets/foto entrevista andres.png" alt="User Persona 1" width="700" height="500"/>
 
 ### Analisis de entrevista
 
