@@ -20,9 +20,9 @@
 
 #### Integrantes
 
+U20<br>
+Cabanillas Meza Jose Mateo U202311458<br>
 Verona Flores Italo Sebastian U20221E617<br>
-U20<br>
-U20<br>
 U20<br>
 Sarmiento Medina Loreley U202310005<br>
 
