@@ -764,14 +764,17 @@ Entonces el sistema debe mostrar un mensaje indicando que no se ha encontrado un
             <td>US-11</td>
             <td>Ver análisis de libros mejor valorados </td>
             <td>Como dueño de librería, quiero poder ver un análisis de los libros con mejor valoración y reseñas en la plataforma, para poder hacer promociones basadas en estas valoraciones. ​</td>
-            <td>Escenario 1: Acceso al top de libros valorados
+            <td>
+            Escenario 1: Acceso al top de libros valorados
 Dado que soy un dueño de librería autenticado
 Cuando ingreso al dashboard
 Entonces veo una tabla con los 10 libros más valorados y reseñados
+
 Escenario 2: Filtro por género
 Dado que estoy en el panel de librería
 Cuando selecciono el género “Mangas”
 Entonces la lista se actualiza con los mejores libros valorados de ese género
+
 Escenario 3: Filtro por género inexistente
 Dado que estoy en el panel de librería
 Cuando selecciono un genero inexistente
@@ -786,12 +789,14 @@ Entonces el sistema muestra un mensaje: “Genero no existente”
             <td>Escenario 1: Métricas generales por contenido
 Dado que soy administrador de plataforma
 Cuando accedo al panel de análisis
-Entonces veo calificación promedio 
+Entonces veo calificación promedio
+              
 Escenario 2: Filtro por fecha
 Dado que quiero analizar los últimos 30 días
 Cuando aplico un filtro de fecha
 Entonces el panel muestra solo métricas del rango indicado
 Escenario 3: Filtro por género
+
 Dado que administro contenido de múltiples géneros
 Cuando selecciono “Drama”
 Entonces el sistema actualiza las métricas solo con contenido etiquetado como drama
@@ -802,14 +807,17 @@ Entonces el sistema actualiza las métricas solo con contenido etiquetado como d
             <td>US-13</td>
             <td>Ver perfil de autor o actores</td>
             <td>Como usuario, quiero poder ver la biografía y datos de un autor o actor (nombre, biografía, fecha de nacimiento, etc.), para conocer más sobre sus trabajos. ​</td>
-            <td>Escenario 1: Registro exitoso
+            <td>
+              Escenario 1: Registro exitoso
 Dado que soy un nuevo usuario
 Cuando completo el formulario de registro
 Entonces el sistema crea mi cuenta y me redirige al perfil
+              
 Escenario 2: Inicio de sesión válido
 Dado que ya tengo una cuenta
 Cuando ingreso mis credenciales correctamente
 Entonces accedo a mi perfil y funciones completas
+
 Escenario 3: Error en inicio de sesión
 Dado que escribo mal mi contraseña
 Cuando intento iniciar sesión
@@ -825,10 +833,12 @@ Entonces el sistema muestra un mensaje de error y permite reintentar
 Dado que estoy en una ficha de serie
 Cuando despliego la sección “Elenco”
 Entonces aparece una lista con los actores y sus roles
+              
 Escenario 2: Acceso a perfil desde reparto
 Dado que veo a un actor en el elenco
 Cuando hago clic en su nombre
 Entonces accedo a su perfil detallado
+
 Escenario 3: Mostrar número de episodios
 Dado que es una serie con múltiples temporadas
 Cuando consulto el elenco
@@ -843,10 +853,12 @@ Entonces cada actor muestra en cuántos episodios ha participado</td>
 Dado que estoy en “Plataformas suscritas”
 Cuando selecciono “Netflix” y guardo
 Entonces aparece en mi lista de suscripciones y se usa para filtrar disponibilidad
+
 Escenario 2: Eliminar plataforma
 Dado que ya no uso una plataforma
 Cuando la desmarco y guardo
 Entonces desaparece de mi perfil y afecta mis recomendaciones
+
 Escenario 3: Ver contenido solo en mis plataformas  
 Dado que tengo varias suscripciones activas
 Cuando activo el filtro “Solo mis plataformas”
@@ -861,10 +873,12 @@ Entonces solo se muestran contenidos disponibles en esas
 Dado que estoy viendo una serie
 Cuando pulso el ícono de estrella
 Entonces se añade a mi lista de favoritos y el ícono cambia a relleno
+              
 Escenario 2: Eliminar de favoritos
 Dado que un contenido ya es favorito
 Cuando lo desmarco
 Entonces se elimina de la lista de favoritos
+
 Escenario 3: Visual feedback
 Dado que hago clic en el icono
 Cuando se registra la acción
@@ -880,10 +894,12 @@ Entonces veo una notificación “Agregado a favoritos” o “Eliminado de favo
 Dado que tengo contenidos marcados
 Cuando voy a “Favoritos” desde mi perfil
 Entonces veo una lista con portadas, títulos y calificaciones
+              
 Escenario 2: Lista vacía
 Dado que aún no he agregado favoritos
 Cuando ingreso a la sección
 Entonces el sistema muestra un mensaje motivando a marcar contenido como favorito
+
 Escenario 3: Navegación desde favoritos
 Dado que estoy en la lista
 Cuando hago clic en una obra
@@ -898,10 +914,12 @@ Entonces soy redirigido a la ficha completa de ese contenido</td>
 Dado que ingreso a la sección “Tendencias”
 Cuando la página se carga
 Entonces veo el top de contenidos más reseñados y valorados esta semana
+
 Escenario 2: Tendencias sin reseñas
 Dado que no hay reseñas recientes
 Cuando accedo al feed
 Entonces el sistema muestra un mensaje: “Aún no hay tendencias disponibles”
+
 Escenario 3: Acceso desde la home
 Dado que estoy en la pantalla principal
 Cuando hago clic en “Ver más” bajo “Tendencias”
@@ -916,10 +934,12 @@ Entonces se abre la sección completa con más recomendaciones populares</td>
             <td>Dado que estoy en la ficha de una película
 Cuando cargo la sección “Multimedia”
 Entonces se muestra el tráiler en un reproductor de video embebido
+
 Escenario 2: Imagen de portada cargada correctamente
 Dado que consulto la página de una serie
 Cuando accedo a la sección de contenido
 Entonces aparece la imagen oficial de portada en alta resolución
+
 Escenario 3: Multimedia no disponible
 Dado que el contenido no tiene tráiler cargado
 Cuando accedo a la sección “Multimedia”
@@ -935,10 +955,12 @@ Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”
 Dado que he terminado de ver una serie
 Cuando entro a su ficha y pulso “Marcar como visto”
 Entonces se guarda en mi historial y el botón cambia a “Visto”
+
 Escenario 2: Evitar recomendaciones repetidas
 Dado que he marcado varios contenidos como vistos
 Cuando se generan nuevas recomendaciones
 Entonces no incluyen contenido ya visto
+
 Escenario 3: Desmarcar un contenido visto
 Dado que marqué por error una película como vista
 Cuando entro a su ficha y desactivo el estado
@@ -955,10 +977,12 @@ Entonces se elimina del historial y vuelve a estar disponible para recomendacion
 Dado que estoy en la ficha de una película próxima a estrenarse
 Cuando activo “Recordarme” y selecciono un día antes
 Entonces recibo una notificación por email en la fecha elegida
+              
 Escenario 2: Notificación en la app
 Dado que activé un recordatorio
 Cuando abro la app el día del estreno
 Entonces veo una alerta dentro de la plataforma avisándome del estreno
+
 Escenario 3: Edición o cancelación del recordatorio
 Dado que ya configuré un aviso
 Cuando ingreso a la configuración de recordatorios
@@ -974,10 +998,12 @@ Entonces puedo modificar la fecha o cancelar el recordatorio</td>
 Dado que estoy viendo el perfil de otro usuario
 Cuando hago clic en “Bloquear” y confirmo
 Entonces sus publicaciones dejan de mostrarse en mi feed y no puede escribirme
+
 Escenario 2: Ver listado de usuarios bloqueados
 Dado que he bloqueado a varios usuarios
 Cuando accedo a configuración de privacidad
 Entonces veo la lista completa con opción de desbloquear
+
 Escenario 3: Intento de interacción bloqueada
 Dado que un usuario está bloqueado por mí
 Cuando intenta comentar una de mis reseñas
