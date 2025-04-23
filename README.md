@@ -471,11 +471,11 @@ visibilidad y engagement de su contenido.
 </table>
 
 
-footoooooooo
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-<h2>Estrategias y Tácticas Preliminares</h2>
+
 
 <p>
 Esta sección presenta las estrategias iniciales de Raje para afrontar el entorno competitivo. Cada estrategia responde a al menos dos factores del análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas), con el fin de posicionar a Raje como una plataforma única, atractiva y sostenible frente a sus principales competidores.
