@@ -597,6 +597,173 @@ usuarios encontrar nuevas películas y series según sus intereses?
 <img src="Report_Assets/Camila Herrera.png" alt="User Persona 3" width="1000" height="1000"/>
 
 ### 2.3.2. User Task Matrix
+#### Consumidor de contenido multimedia – Lucas Castro
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>Frecuencia</th>
+      <th>Prioridad</th>
+      <th>Frustración</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Buscar qué película, serie o libro ver o leer</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Leer opiniones de otros antes de decidir</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Escribir una reseña después de ver algo</td>
+      <td>Media</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Calificar contenido con estrellas</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Encontrar contenido nuevo según sus gustos</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Ver su historial de contenido consumido</td>
+      <td>Baja</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Seguir a otros usuarios con gustos similares</td>
+      <td>Media</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Dueño de librería – Raúl Torres
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>Frecuencia</th>
+      <th>Prioridad</th>
+      <th>Frustración</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Promocionar libros con base en tendencias</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Leer las reseñas de usuarios sobre los libros</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Identificar los libros mejor valorados</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Conectar su librería con la plataforma</td>
+      <td>Baja</td>
+      <td>Alta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Crear eventos con base en intereses</td>
+      <td>Baja</td>
+      <td>Media</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Recibir recomendaciones de libros populares</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Interactuar con lectores frecuentes</td>
+      <td>Baja</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Plataforma de streaming – Camila Herrera
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>Frecuencia</th>
+      <th>Prioridad</th>
+      <th>Frustración</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ver qué contenido es más comentado</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Analizar reseñas detalladas</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Detectar patrones de consumo</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Acceder a estadísticas de feedback</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Vincular contenido a reseñas dentro de Raje</td>
+      <td>Baja</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Medir el impacto de las recomendaciones</td>
+      <td>Baja</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Explorar colaboraciones con usuarios influyentes</td>
+      <td>Baja</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 2.3.3. User Journey Mapping
 
