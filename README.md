@@ -791,6 +791,11 @@ usuarios encontrar nuevas películas y series según sus intereses?
 
 ### 2.3.4. Empathy Mapping
 
+<img src="Report_Assets/mapaE1.png" alt="Empthy map 1" width="1000" height="1000"/>
+<img src="Report_Assets/mapaE2.png" alt="Empthy map 2" width="1000" height="1000"/>
+<img src="Report_Assets/mapaE3.png" alt="Empthy map 3" width="1000" height="1000"/>
+
+
 ### 2.3.5. As-is Scenario Mapping
 #### As Is – Lucas Castro
 <table border="1" cellpadding="8" cellspacing="0">
