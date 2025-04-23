@@ -601,9 +601,9 @@ usuarios encontrar nuevas películas y series según sus intereses?
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
-    <th>Actividad</th>
+    <th>Tarea</th>
     <th>Frecuencia</th>
-    <th>Importancia</th>
+    <th>Prioridad</th>
     <th>Frustración</th>
   </tr>
   <tr>
