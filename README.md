@@ -1830,3 +1830,21 @@ Escenario 3: Eliminar amigos
 </tr>
     </tbody>
 </table>
+
+## 3.4. Product Backlog
+
+A continuación, presentaremos el Product Backlog, el cual contiene todas las funcionalidades y características necesarias para el desarrollo de la plataforma. Este listado incluye tanto las historias de usuario como las tareas técnicas que facilitarán el progreso del proyecto. Para priorizar las tareas, se ha utilizado la escala Fibonacci (1, 2, 3, 5, 8, 13, 21), la cual ayuda a estimar el esfuerzo relativo requerido para completar cada tarea. Además, hemos asignado cada item a un sprint, de acuerdo con su relevancia y dependencias.
+
+Escala de Story Points (Fibonacci):
+
+1: Tareas pequeñas que se pueden completar rápidamente.
+
+2: Tareas de tamaño moderado.
+
+3: Tareas que requieren más tiempo y esfuerzo.
+
+5: Tareas complejas o con dependencia de otras tareas.
+
+8: Tareas muy complejas o que afectan a múltiples áreas.
+
+![Product backlog - Raje.png](Report_Assets/Product%20backlog%20-%20Raje.png)
