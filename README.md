@@ -188,48 +188,55 @@ tiene un impacto real y duradero.
        <td><img src="Report_Assets/integrante2.png" alt="Integrante 2" width="100"/></td>
       <td> Jose Mateo Cabanillas Meza
         - Ingeniería de Software-u202311458 
- 
-Mi nombre es Mateo Cabanillas y en la 
-actualidad estoy cursando el quinto ciclo de 
-la carrera de ingeniería de software con una 
-mente creativa y una actitud colaborativa. 
-Mi amor por la programación y la 
-resolución de problemas me impulsa a 
-explorar nuevas soluciones y aportar ideas 
-frescas a los proyectos. Como compañero de 
-equipo, soy amable, atento y siempre estoy 
-dispuesto a ayudar. Creo firmemente en la 
-importancia de la comunicación efectiva y 
-la colaboración para lograr resultados 
+
+Mi nombre es Mateo Cabanillas y en la
+actualidad estoy cursando el quinto ciclo de
+la carrera de ingeniería de software con una
+mente creativa y una actitud colaborativa.
+Mi amor por la programación y la
+resolución de problemas me impulsa a
+explorar nuevas soluciones y aportar ideas
+frescas a los proyectos. Como compañero de
+equipo, soy amable, atento y siempre estoy
+dispuesto a ayudar. Creo firmemente en la
+importancia de la comunicación efectiva y
+la colaboración para lograr resultados
 excepcionales. </td>
-    </tr>
-    <tr>
-      <td><img src="Report_Assets/integrante3.png" alt="Integrante 3" width="100"/></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><img src="Report_Assets/integrante4.png" alt="Integrante 4" width="100"/></td>
-      <td></td>
-    </tr>
-     <tr>
-    <td><img src="Report_Assets/integrante5.png" alt="Integrante 5" width="100"/></td>
-    <td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la       información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto</td>
+</tr>
+<tr>
+<td><img src="Report_Assets/integrante3.png" alt="Integrante 3" width="100"/></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="Report_Assets/integrante4.png" alt="Integrante 4" width="100"/></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="Report_Assets/integrante5.png" alt="Integrante 5" width="100"/></td>
+<td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me
+especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos
+conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la
+etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos,
+facilitando la organización y estructura lógica de la información. Poseo conocimientos intermedios en HTML y CSS, lo
+cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una
+base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend
+como en el backend, aportando al desarrollo integral del producto</td>
   </tr>
   </tbody>
 </table>
 
 ## 1.2. Solution Profile
 
-Raje de Caleta Innovations es una plataforma innovadora que permite a los usuarios expresar 
-sus opiniones de manera auténtica y sin filtros sobre películas, series, libros y más. Inspirada 
-en la jerga latina "rajar," que significa hablar sin rodeos, Raje ofrece un espacio donde la 
-libertad de expresión es fundamental. Además, la plataforma les muestra dónde está disponible 
-el contenido, ya sea en plataformas de streaming o librerías. Los usuarios pueden rankear el 
-contenido que consumen, dejar opiniones sinceras, y recibir recomendaciones personalizadas. 
-Además, podrán ver la lista de sus opiniones y calificaciones, así como el contenido que han 
-consumido, directamente en su perfil. Con un enfoque en la autenticidad, Raje redefine la 
-manera en que las personas interactúan con el entretenimiento, fomentando una comunidad 
-dinámica y vibrante donde cada voz cuenta. 
+Raje de Caleta Innovations es una plataforma innovadora que permite a los usuarios expresar
+sus opiniones de manera auténtica y sin filtros sobre películas, series, libros y más. Inspirada
+en la jerga latina "rajar," que significa hablar sin rodeos, Raje ofrece un espacio donde la
+libertad de expresión es fundamental. Además, la plataforma les muestra dónde está disponible
+el contenido, ya sea en plataformas de streaming o librerías. Los usuarios pueden rankear el
+contenido que consumen, dejar opiniones sinceras, y recibir recomendaciones personalizadas.
+Además, podrán ver la lista de sus opiniones y calificaciones, así como el contenido que han
+consumido, directamente en su perfil. Con un enfoque en la autenticidad, Raje redefine la
+manera en que las personas interactúan con el entretenimiento, fomentando una comunidad
+dinámica y vibrante donde cada voz cuenta.
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -303,55 +310,83 @@ sobre contenido audiovisual y literario, sino también leer las críticas de otr
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
-Hoy en día, millones de personas buscan recomendaciones auténticas sobre libros, películas y series antes de decidir qué consumir. Sin embargo, las plataformas actuales están llenas de filtros, políticas de moderación o algoritmos que limitan la libertad de expresión. Esto impide que los usuarios compartan opiniones sinceras y que descubran contenido relevante basado en experiencias reales.
 
-Además, muchos consumidores se sienten frustrados porque no pueden dejar reseñas completas ni recibir sugerencias personalizadas que realmente se ajusten a sus gustos. La ausencia de perfiles, historial de reseñas o interacción entre usuarios reduce la calidad de la experiencia.
+Hoy en día, millones de personas buscan recomendaciones auténticas sobre libros, películas y series antes de decidir qué
+consumir. Sin embargo, las plataformas actuales están llenas de filtros, políticas de moderación o algoritmos que
+limitan la libertad de expresión. Esto impide que los usuarios compartan opiniones sinceras y que descubran contenido
+relevante basado en experiencias reales.
 
-Del lado de los creadores o distribuidores de contenido, como dueños de librerías o plataformas de streaming, también hay una brecha. No cuentan con herramientas para conectar directamente con su audiencia a través de opiniones genuinas, ni aprovechar esa data para mejorar sus recomendaciones o promociones.
+Además, muchos consumidores se sienten frustrados porque no pueden dejar reseñas completas ni recibir sugerencias
+personalizadas que realmente se ajusten a sus gustos. La ausencia de perfiles, historial de reseñas o interacción entre
+usuarios reduce la calidad de la experiencia.
+
+Del lado de los creadores o distribuidores de contenido, como dueños de librerías o plataformas de streaming, también
+hay una brecha. No cuentan con herramientas para conectar directamente con su audiencia a través de opiniones genuinas,
+ni aprovechar esa data para mejorar sus recomendaciones o promociones.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 ##### Opiniones auténticas tienen valor
-Los usuarios valoran más una opinión real, aunque sea crítica, que una reseña genérica o influenciada por intereses comerciales. Quieren sentirse parte de una comunidad donde puedan expresarse con libertad y conocer lo que piensan otros usuarios parecidos a ellos.
+
+Los usuarios valoran más una opinión real, aunque sea crítica, que una reseña genérica o influenciada por intereses
+comerciales. Quieren sentirse parte de una comunidad donde puedan expresarse con libertad y conocer lo que piensan otros
+usuarios parecidos a ellos.
 
 ##### Simplicidad y personalización en la experiencia
-Los usuarios desean una plataforma que les permita explorar contenido fácilmente, con recomendaciones ajustadas a sus gustos reales. Si tienen un perfil personal donde pueden ver sus opiniones, calificaciones y descubrimientos, se sentirán más identificados con la plataforma y volverán con más frecuencia.
+
+Los usuarios desean una plataforma que les permita explorar contenido fácilmente, con recomendaciones ajustadas a sus
+gustos reales. Si tienen un perfil personal donde pueden ver sus opiniones, calificaciones y descubrimientos, se
+sentirán más identificados con la plataforma y volverán con más frecuencia.
 
 ##### Integración con librerías y plataformas
-Dueños de librerías y administradores de plataformas de streaming están interesados en conocer las opiniones reales de los usuarios. Si pueden acceder a esta información de manera organizada y con análisis útiles, podrán adaptar su oferta y conectar mejor con sus públicos objetivos.
+
+Dueños de librerías y administradores de plataformas de streaming están interesados en conocer las opiniones reales de
+los usuarios. Si pueden acceder a esta información de manera organizada y con análisis útiles, podrán adaptar su oferta
+y conectar mejor con sus públicos objetivos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 ##### Opinión libre y sin censura
-Creemos que si brindamos a los usuarios un espacio donde puedan publicar sus opiniones sin censura, se generará un mayor sentido de pertenencia y autenticidad. Esto podría incrementar en un 20 % el número de reseñas activas por usuario al mes, medido a través de su historial de participación.
+
+Creemos que si brindamos a los usuarios un espacio donde puedan publicar sus opiniones sin censura, se generará un mayor
+sentido de pertenencia y autenticidad. Esto podría incrementar en un 20 % el número de reseñas activas por usuario al
+mes, medido a través de su historial de participación.
 
 ##### Perfil personalizado con historial
-Creemos que si cada usuario puede tener un perfil que almacene sus opiniones, calificaciones y el contenido que ha consumido, se fortalecerá el compromiso con la plataforma. Esto se reflejará en un aumento del 25 % en visitas recurrentes por usuario, medido por sesiones activas semanales.
+
+Creemos que si cada usuario puede tener un perfil que almacene sus opiniones, calificaciones y el contenido que ha
+consumido, se fortalecerá el compromiso con la plataforma. Esto se reflejará en un aumento del 25 % en visitas
+recurrentes por usuario, medido por sesiones activas semanales.
 
 ##### Valor para negocios y creadores de contenido
-Creemos que si los dueños de librerías y plataformas de streaming tienen acceso a análisis de tendencias y opiniones, podrán adaptar mejor su catálogo y promociones. Esto se medirá por la tasa de participación de estos actores en la plataforma y el número de colaboraciones activas generadas.
+
+Creemos que si los dueños de librerías y plataformas de streaming tienen acceso a análisis de tendencias y opiniones,
+podrán adaptar mejor su catálogo y promociones. Esto se medirá por la tasa de participación de estos actores en la
+plataforma y el número de colaboraciones activas generadas.
+
 #### 1.2.2.4. Lean UX Canvas
+
 ![LeanUxCanvas](Report_Assets/LeanUxCanvas.PNG)
+
 ### 1.3. Segmentos objetivos
 
-1. Consumidores de contenido multimedia 
-Este segmento incluye a personas apasionadas por películas, libros, series que buscan un 
-espacio para compartir opiniones auténticas y recibir recomendaciones personalizadas en Raje.
+1. Consumidores de contenido multimedia
+   Este segmento incluye a personas apasionadas por películas, libros, series que buscan un
+   espacio para compartir opiniones auténticas y recibir recomendaciones personalizadas en Raje.
 
-2. Dueños de Librerías 
-Los dueños de librerías pueden conectar con lectores apasionados a través de Raje, 
-promocionando sus libros en función de reseñas y calificaciones, y ofreciendo lanzamientos y 
-eventos alineados con los intereses de los usuarios.
+2. Dueños de Librerías
+   Los dueños de librerías pueden conectar con lectores apasionados a través de Raje,
+   promocionando sus libros en función de reseñas y calificaciones, y ofreciendo lanzamientos y
+   eventos alineados con los intereses de los usuarios.
 
-3. Plataformas de Streaming 
-Las plataformas de streaming pueden usar Raje para analizar tendencias, ajustar su catálogo y 
-recomendar contenido a usuarios que buscan nuevas películas y series, maximizando la 
-visibilidad y engagement de su contenido.
+3. Plataformas de Streaming
+   Las plataformas de streaming pueden usar Raje para analizar tendencias, ajustar su catálogo y
+   recomendar contenido a usuarios que buscan nuevas películas y series, maximizando la
+   visibilidad y engagement de su contenido.
 
 # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
-
-
 
 ### 2.1.1. Análisis competitivo
 
@@ -470,12 +505,7 @@ visibilidad y engagement de su contenido.
   </tbody>
 </table>
 
-
-
-
 ### 2.1.2. Estrategias y tácticas frente a competidores
-
-
 
 <p>
 Esta sección presenta las estrategias iniciales de Raje para afrontar el entorno competitivo. Cada estrategia responde a al menos dos factores del análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas), con el fin de posicionar a Raje como una plataforma única, atractiva y sostenible frente a sus principales competidores.
@@ -547,49 +577,52 @@ Esta sección presenta las estrategias iniciales de Raje para afrontar el entorn
   </tbody>
 </table>
 
-
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
--Preguntas para consumidores de contenido multimedia 
+
+-Preguntas para consumidores de contenido multimedia
+
 1. ¿A menudo disfrutas de alguna serie,película o libro?
 2. ¿Qué criterios utilizas al elegir qué contenido consumir?
-3. ¿Sueles leer opiniones o reseñas antes de ver una película, serie o leer un libro? 
-4. ¿Cómo descubres nuevas películas, series o libros? 
-5. ¿Con qué frecuencia dejas opiniones o reseñas sobre el contenido que consumes? Si es 
-así, ¿qué te motiva a hacerlo? 
-6. ¿Usualmente usas plataformas para dejar reseñas o donde sueles dejar tu opinión? 
-7. ¿Qué importancia le das a las opiniones de otros usuarios antes de elegir qué contenido 
-consumir? 
-8. ¿Te gustaría que las recomendaciones de películas, series o libros se ajusten más a tus 
-gustos? Si es asi, como? 
-9. ¿Qué aspectos no te han convencido o crees que deberían mejorarse en una plataforma 
-que permite hacer reseñas sobre contenido?
+3. ¿Sueles leer opiniones o reseñas antes de ver una película, serie o leer un libro?
+4. ¿Cómo descubres nuevas películas, series o libros?
+5. ¿Con qué frecuencia dejas opiniones o reseñas sobre el contenido que consumes? Si es
+   así, ¿qué te motiva a hacerlo?
+6. ¿Usualmente usas plataformas para dejar reseñas o donde sueles dejar tu opinión?
+7. ¿Qué importancia le das a las opiniones de otros usuarios antes de elegir qué contenido
+   consumir?
+8. ¿Te gustaría que las recomendaciones de películas, series o libros se ajusten más a tus
+   gustos? Si es asi, como?
+9. ¿Qué aspectos no te han convencido o crees que deberían mejorarse en una plataforma
+   que permite hacer reseñas sobre contenido?
 
 -Preguntas para Dueños de Librerías
-1. ¿Cómo promocionas actualmente los libros en tu librería? 
-2. ¿Cómo suelen descubrir los clientes tu librería? 
-3. ¿Te gustaría que existiera una plataforma donde los lectores descubran libros mediante 
-reseñas de otros usuarios y como beneficiaria a tu negocio? 
-4. ¿Cree que las reseñas de libros influyen en la decisión de compra de los clientes? Si es 
-así ¿De qué manera? 
-5. ¿Sueles recibir comentarios o recomendaciones de tus clientes? ¿Qué haces con esa 
-información? 
-6. Si pudieras conectar tu librería con una plataforma donde las personas descubren libros 
-según sus intereses, ¿cómo te gustaría que fuera esa colaboración?
+
+1. ¿Cómo promocionas actualmente los libros en tu librería?
+2. ¿Cómo suelen descubrir los clientes tu librería?
+3. ¿Te gustaría que existiera una plataforma donde los lectores descubran libros mediante
+   reseñas de otros usuarios y como beneficiaria a tu negocio?
+4. ¿Cree que las reseñas de libros influyen en la decisión de compra de los clientes? Si es
+   así ¿De qué manera?
+5. ¿Sueles recibir comentarios o recomendaciones de tus clientes? ¿Qué haces con esa
+   información?
+6. Si pudieras conectar tu librería con una plataforma donde las personas descubren libros
+   según sus intereses, ¿cómo te gustaría que fuera esa colaboración?
 
 -Preguntas para Plataformas de Streaming
-1. ¿Cómo deciden qué series o películas promocionar? 
-2. ¿Qué aspectos consideran más importantes y útiles al promocionar una serie o película? 
+
+1. ¿Cómo deciden qué series o películas promocionar?
+2. ¿Qué aspectos consideran más importantes y útiles al promocionar una serie o película?
 3. ¿Cómo sueles enterarte de lo que más disfrutan los usuarios en tu plataforma?
-4. ¿Crees que obtener los datos de una aplicación, donde los usuarios dejen reseñas y 
-reciban recomendaciones personalizadas, beneficiaría a tu plataforma? 
-5. ¿Cómo quisieras que los usuarios reciban sugerencias en la aplicación sobre el 
-contenido de tu plataforma? 
-6. ¿Cómo crees que los comentarios de los usuarios podrían ayudarte a mejorar el 
-contenido que ofreces? 
-7. ¿Cómo te gustaría que fuera una colaboración con una plataforma que permita a los 
-usuarios encontrar nuevas películas y series según sus intereses?
+4. ¿Crees que obtener los datos de una aplicación, donde los usuarios dejen reseñas y
+   reciban recomendaciones personalizadas, beneficiaría a tu plataforma?
+5. ¿Cómo quisieras que los usuarios reciban sugerencias en la aplicación sobre el
+   contenido de tu plataforma?
+6. ¿Cómo crees que los comentarios de los usuarios podrían ayudarte a mejorar el
+   contenido que ofreces?
+7. ¿Cómo te gustaría que fuera una colaboración con una plataforma que permita a los
+   usuarios encontrar nuevas películas y series según sus intereses?
 
 ### 2.2.2 Registro de entrevista
 
@@ -601,15 +634,24 @@ usuarios encontrar nuevas películas y series según sus intereses?
 
 -Andres Jonathan Santos Espinoza (consumidor de contenido multimedia):
 
-En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lima, se muestra como un consumidor cuidadoso y con preferencias marcadas, especialmente por las películas. Suele apoyarse en reseñas y recomendaciones de su entorno o de redes sociales como TikTok para decidir qué ver o leer. Destaca que, aunque toma en cuenta la opinión de otros, cuando deja sus propias reseñas lo hace desde su experiencia personal. También señala su incomodidad con la censura en los comentarios de algunas plataformas y plantea que le gustaría recibir sugerencias de contenido más personalizadas según sus gustos. Su visión encaja muy bien con la propuesta de RAJE, que busca ser un espacio abierto donde los usuarios puedan expresarse libremente y descubrir contenido afín a sus intereses. 
+En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lima, se muestra como un consumidor
+cuidadoso y con preferencias marcadas, especialmente por las películas. Suele apoyarse en reseñas y recomendaciones de
+su entorno o de redes sociales como TikTok para decidir qué ver o leer. Destaca que, aunque toma en cuenta la opinión de
+otros, cuando deja sus propias reseñas lo hace desde su experiencia personal. También señala su incomodidad con la
+censura en los comentarios de algunas plataformas y plantea que le gustaría recibir sugerencias de contenido más
+personalizadas según sus gustos. Su visión encaja muy bien con la propuesta de RAJE, que busca ser un espacio abierto
+donde los usuarios puedan expresarse libremente y descubrir contenido afín a sus intereses.
 
 ## 2.3. Needfinding
+
 ### 2.3.1. User Personas
+
 <img src="Report_Assets/Lucas Castro.png" alt="User Persona 1" width="1000" height="1000"/>
 <img src="Report_Assets/Raúl Torres .png" alt="User Persona 2" width="1000" height="1000"/>
 <img src="Report_Assets/Camila Herrera.png" alt="User Persona 3" width="1000" height="1000"/>
 
 ### 2.3.2. User Task Matrix
+
 #### Consumidor de contenido multimedia – Lucas Castro
 
 <table border="1" cellpadding="8" cellspacing="0">
@@ -687,8 +729,8 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
   </tr>
 </table>
 
-
 #### Dueño de librería – Raúl Torres
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -745,6 +787,7 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 </table>
 
 #### Plataforma de streaming – Camila Herrera
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -801,6 +844,7 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 </table>
 
 ### 2.3.3. User Journey Mapping
+
 <img src="Report_Assets/Customer journey map 1.png" alt="Journey Map 1" width="1200" height="1000"/>
 <img src="Report_Assets/Customer journey map 2.png" alt="Journey Map  2" width="1200" height="1000"/>
 <img src="Report_Assets/Customer journey map 3.png" alt="Journey Map  3" width="1200" height="1000"/>
@@ -810,9 +854,10 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 <img src="Report_Assets/mapaE2.png" alt="Empthy map 2" width="1000" height="1000"/>
 <img src="Report_Assets/mapaE3.png" alt="Empthy map 3" width="1000" height="1000"/>
 
-
 ### 2.3.5. As-is Scenario Mapping
+
 #### As Is – Lucas Castro
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -851,6 +896,7 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 </table>
 
 #### As Is – Raúl Torres
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -883,6 +929,7 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 </table>
 
 #### As Is – Camila Herrera</h3>
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -918,7 +965,9 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
 #### To Be – Lucas Castro
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -957,6 +1006,7 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 </table>
 
 #### To Be – Raúl Torres
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -989,6 +1039,7 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 </table>
 
 #### To Be – Camila Herrera
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -1033,70 +1084,45 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
   </thead>
  <tbody>
   <tr>
-    <td>EPIC-1</td>
-    <td>Gestión de Cuenta</td>
-    <td>Permite a los usuarios registrarse, iniciar sesión, recuperar contraseñas y gestionar la seguridad de sus credenciales en la plataforma Raje.</td>
-  </tr>
-  <tr>
-    <td>EPIC-2</td>
-    <td>Personalización de Perfil</td>
-    <td>Permite a los usuarios editar su información personal, intereses (géneros favoritos, autores, directores), foto de perfil y configuraciones.</td>
-  </tr>
-  <tr>
-    <td>EPIC-3</td>
-    <td>Gestión de Contenido Multimedia</td>
-    <td>Permite a los usuarios registrar, buscar y visualizar información sobre películas, series y libros disponibles en la plataforma.</td>
-  </tr>
-  <tr>
-    <td>EPIC-4</td>
-    <td>Gestión de Reseñas y Calificaciones</td>
-    <td>Permite a los usuarios publicar reseñas, otorgar calificaciones y leer comentarios de otros usuarios sobre libros, películas o series.</td>
-  </tr>
-  <tr>
-    <td>EPIC-5</td>
-    <td>Sistema de Recomendaciones</td>
-    <td>Genera sugerencias personalizadas de contenido basadas en el historial de interacciones, preferencias e intereses del usuario.</td>
-  </tr>
-  <tr>
-    <td>EPIC-6</td>
-    <td>Descubrimiento de Contenido</td>
-    <td>Permite a los usuarios encontrar nuevas películas, series o libros mediante filtros, rankings, exploración temática o recomendaciones del sistema.</td>
-  </tr>
-  <tr>
-    <td>EPIC-7</td>
-    <td>Gestión de Librerías</td>
-    <td>Permite a los dueños de librerías crear un perfil comercial, publicar libros disponibles, promociones, eventos literarios y novedades editoriales.</td>
-  </tr>
-  <tr>
-    <td>EPIC-8</td>
-    <td>Interacción Librería–Usuario</td>
-    <td>Facilita la conexión entre lectores y librerías mediante recomendaciones basadas en reseñas, libros destacados y eventos alineados a sus intereses.</td>
-  </tr>
-  <tr>
-    <td>EPIC-9</td>
-    <td>Gestión de Plataformas de Streaming</td>
-    <td>Permite a plataformas de streaming asociadas integrar su catálogo, promocionar contenido y visualizar métricas sobre tendencias y preferencias.</td>
-  </tr>
-  <tr>
-    <td>EPIC-10</td>
-    <td>Análisis de Datos para Socios</td>
-    <td>Proporciona a librerías y plataformas aliadas reportes analíticos sobre tendencias de consumo, popularidad de contenidos y perfiles de usuarios.</td>
-  </tr>
-  <tr>
-    <td>EPIC-11</td>
-    <td>Gestión de Comunidad</td>
-    <td>Permite a los usuarios interactuar entre sí mediante comentarios, seguidores, listas compartidas y actividades según afinidades culturales.</td>
-  </tr>
-  <tr>
-    <td>EPIC-12</td>
-    <td>Notificaciones y Recordatorios</td>
-    <td>Envía alertas sobre recomendaciones, respuestas a reseñas, eventos de librerías o lanzamientos próximos relacionados con los intereses del usuario.</td>
-  </tr>
-  <tr>
-    <td>EPIC-13</td>
-    <td>Gestión de Colaboraciones</td>
-    <td>Facilita la integración y gestión de acuerdos con librerías y plataformas de streaming, definiendo términos de colaboración y beneficios mutuos.</td>
-  </tr>
+  <td>EPIC-1</td>
+  <td>Gestión de Cuenta</td>
+  <td>Permite a los usuarios registrarse, iniciar sesión, recuperar contraseñas y gestionar la seguridad de sus credenciales en la plataforma Raje.</td>
+</tr>
+<tr>
+  <td>EPIC-2</td>
+  <td>Personalización de Perfil</td>
+  <td>Permite a los usuarios editar su información personal, intereses (géneros favoritos, autores, directores), foto de perfil y configuraciones.</td>
+</tr>
+<tr>
+  <td>EPIC-3</td>
+  <td>Gestión de Reseñas y Calificaciones</td>
+  <td>Permite a los usuarios publicar reseñas, otorgar calificaciones y leer comentarios de otros usuarios sobre libros, películas o series.</td>
+</tr>
+<tr>
+  <td>EPIC-4</td>
+  <td>Exploración de Contenido</td>
+  <td>Permite descubrir nuevas obras por medio de filtros personalizados, recomendaciones basadas en intereses y acceso a contenido popular y reciente.</td>
+</tr>
+<tr>
+  <td>EPIC-5</td>
+  <td>Zonas Seguras</td>
+  <td>Permite a los usuarios ver, compartir y calificar zonas seguras para actividades como leer o ver películas en espacios públicos de Lima.</td>
+</tr>
+<tr>
+  <td>EPIC-6</td>
+  <td>Gamificación y Logros</td>
+  <td>Introduce elementos de gamificación como logros, insignias y recompensas para fomentar la participación activa y el descubrimiento de contenido.</td>
+</tr>
+<tr>
+  <td>EPIC-7</td>
+  <td>Sistema de Notificaciones</td>
+  <td>Permite enviar alertas relevantes al usuario sobre interacciones, recomendaciones, cambios de seguridad o nuevas zonas seguras.</td>
+</tr>
+<tr>
+  <td>EPIC-8</td>
+  <td>Panel Administrativo</td>
+  <td>Permite a los administradores gestionar usuarios, moderar contenido, analizar estadísticas de uso y mantener la integridad del sistema.</td>
+</tr>
 </tbody>
 </table>
 
@@ -1130,82 +1156,89 @@ Escenario 1:
                 Entonces el sistema debe enviarme un correo de verificación para confirmar mi cuenta.
 
 Escenario 2:
-                Dado que tengo una cuenta en Google o Facebook,
-                Cuando selecciono la opción para registrarme con estas redes sociales,
-                Entonces el sistema debe permitirme crear la cuenta utilizando mis credenciales de estas plataformas. 
+Dado que tengo una cuenta en Google o Facebook,
+Cuando selecciono la opción para registrarme con estas redes sociales,
+Entonces el sistema debe permitirme crear la cuenta utilizando mis credenciales de estas plataformas.
 
 Escenario 3:
-                Dado que el correo electrónico que intento registrar ya está en uso, 
-                Cuando intento crear la cuenta,
-                Entonces el sistema debe mostrarme un mensaje indicando que el correo ya está registrado y ofrecerme la opción de recuperar la contraseña.
-            </td>
-            <td>EP01</td>
-        </tr>
-        <tr>
-            <td>US-02</td>
-            <td>
-                Inicio de Sesión
-            </td>
-            <td>
-                Como usuario, quiero poder iniciar sesión en mi cuenta para acceder a mi perfil y gestionar mis reseñas y preferencias.
-            </td>
-            <td>
+Dado que el correo electrónico que intento registrar ya está en uso,
+Cuando intento crear la cuenta,
+Entonces el sistema debe mostrarme un mensaje indicando que el correo ya está registrado y ofrecerme la opción de
+recuperar la contraseña.
+</td>
+<td>EP01</td>
+</tr>
+<tr>
+<td>US-02</td>
+<td>
+Inicio de Sesión
+</td>
+<td>
+Como usuario, quiero poder iniciar sesión en mi cuenta para acceder a mi perfil y gestionar mis reseñas y preferencias.
+</td>
+<td>
 Escenario 1:
-                Dado que tengo una cuenta registrada con mi correo electrónico y contraseña,
-                Cuando ingreso mis credenciales y hago clic en "Iniciar sesión",
-                Entonces el sistema debe autenticarme y llevarme a la página de inicio de mi perfil.
+Dado que tengo una cuenta registrada con mi correo electrónico y contraseña,
+Cuando ingreso mis credenciales y hago clic en "Iniciar sesión",
+Entonces el sistema debe autenticarme y llevarme a la página de inicio de mi perfil.
 
 Escenario 2:
-                Dado que he olvidado mi contraseña,
-                Cuando selecciono la opción "Olvidé mi contraseña" y sigo las instrucciones,
-                Entonces el sistema debe enviarme un correo electrónico para restablecer mi contraseña.
+Dado que he olvidado mi contraseña,
+Cuando selecciono la opción "Olvidé mi contraseña" y sigo las instrucciones,
+Entonces el sistema debe enviarme un correo electrónico para restablecer mi contraseña.
 
 Escenario 3:
-                Dado que he iniciado sesión en mi cuenta,
-                Cuando hago clic en "Cerrar sesión",
-                Entonces el sistema debe cerrar mi sesión y redirigirme a la página de inicio.
-            </td>
-            <td>EP01</td>
-        </tr>
-        <tr>
-            <td>US-03</td>
-            <td>Visualización de Opiniones y Calificaciones</td>
-            <td>Como consumidor de contenido multimedia, quiero tener un perfil donde pueda ver todas mis reseñas, calificaciones y el contenido que he consumido, para poder hacer seguimiento de mis opiniones y compartirlo con otros.</td>
-            <td>
+Dado que he iniciado sesión en mi cuenta,
+Cuando hago clic en "Cerrar sesión",
+Entonces el sistema debe cerrar mi sesión y redirigirme a la página de inicio.
+</td>
+<td>EP01</td>
+</tr>
+<tr>
+<td>US-03</td>
+<td>Visualización de Opiniones y Calificaciones</td>
+<td>Como consumidor de contenido multimedia, quiero tener un perfil donde pueda ver todas mis reseñas, calificaciones y
+el contenido que he consumido, para poder hacer seguimiento de mis opiniones y compartirlo con otros.</td>
+<td>
 Escenario 1:
 Dado que he publicado varias reseñas y calificaciones en mi perfil,
 Cuando accedo a la página de mi perfil,
-Entonces el sistema debe mostrarme una lista de todas mis reseñas y calificaciones de contenido (películas, series, libros).
+Entonces el sistema debe mostrarme una lista de todas mis reseñas y calificaciones de contenido (películas, series,
+libros).
 
 Escenario 2:
 Dado que he consumido contenido recientemente,
 Cuando accedo a mi perfil,
 Entonces el sistema debe mostrarme un resumen de las películas, series y libros que he consumido.
-            </td>
-            <td>EP02</td>
-        </tr>
-        <tr>
-            <td>US-04</td>
-            <td>Publicación de Reseñas y Opiniones</td>
-            <td>Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación, para compartir mi pensamiento de manera auténtica con otros usuarios de la comunidad.</td>
-            <td>
+</td>
+<td>EP02</td>
+</tr>
+<tr>
+<td>US-04</td>
+<td>Publicación de Reseñas y Opiniones</td>
+<td>Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que
+consumo, sin censura ni moderación, para compartir mi pensamiento de manera auténtica con otros usuarios de la
+comunidad.</td>
+<td>
 Escenario 1:
 Dado que he terminado de ver una película o leer un libro,
 Cuando accedo a la opción para escribir una reseña,
-Entonces el sistema debe permitirme escribir mi reseña y calificación sin que se aplique ninguna moderación ni filtro, y luego publicarla.
+Entonces el sistema debe permitirme escribir mi reseña y calificación sin que se aplique ninguna moderación ni filtro, y
+luego publicarla.
 
 Escenario 2:
 Dado que he publicado una reseña,
 Cuando reviso mi perfil,
 Entonces debo poder ver la reseña publicada junto con la calificación correspondiente.
-            </td>
-            <td>EP02</td>
-        </tr>
-        <tr>
-            <td>US-05</td>
-            <td>Calificación de Contenido</td>
-            <td>Como consumidor de contenido multimedia, quiero poder calificar las películas, series y libros que he visto o leído, para que otros usuarios puedan ver qué tan bueno o malo es el contenido según mi experiencia.</td>
-            <td>
+</td>
+<td>EP02</td>
+</tr>
+<tr>
+<td>US-05</td>
+<td>Calificación de Contenido</td>
+<td>Como consumidor de contenido multimedia, quiero poder calificar las películas, series y libros que he visto o leído,
+para que otros usuarios puedan ver qué tan bueno o malo es el contenido según mi experiencia.</td>
+<td>
 Escenario 1:
 Dado que estoy viendo una película o serie,
 Cuando termino de verla y decido calificarla,
@@ -1220,14 +1253,16 @@ Escenario 3:
 Dado que he calificado una película o serie,
 Cuando decido cambiar mi calificación,
 Entonces el sistema debe actualizar la calificación de acuerdo con la nueva selección.
-            </td>
-            <td>EP02</td>
-        </tr>
-        <tr>
-            <td>US-06</td>
-            <td>Recomendaciones Personalizadas</td>
-            <td>Como consumidor de contenido multimedia, quiero recibir recomendaciones personalizadas de películas, series y libros, basadas en las calificaciones y reseñas que he hecho, para descubrir nuevo contenido que se alinee con mis gustos.</td>
-            <td>
+</td>
+<td>EP02</td>
+</tr>
+<tr>
+<td>US-06</td>
+<td>Recomendaciones Personalizadas</td>
+<td>Como consumidor de contenido multimedia, quiero recibir recomendaciones personalizadas de películas, series y
+libros, basadas en las calificaciones y reseñas que he hecho, para descubrir nuevo contenido que se alinee con mis
+gustos.</td>
+<td>
 Escenario 1:
 Dado que he calificado varias películas, series y libros,
 Cuando accedo a la sección de recomendaciones personalizadas,
@@ -1237,40 +1272,41 @@ Escenario 2:
 Dado que las recomendaciones anteriores no me gustan,
 Cuando recalifico o hago nuevas reseñas,
 Entonces el sistema debe actualizar las recomendaciones según mis nuevas preferencias.
-            </td>
-            <td>EP02</td>
-        </tr>
-        <tr>
-            <td>US-07</td>
-            <td>Seguimiento de Otros Usuarios</td>
-            <td>Como consumidor de contenido multimedia, quiero poder seguir a otros usuarios cuyas opiniones me interesan, para poder ver sus reseñas y recomendaciones de manera constante en mi feed.</td>
-            <td>
+</td>
+<td>EP02</td>
+</tr>
+<tr>
+<td>US-07</td>
+<td>Seguimiento de Otros Usuarios</td>
+<td>Como consumidor de contenido multimedia, quiero poder seguir a otros usuarios cuyas opiniones me interesan, para
+poder ver sus reseñas y recomendaciones de manera constante en mi feed.</td>
+<td>
 Escenario 1:
-            Dado que estoy interesado en las opiniones de otro usuario,
-            Cuando sigo a ese usuario desde su perfil,
-            Entonces debo poder ver sus reseñas y recomendaciones en mi feed personal.
+Dado que estoy interesado en las opiniones de otro usuario,
+Cuando sigo a ese usuario desde su perfil,
+Entonces debo poder ver sus reseñas y recomendaciones en mi feed personal.
 
 Escenario 2:
-            Dado que ya sigo a varios usuarios,
-            Cuando accedo a mi feed,
-            Entonces debo ver una lista de las reseñas y recomendaciones más recientes de los usuarios que sigo.
+Dado que ya sigo a varios usuarios,
+Cuando accedo a mi feed,
+Entonces debo ver una lista de las reseñas y recomendaciones más recientes de los usuarios que sigo.
 
 Escenario 3:
-            Dado que ya sigo a un usuario,
-            Cuando decido dejar de seguirlo,
-            Entonces el sistema debe dejar de mostrar sus reseñas y recomendaciones en mi feed.
-            </td>
-            <td>EP02</td>
-        </tr>
-        <tr>
-            <td>US-08</td>
-            <td>
-                Recuperación de Contraseña
-            </td>
-            <td>
-                Como usuario, deseo poder recuperar mi contraseña en caso de olvidarla, para poder acceder nuevamente a mi cuenta.
-            </td>
-            <td>
+Dado que ya sigo a un usuario,
+Cuando decido dejar de seguirlo,
+Entonces el sistema debe dejar de mostrar sus reseñas y recomendaciones en mi feed.
+</td>
+<td>EP02</td>
+</tr>
+<tr>
+<td>US-08</td>
+<td>
+Recuperación de Contraseña
+</td>
+<td>
+Como usuario, deseo poder recuperar mi contraseña en caso de olvidarla, para poder acceder nuevamente a mi cuenta.
+</td>
+<td>
 Escenario 1:
 Dado que he olvidado mi contraseña y hago clic en "¿Olvidaste tu contraseña?",
 Cuando ingreso mi correo electrónico en el formulario de recuperación,
@@ -1279,7 +1315,8 @@ Entonces el sistema debe enviarme un enlace para restablecer la contraseña.
 Escenario 2:
 Dado que he recibido el enlace de restablecimiento de contraseña,
 Cuando hago clic en el enlace y establezco una nueva contraseña,
-Entonces el sistema debe confirmar que mi contraseña ha sido actualizada correctamente y redirigirme a la página de inicio de sesión.
+Entonces el sistema debe confirmar que mi contraseña ha sido actualizada correctamente y redirigirme a la página de
+inicio de sesión.
 
 Escenario 3:
 Dado que he ingresado una nueva contraseña,
@@ -1290,14 +1327,15 @@ Escenario 4:
 Dado que el correo electrónico ingresado no está registrado,
 Cuando intento recuperar la contraseña,
 Entonces el sistema debe mostrar un mensaje indicando que no se ha encontrado una cuenta asociada con ese correo.
-            </td>
-            <td>EP01</td>
-        <tr>
-            <td>US-11</td>
-            <td>Ver análisis de libros mejor valorados </td>
-            <td>Como dueño de librería, quiero poder ver un análisis de los libros con mejor valoración y reseñas en la plataforma, para poder hacer promociones basadas en estas valoraciones. ​</td>
-            <td>
-            Escenario 1: Acceso al top de libros valorados
+</td>
+<td>EP01</td>
+<tr>
+  <td>US-9</td>
+  <td>Ver análisis de libros mejor valorados</td>
+  <td>Como dueño de librería, quiero poder ver un análisis de los libros con mejor valoración y reseñas en la plataforma, para poder hacer promociones basadas en estas valoraciones.</td>
+  <td>
+
+Escenario 1: Acceso al top de libros valorados
 Dado que soy un dueño de librería autenticado
 Cuando ingreso al dashboard
 Entonces veo una tabla con los 10 libros más valorados y reseñados
@@ -1311,40 +1349,41 @@ Escenario 3: Filtro por género inexistente
 Dado que estoy en el panel de librería
 Cuando selecciono un genero inexistente
 Entonces el sistema muestra un mensaje: “Genero no existente”
-</td>
-            <td>EP00</td>
-        </tr>
-        <tr>
-            <td>US-12</td>
-            <td>Analizar opiniones de usuarios </td>
-            <td>Como administrador de plataforma de streaming, quiero analizar las opiniones de los usuarios sobre mi contenido, para ajustar mi catálogo y ofrecer mejores opciones que se alineen con sus preferencias. ​</td>
-            <td>Escenario 1: Métricas generales por contenido
-Dado que soy administrador de plataforma
-Cuando accedo al panel de análisis
-Entonces veo calificación promedio
-              
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-10</td>
+  <td>Analizar opiniones de usuarios</td>
+  <td>Como administrador de plataforma de streaming, quiero analizar las opiniones de los usuarios sobre mi contenido, para ajustar mi catálogo y ofrecer mejores opciones que se alineen con sus preferencias.</td>
+  <td>
+Escenario 1: Métricas generales por contenido
+    Dado que soy administrador de plataforma
+    Cuando accedo al panel de análisis
+    Entonces veo calificación promedio
+
 Escenario 2: Filtro por fecha
 Dado que quiero analizar los últimos 30 días
 Cuando aplico un filtro de fecha
 Entonces el panel muestra solo métricas del rango indicado
-Escenario 3: Filtro por género
 
+Escenario 3: Filtro por género
 Dado que administro contenido de múltiples géneros
 Cuando selecciono “Drama”
 Entonces el sistema actualiza las métricas solo con contenido etiquetado como drama
-</td>
-            <td>EP00</td>
-        </tr>
-        <tr>
-            <td>US-13</td>
-            <td>Ver perfil de autor o actores</td>
-            <td>Como usuario, quiero poder ver la biografía y datos de un autor o actor (nombre, biografía, fecha de nacimiento, etc.), para conocer más sobre sus trabajos. ​</td>
-            <td>
-              Escenario 1: Registro exitoso
-Dado que soy un nuevo usuario
-Cuando completo el formulario de registro
-Entonces el sistema crea mi cuenta y me redirige al perfil
-              
+  </td>
+  <td>EPIC-8</td>
+</tr>
+<tr>
+  <td>US-11</td>
+  <td>Ver perfil de autor o actores</td>
+  <td>Como usuario, quiero poder ver la biografía y datos de un autor o actor (nombre, biografía, fecha de nacimiento, etc.), para conocer más sobre sus trabajos.</td>
+  <td>
+Escenario 1: Registro exitoso
+    Dado que soy un nuevo usuario
+    Cuando completo el formulario de registro
+    Entonces el sistema crea mi cuenta y me redirige al perfil
+
 Escenario 2: Inicio de sesión válido
 Dado que ya tengo una cuenta
 Cuando ingreso mis credenciales correctamente
@@ -1354,18 +1393,19 @@ Escenario 3: Error en inicio de sesión
 Dado que escribo mal mi contraseña
 Cuando intento iniciar sesión
 Entonces el sistema muestra un mensaje de error y permite reintentar
-</td>
-            <td>EP00</td>
-        </tr>
-        <tr>
-            <td>US-14</td>
-            <td>Consultar elenco de película/serie </td>
-            <td>Como usuario, quiero ver el listado de actores y sus roles en una película o serie, para tener contexto sobre el reparto. ​</td>
-            <td>Escenario 1: Visualización básica de reparto
-Dado que estoy en una ficha de serie
-Cuando despliego la sección “Elenco”
-Entonces aparece una lista con los actores y sus roles
-              
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-12</td>
+  <td>Consultar elenco de película/serie</td>
+  <td>Como usuario, quiero ver el listado de actores y sus roles en una película o serie, para tener contexto sobre el reparto.</td>
+  <td>
+Escenario 1: Visualización básica de reparto
+    Dado que estoy en una ficha de serie
+    Cuando despliego la sección “Elenco”
+    Entonces aparece una lista con los actores y sus roles
+
 Escenario 2: Acceso a perfil desde reparto
 Dado que veo a un actor en el elenco
 Cuando hago clic en su nombre
@@ -1374,38 +1414,43 @@ Entonces accedo a su perfil detallado
 Escenario 3: Mostrar número de episodios
 Dado que es una serie con múltiples temporadas
 Cuando consulto el elenco
-Entonces cada actor muestra en cuántos episodios ha participado</td>
-            <td>EP00</td>
-        </tr>
-        <tr>
-            <td>US-15</td>
-            <td>Gestionar suscripciones a plataformas </td>
-            <td>Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil, para que la plataforma sepa dónde busco contenido. ​</td>
-            <td>Escenario 1: Agregar plataforma
-Dado que estoy en “Plataformas suscritas”
-Cuando selecciono “Netflix” y guardo
-Entonces aparece en mi lista de suscripciones y se usa para filtrar disponibilidad
+Entonces cada actor muestra en cuántos episodios ha participado
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-13</td>
+  <td>Gestionar suscripciones a plataformas</td>
+  <td>Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil, para que la plataforma sepa dónde busco contenido.</td>
+  <td>
+    Escenario 1: Agregar plataforma
+    Dado que estoy en “Plataformas suscritas”
+    Cuando selecciono “Netflix” y guardo
+    Entonces aparece en mi lista de suscripciones y se usa para filtrar disponibilidad
 
 Escenario 2: Eliminar plataforma
 Dado que ya no uso una plataforma
 Cuando la desmarco y guardo
 Entonces desaparece de mi perfil y afecta mis recomendaciones
 
-Escenario 3: Ver contenido solo en mis plataformas  
+Escenario 3: Ver contenido solo en mis plataformas
 Dado que tengo varias suscripciones activas
 Cuando activo el filtro “Solo mis plataformas”
-Entonces solo se muestran contenidos disponibles en esas
-</td>
-          <td>EP00</td>
-        <tr>
-            <td>US-16</td>
-            <td>Marcar contenido como favorito </td>
-            <td>Como consumidor de contenido multimedia, quiero poder marcar una película, serie o libro como favorito, ztener un acceso rápido a mi contenido preferido. </td>
-            <td>Escenario 1: Añadir a favoritos
+Entonces solo se muestran contenidos disponibles en esas
+  </td>
+  <td>EPIC-2</td>
+</tr>
+<tr>
+  <td>US-14</td>
+  <td>Marcar contenido como favorito</td>
+  <td>Como consumidor de contenido multimedia, quiero poder marcar una película, serie o libro como favorito, tener un acceso rápido a mi contenido preferido.</td>
+  <td>
+
+Escenario 1: Añadir a favoritos
 Dado que estoy viendo una serie
 Cuando pulso el ícono de estrella
 Entonces se añade a mi lista de favoritos y el ícono cambia a relleno
-              
+
 Escenario 2: Eliminar de favoritos
 Dado que un contenido ya es favorito
 Cuando lo desmarco
@@ -1415,18 +1460,20 @@ Escenario 3: Visual feedback
 Dado que hago clic en el icono
 Cuando se registra la acción
 Entonces veo una notificación “Agregado a favoritos” o “Eliminado de favoritos”
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-15</td>
+  <td>Listar mis favoritos</td>
+  <td>Como consumidor de contenido multimedia, quiero ver en mi perfil una sección “Favoritos” con todas las obras que marqué, para acceder rápidamente a ellas.</td>
+  <td>
 
-</td>
-            <td>EP00</td>
-        <tr>
-            <td>US-17</td>
-            <td>Listar mis favoritos </td>
-            <td>Como consumidor de contenido multimedia, quiero ver en mi perfil una sección “Favoritos” con todas las obras que marqué, para acceder rápidamente a ellas. </td>
-            <td>Escenario 1: Acceso a favoritos
+Escenario 1: Acceso a favoritos
 Dado que tengo contenidos marcados
 Cuando voy a “Favoritos” desde mi perfil
 Entonces veo una lista con portadas, títulos y calificaciones
-              
+
 Escenario 2: Lista vacía
 Dado que aún no he agregado favoritos
 Cuando ingreso a la sección
@@ -1435,17 +1482,19 @@ Entonces el sistema muestra un mensaje motivando a marcar contenido como favorit
 Escenario 3: Navegación desde favoritos
 Dado que estoy en la lista
 Cuando hago clic en una obra
-Entonces soy redirigido a la ficha completa de ese contenido</td>
-            <td>EP00</td>
-        </tr>
-        <tr>
-            <td>US-18</td>
-            <td>Feed de contenido trending </td>
-            <td>Como usuario, quiero ver un feed de “Tendencias” con contenidos más reseñados y mejor valorados en la última semana, para descubrir lo más popular. </td>
-            <td>Escenario 1: Cargar contenido popular
-Dado que ingreso a la sección “Tendencias”
-Cuando la página se carga
-Entonces veo el top de contenidos más reseñados y valorados esta semana
+Entonces soy redirigido a la ficha completa de ese contenido
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-16</td>
+  <td>Feed de contenido trending</td>
+  <td>Como usuario, quiero ver un feed de “Tendencias” con contenidos más reseñados y mejor valorados en la última semana, para descubrir lo más popular.</td>
+  <td>
+Escenario 1: Cargar contenido popular
+    Dado que ingreso a la sección “Tendencias”
+    Cuando la página se carga
+    Entonces veo el top de contenidos más reseñados y valorados esta semana
 
 Escenario 2: Tendencias sin reseñas
 Dado que no hay reseñas recientes
@@ -1455,17 +1504,19 @@ Entonces el sistema muestra un mensaje: “Aún no hay tendencias disponibles”
 Escenario 3: Acceso desde la home
 Dado que estoy en la pantalla principal
 Cuando hago clic en “Ver más” bajo “Tendencias”
-Entonces se abre la sección completa con más recomendaciones populares</td>
-            <td>EP00</td>
-        </tr>
-        </tr>
-        <tr>
-            <td>US-19</td>
-            <td>Ver trailers y portadas </td>
-            <td>Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie dentro de la ficha de contenido, para tener un adelanto visual antes de consumirla. </td>
-            <td>Dado que estoy en la ficha de una película
-Cuando cargo la sección “Multimedia”
-Entonces se muestra el tráiler en un reproductor de video embebido
+Entonces se abre la sección completa con más recomendaciones populares
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-17</td>
+  <td>Ver trailers y portadas</td>
+  <td>Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie dentro de la ficha de contenido, para tener un adelanto visual antes de consumirla.</td>
+  <td>
+Escenario 1: Mostrar tráiler
+    Dado que estoy en la ficha de una película
+    Cuando accedo a la sección “Multimedia”
+    Entonces se muestra el tráiler en un reproductor de video embebido
 
 Escenario 2: Imagen de portada cargada correctamente
 Dado que consulto la página de una serie
@@ -1475,15 +1526,17 @@ Entonces aparece la imagen oficial de portada en alta resolución
 Escenario 3: Multimedia no disponible
 Dado que el contenido no tiene tráiler cargado
 Cuando accedo a la sección “Multimedia”
-Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”</td>
-            <td>EP00</td>
-        </tr>
-        </tr>
-        <tr>
-            <td>US-20</td>
-            <td>Marcar contenido como “Visto” </td>
-            <td>Como usuario, quiero marcar manualmente una película, serie o libro como “Visto/Leído”, para mantener mi historial actualizado. ​</td>
-            <td>Escenario 1: Marcar manualmente como visto
+Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-18</td>
+  <td>Marcar contenido como “Visto”</td>
+  <td>Como usuario, quiero marcar manualmente una película, serie o libro como “Visto/Leído”, para mantener mi historial actualizado.</td>
+  <td>
+
+Escenario 1: Marcar manualmente como visto
 Dado que he terminado de ver una serie
 Cuando entro a su ficha y pulso “Marcar como visto”
 Entonces se guarda en mi historial y el botón cambia a “Visto”
@@ -1496,60 +1549,284 @@ Entonces no incluyen contenido ya visto
 Escenario 3: Desmarcar un contenido visto
 Dado que marqué por error una película como vista
 Cuando entro a su ficha y desactivo el estado
-Entonces se elimina del historial y vuelve a estar disponible para recomendaciones
-</td>
-            <td>EP00</td>
-        </tr>
-        </tr>
-        <tr>
-            <td>US-21</td>
-            <td>Recordar próxima fecha de estreno </td>
-            <td>Como usuario, quiero recibir un recordatorio antes del estreno de una película o temporada de serie que me interesa, para agendarme con anticipación.</td>
-            <td>Escenario 1: Crear recordatorio para contenido próximo
-Dado que estoy en la ficha de una película próxima a estrenarse
-Cuando activo “Recordarme” y selecciono un día antes
-Entonces recibo una notificación por email en la fecha elegida
-              
-Escenario 2: Notificación en la app
-Dado que activé un recordatorio
-Cuando abro la app el día del estreno
-Entonces veo una alerta dentro de la plataforma avisándome del estreno
+Entonces se elimina del historial
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-19</td>
+  <td>Crear lista personalizada de contenido</td>
+  <td>Como usuario, quiero poder crear listas personalizadas de películas, series o libros, para organizarlos de acuerdo a mis intereses.</td>
+  <td>
+Escenario 1: Crear nueva lista
+    Dado que estoy en mi perfil
+    Cuando selecciono “Crear nueva lista”
+    Entonces puedo ingresar un nombre y descripción para la lista
 
-Escenario 3: Edición o cancelación del recordatorio
-Dado que ya configuré un aviso
-Cuando ingreso a la configuración de recordatorios
-Entonces puedo modificar la fecha o cancelar el recordatorio</td>
-            <td>EP00</td>
-        </tr>
-        </tr>
-        <tr>
-            <td>US-22</td>
-            <td>Bloquear usuario </td>
-            <td>Como usuario, quiero bloquear a otro usuario cuyas reseñas o mensajes me resulten molestos, para no seguir viendo su actividad. ​</td>
-            <td>Escenario 1: Bloquear desde perfil
-Dado que estoy viendo el perfil de otro usuario
-Cuando hago clic en “Bloquear” y confirmo
-Entonces sus publicaciones dejan de mostrarse en mi feed y no puede escribirme
+Escenario 2: Agregar contenido a la lista
+    Dado que he creado una lista
+    Cuando selecciono una película y elijo “Agregar a lista”
+    Entonces el contenido se agrega a la lista personalizada
 
-Escenario 2: Ver listado de usuarios bloqueados
-Dado que he bloqueado a varios usuarios
-Cuando accedo a configuración de privacidad
-Entonces veo la lista completa con opción de desbloquear
+Escenario 3: Eliminar contenido de la lista
+    Dado que un contenido ya no me interesa
+    Cuando selecciono la opción “Eliminar”
+    Entonces el contenido es removido de mi lista
 
-Escenario 3: Intento de interacción bloqueada
-Dado que un usuario está bloqueado por mí
-Cuando intenta comentar una de mis reseñas
-Entonces el sistema impide la acción y le muestra un mensaje: “No puedes interactuar con este usuario”
-</td>
-            <td>EP00</td>
-        </tr>
-        </tr>
-        <tr>
-            <td>US-23</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
+  </td>
+  <td>EPIC-2</td>
+</tr>
+<tr>
+  <td>US-20</td>
+  <td>Ver recomendaciones personalizadas</td>
+  <td>Como usuario, quiero recibir recomendaciones personalizadas basadas en mi historial de contenido, para descubrir cosas nuevas que me gusten.</td>
+  <td>
+Escenario 1: Recomendaciones basadas en vista
+    Dado que he visto varias películas de acción
+    Cuando accedo a la sección de recomendaciones
+    Entonces veo una lista de películas de acción sugeridas
+
+Escenario 2: Recomendaciones variadas
+Dado que tengo preferencias por géneros diversos
+Cuando entro a la sección de recomendaciones
+Entonces veo sugerencias de distintos géneros de acuerdo a mi historial
+
+Escenario 3: Actualización de recomendaciones
+Dado que he visto nuevo contenido
+Cuando regreso a la plataforma
+Entonces las recomendaciones se actualizan según mi historial reciente
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-21</td>
+  <td>Participar en discusiones</td>
+  <td>Como usuario, quiero poder participar en discusiones sobre mis contenidos favoritos, para compartir mis opiniones y ver las de otros.</td>
+  <td>
+Escenario 1: Comentar en una película
+    Dado que estoy en la ficha de una película
+    Cuando escribo un comentario en la sección de discusión
+    Entonces mi comentario se publica en el hilo de discusión
+
+Escenario 2: Responder a comentarios
+    Dado que hay un comentario que quiero responder
+    Cuando hago clic en “Responder”
+    Entonces puedo escribir y publicar una respuesta
+
+Escenario 3: Ver respuestas a mi comentario
+    Dado que he publicado un comentario
+    Cuando alguien responde
+    Entonces recibo una notificación y puedo ver la respuesta
+
+  </td>
+  <td>EPIC-3</td>
+</tr>
+<tr>
+  <td>US-22</td>
+  <td>Recibir notificaciones de nuevos comentarios</td>
+  <td>Como usuario, quiero recibir notificaciones cuando alguien comente en mis reseñas, para poder participar en las discusiones.</td>
+  <td>
+Escenario 1: Notificación de nuevo comentario
+    Dado que alguien comenta en mi reseña
+    Cuando se publica el comentario
+    Entonces recibo una notificación en mi perfil
+
+Escenario 2: Notificación de respuesta
+    Dado que alguien responde a uno de mis comentarios
+    Cuando la respuesta se publica
+    Entonces recibo una notificación sobre la respuesta
+
+Escenario 3: Desactivar notificaciones
+    Dado que no quiero recibir notificaciones
+    Cuando entro a la configuración
+    Entonces puedo desactivar las notificaciones de comentarios
+
+  </td>
+  <td>EPIC-7</td>
+</tr>
+<tr>
+  <td>US-23</td>
+  <td>Recibir recomendaciones de contenido basado en mis intereses</td>
+  <td>Como usuario, quiero recibir recomendaciones personalizadas basadas en mis intereses (géneros, autores, etc.), para descubrir contenido relevante.</td>
+  <td>
+Escenario 1: Activar recomendaciones personalizadas
+    Dado que estoy en la configuración de mi perfil
+    Cuando selecciono mis géneros y preferencias
+    Entonces el sistema me muestra contenido de esos géneros
+
+Escenario 2: Actualización de recomendaciones
+    Dado que cambio mis intereses
+    Cuando guardo los cambios
+    Entonces las recomendaciones se actualizan según mis nuevos intereses
+
+Escenario 3: Ver recomendaciones ajustadas a intereses
+    Dado que he seleccionado mis intereses
+    Cuando entro en la sección de recomendaciones
+    Entonces veo contenido relacionado con esos intereses
+
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-24</td>
+  <td>Guardar contenido para ver después</td>
+  <td>Como usuario, quiero poder guardar contenido para verlo más tarde, para no olvidarlo y acceder a él fácilmente.</td>
+  <td>
+Escenario 1: Guardar contenido en mi lista de “Ver más tarde”
+    Dado que estoy viendo una película
+    Cuando selecciono “Guardar para después”
+    Entonces la película se añade a mi lista personal de contenido
+
+Escenario 2: Acceder a la lista de “Ver más tarde”
+    Dado que tengo contenido guardado
+    Cuando accedo a la sección “Ver más tarde”
+    Entonces veo una lista de las películas y series guardadas
+
+Escenario 3: Eliminar contenido de la lista
+    Dado que ya no quiero ver una película guardada
+    Cuando la elimino de la lista
+    Entonces desaparece de mi sección de “Ver más tarde”
+
+  </td>
+  <td>EPIC-2</td>
+</tr>
+<tr>
+  <td>US-25</td>
+  <td>Modificar preferencias de notificación</td>
+  <td>Como usuario, quiero poder modificar mis preferencias de notificación (por ejemplo, activarlas solo para interacciones importantes), para controlar la frecuencia de alertas que recibo.</td>
+  <td>
+Escenario 1: Modificar tipo de notificación
+    Dado que estoy en la configuración de mi perfil
+    Cuando cambio el tipo de notificación a “Solo interacciones importantes”
+    Entonces recibo solo notificaciones de comentarios o respuestas
+
+Escenario 2: Desactivar todas las notificaciones
+    Dado que no quiero recibir notificaciones
+    Cuando selecciono “Desactivar todas las notificaciones”
+    Entonces dejo de recibir alertas de cualquier tipo
+
+Escenario 3: Activar notificaciones por actividad
+    Dado que quiero recibir notificaciones de contenido nuevo
+    Cuando habilito “Notificaciones por actividad”
+    Entonces recibo alertas sobre nuevos contenidos y recomendaciones
+
+  </td>
+  <td>EPIC-7</td>
+</tr>
+<tr>
+  <td>US-26</td>
+  <td>Ver contenido en diferentes idiomas</td>
+  <td>Como usuario, quiero poder ver contenido en varios idiomas, para disfrutar de películas o series en su idioma original o con subtítulos.</td>
+  <td>
+Escenario 1: Seleccionar idioma del contenido
+    Dado que estoy viendo una película
+    Cuando selecciono “Idioma” en el menú de opciones
+    Entonces puedo elegir entre diferentes idiomas disponibles
+
+Escenario 2: Activar subtítulos
+    Dado que estoy viendo una película en otro idioma
+    Cuando selecciono “Subtítulos”
+    Entonces puedo ver los subtítulos en el idioma que elija
+
+Escenario 3: Ver contenido sin subtítulos
+    Dado que estoy viendo contenido con subtítulos
+    Cuando desactivo la opción de subtítulos
+    Entonces el contenido se reproduce sin ellos
+
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-27</td>
+  <td>Ver contenido según mi estado de ánimo</td>
+  <td>Como usuario, quiero recibir recomendaciones de contenido basadas en mi estado de ánimo actual (por ejemplo, películas para relajarse, emocionantes, divertidas), para elegir lo que mejor se adapte a mi estado de ánimo.</td>
+  <td>
+Escenario 1: Seleccionar estado de ánimo
+    Dado que quiero ver algo emocionante
+    Cuando selecciono el filtro “Emocionante”
+    Entonces el sistema muestra una lista de películas y series emocionantes
+
+Escenario 2: Cambiar estado de ánimo
+    Dado que seleccioné un estado de ánimo
+    Cuando cambio mi selección a “Relajante”
+    Entonces las recomendaciones se actualizan con contenido relajante
+
+Escenario 3: Ver recomendaciones de estado de ánimo
+    Dado que he seleccionado mi estado de ánimo
+    Cuando entro en la sección “Recomendaciones”
+    Entonces el sistema muestra contenido adaptado a mi estado de ánimo
+
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+  <td>US-28</td>
+  <td>Desactivar cuenta temporalmente</td>
+  <td>Como usuario, quiero poder desactivar mi cuenta temporalmente, para pausarla sin eliminarla permanentemente.</td>
+  <td>
+Escenario 1: Desactivar cuenta temporalmente
+    Dado que quiero hacer una pausa en mi cuenta
+    Cuando selecciono la opción “Desactivar cuenta”
+    Entonces mi cuenta se desactiva y no puedo acceder hasta activarla nuevamente
+
+Escenario 2: Reactivar cuenta
+    Dado que he desactivado mi cuenta
+    Cuando ingreso con mi usuario y contraseña
+    Entonces mi cuenta se reactiva y puedo continuar usando la plataforma
+
+Escenario 3: Mensaje de desactivación
+    Dado que selecciono “Desactivar cuenta”
+    Cuando confirmo la acción
+    Entonces el sistema muestra un mensaje indicando que la cuenta se desactivó correctamente
+
+  </td>
+  <td>EPIC-1</td>
+</tr>
+<tr>
+  <td>US-29</td>
+  <td>Ver mi historial de contenido</td>
+  <td>Como usuario, quiero poder ver mi historial de contenido (películas vistas, series completadas, libros leídos), para tener un registro de lo que he consumido.</td>
+  <td>
+Escenario 1: Acceder a mi historial
+    Dado que soy un usuario autenticado
+    Cuando entro en mi perfil
+    Entonces puedo ver una lista de todo el contenido que he consumido
+
+Escenario 2: Filtrar por tipo de contenido
+    Dado que tengo un historial extenso
+    Cuando selecciono “Filtrar por tipo”
+    Entonces solo veo películas, series o libros según mi elección
+
+Escenario 3: Eliminar contenido del historial
+    Dado que ya no quiero que un contenido esté en mi historial
+    Cuando selecciono “Eliminar”
+    Entonces el contenido desaparece de la lista
+
+  </td>
+  <td>EPIC-2</td>
+</tr>
+<tr>
+  <td>US-30</td>
+  <td>Agregar amigos a mi perfil</td>
+  <td>Como usuario, quiero poder agregar amigos a mi perfil, para compartir recomendaciones de contenido con ellos.</td>
+  <td>
+Escenario 1: Enviar solicitud de amistad
+    Dado que quiero agregar a alguien como amigo
+    Cuando busco su nombre y selecciono “Agregar como amigo”
+    Entonces se envía una solicitud de amistad
+
+Escenario 2: Aceptar solicitud de amistad
+    Dado que recibí una solicitud de amistad
+    Cuando la acepto
+    Entonces esa persona se agrega a mi lista de amigos
+
+Escenario 3: Eliminar amigos
+    Dado que ya no quiero ser amigo de alguien
+    Cuando selecciono “Eliminar de amigos”
+    Entonces esa persona deja de estar en mi lista
+
+  </td>
+  <td>EPIC-4</td>
+</tr>
     </tbody>
 </table>

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdb13d85-6adb-4b9f-b96c-eb8b1eeeb923" name="Changes" comment="" />
+    <list default="true" id="bdb13d85-6adb-4b9f-b96c-eb8b1eeeb923" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "atomdragon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Raje-OS/Raje-repository.git",
+    "accountId": "a415f0df-92ec-411b-a113-f1246c8c32da"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -49,6 +64,8 @@
       <workItem from="1745330853649" duration="240000" />
       <workItem from="1745331315687" duration="2045000" />
       <workItem from="1745333433639" duration="4807000" />
+      <workItem from="1745380296683" duration="713000" />
+      <workItem from="1745459789826" duration="2120000" />
     </task>
     <servers />
   </component>
