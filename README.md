@@ -1641,24 +1641,6 @@ Entonces deben retornar resultados consistentes.
 </tr>
 <tr>
 <td>TS-02</td>
-<td>
-Seguridad en endpoints con JWT
-</td>
-<td>
-Como desarrollador, quiero proteger los endpoints con autenticación JWT, para asegurar que solo usuarios válidos puedan acceder a las funciones privadas del sistema.
-</td>
-<td>
-Escenario 1:
-Los tokens JWT se generan al iniciar sesión.
-Escenario 2:
-Los endpoints protegidos requieren el token válido.
-Escenario 3:
-Un token inválido devuelve error 403.
-</td>
-<td>EP01</td>
-</tr>
-<tr>
-<td>TS-03</td>
 <td>Implementación de búsqueda por contenido/td>
 <td>Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend.</td>
 <td>
@@ -1672,7 +1654,7 @@ La búsqueda es insensible a mayúsculas/minúsculas.
 <td>EP04</td>
 </tr>
 <tr>
-<td>TS-04</td>
+<td>TS-03</td>
 <td>Mockup funcional de perfil de usuario</td>
 <td>Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto.</td>
 <td>
@@ -1686,7 +1668,7 @@ Las reseñas se muestran ordenadas cronológicamente.
 <td>EP02</td>
 </tr>
 <tr>
-<td>TS-05</td>
+<td>TS-04</td>
 <td>Implementar relaciones N:M con tablas intermedias</td>
 <td>Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL.</td>
 <td>
@@ -1698,7 +1680,7 @@ Las consultas muestran correctamente los géneros asociados a un contenido y vic
 <td>EP08</td>
 </tr>
 <tr>
-<td>TS-06</td>
+<td>TS-05</td>
 <td>Sistema de ordenamiento y filtros en recomendaciones	</td>
 <td>Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones.</td>
 <td>
@@ -1712,7 +1694,7 @@ La URL incluye parámetros como ?genero=drama&orden=calificacion.
 <td>EP04</td>
 </tr>
 <tr>
-<td>US-07</td>
+<td>US-06</td>
 <td>Componente frontend de "Tendencias"</td>
 <td>Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales.	</td>
 <td>
@@ -1726,7 +1708,7 @@ Es visible tanto en desktop como móvil.
 <td>EP04</td>
 </tr>
 <tr>
-<td>TS-08</td>
+<td>TS-07</td>
 <td>
 Registro de actividad del usuario
 </td>
@@ -1741,7 +1723,7 @@ Se puede consultar el historial desde /api/usuario/{id}/actividad.
 </td>
 <td>EP01</td>
 <tr>
-  <td>TS-9</td>
+  <td>TS-8</td>
   <td>Agregar índices en campos clave de MySQL</td>
   <td>Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento.</td>
   <td>
