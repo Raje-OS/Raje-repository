@@ -801,7 +801,9 @@ En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lim
 </table>
 
 ### 2.3.3. User Journey Mapping
-
+<img src="Report_Assets/Customer journey map 1.png" alt="Journey Map 1" width="1000" height="1000"/>
+<img src="Report_Assets/Customer journey map 2.png" alt="Journey Map  2" width="1000" height="1000"/>
+<img src="Report_Assets/Customer journey map 3.png" alt="Journey Map  3" width="1000" height="1000"/>
 ### 2.3.4. Empathy Mapping
 
 <img src="Report_Assets/mapaE1.png" alt="Empthy map 1" width="1000" height="1000"/>
