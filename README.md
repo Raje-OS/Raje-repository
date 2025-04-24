@@ -854,9 +854,9 @@ donde los usuarios puedan expresarse libremente y descubrir contenido afín a su
 <img src="Report_Assets/Customer journey map 3.png" alt="Journey Map  3" width="1200" height="1000"/>
 ### 2.3.4. Empathy Mapping
 
-<img src="Report_Assets/mapaE1.png" alt="Empthy map 1" width="1000" height="1000"/>
-<img src="Report_Assets/mapaE2.png" alt="Empthy map 2" width="1000" height="1000"/>
-<img src="Report_Assets/mapaE3.png" alt="Empthy map 3" width="1000" height="1000"/>
+<img src="Report_Assets/mapaE11.png" alt="Empthy map 1" width="1000" height="1000"/>
+<img src="Report_Assets/mapaE21.png" alt="Empthy map 2" width="1000" height="1000"/>
+<img src="Report_Assets/mapaE31.png" alt="Empthy map 3" width="1000" height="1000"/>
 
 ### 2.3.5. As-is Scenario Mapping
 
