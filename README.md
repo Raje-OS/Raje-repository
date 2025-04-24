@@ -1742,6 +1742,10 @@ No hay duplicidad de índices innecesarios.
     </tbody>
 </table>
 
+## 3.3. Impact Mapping
+
+<img src="Report_Assets/Impact map 1.png" alt="Journey Map 1" width="1200" height="1000"/>
+
 
 ## 3.4. Product Backlog
 
