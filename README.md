@@ -1608,6 +1608,159 @@ Entonces las recomendaciones se actualizan según mi historial reciente
 
 
 
+
+**Technical Stories**
+
+
+
+
+<table>
+    <tr>
+        <th>Historia de Usuario ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de Aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
+    </tr>
+    <tbody>
+        <tr>
+            <td>TS-01</td>
+            <td>Diseño del Esquema Relacional en MySQL</td>
+            <td>Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos.</td>
+            <td>
+Escenario 1:
+Dado que se ha definido el modelo E/R
+Cuando se escriben los scripts de creación
+Entonces el esquema debe reflejar todas las entidades y relaciones normalizadas.
+Escenario 2:
+Dado que se crean claves foráneas
+Cuando se realizan consultas JOIN
+Entonces deben retornar resultados consistentes.
+</td>
+<td>EP08</td>
+</tr>
+<tr>
+<td>TS-02</td>
+<td>
+Seguridad en endpoints con JWT
+</td>
+<td>
+Como desarrollador, quiero proteger los endpoints con autenticación JWT, para asegurar que solo usuarios válidos puedan acceder a las funciones privadas del sistema.
+</td>
+<td>
+Escenario 1:
+Los tokens JWT se generan al iniciar sesión.
+Escenario 2:
+Los endpoints protegidos requieren el token válido.
+Escenario 3:
+Un token inválido devuelve error 403.
+</td>
+<td>EP01</td>
+</tr>
+<tr>
+<td>TS-03</td>
+<td>Implementación de búsqueda por contenido/td>
+<td>Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend.</td>
+<td>
+Escenario 1:
+GET /api/contenido?search=acción devuelve coincidencias por título o género.
+Escenario 2:
+Si no hay resultados, se retorna un array vacío.
+Escenario 3:
+La búsqueda es insensible a mayúsculas/minúsculas.
+</td>
+<td>EP04</td>
+</tr>
+<tr>
+<td>TS-04</td>
+<td>Mockup funcional de perfil de usuario</td>
+<td>Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto.</td>
+<td>
+Escenario 1:
+Se visualiza correctamente el perfil cargando desde una API.
+Escenario 2:
+El componente tiene diseño responsivo.
+Escenario 3:
+Las reseñas se muestran ordenadas cronológicamente.
+</td>
+<td>EP02</td>
+</tr>
+<tr>
+<td>TS-05</td>
+<td>Implementar relaciones N:M con tablas intermedias</td>
+<td>Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL.</td>
+<td>
+Escenario 1:
+Existen tablas intermedias con claves foráneas y claves primarias compuestas.
+Escenario 2:
+Las consultas muestran correctamente los géneros asociados a un contenido y viceversa.
+</td>
+<td>EP08</td>
+</tr>
+<tr>
+<td>TS-06</td>
+<td>Sistema de ordenamiento y filtros en recomendaciones	</td>
+<td>Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones.</td>
+<td>
+Escenario 1:
+El usuario puede filtrar por "solo series", "drama", etc.
+Escenario 2:
+Puede ordenar por calificación descendente.
+Escenario 3:
+La URL incluye parámetros como ?genero=drama&orden=calificacion.
+</td>
+<td>EP04</td>
+</tr>
+<tr>
+<td>US-07</td>
+<td>Componente frontend de "Tendencias"</td>
+<td>Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales.	</td>
+<td>
+Escenario 1:
+Se cargan los títulos más populares desde una API.
+Escenario 2:
+Incluye imagen de portada, nombre, calificación y tipo.
+Escenario 3:
+Es visible tanto en desktop como móvil.
+</td>
+<td>EP04</td>
+</tr>
+<tr>
+<td>TS-08</td>
+<td>
+Registro de actividad del usuario
+</td>
+<td>
+Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.
+</td>
+<td>
+Escenario 1:
+La tabla actividad_usuario almacena el tipo, fecha y entidad relacionada.
+Escenario 2:
+Se puede consultar el historial desde /api/usuario/{id}/actividad.
+</td>
+<td>EP01</td>
+<tr>
+  <td>TS-9</td>
+  <td>Agregar índices en campos clave de MySQL</td>
+  <td>Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento.</td>
+  <td>
+
+Escenario 1:
+Los tiempos de consulta se reducen en más del 50%.
+Escenario 2:
+Las consultas con WHERE y JOIN son óptimas.
+Escenario 3:
+No hay duplicidad de índices innecesarios.
+  </td>
+  <td>EPIC-8</td>
+</tr>
+
+</tr>
+    </tbody>
+</table>
+
+
 ## 3.4. Product Backlog
 
 A continuación, presentaremos el Product Backlog, el cual contiene todas las funcionalidades y características necesarias para el desarrollo de la plataforma. Este listado incluye tanto las historias de usuario como las tareas técnicas que facilitarán el progreso del proyecto. Para priorizar las tareas, se ha utilizado la escala Fibonacci (1, 2, 3, 5, 8, 13, 21), la cual ayuda a estimar el esfuerzo relativo requerido para completar cada tarea. Además, hemos asignado cada item a un sprint, de acuerdo con su relevancia y dependencias.
