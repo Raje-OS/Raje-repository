@@ -209,7 +209,11 @@ excepcionales. </td>
 </tr>
 <tr>
 <td><img src="Report_Assets/integrante4.png" alt="Integrante 4" width="100"/></td>
-<td></td>
+<td>Wilder Gonzalo Aliaga Urbina - U202222001
+
+Como estudiante universitario de 19 años y cursando la carrera de Ingeniería de Software en el sexto ciclo, tengo una sólida base en programación en C++, Python, HTML y CSS, además de habilidades en creatividad y organización grupal. Mi enfoque está en fomentar un ambiente de aprendizaje eficiente y participativo en equipo. Me apasiona encontrar soluciones innovadoras y siempre estoy dispuesto a aprender nuevas tecnologías que potencien mis proyectos.
+He trabajado en proyectos colaborativos donde la comunicación y la planificación fueron claves para lograr buenos resultados. Mi objetivo es seguir creciendo profesionalmente mientras contribuyo activamente al desarrollo de iniciativas tecnológicas con impacto positivo.
+</td>
 </tr>
 <tr>
 <td><img src="Report_Assets/integrante5.png" alt="Integrante 5" width="100"/></td>
