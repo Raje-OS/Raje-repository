@@ -1848,6 +1848,30 @@ La identidad de RAJE se basa en la autenticidad, la fuerza expresiva y la irreve
 
 ### 4.1.2. Web Style Guidelines
 
+En esta sección definimos los estándares visuales y de interacción para la versión web de RAJE, garantizando una experiencia de usuario coherente, accesible y atractiva en todos los dispositivos.
+
+Dado el enfoque de la plataforma —centrada en reseñas, calificaciones y exploración de contenido multimedia— es esencial que las interfaces sean responsivas, lo que ofrece múltiples ventajas tanto para usuarios como para desarrolladores: mejor usabilidad en distintos dispositivos, eficiencia en el desarrollo y una experiencia consistente.
+
+Adoptando un enfoque mobile-first, se implementa un sistema de grid de 12 columnas para versiones web y 4 columnas para dispositivos móviles, asegurando flexibilidad y organización en la distribución del contenido.
+
+**Tipografía**
+
+De acuerdo a la guía de estilo, se utilizará la tipografía Lexend Mega en la mayoría de los textos del sitio, ya que esta comunica modernidad, simplicidad y facilidad de lectura. Para el logotipo, se hace uso de una tipografía sans-serif personalizada, que otorga identidad única a la marca.
+
+Los tamaños de fuente se adaptarán automáticamente al dispositivo mediante unidades relativas (rem/em), manteniendo jerarquía visual y legibilidad en todo momento.
+
+**Paleta de Colores**
+
+| **Color**                        | **Uso**                                                                      | **Hex** |
+|----------------------------------|------------------------------------------------------------------------------|---------|
+| **Sangría Oscura (Dark Red)**    | Elemento principal del branding, logotipo y botones destacados               | #8B1E1E |
+| **Crema Suave (Light Beige)**    | Fondo neutro o de contraste, facilita la lectura y destaca otros componentes | #F5F5DC |
+| **Gris Muy Oscuro (Almost Black)** | Barra de navegación, texto en elementos secundarios                          | #2C2C2C |
+| **Gris Muy Claro (Light Gray)**  | Fondo secundario, separador visual, bordes suaves                            | #D3D3D3 |
+| **Amarillo**                     | Representación visual de calificaciones y favoritos (estrellas)              | #FFCC00 |
+
+![Raje-color-palette-2.png](Report_Assets/Raje-color-palette-2.png)
+
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
