@@ -1602,7 +1602,6 @@ Entonces las recomendaciones se actualizan según mi historial reciente
   </td>
   <td>EPIC-4</td>
 </tr>
-</tr>
     </tbody>
 </table>
 
@@ -1737,8 +1736,6 @@ No hay duplicidad de índices innecesarios.
   </td>
   <td>EPIC-8</td>
 </tr>
-
-</tr>
     </tbody>
 </table>
 
@@ -1797,3 +1794,104 @@ Escala de Story Points (Fibonacci):
 | 28    | US-12         | Consultar elenco de película/serie       | Como usuario quiero ver el listado de actores y sus roles en una película o serie para tener contexto sobre el reparto | 5            |
 | 29    | US-30         | Agregar amigos a mi perfil              | Como usuario quiero poder agregar amigos a mi perfil para compartir recomendaciones de contenido con ellos | 5            |
 | 30    | US-20         | Ver recomendaciones personalizadas       | Como usuario quiero recibir recomendaciones personalizadas basadas en mi historial de contenido para descubrir cosas nuevas que me gusten | 5            |
+
+# Capítulo IV: Product Design
+A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrolloenfocado y consistente de nuestra solución.
+
+## 4.1. Style Guidelines
+Una guía de estilo es un conjunto de normas que definen cómo debe redactarse, diseñarse o presentarse cualquier tipo de contenido, ya sea documentación, sitios web, aplicaciones u otras creaciones. A continuación, se detallan los lineamientos aplicados en la estructura del proyecto.
+
+### 4.1.1. General Style Guidelines
+
+- **Branding**
+La identidad de RAJE se basa en la autenticidad, la fuerza expresiva y la irreverencia. El nombre mismo, "RAJE", hace alusión a la acción de opinar sin filtros, y esto se traduce gráficamente en un logo con un rostro exagerado, caricaturesco, casi tribal, que comunica intensidad y personalidad. El branding busca conectar con un público joven, urbano y sin miedo a decir lo que piensa.
+
+![Raje-logo.png](Report_Assets/Raje-logo.png)
+
+- **Typography:** En el diseño de RAJE, se ha tomado la decisión de utilizar dos tipografías distintas para propósitos específicos:
+  - Logo: Se emplea una tipografía sans-serif personalizada, de estilo robusto y expresivo. Esta elección busca transmitir una identidad de marca fuerte, irreverente y distintiva, alineada con el tono directo y auténtico que caracteriza a RAJE. El diseño del logo enfatiza originalidad y personalidad propia, diferenciándose visualmente del contenido convencional.
+
+![Raje-typography.png](Report_Assets/Raje-typography.png)
+
+![Raje-typography-2.png](Report_Assets/Raje-typography-2.png)
+  - Texto general del sitio web: Se utiliza la tipografía Lexend Mega, una fuente sans-serif moderna, clara y amigable para la lectura digital. Esta tipografía fue elegida para garantizar una experiencia de usuario accesible, cómoda y coherente a lo largo de toda la plataforma, favoreciendo la lectura rápida y efectiva.
+
+![Raje-typography-text-1.png](Report_Assets/Raje-typography-text-1.png)
+![Raje-typography-text-2.png](Report_Assets/Raje-typography-text-2.png)
+- **Color Palette** La identidad visual de RAJE se apoya en una paleta que equilibra fuerza, cercanía y claridad. Cada color ha sido seleccionado estratégicamente para reflejar la personalidad directa, auténtica y joven de la plataforma, sin perder la funcionalidad y legibilidad necesarias en entornos digitales.
+![Raje-color-palette.png](Report_Assets/Raje-color-palette.png)
+
+  - **Dark Red / Sangría Oscura :**
+  Este es el color primario de RAJE. Su tono rojizo oscuro comunica pasión, energía, decisión y audacia. Representa la intensidad de las opiniones y la sinceridad de las reseñas que se publican en la plataforma. Es un color emocionalmente poderoso que genera recordación y refuerza la identidad de marca.
+
+  - **Light Beige / Crema suave :**
+    Sirve como fondo neutro o de contraste. Su ligereza visual facilita la lectura y permite destacar los componentes más vibrantes de la paleta. Transmite claridad, limpieza y organización, fundamentales para una buena experiencia de usuario.
+
+  - **Almost Black / Gris muy oscuro :**
+    Este tono es usado para la barra de navegación. Al ser un gris casi negro, ofrece excelente legibilidad sin el contraste agresivo del negro puro. Mantiene la elegancia y mejora el confort visual en pantalla, especialmente en sesiones prolongadas de lectura.
+
+  - **Light Gray / Gris muy claro :**
+    Complementa la interfaz como fondo secundario o separador visual. Aporta profundidad sutil y orden sin robar protagonismo al contenido principal. Ideal para tarjetas, bordes suaves o secciones internas.
+- **Spacing** Se definirá un sistema de espaciado modular que mantiene el diseño limpio, claro y ordenado, ideal para una interfaz orientada a reseñas y navegación amigable.
+
+  - Se establecerá una unidad base de espaciado de 8 px, que se aplicará para márgenes, paddings y separación entre componentes.
+
+  - El margen exterior mínimo en contenedores y secciones principales será de 24 px, asegurando un buen respiro visual.
+
+  - La separación vertical entre bloques de contenido, como títulos, párrafos o tarjetas, seguirá una progresión de 16 px, 32 px y 48 px dependiendo del nivel jerárquico del contenido.
+
+  - Se utilizará grillas de 12 columnas en la versión web con un gutter (espacio entre columnas) de 16 px, lo cual permitirá una distribución balanceada de contenido como reseñas, filtros y cards.
+
+  - Para interfaces móviles, se aplicará una grilla de 4 columnas con márgenes laterales de 16 px y gutters reducidos a 8 px, facilitando la lectura y el scroll en pantallas reducidas.
+
+  - Las tarjetas de contenido y botones mantendrán un padding interno estándar de 16 px, con un radio de borde ligeramente redondeado para suavizar la presentación.
+
+### 4.1.2. Web Style Guidelines
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+### 4.2.2. Labeling Systems
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems
+
+### 4.2.5. Navigation Systems
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+### 4.3.2. Landing Page Mock-up
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+### 4.6.2. Software Architecture Container Diagrams
+
+### 4.6.3. Software Architecture Components Diagrams
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+### 4.7.2. Class Dictionary
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
