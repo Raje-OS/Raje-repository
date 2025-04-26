@@ -2002,7 +2002,9 @@ Este wireframe muestra el diseño inicial de la página de inicio de Raje, con u
 
 ![Landing Page Wireframe.png](Report_Assets/Landing%20Page%20Wireframe.png)
 ### 4.3.2. Landing Page Mock-up
+Este mockup de la página de inicio de Raje muestra cómo se visualizarán los elementos clave de la plataforma. La interfaz destaca las recomendaciones más populares en películas, series y libros, permitiendo a los usuarios explorar el contenido según sus intereses. También se incluyen secciones interactivas donde los usuarios pueden leer y compartir opiniones, creando una experiencia dinámica y comunitaria. El diseño tiene un enfoque minimalista y atractivo, fomentando la participación mientras resalta las funcionalidades principales de la plataforma.
 
+![Landing Page Mockup.png](Report_Assets/Landing%20Page%20Mockup.png)
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
