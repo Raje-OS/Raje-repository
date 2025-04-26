@@ -204,8 +204,12 @@ la colaboración para lograr resultados
 excepcionales. </td>
 </tr>
 <tr>
-<td><img src="Report_Assets/integrante3.png" alt="Integrante 3" width="100"/></td>
-<td></td>
+<td><img src="Report_Assets/italo-verona.jpg" alt="Integrante 3" width="100"/></td>
+<td>
+U20221e617 Verona Flores Italo Sebastián
+
+Mi nombre es Italo Verona, tengo 20 años y actualmente curso el 5.º ciclo de la carrera de ingeniería de software en la UPC, una vez terminé la carrera quisiera especializarme en ciberseguridad en el país de España. Luego quisiera vivir en Finlandia. El objetivo de estudiar ciberseguridad es poder reforzar la seguridad informática que hoy en día es muy peligrosa ya sea para las personas o las empresas de todo el mundo.
+</td>
 </tr>
 <tr>
 <td><img src="Report_Assets/integrante4.png" alt="Integrante 4" width="100"/></td>
