@@ -1997,9 +1997,10 @@ Para que los usuarios se muevan por Raje fácilmente, organizamos la navegación
 Con esta forma de navegar, buscamos que cualquier usuario, nuevo o recurrente, se sienta cómodo usando Raje.
 
 ## 4.3. Landing Page UI Design
-
 ### 4.3.1. Landing Page Wireframe
+Este wireframe muestra el diseño inicial de la página de inicio de Raje, con una navegación clara hacia contenido destacado como películas, series y libros recomendados. Además, incluye una sección interactiva donde los usuarios pueden compartir sus opiniones y recomendaciones, fomentando la participación dentro de la comunidad.
 
+![Landing Page Wireframe.png](Report_Assets/Landing%20Page%20Wireframe.png)
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design
