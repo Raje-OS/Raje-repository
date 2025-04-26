@@ -2115,7 +2115,7 @@ En esta sección se presentan los mock-ups de la aplicación web, los cuales ilu
 ![MacBook Air - 59.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2059.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
-
+A continuación un diagrama que representa los user goals.
 
 
 ## 4.5. Web Applications Prototyping
