@@ -2006,8 +2006,10 @@ Este mockup de la página de inicio de Raje muestra cómo se visualizarán los e
 
 ![Landing Page Mockup.png](Report_Assets/Landing%20Page%20Mockup.png)
 ## 4.4. Web Applications UX/UI Design
-
 ### 4.4.1. Web Applications Wireframes
+Los wireframes de la aplicación web Raje presentan de manera estructurada la disposición de las principales pantallas y funciones, como la gestión de cuentas, publicación de reseñas, exploración de contenido y seguimiento de usuarios. Estos esquemas visuales priorizan la funcionalidad y la usabilidad, sirviendo como guía esencial para diseñadores y desarrolladores en la construcción de una experiencia intuitiva, dinámica y alineada con los intereses de los usuarios.
+
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
