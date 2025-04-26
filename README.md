@@ -2085,6 +2085,9 @@ Este flujo permite al usuario explorar la ficha completa de una obra, visualizar
 ![VerFichaContenidoyActores.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/VerFichaContenidoyActores.png)
 
 ### 4.4.3. Web Applications Mock-ups
+En esta sección se presentan los mock-ups de la aplicación web, los cuales ilustran de manera visual cómo se verá la interfaz de usuario en diferentes pantallas. Estos diseños detallan la disposición de los elementos, los colores, y las interacciones previstas, proporcionando una representación visual clara y detallada del aspecto final de la plataforma, lo que facilita la validación y optimización del diseño antes de su implementación.
+
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
