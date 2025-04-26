@@ -1980,6 +1980,22 @@ Con esto logramos que encontrar algo específico o explorar opciones relacionada
 
 ### 4.2.5. Navigation Systems
 
+Para que los usuarios se muevan por Raje fácilmente, organizamos la navegación de esta forma:
+
+-Menú principal: Está siempre visible en la parte superior y tiene accesos directos a: Inicio, Tendencias, Explorar, Favoritos y Mi Perfil.
+
+-Botones rápidos: En las páginas de contenido hay botones para:
+
+1.Crear una nueva reseña
+
+2.Agregar o quitar un contenido de favoritos
+
+3.Ver dónde está disponible el contenido
+
+4.Accesos desde el contenido: Desde la ficha de una película, serie o libro, el usuario puede ir directamente a ver reseñas de otros usuarios, información del autor o actor, o las plataformas donde puede ver o comprar el contenido.
+
+Con esta forma de navegar, buscamos que cualquier usuario, nuevo o recurrente, se sienta cómodo usando Raje.
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
