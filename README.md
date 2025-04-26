@@ -2064,4 +2064,4 @@ El diseño de la base de datos es crucial para nuestro proyecto porque garantiza
 
 ### 4.8.1. Database Diagram
 
-![Diagrama_Base_Datos]()
+![Diagrama_Base_Datos](Report_Assets/Raje-Diagrama-Fisico.png)
