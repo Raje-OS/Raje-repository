@@ -1756,7 +1756,7 @@ La URL incluye parámetros como ?genero=drama&orden=calificacion.
 <td>EP04</td>
 </tr>
 <tr>
-<td>US-06</td>
+<td>TS-06</td>
 <td>Componente frontend de "Tendencias"</td>
 <td>Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales.	</td>
 <td>
