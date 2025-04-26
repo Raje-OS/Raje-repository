@@ -1880,19 +1880,25 @@ En esta sección planteamos cómo organizaremos el contenido tanto en la Landing
 
 En Raje, elegimos diferentes formas de organizar el contenido para que la experiencia sea más intuitiva:
 
-**Organización Jerárquica:** En la Landing Page y en la Home de la app, mostramos primero lo más importante (contenido trending, reseñas destacadas y recomendaciones principales). La jerarquía ayuda a guiar la atención de los usuarios desde lo general hacia detalles más específicos.
+**Organización Jerárquica:** 
+En la Landing Page y en la Home de la app, mostramos primero lo más importante (contenido trending, reseñas destacadas y recomendaciones principales). La jerarquía ayuda a guiar la atención de los usuarios desde lo general hacia detalles más específicos.
 
-**Organización Secuencial:** Aplicada en los procesos de registro, creación de reseñas y edición de perfil. Acompañamos al usuario paso a paso para que no se pierda y complete sus acciones de manera rápida.
+**Organización Secuencial:** 
+Aplicada en los procesos de registro, creación de reseñas y edición de perfil. Acompañamos al usuario paso a paso para que no se pierda y complete sus acciones de manera rápida.
 
-**Organización Matricial:** En la sección de exploración de contenido (series, libros y películas), se pueden cruzar filtros como géneros, plataformas, valoraciones, etc., permitiendo buscar contenido desde distintos enfoques al mismo tiempo.
+**Organización Matricial:** 
+En la sección de exploración de contenido (series, libros y películas), se pueden cruzar filtros como géneros, plataformas, valoraciones, etc., permitiendo buscar contenido desde distintos enfoques al mismo tiempo.
 
 En cuanto al tipo de clasificación que usamos:
 
-Por tópicos: Dividimos el contenido en películas, series y libros.
+**Por tópicos:**
+Dividimos el contenido en películas, series y libros.
 
-Cronológica: Para mostrar las opiniones y reseñas más recientes en el feed de tendencias.
+**Cronológica:**
+Para mostrar las opiniones y reseñas más recientes en el feed de tendencias.
 
-Por intereses: En las recomendaciones personalizadas basadas en los gustos del usuario.
+**Por intereses:**
+En las recomendaciones personalizadas basadas en los gustos del usuario.
 
 ### 4.2.2. Labeling Systems
 
@@ -1924,27 +1930,53 @@ Para que Raje pueda ser encontrado fácilmente en Google y otros buscadores, def
 
 -Landing Page
 
-**Title:** Raje - Tu espacio para opinar libremente sobre Películas, Series y Libros
+**Title:**
+Raje - Tu espacio para opinar libremente sobre Películas, Series y Libros
 
-**Meta Description:** Únete a Raje y descubre dónde ver tus películas, series y libros favoritos. Deja tus opiniones sin filtros y recibe recomendaciones personalizadas.
+**Meta Description:**
+Únete a Raje y descubre dónde ver tus películas, series y libros favoritos. Deja tus opiniones sin filtros y recibe recomendaciones personalizadas.
 
-**Meta Keywords:** reseñas de películas, opiniones de libros, recomendaciones de series, Raje plataforma, libertad de expresión en entretenimiento
+**Meta Keywords:**
+reseñas de películas, opiniones de libros, recomendaciones de series, Raje plataforma, libertad de expresión en entretenimiento
 
-**Meta Author:** Caleta Innovations
+**Meta Author:** 
+Caleta Innovations
 
 -Aplicación Web (Home)
 
-**Title:** Raje - Comunidad de Reseñas y Recomendaciones Culturales
+**Title:** 
+Raje - Comunidad de Reseñas y Recomendaciones Culturales
 
-**Meta Description:** Comparte tus opiniones reales, explora nuevo contenido y conecta con personas que valoran la expresión auténtica en Raje.
+**Meta Description:**
+Comparte tus opiniones reales, explora nuevo contenido y conecta con personas que valoran la expresión auténtica en Raje.
 
-**Meta Keywords:** críticas de cine, reseñas auténticas, descubrir libros, series recomendadas, comunidad de opiniones
+**Meta Keywords:**
+críticas de cine, reseñas auténticas, descubrir libros, series recomendadas, comunidad de opiniones
 
-**Meta Author:** Caleta Innovations
+**Meta Author:**
+Caleta Innovations
 
 Estos metadatos ayudarán a que más personas encuentren Raje de manera natural en internet.
 
 ### 4.2.4. Searching Systems
+Para que los usuarios no se pierdan buscando contenido dentro de Raje, diseñamos un sistema de búsqueda bastante práctico:
+
+**Barra de búsqueda principal:**
+Se encuentra arriba en toda la web y app. Permite buscar directamente por nombre de película, serie o libro.
+
+**Filtros:**
+
+-Tipo de contenido (película, serie, libro)
+
+-Género
+
+-Plataformas disponibles (Netflix, Amazon, Librerías)
+
+-Calificación de usuarios
+
+Resultados: Después de buscar, el usuario verá resultados en forma de tarjetas con imagen, nombre, puntuación promedio y acceso rápido para marcar como favorito o reseñar.
+
+Con esto logramos que encontrar algo específico o explorar opciones relacionadas sea fácil y rápido.
 
 ### 4.2.5. Navigation Systems
 
