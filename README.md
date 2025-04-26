@@ -2009,7 +2009,32 @@ Este mockup de la página de inicio de Raje muestra cómo se visualizarán los e
 ### 4.4.1. Web Applications Wireframes
 Los wireframes de la aplicación web Raje presentan de manera estructurada la disposición de las principales pantallas y funciones, como la gestión de cuentas, publicación de reseñas, exploración de contenido y seguimiento de usuarios. Estos esquemas visuales priorizan la funcionalidad y la usabilidad, sirviendo como guía esencial para diseñadores y desarrolladores en la construcción de una experiencia intuitiva, dinámica y alineada con los intereses de los usuarios.
 
-
+![MacBook Air - 34.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2034.png)
+![MacBook Air - 35.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2035.png)
+![MacBook Air - 36.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2036.png)
+![MacBook Air - 37.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2037.png)
+![MacBook Air - 38.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2038.png)
+![MacBook Air - 39.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2039.png)
+![MacBook Air - 40.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2040.png)
+![MacBook Air - 41.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2041.png)
+![MacBook Air - 42.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2042.png)
+![MacBook Air - 43.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2043.png)
+![MacBook Air - 44.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2044.png)
+![MacBook Air - 45.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2045.png)
+![MacBook Air - 46.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2046.png)
+![MacBook Air - 47.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2047.png)
+![MacBook Air - 48.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2048.png)
+![MacBook Air - 49.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2049.png)
+![MacBook Air - 50.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2050.png)
+![MacBook Air - 51.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2051.png)
+![MacBook Air - 52.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2052.png)
+![MacBook Air - 53.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2053.png)
+![MacBook Air - 54.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2054.png)
+![MacBook Air - 55.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2055.png)
+![MacBook Air - 56.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2056.png)
+![MacBook Air - 57.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2057.png)
+![MacBook Air - 58.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2058.png)
+![MacBook Air - 60.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2060.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
