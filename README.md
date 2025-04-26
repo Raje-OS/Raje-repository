@@ -630,11 +630,49 @@ Esta sección presenta las estrategias iniciales de Raje para afrontar el entorn
 
 ### 2.2.2 Registro de entrevista
 
--Andres Jonathan Santos Espinoza (consumidor de contenido multimedia)
+*Consumidores de Contenido Multimedia*
 
-<img src="Report_Assets/foto entrevista andres.png" alt="User Persona 1" width="700" height="500"/>
+-Andres Jonathan Santos Espinoza ¡
+
+<img src="Report_Assets/foto entrevista andres.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EX4KkBl_vfRCuW2NP1HL_9gBpUpL5q9Uc3l4KLgKpWcdzw?e=fW5QGa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+-Mathias Medina Posito
+
+<img src="Report_Assets/foto entrevista posito.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EfVJe4L2MB1Ik3WVHxxnxHMBsN10nr-yrkW0qU8iQ7TFMg?e=t97eTS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+-Albino Alberto Cáseres Lizarbe
+
+<img src="Report_Assets/foto entrevista albino.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EZLDi8mX6mhKlgdz9it-4VcB8b_Plm-0xPkVU7pRG_Esow?e=i2QMvz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+*Dueños de Librerías*
+
+-Jorge Manuel Linares Zegarra
+
+<img src="Report_Assets/foto entrevista jorge.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EU6UCxmBit1Ih9XKPD_p3w8BRh7k5tq5iE0DmcTKHohLFw?e=2WH8BR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+-Diego Rodrigo Zapata Nuñes 
+
+<img src="Report_Assets/foto entrevista diego.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EaShS2nRrR9Fi3eDGshxE90BIA7TGMSK8JjLQ7hU4E-TXA?e=XJRIdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+-Martin Sebastian Sarmiento Collantes
+
+<img src="Report_Assets/foto entrevista martin.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EUrIOJhqFKlNvvhZIOjihGoBmCOlfWcjDQSIRAMa7fsBFQ?e=QSEkvQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### Analisis de entrevista
+
+*Consumidores de Contenido Multimedia*
 
 -Andres Jonathan Santos Espinoza (consumidor de contenido multimedia):
 
@@ -645,6 +683,31 @@ otros, cuando deja sus propias reseñas lo hace desde su experiencia personal. T
 censura en los comentarios de algunas plataformas y plantea que le gustaría recibir sugerencias de contenido más
 personalizadas según sus gustos. Su visión encaja muy bien con la propuesta de RAJE, que busca ser un espacio abierto
 donde los usuarios puedan expresarse libremente y descubrir contenido afín a sus intereses.
+
+-Jorge Manuel Linares Zegarra
+
+En la entrevista, Jorge Linares, dueño de una librería en San Miguel, destaca que su principal estrategia de promoción es el uso de redes sociales como Facebook e Instagram, además del boca a boca dentro de la tienda. Señala que la mayoría de sus clientes descubre su librería a través de estas plataformas. Jorge considera que una plataforma basada en reseñas reales de usuarios sería muy beneficiosa para su negocio, ya que aumentaría la visibilidad y confianza en sus libros, incentivando las compras. Además, menciona que escucha activamente las recomendaciones de sus clientes para mejorar su selección de productos. Finalmente, expresa interés en que una plataforma colaborativa permita destacar libros recomendados, mostrar stock en tiempo real y organizar eventos basados en los intereses de los lectores, con el objetivo de fortalecer la relación con su comunidad.
+
+-Albino Alberto Cáseres Lizarbe
+
+En la entrevista, Alvino Cáceres, estudiante de Ingeniería de Software, comenta que consume principalmente animes y series de drama que generen expectativa desde el primer capítulo. Descubre nuevo contenido mayormente a través de TikTok y redes sociales, dejando atrás las recomendaciones de amigos. No suele dejar reseñas, salvo cuando el contenido es muy malo, y cuando opina lo hace en redes sociales, no en plataformas formales. Aunque antes consideraba mucho las críticas de usuarios y expertos, una mala experiencia le llevó a confiar más en su propio criterio. Le gustaría que las recomendaciones de contenido se adaptaran mejor a sus gustos personales y sugiere que las plataformas deberían verificar mejor la autenticidad de las reseñas para evitar comentarios falsos o generados por bots.
+
+*Dueños de Librerías*
+
+-Jorge Manuel Linares Zegarra
+
+En la entrevista, Jorge Linares, dueño de una librería en San Miguel, comenta que actualmente promociona sus libros principalmente mediante redes sociales como Facebook e Instagram, además del boca a boca dentro de la tienda. Señala que la mayoría de sus clientes descubren la librería por estos medios. Jorge considera que una plataforma donde los lectores compartan reseñas sería muy beneficiosa, ya que permitiría que más personas conozcan los libros a partir de opiniones reales, lo cual incrementaría la confianza y las ventas. También menciona que suelen recibir comentarios de los clientes y que usan esa información para ajustar y mejorar su oferta de libros. Finalmente, sugiere que una colaboración ideal con una plataforma incluiría destacar libros recomendados, mostrar la disponibilidad en tiempo real y organizar eventos basados en los intereses de los lectores.
+
+-Diego Rodrigo Zapata Nuñes 
+
+En la entrevista, Diego Zapata, dueño de una librería en El Agustino, comenta que actualmente promociona sus libros mediante redes sociales como TikTok e Instagram, y también a través de recomendaciones entre clientes. Los nuevos visitantes suelen llegar gracias a estas redes o por referencias de amigos o familiares. Diego considera muy positiva la idea de una plataforma donde los lectores descubran libros mediante reseñas, ya que muchos clientes llegan específicamente buscando títulos recomendados por terceros. Reconoce que las reseñas influyen fuertemente en la decisión de compra, más incluso que las propias redes sociales, ya que el cliente suele confiar en recomendaciones personales. Además, estaría interesado en una colaboración donde su librería pueda aparecer como punto de compra tras una reseña, aunque reconoce que habría competencia fuerte entre librerías. En general, ve este tipo de plataforma como una oportunidad para aumentar el tráfico físico y virtual a su negocio.
+
+-Martin Sebastian Sarmiento Collantes
+
+En la entrevista, Martín Sarmiento, dueño de una librería en San Isidro, explicó que actualmente promociona sus libros mediante Instagram, sorteos y publicaciones en grupos de lectura locales. Comentó que sus clientes suelen descubrir su librería principalmente a través de redes sociales y por recomendaciones de antiguos compradores. Martín considera muy beneficiosa la creación de una plataforma basada en reseñas de usuarios, ya que aumentaría la visibilidad de su catálogo y permitiría atraer a un público lector más segmentado. Confirmó que las reseñas influyen mucho en la decisión de compra de sus clientes, pues generan confianza a partir de experiencias auténticas. Además, indicó que suelen recoger sugerencias y opiniones de sus clientes, incorporándolas en sus futuras adquisiciones de libros. Finalmente, mencionó que le gustaría colaborar en una plataforma subiendo su catálogo y participando en promociones o eventos, permitiendo que los lectores descubran fácilmente los libros que su librería ofrece.
+
+*Plataformas de Streaming*
+
 
 ## 2.3. Needfinding
 
