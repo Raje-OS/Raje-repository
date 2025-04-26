@@ -1880,11 +1880,11 @@ En esta sección planteamos cómo organizaremos el contenido tanto en la Landing
 
 En Raje, elegimos diferentes formas de organizar el contenido para que la experiencia sea más intuitiva:
 
-Organización Jerárquica: En la Landing Page y en la Home de la app, mostramos primero lo más importante (contenido trending, reseñas destacadas y recomendaciones principales). La jerarquía ayuda a guiar la atención de los usuarios desde lo general hacia detalles más específicos.
+**Organización Jerárquica:** En la Landing Page y en la Home de la app, mostramos primero lo más importante (contenido trending, reseñas destacadas y recomendaciones principales). La jerarquía ayuda a guiar la atención de los usuarios desde lo general hacia detalles más específicos.
 
-Organización Secuencial: Aplicada en los procesos de registro, creación de reseñas y edición de perfil. Acompañamos al usuario paso a paso para que no se pierda y complete sus acciones de manera rápida.
+**Organización Secuencial:** Aplicada en los procesos de registro, creación de reseñas y edición de perfil. Acompañamos al usuario paso a paso para que no se pierda y complete sus acciones de manera rápida.
 
-Organización Matricial: En la sección de exploración de contenido (series, libros y películas), se pueden cruzar filtros como géneros, plataformas, valoraciones, etc., permitiendo buscar contenido desde distintos enfoques al mismo tiempo.
+**Organización Matricial:** En la sección de exploración de contenido (series, libros y películas), se pueden cruzar filtros como géneros, plataformas, valoraciones, etc., permitiendo buscar contenido desde distintos enfoques al mismo tiempo.
 
 En cuanto al tipo de clasificación que usamos:
 
@@ -1919,6 +1919,30 @@ Optamos por un sistema de etiquetas sencillo y amigable para que los usuarios en
 Las etiquetas se eligieron buscando que transmitan claramente lo que el usuario va a encontrar. Por ejemplo, en la sección "Explorar", el usuario sabe que podrá buscar contenido nuevo. Además, evitamos tecnicismos o nombres complicados.
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+Para que Raje pueda ser encontrado fácilmente en Google y otros buscadores, definimos lo siguiente:
+
+-Landing Page
+
+**Title:** Raje - Tu espacio para opinar libremente sobre Películas, Series y Libros
+
+**Meta Description:** Únete a Raje y descubre dónde ver tus películas, series y libros favoritos. Deja tus opiniones sin filtros y recibe recomendaciones personalizadas.
+
+**Meta Keywords:** reseñas de películas, opiniones de libros, recomendaciones de series, Raje plataforma, libertad de expresión en entretenimiento
+
+**Meta Author:** Caleta Innovations
+
+-Aplicación Web (Home)
+
+**Title:** Raje - Comunidad de Reseñas y Recomendaciones Culturales
+
+**Meta Description:** Comparte tus opiniones reales, explora nuevo contenido y conecta con personas que valoran la expresión auténtica en Raje.
+
+**Meta Keywords:** críticas de cine, reseñas auténticas, descubrir libros, series recomendadas, comunidad de opiniones
+
+**Meta Author:** Caleta Innovations
+
+Estos metadatos ayudarán a que más personas encuentren Raje de manera natural en internet.
 
 ### 4.2.4. Searching Systems
 
