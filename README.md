@@ -1893,7 +1893,30 @@ Por tópicos: Dividimos el contenido en películas, series y libros.
 Cronológica: Para mostrar las opiniones y reseñas más recientes en el feed de tendencias.
 
 Por intereses: En las recomendaciones personalizadas basadas en los gustos del usuario.
+
 ### 4.2.2. Labeling Systems
+
+Optamos por un sistema de etiquetas sencillo y amigable para que los usuarios entiendan todo de inmediato. Usamos palabras comunes y cortas. Algunos ejemplos:
+
+-Home
+
+-Tendencias
+
+-Explorar
+
+-Favoritos
+
+-Mi Perfil
+
+-Nueva Reseña
+
+-Buscar
+
+-Películas / Series / Libros
+
+-Ranking
+
+Las etiquetas se eligieron buscando que transmitan claramente lo que el usuario va a encontrar. Por ejemplo, en la sección "Explorar", el usuario sabe que podrá buscar contenido nuevo. Además, evitamos tecnicismos o nombres complicados.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
