@@ -2087,7 +2087,32 @@ Este flujo permite al usuario explorar la ficha completa de una obra, visualizar
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan los mock-ups de la aplicación web, los cuales ilustran de manera visual cómo se verá la interfaz de usuario en diferentes pantallas. Estos diseños detallan la disposición de los elementos, los colores, y las interacciones previstas, proporcionando una representación visual clara y detallada del aspecto final de la plataforma, lo que facilita la validación y optimización del diseño antes de su implementación.
 
-
+![MacBook Air - 7.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%207.png)
+![MacBook Air - 8.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%208.png)
+![MacBook Air - 9.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%209.png)
+![MacBook Air - 10.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2010.png)
+![MacBook Air - 11.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2011.png)
+![MacBook Air - 13.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2013.png)
+![MacBook Air - 14.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2014.png)
+![MacBook Air - 16.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2016.png)
+![MacBook Air - 17.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2017.png)
+![MacBook Air - 18.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2018.png)
+![MacBook Air - 19.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2019.png)
+![MacBook Air - 20.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2020.png)
+![MacBook Air - 21.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2021.png)
+![MacBook Air - 22.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2022.png)
+![MacBook Air - 23.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2023.png)
+![MacBook Air - 24.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2024.png)
+![MacBook Air - 25.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2025.png)
+![MacBook Air - 26.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2026.png)
+![MacBook Air - 27.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2027.png)
+![MacBook Air - 28.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2028.png)
+![MacBook Air - 29.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2029.png)
+![MacBook Air - 30.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2030.png)
+![MacBook Air - 31.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2031.png)
+![MacBook Air - 32.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2032.png)
+![MacBook Air - 33.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2033.png)
+![MacBook Air - 59.png](Report_Assets/Web%20Applications%20Mock-ups/MacBook%20Air%20-%2059.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
