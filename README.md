@@ -1873,9 +1873,26 @@ Los tamaños de fuente se adaptarán automáticamente al dispositivo mediante un
 ![Raje-color-palette-2.png](Report_Assets/Raje-color-palette-2.png)
 
 ## 4.2. Information Architecture
+
 En esta sección planteamos cómo organizaremos el contenido tanto en la Landing Page como en la Aplicación Web de Raje. Nuestro objetivo es que los usuarios puedan adaptarse rápido a la plataforma y encuentren todo de manera sencilla y clara. Explicamos las decisiones tomadas respecto a los sistemas de organización, etiquetado, navegación, búsqueda y los aspectos de SEO que aplicaremos.
+
 ### 4.2.1. Organization Systems
 
+En Raje, elegimos diferentes formas de organizar el contenido para que la experiencia sea más intuitiva:
+
+Organización Jerárquica: En la Landing Page y en la Home de la app, mostramos primero lo más importante (contenido trending, reseñas destacadas y recomendaciones principales). La jerarquía ayuda a guiar la atención de los usuarios desde lo general hacia detalles más específicos.
+
+Organización Secuencial: Aplicada en los procesos de registro, creación de reseñas y edición de perfil. Acompañamos al usuario paso a paso para que no se pierda y complete sus acciones de manera rápida.
+
+Organización Matricial: En la sección de exploración de contenido (series, libros y películas), se pueden cruzar filtros como géneros, plataformas, valoraciones, etc., permitiendo buscar contenido desde distintos enfoques al mismo tiempo.
+
+En cuanto al tipo de clasificación que usamos:
+
+Por tópicos: Dividimos el contenido en películas, series y libros.
+
+Cronológica: Para mostrar las opiniones y reseñas más recientes en el feed de tendencias.
+
+Por intereses: En las recomendaciones personalizadas basadas en los gustos del usuario.
 ### 4.2.2. Labeling Systems
 
 ### 4.2.3. SEO Tags and Meta Tags
