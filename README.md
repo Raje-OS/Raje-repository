@@ -2060,4 +2060,8 @@ Los wireframes de la aplicación web Raje presentan de manera estructurada la di
 
 ## 4.8. Database Design
 
+El diseño de la base de datos es crucial para nuestro proyecto porque garantiza que toda la información se almacene de manera organizada, consistente y segura. Una estructura sólida nos permitirá manejar grandes volúmenes de datos relacionados —como usuarios, contenidos, plataformas y reseñas— de forma eficiente, asegurando rapidez en las consultas, integridad en las relaciones entre datos y facilidad para escalar o adaptar el sistema conforme evolucionen las necesidades del proyecto.
+
 ### 4.8.1. Database Diagram
+
+![Diagrama_Base_Datos]()
