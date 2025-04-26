@@ -1873,7 +1873,7 @@ Los tamaños de fuente se adaptarán automáticamente al dispositivo mediante un
 ![Raje-color-palette-2.png](Report_Assets/Raje-color-palette-2.png)
 
 ## 4.2. Information Architecture
-
+En esta sección planteamos cómo organizaremos el contenido tanto en la Landing Page como en la Aplicación Web de Raje. Nuestro objetivo es que los usuarios puedan adaptarse rápido a la plataforma y encuentren todo de manera sencilla y clara. Explicamos las decisiones tomadas respecto a los sistemas de organización, etiquetado, navegación, búsqueda y los aspectos de SEO que aplicaremos.
 ### 4.2.1. Organization Systems
 
 ### 4.2.2. Labeling Systems
