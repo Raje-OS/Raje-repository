@@ -310,7 +310,67 @@ sobre contenido audiovisual y literario, sino también leer las críticas de otr
     </tr>
      <tr>
       <td> How much ( Cuánto ) </td>
-      <td> </td>
+  <td>
+     *- Acceso a Internet*
+    
+Población Mundial: 8,000 millones de personas.
+Acceso a Internet: Aproximadamente el 66% de la población mundial tiene acceso a
+Internet, lo que representa a unos 5.3 mil millones de personas (ITU Statistics, 2023).
+
+<img src="Report_Assets/Grafico Acceso a Internet.png" alt="User Persona 1" width="200" height="200"/>
+
+*- Sin Acceso a Internet*
+
+Cerca del 34% de la población mundial, es decir, unos 2.7 mil millones de personas, no
+tienen acceso a Internet, limitando su capacidad para expresar opiniones en línea
+(Statista, 2023).
+
+<img src="Report_Assets/Grafico Sin Acceso Internet.png" alt="User Persona 1" width="200" height="200"/>
+
+*- Restricciones de Libertad de Expresión:*
+
+Población en Países con Restricciones: Según Freedom House, alrededor del 40% de la
+población mundial vive en países donde la libertad de expresión es "parcialmente libre"
+o "no libre". Esto equivale a aproximadamente 3.2 mil millones de personas que podrían
+enfrentar restricciones para compartir sus opiniones libremente en línea (Freedom
+House, 2023).
+
+*- Impacto de las Normas Sociales:*
+
+En sociedades con normas culturales estrictas o donde
+existe temor al juicio social, una parte de la población puede sentirse incómoda o
+temerosa de expresar sus opiniones honestamente. Estimando que esto afecta a un 20%
+de las personas con acceso a Internet y libertad de expresión, esto afectaría a alrededor de
+1.06 mil millones de personas (World Values Survey y Pew Research Center, n./d.).     
+
+*- Estimación Combinada:*
+
+Personas sin acceso a Internet o con libertad de expresión restringida:
+Aproximadamente 3.2 mil millones.
+Personas con acceso pero con barreras culturales o sociales: Alrededor de 1.06 mil
+millones.
+Total estimado de personas que no pueden opinar libremente: Aproximadamente 4.26
+mil millones de personas.
+
+*- Estimación Combinada:*
+
+Personas sin acceso a Internet o con libertad de expresión restringida:
+Aproximadamente 3.2 mil millones.
+Personas con acceso pero con barreras culturales o sociales: Alrededor de 1.06 mil
+millones.
+Total estimado de personas que no pueden opinar libremente: Aproximadamente 4.26
+mil millones de personas.
+
+*-  Interpretación:*
+
+Aproximadamente 4.26 mil millones de personas, o el 53% de la población mundial,
+podrían estar limitadas en su capacidad para opinar libremente sobre películas, series o
+libros debido a la falta de acceso a Internet, restricciones de libertad de expresión o
+barreras culturales. Esto destaca la importancia de crear plataformas accesibles y
+seguras que permitan a más personas compartir sus opiniones y participar en
+discusiones sobre contenido cultural sin restricciones.
+
+  </td>
     </tr>
   </tbody>
 </table>
