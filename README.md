@@ -2474,7 +2474,7 @@ Sarmiento Medina Loreley
   <tr>
     <td colspan="1"><strong>Sprint n – 1 Retrospective Summary</strong></td>
     <td colspan="1">
-        Mejorar la comunicación entre los miembros del equipo y la gestión de tareas. Se sugiere realizar reuniones semanales para revisar el avance de cada miembro y asegurar que todos estén alineados con los objetivos del sprint.
+        Mejorar la comunicación entre los miembros del equipo y la gestión de tareas.
     </td>
   </tr>
   <tr>
@@ -2483,7 +2483,7 @@ Sarmiento Medina Loreley
   <tr>
     <td colspan="1"><strong>Sprint 1 Goal</strong></td>
     <td colspan="1">
-        Nuestro enfoque en este sprint es implementar la landing page de nuestro producto. Creemos que esto proporcionará una presentación atractiva y clara, lo cual se confirmará cuando cada sección de la página sea explorada por los usuarios.
+        Nuestro enfoque en este sprint es implementar la landing page de nuestro producto. Creemos que esto proporcionará una presentación atractiva y clara.
     </td>
   </tr>
   <tr>
@@ -2505,6 +2505,8 @@ Sarmiento Medina Loreley
 En este ítem se describe el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo el ID, la user story, las tareas/work-items, la descripción, la estimación, la asignación de responsabilidades y el estado.
 
 El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que se presenta a continuación, establece las tareas concretas que el equipo se comprometió a realizar durante la primera iteración.
+
+![Trello.png](Report_Assets/Trello.png)
 
 <table>
   <tr>
