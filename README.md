@@ -2283,10 +2283,6 @@ A continuación, describiremos el proceso mediante el cual organizamos, gestiona
 
 
 
-### 5.2. Landing Page, Services & Applications Implementation.
-
-
-
 ## 5.2. Landing Page, Services & Applications Implementation
 
 
