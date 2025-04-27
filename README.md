@@ -2258,9 +2258,9 @@ A continuación, se presenta el prototipo de la aplicación web de Raje, diseña
 <img src="Report_Assets/RAJE-C4CONTEXT.png" alt="C4 1" width="1200"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
-
+<img src="Report_Assets/RAJE-C4CONTE.png" alt="C4 1" width="1200"/>
 ### 4.6.3. Software Architecture Components Diagrams
-
+<img src="Report_Assets/RAJE-C4COMPO.png" alt="C4 1" width="1200"/>
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
