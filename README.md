@@ -2753,4 +2753,6 @@ Para llevar a cabo los procesos relacionados con la creación de la landing page
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
+En este sprint, las tareas se dividieron entre el diseño y la implementación de la landing page. Todos los integrantes participaron en el desarrollo del diseño, mientras que la responsabilidad del desarrollo e implementación de la landing page fue asumida por Mateo Cabanillas.
 
+![Team Collaboration Insights during Sprint.png](Report_Assets/Team%20Collaboration%20Insights%20during%20Sprint.png)
