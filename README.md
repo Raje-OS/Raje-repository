@@ -2300,7 +2300,7 @@ A continuación, se presenta el prototipo de la aplicación web de Raje, diseña
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-
+![Diagrama](Report_Assets/Raje-logo.png)
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
@@ -2309,7 +2309,7 @@ El diseño de la base de datos es crucial para nuestro proyecto porque garantiza
 
 ### 4.8.1. Database Diagram
 
-![Diagrama_Base_Datos](Report_Assets/Raje-Diagrama-Fisico.png)
+![Diagrama_Base_Datos](Report_Assets/ClaseUML.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1 Software Configuration Management
