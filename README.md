@@ -2577,116 +2577,55 @@ A continuación, se muestra una recopilación de los commits realizados en la la
 **Tabla de commits de la landing-page**
 <table>
   <tr>
-    <td colspan="1"><strong>Repository</strong></td>
-    <td colspan="1"> </td>
-    <td colspan="1"><strong>Branch</strong></td>
-    <td colspan="1"> </td>
-    <td colspan="1"><strong>Commit Id</strong></td>
-    <td colspan="1"> </td>
-    <td colspan="1"><strong>Commit Message</strong></td>
-    <td colspan="1"> </td>
-    <td colspan="1"><strong>Commit Message Body</strong></td>
-    <td colspan="1"> </td>
-    <td colspan="1"><strong>Committed on (Date)</strong></td>
-    <td colspan="1"> </td>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Committed on (Date)</strong></td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-  </tr>
-  <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-  </tr>
-  <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-  </tr>
-  <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 No se llevaron a cabo pruebas en este sprint, ya que se centró únicamente en el desarrollo de la landing page.
