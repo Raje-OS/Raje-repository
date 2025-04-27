@@ -162,6 +162,18 @@ Sarmiento Medina Loreley U202310005<br>
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+## STUDENT OUTCOME
+
+**ABET – EAC – Student Outcome 3**: *Habilidad para comunicarse de manera efectiva ante diversas audiencias.*
+
+A continuación, se presenta el cuadro detallado que evidencia cómo el equipo de RAJE cumplió con este resultado de aprendizaje:
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|:--------------------|:--------------------|:-------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | El equipo de RAJE expuso en múltiples instancias: presentaciones semanales de avances, exposiciones de resultados de entrevistas, defensas de diseño de base de datos (relacional y no relacional) y validación de propuestas de valor ante compañeros y docentes. Cada integrante participó en la socialización de hallazgos de needfinding, lean UX y arquitectura de software, adaptando su lenguaje técnico o conceptual según la audiencia (usuarios, libreros, plataformas de streaming, docentes evaluadores). | La participación activa en las presentaciones permitió fortalecer la capacidad de adaptar el discurso según el perfil del oyente, mejorando la claridad, persuasión y argumentación técnica. Esta habilidad fue crucial para obtener feedback temprano, alinear expectativas entre stakeholders y afianzar la propuesta de RAJE como una solución relevante para distintos públicos. Además, se facilitó la identificación oportuna de oportunidades de mejora en diseño y usabilidad. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | El equipo elaboró múltiples entregables escritos de alto nivel técnico y estratégico: documentación del Lean UX Canvas, análisis competitivo, registros y análisis de entrevistas, especificaciones de requisitos (user stories, epics, impact mapping), diseño de bases de datos, guías de estilo para la plataforma, wireframes, mockups y el informe final del proyecto. Se utilizó un lenguaje claro, ordenado y adaptado a la formalidad requerida por el contexto académico, pero también accesible para stakeholders técnicos y no técnicos. | La comunicación escrita estructurada permitió consolidar la visión del proyecto, asegurar la coherencia en el desarrollo de RAJE, y facilitar el trabajo colaborativo. Además, dejó documentada la evolución de las decisiones de diseño y permitió que cualquier miembro del equipo o evaluador pudiera comprender el proyecto de manera independiente. Esto reforzó la calidad, trazabilidad y profesionalismo del desarrollo de la plataforma. También se fomentó la práctica de escribir pensando en diferentes audiencias: usuarios finales, aliados estratégicos y evaluadores académicos. |
+| **Utiliza medios visuales y diagramas para complementar la comunicación** | Se diseñaron diversos recursos visuales: Customer Journey Maps, Empathy Maps, As-is y To-be Scenario Maps, Wireflows, Mockups funcionales de la plataforma, Diagramas UML con patrones de diseño (Builder, Strategy), Diagramas de arquitectura software (Contexto, Contenedores, Componentes) y mapas de navegación de UI/UX. Estos materiales se expusieron oralmente y se incluyeron en el informe escrito. | El uso de medios visuales facilitó la transmisión de ideas complejas de manera sencilla, mejorando la comprensión de la solución propuesta entre diferentes audiencias. Además, fortaleció la argumentación técnica durante las presentaciones orales y permitió validar hipótesis de usuario de manera más efectiva. Integrar comunicación verbal, escrita y visual se convirtió en una estrategia clave para el éxito del proyecto RAJE. |
+
 
 # Capítulo I: Introducción
 
