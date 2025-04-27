@@ -694,7 +694,7 @@ Esta sección presenta las estrategias iniciales de Raje para afrontar el entorn
 
 ### 2.2.2 Registro de entrevista
 
-*Consumidores de Contenido Multimedia*
+Consumidores de Contenido Multimedia
 
 -Andres Jonathan Santos Espinoza ¡
 
@@ -702,51 +702,7 @@ Esta sección presenta las estrategias iniciales de Raje para afrontar el entorn
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EX4KkBl_vfRCuW2NP1HL_9gBpUpL5q9Uc3l4KLgKpWcdzw?e=fW5QGa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
--Mathias Medina Posito
-
-<img src="Report_Assets/foto entrevista posito.png" alt="User Persona 1" width="700" height="400"/>
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EfVJe4L2MB1Ik3WVHxxnxHMBsN10nr-yrkW0qU8iQ7TFMg?e=t97eTS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
--Albino Alberto Cáseres Lizarbe
-
-<img src="Report_Assets/foto entrevista albino.png" alt="User Persona 1" width="700" height="400"/>
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EZLDi8mX6mhKlgdz9it-4VcB8b_Plm-0xPkVU7pRG_Esow?e=i2QMvz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-*Dueños de Librerías*
-
--Jorge Manuel Linares Zegarra
-
-<img src="Report_Assets/foto entrevista jorge.png" alt="User Persona 1" width="700" height="400"/>
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EU6UCxmBit1Ih9XKPD_p3w8BRh7k5tq5iE0DmcTKHohLFw?e=2WH8BR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
--Diego Rodrigo Zapata Nuñes 
-
-<img src="Report_Assets/foto entrevista diego.png" alt="User Persona 1" width="700" height="400"/>
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EaShS2nRrR9Fi3eDGshxE90BIA7TGMSK8JjLQ7hU4E-TXA?e=XJRIdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
--Martin Sebastian Sarmiento Collantes
-
-<img src="Report_Assets/foto entrevista martin.png" alt="User Persona 1" width="700" height="400"/>
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EUrIOJhqFKlNvvhZIOjihGoBmCOlfWcjDQSIRAMa7fsBFQ?e=QSEkvQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Dueños de plataformas de Streaming**
-
-<img src="Report_Assets/foto entrevista Gabriel Herrera.png" alt="User Persona 1" width="700" height="400"/>
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e617_upc_edu_pe/Eb4yO1LblFBPtoD3oFHIDqwBGEaiyQWEu0cJ8OK7EVu7tQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hed0Vb
-
-
-
-### Analisis de entrevista
-
-*Consumidores de Contenido Multimedia*
-
--Andres Jonathan Santos Espinoza (consumidor de contenido multimedia):
+Transcripción resumen de entrevista:
 
 En la entrevista, Andrés, estudiante de comunicaciones en la Universidad de Lima, se muestra como un consumidor
 cuidadoso y con preferencias marcadas, especialmente por las películas. Suele apoyarse en reseñas y recomendaciones de
@@ -756,36 +712,88 @@ censura en los comentarios de algunas plataformas y plantea que le gustaría rec
 personalizadas según sus gustos. Su visión encaja muy bien con la propuesta de RAJE, que busca ser un espacio abierto
 donde los usuarios puedan expresarse libremente y descubrir contenido afín a sus intereses.
 
--Jorge Manuel Linares Zegarra
+-Mathias Medina Posito
 
-En la entrevista, Jorge Linares, dueño de una librería en San Miguel, destaca que su principal estrategia de promoción es el uso de redes sociales como Facebook e Instagram, además del boca a boca dentro de la tienda. Señala que la mayoría de sus clientes descubre su librería a través de estas plataformas. Jorge considera que una plataforma basada en reseñas reales de usuarios sería muy beneficiosa para su negocio, ya que aumentaría la visibilidad y confianza en sus libros, incentivando las compras. Además, menciona que escucha activamente las recomendaciones de sus clientes para mejorar su selección de productos. Finalmente, expresa interés en que una plataforma colaborativa permita destacar libros recomendados, mostrar stock en tiempo real y organizar eventos basados en los intereses de los lectores, con el objetivo de fortalecer la relación con su comunidad.
+<img src="Report_Assets/foto entrevista posito.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EfVJe4L2MB1Ik3WVHxxnxHMBsN10nr-yrkW0qU8iQ7TFMg?e=t97eTS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Transcripción resumen de entrevista:
+
+En la entrevista, Matías Medina, consumidor habitual de cómics, explica que elige el contenido principalmente basado en sus gustos personales, priorizando el género antes que el autor. Aunque no suele leer opiniones antes de consumir contenido, sí revisa comentarios mientras avanza en la lectura, los cuales pueden influir en su percepción de la obra. Matías descubre nuevo contenido a través de recomendaciones automatizadas basadas en sus gustos y rara vez deja reseñas, haciéndolo solo cuando una obra le genera emociones intensas. Actualmente utiliza la propia plataforma donde lee cómics para dejar opiniones, aunque reconoce que no tiene otro espacio para hacerlo. Le gustaría que las recomendaciones fueran más precisas, ya que a veces el género declarado no coincide con el contenido real de la obra. Además, señala como área de mejora que las plataformas deberían verificar mejor las reseñas para evitar comentarios falsos o malintencionados que puedan desinformar a otros usuarios.
 
 -Albino Alberto Cáseres Lizarbe
 
+<img src="Report_Assets/foto entrevista albino.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EZLDi8mX6mhKlgdz9it-4VcB8b_Plm-0xPkVU7pRG_Esow?e=i2QMvz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Transcripción resumen de entrevista:
+
 En la entrevista, Alvino Cáceres, estudiante de Ingeniería de Software, comenta que consume principalmente animes y series de drama que generen expectativa desde el primer capítulo. Descubre nuevo contenido mayormente a través de TikTok y redes sociales, dejando atrás las recomendaciones de amigos. No suele dejar reseñas, salvo cuando el contenido es muy malo, y cuando opina lo hace en redes sociales, no en plataformas formales. Aunque antes consideraba mucho las críticas de usuarios y expertos, una mala experiencia le llevó a confiar más en su propio criterio. Le gustaría que las recomendaciones de contenido se adaptaran mejor a sus gustos personales y sugiere que las plataformas deberían verificar mejor la autenticidad de las reseñas para evitar comentarios falsos o generados por bots.
 
-*Dueños de Librerías*
+Dueños de Librerías
 
 -Jorge Manuel Linares Zegarra
 
+<img src="Report_Assets/foto entrevista jorge.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EU6UCxmBit1Ih9XKPD_p3w8BRh7k5tq5iE0DmcTKHohLFw?e=2WH8BR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Transcripción resumen de entrevista:
+
 En la entrevista, Jorge Linares, dueño de una librería en San Miguel, comenta que actualmente promociona sus libros principalmente mediante redes sociales como Facebook e Instagram, además del boca a boca dentro de la tienda. Señala que la mayoría de sus clientes descubren la librería por estos medios. Jorge considera que una plataforma donde los lectores compartan reseñas sería muy beneficiosa, ya que permitiría que más personas conozcan los libros a partir de opiniones reales, lo cual incrementaría la confianza y las ventas. También menciona que suelen recibir comentarios de los clientes y que usan esa información para ajustar y mejorar su oferta de libros. Finalmente, sugiere que una colaboración ideal con una plataforma incluiría destacar libros recomendados, mostrar la disponibilidad en tiempo real y organizar eventos basados en los intereses de los lectores.
 
+
 -Diego Rodrigo Zapata Nuñes 
+
+<img src="Report_Assets/foto entrevista diego.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EaShS2nRrR9Fi3eDGshxE90BIA7TGMSK8JjLQ7hU4E-TXA?e=XJRIdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Transcripción resumen de entrevista:
 
 En la entrevista, Diego Zapata, dueño de una librería en El Agustino, comenta que actualmente promociona sus libros mediante redes sociales como TikTok e Instagram, y también a través de recomendaciones entre clientes. Los nuevos visitantes suelen llegar gracias a estas redes o por referencias de amigos o familiares. Diego considera muy positiva la idea de una plataforma donde los lectores descubran libros mediante reseñas, ya que muchos clientes llegan específicamente buscando títulos recomendados por terceros. Reconoce que las reseñas influyen fuertemente en la decisión de compra, más incluso que las propias redes sociales, ya que el cliente suele confiar en recomendaciones personales. Además, estaría interesado en una colaboración donde su librería pueda aparecer como punto de compra tras una reseña, aunque reconoce que habría competencia fuerte entre librerías. En general, ve este tipo de plataforma como una oportunidad para aumentar el tráfico físico y virtual a su negocio.
 
 -Martin Sebastian Sarmiento Collantes
 
+<img src="Report_Assets/foto entrevista martin.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EUrIOJhqFKlNvvhZIOjihGoBmCOlfWcjDQSIRAMa7fsBFQ?e=QSEkvQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Transcripción resumen de entrevista:
+
 En la entrevista, Martín Sarmiento, dueño de una librería en San Isidro, explicó que actualmente promociona sus libros mediante Instagram, sorteos y publicaciones en grupos de lectura locales. Comentó que sus clientes suelen descubrir su librería principalmente a través de redes sociales y por recomendaciones de antiguos compradores. Martín considera muy beneficiosa la creación de una plataforma basada en reseñas de usuarios, ya que aumentaría la visibilidad de su catálogo y permitiría atraer a un público lector más segmentado. Confirmó que las reseñas influyen mucho en la decisión de compra de sus clientes, pues generan confianza a partir de experiencias auténticas. Además, indicó que suelen recoger sugerencias y opiniones de sus clientes, incorporándolas en sus futuras adquisiciones de libros. Finalmente, mencionó que le gustaría colaborar en una plataforma subiendo su catálogo y participando en promociones o eventos, permitiendo que los lectores descubran fácilmente los libros que su librería ofrece.
 
-*Plataformas de Streaming*
+**Dueños de plataformas de Streaming**
 
 - Gabriel Herrera
+
+<img src="Report_Assets/foto entrevista Gabriel Herrera.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e617_upc_edu_pe/Eb4yO1LblFBPtoD3oFHIDqwBGEaiyQWEu0cJ8OK7EVu7tQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hed0Vb
+
+Transcripción resumen de entrevista:
 
 En la entrevista, Gabriel Herrera, gerente de TI en una plataforma de streaming, comenta que el contenido que promocionan, como series y películas, se elige principalmente en base a opiniones y encuestas realizadas entre los usuarios. Señala que el algoritmo de la plataforma detecta los momentos favoritos de los usuarios mediante mapas de calor, que registran las escenas más vistas o comentadas. Gabriel considera que una aplicación donde los usuarios dejen reseñas y reciban recomendaciones personalizadas sería muy beneficiosa, ya que facilitaría la recolección de comentarios valiosos para mejorar y ajustar el contenido ofrecido. También menciona que suelen considerar las preferencias de los usuarios para ofrecerles lo que más les gusta. Finalmente, sugiere que una colaboración ideal con otras plataformas debería ser poco invasiva, como a través de correos electrónicos o eventos presenciales, evitando notificaciones emergentes que puedan incomodar a los usuarios.
 
 
-## 2.3. Needfinding
+### Analisis de entrevista
+
+Consumidores de Contenido Multimedia
+
+En conjunto, los entrevistados Andrés, Matías Medina y Alvino Cáceres comparten la importancia de consumir contenido que se ajuste a sus gustos personales, aunque sus hábitos de interacción con reseñas varían. Andrés destaca la influencia de reseñas y recomendaciones de su entorno y redes sociales como TikTok para decidir qué consumir, pero enfatiza que sus propias reseñas son basadas en su experiencia personal, valorando un espacio libre de censura como el que propone RAJE. Matías, enfocado en cómics, prioriza el género sobre el autor y revisa reseñas durante la lectura, influenciado por ellas, aunque rara vez opina salvo que la obra le genere emociones fuertes; también recalca la necesidad de recomendaciones más precisas y de verificar la autenticidad de los comentarios. Por su parte, Alvino, fanático de animes y dramas, descubre contenido principalmente por redes sociales y desconfía de las reseñas externas tras una mala experiencia, confiando ahora más en su propio criterio, pero coincide en que debería haber mecanismos para validar la veracidad de las reseñas. En resumen, los tres participantes muestran interés en una plataforma que ofrezca recomendaciones personalizadas, fomente opiniones auténticas y cuide la calidad de las reseñas, aspectos que refuerzan la propuesta de valor de RAJE.
+
+Dueños de Librerías
+
+En las entrevistas, Jorge Linares, Diego Zapata y Martín Sarmiento coinciden en que las redes sociales y el boca a boca son los principales medios para promocionar sus librerías y atraer nuevos clientes. Todos consideran que una plataforma basada en reseñas de usuarios sería muy beneficiosa para sus negocios, ya que facilitaría la visibilidad de sus catálogos y fortalecería la confianza de los clientes al basar sus decisiones en opiniones auténticas. También reconocen que las reseñas influyen directamente en la compra de libros, superando incluso el impacto de la publicidad en redes sociales. Además, cada uno menciona que aprovecha el feedback de sus clientes para mejorar la selección de libros en sus tiendas. En cuanto a la colaboración ideal con una plataforma, sugieren incluir su catálogo actualizado, participar en promociones o eventos, y destacar libros recomendados según los intereses de los usuarios, lo que se alinea perfectamente con la propuesta de valor de RAJE.
+
+
+Plataformas de Streaming
+
+
+
+## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
