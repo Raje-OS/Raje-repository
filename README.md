@@ -205,7 +205,7 @@ tiene un impacto real y duradero.
   </thead>
   <tbody>
     <tr>
-      <td><img src="Report_Assets/integrante1.png" alt="Integrante 1" width="100"/></td>
+      <td><img src="Report_Assets/yo.png" alt="Integrante 1" width="100"/></td>
       <td> Ingeniería de Software-u202311640
 Mi nombre es Alvaro Leandro Bejarano Martínez, estudiante de la carrera Ingeniería de Software y me destaco por mi perseverancia, organización y capacidad para trabajar en equipo. Me esfuerzo por mantener un ambiente estructurado dentro del grupo, donde cada miembro se sienta valorado y sus ideas sean escuchadas y respetadas. Mi compromiso es fomentar la colaboración efectiva, asegurando que cada contribución se integre de manera ordenada y alineada con los objetivos comunes del equipo.</td>
     </tr>
