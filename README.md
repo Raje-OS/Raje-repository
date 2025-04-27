@@ -674,6 +674,14 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EaShS2nR
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EUrIOJhqFKlNvvhZIOjihGoBmCOlfWcjDQSIRAMa7fsBFQ?e=QSEkvQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+**Dueños de plataformas de Streaming**
+
+<img src="Report_Assets/foto entrevista Gabriel Herrera.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e617_upc_edu_pe/Eb4yO1LblFBPtoD3oFHIDqwBGEaiyQWEu0cJ8OK7EVu7tQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hed0Vb
+
+
+
 ### Analisis de entrevista
 
 *Consumidores de Contenido Multimedia*
@@ -711,6 +719,10 @@ En la entrevista, Diego Zapata, dueño de una librería en El Agustino, comenta 
 En la entrevista, Martín Sarmiento, dueño de una librería en San Isidro, explicó que actualmente promociona sus libros mediante Instagram, sorteos y publicaciones en grupos de lectura locales. Comentó que sus clientes suelen descubrir su librería principalmente a través de redes sociales y por recomendaciones de antiguos compradores. Martín considera muy beneficiosa la creación de una plataforma basada en reseñas de usuarios, ya que aumentaría la visibilidad de su catálogo y permitiría atraer a un público lector más segmentado. Confirmó que las reseñas influyen mucho en la decisión de compra de sus clientes, pues generan confianza a partir de experiencias auténticas. Además, indicó que suelen recoger sugerencias y opiniones de sus clientes, incorporándolas en sus futuras adquisiciones de libros. Finalmente, mencionó que le gustaría colaborar en una plataforma subiendo su catálogo y participando en promociones o eventos, permitiendo que los lectores descubran fácilmente los libros que su librería ofrece.
 
 *Plataformas de Streaming*
+
+- Gabriel Herrera
+
+En la entrevista, Gabriel Herrera, gerente de TI en una plataforma de streaming, comenta que el contenido que promocionan, como series y películas, se elige principalmente en base a opiniones y encuestas realizadas entre los usuarios. Señala que el algoritmo de la plataforma detecta los momentos favoritos de los usuarios mediante mapas de calor, que registran las escenas más vistas o comentadas. Gabriel considera que una aplicación donde los usuarios dejen reseñas y reciban recomendaciones personalizadas sería muy beneficiosa, ya que facilitaría la recolección de comentarios valiosos para mejorar y ajustar el contenido ofrecido. También menciona que suelen considerar las preferencias de los usuarios para ofrecerles lo que más les gusta. Finalmente, sugiere que una colaboración ideal con otras plataformas debería ser poco invasiva, como a través de correos electrónicos o eventos presenciales, evitando notificaciones emergentes que puedan incomodar a los usuarios.
 
 
 ## 2.3. Needfinding
