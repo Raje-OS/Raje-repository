@@ -744,7 +744,6 @@ Transcripción resumen de entrevista:
 
 En la entrevista, Jorge Linares, dueño de una librería en San Miguel, comenta que actualmente promociona sus libros principalmente mediante redes sociales como Facebook e Instagram, además del boca a boca dentro de la tienda. Señala que la mayoría de sus clientes descubren la librería por estos medios. Jorge considera que una plataforma donde los lectores compartan reseñas sería muy beneficiosa, ya que permitiría que más personas conozcan los libros a partir de opiniones reales, lo cual incrementaría la confianza y las ventas. También menciona que suelen recibir comentarios de los clientes y que usan esa información para ajustar y mejorar su oferta de libros. Finalmente, sugiere que una colaboración ideal con una plataforma incluiría destacar libros recomendados, mostrar la disponibilidad en tiempo real y organizar eventos basados en los intereses de los lectores.
 
-
 -Diego Rodrigo Zapata Nuñes 
 
 <img src="Report_Assets/foto entrevista diego.png" alt="User Persona 1" width="700" height="400"/>
@@ -777,6 +776,15 @@ Transcripción resumen de entrevista:
 
 En la entrevista, Gabriel Herrera, gerente de TI en una plataforma de streaming, comenta que el contenido que promocionan, como series y películas, se elige principalmente en base a opiniones y encuestas realizadas entre los usuarios. Señala que el algoritmo de la plataforma detecta los momentos favoritos de los usuarios mediante mapas de calor, que registran las escenas más vistas o comentadas. Gabriel considera que una aplicación donde los usuarios dejen reseñas y reciban recomendaciones personalizadas sería muy beneficiosa, ya que facilitaría la recolección de comentarios valiosos para mejorar y ajustar el contenido ofrecido. También menciona que suelen considerar las preferencias de los usuarios para ofrecerles lo que más les gusta. Finalmente, sugiere que una colaboración ideal con otras plataformas debería ser poco invasiva, como a través de correos electrónicos o eventos presenciales, evitando notificaciones emergentes que puedan incomodar a los usuarios.
 
+-Valeria Nicole Castillo Lopez
+
+<img src="Report_Assets/foto entrevista Valeria.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/personal/u202311640_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311640%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20lore%20a%20due%C3%B1a%20de%20plataforma%20de%20streaming%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2adcfde%2D3d94%2D4e28%2Da301%2D14c76f590a23
+
+Transcripción resumen de entrevista:
+
+En la entrevista, Valeria Castillo, representante vinculada a la gestión de contenido en una plataforma de streaming (similar a Netflix), explicó que actualmente el contenido se promociona principalmente mediante algoritmos internos que configuran las recomendaciones según el país de origen del contenido y las preferencias iniciales del usuario. Reconoce que actualmente Netflix no permite dejar reseñas o comentarios y considera que una aplicación como RAJE sería muy útil para recopilar opiniones de usuarios, lo cual podría ayudar a mejorar el algoritmo de recomendaciones y segmentar mejor el contenido. Valeria señala que sería ideal que las sugerencias se envíen directamente a los usuarios dentro de la aplicación y que los comentarios, filtrados por perfiles logueados, permitirían mejorar la experiencia personalizada. Además, ve con buenos ojos una colaboración que facilite la interacción entre usuarios y contenido de forma accesible mediante una aplicación móvil.
 
 ### Analisis de entrevista
 
@@ -787,7 +795,6 @@ En conjunto, los entrevistados Andrés, Matías Medina y Alvino Cáceres compart
 Dueños de Librerías
 
 En las entrevistas, Jorge Linares, Diego Zapata y Martín Sarmiento coinciden en que las redes sociales y el boca a boca son los principales medios para promocionar sus librerías y atraer nuevos clientes. Todos consideran que una plataforma basada en reseñas de usuarios sería muy beneficiosa para sus negocios, ya que facilitaría la visibilidad de sus catálogos y fortalecería la confianza de los clientes al basar sus decisiones en opiniones auténticas. También reconocen que las reseñas influyen directamente en la compra de libros, superando incluso el impacto de la publicidad en redes sociales. Además, cada uno menciona que aprovecha el feedback de sus clientes para mejorar la selección de libros en sus tiendas. En cuanto a la colaboración ideal con una plataforma, sugieren incluir su catálogo actualizado, participar en promociones o eventos, y destacar libros recomendados según los intereses de los usuarios, lo que se alinea perfectamente con la propuesta de valor de RAJE.
-
 
 Plataformas de Streaming
 
