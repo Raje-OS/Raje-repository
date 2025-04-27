@@ -2634,46 +2634,63 @@ A continuación, se muestra una recopilación de los commits realizados en la la
     <td><strong>Committed on (Date)</strong></td>
   </tr>
   <tr>
-    <td>Raje-repository</td>
+    <td>RAJELandingPage</td>
     <td>main</td>
-    <td>f082c81</td>
-    <td>feat:added Competitors</td>
-    <td> - </td>
-    <td>22 - 4 - 2025</td>
+    <td>6390c67</td>
+    <td>Add files via upload</td>
+    <td>Add files via upload</td>
+    <td>26/04/2025</td>
   </tr>
   <tr>
-    <td>Raje-repository</td>
+    <td>RAJELandingPage</td>
     <td>main</td>
-    <td>36699c1</td>
-    <td>feat: Add Product Backlog</td>
-    <td> - </td>
-    <td>24 - 4 - 2025</td>
+    <td>87e8691</td>
+    <td>Add files via upload</td>
+    <td>Add files via upload</td>
+    <td>26/04/2025</td>
   </tr>
   <tr>
-    <td>Raje-repository</td>
+    <td>RAJELandingPage</td>
     <td>main</td>
-    <td>a7377d0</td>
-    <td>Create archivos.md</td>
-    <td> - </td>
-    <td>20 - 4 - 2025</td>
+    <td>b12e7a2</td>
+    <td>Create styles.css</td>
+    <td>Create styles.css</td>
+    <td>26/04/2025</td>
   </tr>
   <tr>
-    <td>Raje-repository</td>
+    <td>RAJELandingPage</td>
     <td>main</td>
-    <td>2ad3335</td>
-    <td>Update README.md</td>
-    <td> -</td>
-    <td>23 - 4 - 2025</td>
+    <td>5e0b68d</td>
+    <td>Create uwu</td>
+    <td>Create uwu</td>
+    <td>26/04/2025</td>
   </tr>
   <tr>
-    <td>Raje-repository</td>
+    <td>RAJELandingPage</td>
     <td>main</td>
-    <td>c0cef03</td>
-    <td>User stories</td>
-    <td> - </td>
-    <td>22 - 4 - 2025</td>
+    <td>448699f</td>
+    <td>Update index.html</td>
+    <td>Update index.html</td>
+    <td>26/04/2025</td>
+  </tr>
+  <tr>
+    <td>RAJELandingPage</td>
+    <td>main</td>
+    <td>5c5a59b</td>
+    <td>Create index.html</td>
+    <td>Create index.html</td>
+    <td>26/04/2025</td>
+  </tr>
+  <tr>
+    <td>RAJELandingPage</td>
+    <td>main</td>
+    <td>9aeb07f</td>
+    <td>Create README.md</td>
+    <td>Create README.md</td>
+    <td>26/04/2025</td>
   </tr>
 </table>
+
 
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
