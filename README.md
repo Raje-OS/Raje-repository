@@ -2684,7 +2684,11 @@ En esta sección se presenta el despliegue de la landing page de la solución Ra
 
 Enlace de la landing page: https://raje-os.github.io/RAJELandingPage/
 
-
+![landing-evidence-1.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-1.png)
+![landing-evidence-2.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-2.png)
+![landing-evidence-3.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-3.png)
+![landing-evidence-4.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-4.png)
+![landing-evidence-5.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-5.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
