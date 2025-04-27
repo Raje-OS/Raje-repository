@@ -2425,7 +2425,27 @@ Para la gestión del código fuente, utilizamos los siguientes repositorios:
 
 ### 5.1.4. Software Deployment Configuration.
 
+En este proyecto, utilizamos **GitHub Pages** para desplegar la landing page de Raje. GitHub Pages es un servicio gratuito de alojamiento web que permite publicar sitios web estáticos directamente desde un repositorio en GitHub.
 
+Para configurar el despliegue de la landing page en GitHub Pages, seguimos los siguientes pasos:
+
+1. **Crear un Repositorio de GitHub**:  
+   Creamos un repositorio en GitHub para el proyecto de la landing page con el nombre **RAJELandingPage**.
+
+2. **Clonar el Repositorio**:  
+   Clonamos el repositorio en nuestra máquina local utilizando el comando `git clone`.
+
+3. **Crear la Estructura del Proyecto**:  
+   Creamos la estructura de archivos y carpetas para la landing page, asegurándonos de incluir el archivo **index.html**, así como los archivos **styles.css** y **README.md** necesarios.
+
+4. **Desplegar en GitHub Pages**:  
+   Para desplegar la landing page en GitHub Pages, seguimos estos pasos:
+    - Navegamos a la pestaña **Settings** del repositorio en GitHub.
+    - En la sección **GitHub Pages**, seleccionamos la rama **main** como fuente para el despliegue.
+    - Guardamos la configuración y esperamos a que GitHub Pages publique la landing page.
+
+5. **Acceder a la URL**:  
+   Una vez publicada, accedemos a la URL proporcionada por GitHub Pages para ver la landing page en línea.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se describe y demuestra el proceso de implementación, pruebas, documentación y despliegue de la Landing Page de Raje.
