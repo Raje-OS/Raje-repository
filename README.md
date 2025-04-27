@@ -2690,7 +2690,29 @@ No se utilizaron servicios adicionales, ya que el enfoque principal de este prim
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+**Diseño** 
 
+Para llevar a cabo este apartado del sprint, se utilizó la plataforma Figma, en la cual se creó un archivo colaborativo para desarrollar los mock-ups y wireframes. Además, mediante esta herramienta se creó el prototipo de la aplicación.
+
+- Para utilizar Figma, es necesario crear una cuenta. Para ello, se debe acceder al sitio oficial de Figma (https://www.figma.com/) y registrarse.
+
+- Una vez creada la cuenta, es necesario generar un borrador (draft) donde se trabajarán los diseños de forma colaborativa.
+
+**Despliegue** 
+
+Para llevar a cabo los procesos relacionados con la creación de la landing page en este sprint, fue necesario crear una organización en GitHub y establecer un repositorio para almacenar la landing page.
+
+- Para utilizar GitHub, es necesario crear una cuenta. Para ello, se debe acceder al sitio oficial de GitHub (https://github.com/) y registrarse.
+
+- Una vez creado el usuario, es necesario crear una organización, en este caso con el nombre Raje-OS. Además, se deben añadir todos los miembros a la organización.
+
+- Una vez creada la organización, es necesario crear los repositorios donde se trabajará en el proyecto.
+
+- Una vez creados todos los repositorios, el proyecto está listo para comenzar a ser trabajado. Se crearon 2 repositorios, los cuales son:
+
+**Report**: Este repositorio se utiliza para elaborar el informe del proyecto de manera continua.
+
+**Landing-Page**: Este repositorio se emplea para codificar y desplegar la landing page del proyecto.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
