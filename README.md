@@ -2268,7 +2268,106 @@ El diseño de la base de datos es crucial para nuestro proyecto porque garantiza
 A continuación, describiremos el proceso mediante el cual organizamos, gestionamos y supervisamos los cambios a lo largo del desarrollo de este proyecto.
 
 ### 5.1.1. Software Development Environment Configuration.
+En esta sección, se detallarán los diferentes productos de software utilizados por el equipo de desarrollo para realizar las actividades vinculadas con la creación del proyecto.
 
+<br>
+
+**Project Management**  
+
+Para la organización del proyecto, se requiere un sistema para la asignación de tareas, plataformas de comunicación, puntos de reunión y un repositorio donde se gestionen los avances de manera colaborativa. A continuación, se detallan los productos utilizados y su propósito en el proyecto:
+<ul>
+  <li>Repositorio de trabajo: Github</li>
+  <li>Gestión de tareas: Trello</li>
+  <li>Reuniones en línea: Google Meet</li>
+  <li>Comunicación grupal: WhatsApp</li>
+</ul>
+
+
+<br>
+
+**Requirements Management**
+
+Utilizamos Trello para asignar tareas y actividades a cada miembro del equipo, especialmente en casos de revisión o modificaciones.
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Trello</td>
+    <td>Se utiliza para asignar las tareas y actividades de cada miembro del equipo, en caso de revisiones o ajustes necesarios.</td>
+    <td><a href="https://trello.com" target="_blank">https://trello.com</a></td>
+  </tr>
+</table>
+
+
+<br>
+
+**Product UX/UI Design**
+
+Para el diseño de los wireframes y mockups, así como para la creación del prototipo de la aplicación web, utilizamos Figma.
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>Se emplea para diseñar los wireframes y mockups, además de desarrollar el prototipo de la aplicación web.</td>
+    <td><a href="https://www.figma.com/" target="_blank">https://www.figma.com/</a></td>
+  </tr>
+</table>
+
+
+<br>
+
+**Software Development**
+
+
+<br>
+
+**Software Deployment**
+Utilizamos GitHub Pages para desplegar nuestra landing page.
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>GitHub Pages</td>
+    <td>Se emplea para desplegar nuestra landing page.</td>
+    <td><a href="https://pages.github.com/" target="_blank">https://pages.github.com/</a></td>
+  </tr>
+</table>
+
+<br>
+
+**Software Documentation**
+Para la gestión de la documentación del proyecto, utilizamos GitHub y MarkDown para redactar y organizar la información.
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>Se utiliza para gestionar la documentación del proyecto.</td>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report" target="_blank">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+  </tr>
+  <tr>
+    <td>MarkDown</td>
+    <td>Se emplea para redactar y documentar el proyecto.</td>
+    <td><a href="https://markdown.es/" target="_blank">https://markdown.es/</a></td>
+  </tr>
+</table>
 
 
 ### 5.1.2. Source Code Management.
