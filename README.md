@@ -2696,23 +2696,37 @@ Para llevar a cabo este apartado del sprint, se utilizó la plataforma Figma, en
 
 - Para utilizar Figma, es necesario crear una cuenta. Para ello, se debe acceder al sitio oficial de Figma (https://www.figma.com/) y registrarse.
 
+![Figma inicio.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/Figma%20inicio.png)
+![Figma Ingresar.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/Figma%20Ingresar.png)
+
 - Una vez creada la cuenta, es necesario generar un borrador (draft) donde se trabajarán los diseños de forma colaborativa.
+
+![Figma Draft.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/Figma%20Draft.png)
 
 **Despliegue** 
 
 Para llevar a cabo los procesos relacionados con la creación de la landing page en este sprint, fue necesario crear una organización en GitHub y establecer un repositorio para almacenar la landing page.
 
 - Para utilizar GitHub, es necesario crear una cuenta. Para ello, se debe acceder al sitio oficial de GitHub (https://github.com/) y registrarse.
+![Sign up GitHub.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/Sign%20up%20GitHub.png)
 
 - Una vez creado el usuario, es necesario crear una organización, en este caso con el nombre Raje-OS. Además, se deben añadir todos los miembros a la organización.
 
+![Your organizations.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/Your%20organizations.png)
+![Neworganization Github.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/Neworganization%20Github.png)
+![FreeOrganization Github.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/FreeOrganization%20Github.png)
+![SETUPORG Github.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/SETUPORG%20Github.png)
+![Invite Member Github.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/Invite%20Member%20Github.png)
+
 - Una vez creada la organización, es necesario crear los repositorios donde se trabajará en el proyecto.
+![New repository.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/New%20repository.png)
+![confirmcreaterepo.png](Report_Assets/Software%20Deployment%20Evidence%20for%20Sprint%20Review/confirmcreaterepo.png)
 
 - Una vez creados todos los repositorios, el proyecto está listo para comenzar a ser trabajado. Se crearon 2 repositorios, los cuales son:
 
-**Report**: Este repositorio se utiliza para elaborar el informe del proyecto de manera continua.
+**Raje-repository**: Este repositorio se utiliza para elaborar el informe del proyecto de manera continua.
 
-**Landing-Page**: Este repositorio se emplea para codificar y desplegar la landing page del proyecto.
+**RAJE-Landing-Page**: Este repositorio se emplea para codificar y desplegar la landing page del proyecto.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
