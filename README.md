@@ -2390,8 +2390,6 @@ Para la gestión del código fuente, utilizamos los siguientes repositorios:
     </tbody>
 </table>
 
-
-
 ### 5.1.3. Source Code Style Guide & Conventions.
 
 
@@ -2401,16 +2399,173 @@ Para la gestión del código fuente, utilizamos los siguientes repositorios:
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
-
+En esta sección se describe y demuestra el proceso de implementación, pruebas, documentación y despliegue de la Landing Page de Raje.
 
 ### 5.2.1. Sprint 1
+En esta sección se describen los resultados del primer sprint de desarrollo del proyecto, abarcando el Sprint Planning, Sprint Backlog, Sprint Review y Sprint Retrospective.
 
 ### 5.2.1.1. Sprint Planning 1
+En este ítem se describe el Sprint Planning del primer sprint de desarrollo del proyecto, incluyendo la fecha, hora, ubicación, preparador, asistentes, objetivo del sprint y las user stories. A continuación, se detalla el proceso de planificación realizado para el Sprint 1.
 
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 1 Review Summary</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 1 Retrospective Summary</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 1 Goal</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 1 Velocity</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+</table>
 
 
 ### 5.2.1.2. Sprint Backlog 1
+En este ítem se describe el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo el ID, la user story, las tareas/work-items, la descripción, la estimación, la asignación de responsabilidades y el estado.
 
+El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que se presenta a continuación, establece las tareas concretas que el equipo se comprometió a realizar durante la primera iteración.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+</table>
 
 
 ### 5.2.1.3. Development Evidence for Sprint Review
