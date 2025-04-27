@@ -1156,6 +1156,33 @@ Las entrevistas coincidieron en que las plataformas de streaming utilizan algori
 </table>
 ## 2.4. Ubiquitous Language
 
+| Término                      | Definición |
+|-------------------------------|------------|
+| Usuario                       | Persona registrada en la plataforma RAJE que puede realizar reseñas, calificar contenido, recibir recomendaciones y gestionar su perfil. |
+| Contenido                     | Elemento cultural disponible en RAJE, como una película, serie o libro, sobre el cual los usuarios pueden opinar. |
+| Película                      | Tipo de contenido audiovisual de duración fija, asociado a directores, actores y géneros. |
+| Serie                         | Tipo de contenido audiovisual compuesto por episodios distribuidos en temporadas. |
+| Libro                         | Tipo de contenido literario disponible para ser reseñado o recomendado. |
+| Plataforma                    | Servicio de streaming o librería física/online donde un contenido está disponible para ser visualizado o comprado. |
+| Reseña                        | Opinión escrita por un usuario sobre un contenido específico, incluyendo calificación y comentario libre. |
+| Calificación                  | Valor numérico (por ejemplo, 1 a 5 estrellas) asignado por un usuario para evaluar un contenido. |
+| Preferencia                   | Intereses declarados o inferidos de un usuario, usados para personalizar recomendaciones de contenido. |
+| Comentario                    | Texto breve que un usuario escribe en respuesta a una reseña de otro usuario. |
+| Recomendación                 | Sugerencia de contenido realizada por el sistema basada en el perfil de usuario, sus preferencias o su historial. |
+| Actor                         | Persona que interpreta un personaje en una película o serie. |
+| Autor                         | Persona que ha escrito un libro disponible en RAJE. |
+| Clasificación por Edad        | Restricción de edad sugerida para el consumo de un contenido específico (por ejemplo, +13, +18). |
+| Género                        | Categoría de clasificación de contenido como drama, comedia, acción, ciencia ficción, romance, etc. |
+| Plataforma por Usuario        | Relación que indica en qué plataformas está suscrito un usuario (por ejemplo, Netflix, Amazon Prime). |
+| Contenido por Plataforma      | Relación que indica en qué plataformas específicas está disponible cada contenido. |
+| Detalle Actor Película         | Relación que describe qué papel interpreta un actor en una película. |
+| Detalle Actor Serie            | Relación que describe qué papel interpreta un actor en una serie y cuántos episodios participa. |
+| Historial de Visto/Leído       | Registro de los contenidos que un usuario ha marcado como consumidos. |
+| Favorito                      | Contenido que un usuario ha marcado como preferido para acceso rápido posterior. |
+| Estrategia de Recomendación    | Algoritmo usado para personalizar sugerencias de contenido (por género, ranking, historial). |
+| Perfil de Usuario              | Sección personal del usuario donde se muestran sus reseñas, calificaciones, favoritos, historial y suscripciones. |
+| Plataforma de Distribución     | Empresa o servicio encargado de ofrecer el contenido (ej.: Netflix, Disney+, Amazon Kindle, Librerías SBS). |
+| Zonas Seguras                  | (Si aplica) Espacios sugeridos donde los usuarios pueden leer o ver contenido en lugares públicos recomendados. |
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
