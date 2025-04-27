@@ -2413,7 +2413,7 @@ Para la gestión del código fuente, utilizamos los siguientes repositorios:
         <tr>
             <td> Landing Page </td>
             <td> Raje-landing-page </td>
-            <td><a href="link" target="_blank">link</a></td>
+            <td><a href="https://github.com/Raje-OS/RAJELandingPage" target="_blank">https://github.com/Raje-OS/RAJELandingPage</a></td>
         </tr>
 
 
@@ -2682,7 +2682,9 @@ No se llevaron a cabo pruebas en este sprint, ya que se centró únicamente en e
 ### 5.2.1.5. Execution Evidence for Sprint Review
 En esta sección se presenta el despliegue de la landing page de la solución Raje:
 
-Enlace de la landing page:
+Enlace de la landing page: https://raje-os.github.io/RAJELandingPage/
+
+
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
