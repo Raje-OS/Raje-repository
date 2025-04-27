@@ -2325,6 +2325,8 @@ En esta sección se presentan los mock-ups de la aplicación web, los cuales ilu
 ### 4.4.4. Web Applications User Flow Diagrams
 A continuación un diagrama que representa los user goals.
 
+![user-flow-diagram - Frame 1.jpg](Report_Assets/user-flow-diagram%20-%20Frame%201.jpg)
+
 
 ## 4.5. Web Applications Prototyping
 A continuación, se presenta el prototipo de la aplicación web de Raje, diseñado para que los usuarios interactúen con la interfaz y exploren las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave de la aplicación, ofreciendo una vista preliminar de la experiencia del usuario y facilitando la evaluación y prueba de la interfaz antes de su implementación definitiva.
