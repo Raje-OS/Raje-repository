@@ -44,8 +44,12 @@ Sarmiento Medina Loreley U202310005<br>
   <tbody>
     <tr>
       <td>TB1</td>
-      <td></td>
-      <td></td>
+      <td>27/04/2025</td>
+      <td>- Bejarano Martínez, Álvaro Leandro
+- Cabanillas Meza, José Mateo
+- Verona Flores Italo Sebastian
+        -Aliaga Urbina Wilder Gonzalo
+- Sarmiento Medina, Loreley</td>
       <td></td>
     </tr>
     <tr>
