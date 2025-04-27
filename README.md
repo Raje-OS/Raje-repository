@@ -776,7 +776,7 @@ Transcripción resumen de entrevista:
 
 En la entrevista, Gabriel Herrera, gerente de TI en una plataforma de streaming, comenta que el contenido que promocionan, como series y películas, se elige principalmente en base a opiniones y encuestas realizadas entre los usuarios. Señala que el algoritmo de la plataforma detecta los momentos favoritos de los usuarios mediante mapas de calor, que registran las escenas más vistas o comentadas. Gabriel considera que una aplicación donde los usuarios dejen reseñas y reciban recomendaciones personalizadas sería muy beneficiosa, ya que facilitaría la recolección de comentarios valiosos para mejorar y ajustar el contenido ofrecido. También menciona que suelen considerar las preferencias de los usuarios para ofrecerles lo que más les gusta. Finalmente, sugiere que una colaboración ideal con otras plataformas debería ser poco invasiva, como a través de correos electrónicos o eventos presenciales, evitando notificaciones emergentes que puedan incomodar a los usuarios.
 
--Valeria Nicole Castillo Lopez
+- Valeria Nicole Castillo Lopez
 
 <img src="Report_Assets/foto entrevista Valeria.png" alt="User Persona 1" width="700" height="400"/>
 
@@ -785,6 +785,16 @@ https://upcedupe-my.sharepoint.com/personal/u202311640_upc_edu_pe/_layouts/15/st
 Transcripción resumen de entrevista:
 
 En la entrevista, Valeria Castillo, representante vinculada a la gestión de contenido en una plataforma de streaming (similar a Netflix), explicó que actualmente el contenido se promociona principalmente mediante algoritmos internos que configuran las recomendaciones según el país de origen del contenido y las preferencias iniciales del usuario. Reconoce que actualmente Netflix no permite dejar reseñas o comentarios y considera que una aplicación como RAJE sería muy útil para recopilar opiniones de usuarios, lo cual podría ayudar a mejorar el algoritmo de recomendaciones y segmentar mejor el contenido. Valeria señala que sería ideal que las sugerencias se envíen directamente a los usuarios dentro de la aplicación y que los comentarios, filtrados por perfiles logueados, permitirían mejorar la experiencia personalizada. Además, ve con buenos ojos una colaboración que facilite la interacción entre usuarios y contenido de forma accesible mediante una aplicación móvil.
+
+- Adrián Casanova
+
+<img src="Report_Assets/AdrianCasanova%20entrevista.png" alt="User Persona 1" width="700" height="400"/>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ETRsbNuiQrJInujY7XIVn4wBVNVSzxyMFTfQxgGCtVIXqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sfFAVZ
+
+Transcripción resumen de entrevista:
+
+En la entrevista, Adrián, de 24 años, estratega de contenido en una plataforma de streaming, explica que las decisiones sobre qué series o películas promocionar se basan en datos de tendencias, preferencias del público y calidad del contenido. Resalta la importancia de generar conexión emocional con el espectador y de ofrecer experiencias innovadoras. Menciona que las métricas de visualización y los comentarios de los usuarios son clave para identificar patrones y mejorar el contenido. Además, señala que un sistema de recomendaciones personalizadas, basado en los intereses de los usuarios, enriquecería la experiencia y facilitaría colaboraciones fluidas entre plataformas.
 
 ### Analisis de entrevista
 
@@ -798,6 +808,7 @@ En las entrevistas, Jorge Linares, Diego Zapata y Martín Sarmiento coinciden en
 
 Plataformas de Streaming
 
+Las entrevistas coincidieron en que las plataformas de streaming utilizan algoritmos y datos de los usuarios para personalizar las recomendaciones. Gabriel Herrera comentó que el contenido se selecciona a partir de encuestas y opiniones de los usuarios, con el uso de mapas de calor para detectar sus momentos favoritos. Propuso una aplicación para dejar reseñas y recibir recomendaciones personalizadas. Valeria Nicole Castillo López mencionó que en plataformas como Netflix se emplean algoritmos internos, y consideró útil una herramienta que recopile opiniones para mejorar el algoritmo de recomendaciones. Adrián Casanova destacó que las decisiones de contenido se basan en tendencias y calidad, resaltando la importancia de las métricas y comentarios para mejorar la experiencia del usuario. Todos coincidieron en que las recomendaciones personalizadas y la recolección de opiniones mejorarían la oferta y experiencia del usuario.
 
 
 ## 2.3. Needfinding
