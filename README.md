@@ -2331,6 +2331,7 @@ Para el diseño de los wireframes y mockups, así como para la creación del pro
 <br>
 
 **Software Deployment**
+
 Utilizamos GitHub Pages para desplegar nuestra landing page.
 
 <table>
@@ -2349,6 +2350,7 @@ Utilizamos GitHub Pages para desplegar nuestra landing page.
 <br>
 
 **Software Documentation**
+
 Para la gestión de la documentación del proyecto, utilizamos GitHub y MarkDown para redactar y organizar la información.
 
 <table>
@@ -2360,7 +2362,7 @@ Para la gestión de la documentación del proyecto, utilizamos GitHub y MarkDown
   <tr>
     <td>GitHub</td>
     <td>Se utiliza para gestionar la documentación del proyecto.</td>
-    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report" target="_blank">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td><a href="https://github.com/Raje-OS/Raje-repository/" target="_blank">https://github.com/Raje-OS/Raje-repository/</a></td>
   </tr>
   <tr>
     <td>MarkDown</td>
@@ -2386,8 +2388,8 @@ Para la gestión del código fuente, utilizamos los siguientes repositorios:
             <td> Raje-landing-page </td>
             <td><a href="link" target="_blank">link</a></td>
         </tr>
-        
-    </tbody>
+
+
 </table>
 
 ### 5.1.3. Source Code Style Guide & Conventions.
