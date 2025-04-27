@@ -2262,3 +2262,64 @@ El diseño de la base de datos es crucial para nuestro proyecto porque garantiza
 ### 4.8.1. Database Diagram
 
 ![Diagrama_Base_Datos](Report_Assets/Raje-Diagrama-Fisico.png)
+
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1 Software Configuration Management
+A continuación, describiremos el proceso mediante el cual organizamos, gestionamos y supervisamos los cambios a lo largo del desarrollo de este proyecto.
+
+### 5.1.1. Software Development Environment Configuration.
+
+
+
+### 5.1.2. Source Code Management.
+
+
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+
+
+### 5.1.4. Software Deployment Configuration.
+
+
+
+### 5.2. Landing Page, Services & Applications Implementation.
+
+
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+
+### 5.2.1. Sprint 1
+
+### 5.2.1.1. Sprint Planning 1
+
+
+
+### 5.2.1.2. Sprint Backlog 1
+
+
+
+### 5.2.1.3. Development Evidence for Sprint Review
+
+
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+
+
