@@ -158,7 +158,7 @@ tiene un impacto real y duradero.
       <td></td>
     </tr>
     <tr>
-       <td><img src="Report_Assets/integrante2.png" alt="Integrante 2" width="100"/></td>
+       <td><img src="Report_Assets/yo2.JPG" alt="Integrante 2" width="100"/></td>
       <td> Jose Mateo Cabanillas Meza
         - Ingeniería de Software-u202311458 
 
