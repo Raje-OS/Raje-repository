@@ -2297,8 +2297,6 @@ A continuación, describiremos el proceso mediante el cual organizamos, gestiona
 ### 5.1.1. Software Development Environment Configuration.
 En esta sección, se detallarán los diferentes productos de software utilizados por el equipo de desarrollo para realizar las actividades vinculadas con la creación del proyecto.
 
-<br>
-
 **Project Management**  
 
 Para la organización del proyecto, se requiere un sistema para la asignación de tareas, plataformas de comunicación, puntos de reunión y un repositorio donde se gestionen los avances de manera colaborativa. A continuación, se detallan los productos utilizados y su propósito en el proyecto:
@@ -2309,6 +2307,7 @@ Para la organización del proyecto, se requiere un sistema para la asignación d
   <li>Comunicación grupal: WhatsApp</li>
 </ul>
 
+![trello evidence.png](Report_Assets/trello%20evidence.png)
 
 <br>
 
@@ -2323,11 +2322,17 @@ Utilizamos Trello para asignar tareas y actividades a cada miembro del equipo, e
     <td>Enlace</td>
   </tr>
   <tr>
-    <td>Trello</td>
-    <td>Se utiliza para asignar las tareas y actividades de cada miembro del equipo, en caso de revisiones o ajustes necesarios.</td>
-    <td><a href="https://trello.com" target="_blank">https://trello.com</a></td>
+    <td>UXPressia</td>
+    <td>Utilizamos UXPressia para crear mapas de empatía, user journey maps y user personas, lo que nos permitió comprender mejor las necesidades y expectativas de los usuarios finales.</td>
+    <td><a href="https://uxpressia.com/" target="_blank">https://uxpressia.com/</a></td>
+  </tr>
+  <tr>
+    <td>Structurizr</td>
+    <td>Utilizamos Structurizr para crear diagramas de arquitectura de software, lo que nos permitió visualizar y documentar la estructura de nuestro sistema y sus componentes.</td>
+    <td><a href="https://structurizr.com/" target="_blank">https://structurizr.com/</a></td>
   </tr>
 </table>
+
 
 
 <br>
@@ -2347,12 +2352,30 @@ Para el diseño de los wireframes y mockups, así como para la creación del pro
     <td>Se emplea para diseñar los wireframes y mockups, además de desarrollar el prototipo de la aplicación web.</td>
     <td><a href="https://www.figma.com/" target="_blank">https://www.figma.com/</a></td>
   </tr>
+  <tr>
+    <td>LucidChart</td>
+    <td>Se utiliza para crear diagramas de flujo y mapas de procesos, facilitando la visualización de la estructura y el flujo de trabajo de la aplicación.</td>
+    <td><a href="https://www.lucidchart.com/" target="_blank">https://www.lucidchart.com/</a></td>
+  </tr>
 </table>
+
 
 
 <br>
 
 **Software Development**
+
+**HTML5**:  
+HTML5 es el estándar actual para estructurar páginas web. Permite la integración de componentes multimedia y gráficos, lo que mejora la interactividad y la accesibilidad del contenido en línea.
+
+**CSS**:  
+CSS es el lenguaje utilizado para definir la presentación visual de los documentos HTML. Se emplea para estilizar los elementos y garantizar una experiencia de usuario atractiva y coherente.
+
+**JavaScript**:  
+JavaScript es un lenguaje de programación que agrega interactividad a las páginas web. Es esencial para implementar lógica dinámica y funcionalidades avanzadas en los sitios web.
+
+**WebStorm**:  
+WebStorm es un entorno de desarrollo integrado (IDE) que soporta JavaScript, TypeScript, HTML y CSS. Mejora la productividad de los desarrolladores al ofrecer características avanzadas como la detección de errores en tiempo real y autocompletado de código.
 
 
 <br>
@@ -2420,8 +2443,70 @@ Para la gestión del código fuente, utilizamos los siguientes repositorios:
 </table>
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+Para el desarrollo de este proyecto, se utilizó como guía de estilo la Google HTML/CSS Style Guide, asegurando un código limpio, legible y consistente.
 
 
+## HTML
+
+### Use Lowercase Element Names:
+Es recomendable utilizar minúsculas para los nombres de los elementos HTML.
+
+```html
+<body>
+    <p>This is a paragraph</p>
+</body>
+```
+
+### Use Lowercase Attribute Names:
+Los nombres de los atributos HTML deben estar en minúsculas.
+
+```html
+<a href="https://www.example.com">Link</a>
+```
+
+### Use Double Quotes for Attribute Values:
+Se recomienda utilizar comillas dobles para los valores de los atributos.
+
+```html
+<img src="image.jpg" alt="Image">
+```
+
+### Omit Type Attributes for Style Sheets and Scripts:
+No es necesario incluir el atributo type para las hojas de estilo y los scripts.
+
+```html
+<link rel="stylesheet" href="styles.css">
+<script src="script.js"></script>
+```
+
+## CSS
+
+### Use Lowercase and Hyphens for Property Names:
+Los nombres de las propiedades CSS deben estar en minúsculas y separados por guiones.
+
+```css
+.example-class {
+    background-color: red;
+    font-size: 16px;
+}
+```
+
+### ID and Class Name Style:
+Utilice nombres descriptivos y significativos para las clases y los IDs.
+
+```css
+#nav {}
+.header {}
+```
+
+### Use Shorthand Properties:
+Se recomienda utilizar propiedades abreviadas para reducir la redundancia en el código.
+
+```css
+border-top: 0;
+font: 100%/1.6 palatino, georgia, serif;
+padding: 0 1em 2em;
+```
 
 ### 5.1.4. Software Deployment Configuration.
 
