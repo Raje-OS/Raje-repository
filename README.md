@@ -2424,53 +2424,71 @@ En este ítem se describe el Sprint Planning del primer sprint de desarrollo del
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1"> Sprint 1 </td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Planning Background</strong></td>
   </tr>
   <tr>
     <td colspan="1"><strong>Date</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1">27 - 04 - 2025</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Time</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1"> 10:30 pm - 11:00 pm </td>
   </tr>
   <tr>
     <td colspan="1"><strong>Location</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1">Reunión en google meet</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Prepared by</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1"> 
+Cabanillas Meza Jose Mateo
+
+Verona Flores Italo Sebastian
+
+Aliaga Urbina Wilder Gonzalo
+
+Sarmiento Medina Loreley
+</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint n – 1 Review Summary</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1">
+        Se desarrollaron el wireframe, mockup y prototipo de la landing page de Raje. Además, se elaboraron los wireframes, diagramas, user flow y prototipos de la aplicación web. También se diseñó la base de datos y se realizó la primera planificación del sprint.
+    </td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint n – 1 Retrospective Summary</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1">
+        Mejorar la comunicación entre los miembros del equipo y la gestión de tareas. Se sugiere realizar reuniones semanales para revisar el avance de cada miembro y asegurar que todos estén alineados con los objetivos del sprint.
+    </td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 1 Goal</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1">
+        Nuestro enfoque en este sprint es implementar la landing page de nuestro producto. Creemos que esto proporcionará una presentación atractiva y clara, lo cual se confirmará cuando cada sección de la página sea explorada por los usuarios.
+    </td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 1 Velocity</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1"> 
+        22 Story Points
+    </td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sum of Story Points</strong></td>
-    <td colspan="1"> </td>
+    <td colspan="1">
+        22 Story points
+    </td>
   </tr>
 </table>
 
