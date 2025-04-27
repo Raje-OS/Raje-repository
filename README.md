@@ -212,7 +212,7 @@ Mi nombre es Italo Verona, tengo 20 años y actualmente curso el 5.º ciclo de l
 </td>
 </tr>
 <tr>
-<td><img src="Report_Assets/integrante4.png" alt="Integrante 4" width="100"/></td>
+<td><img src="Report_Assets/gonzalo-profile-picture.png" alt="Integrante 4" width="100"/></td>
 <td>Wilder Gonzalo Aliaga Urbina - U202222001
 
 Como estudiante universitario de 19 años y cursando la carrera de Ingeniería de Software en el sexto ciclo, tengo una sólida base en programación en C++, Python, HTML y CSS, además de habilidades en creatividad y organización grupal. Mi enfoque está en fomentar un ambiente de aprendizaje eficiente y participativo en equipo. Me apasiona encontrar soluciones innovadoras y siempre estoy dispuesto a aprender nuevas tecnologías que potencien mis proyectos.
@@ -2497,7 +2497,7 @@ Los nombres de las propiedades CSS deben estar en minúsculas y separados por gu
 
 ```css
 .example-class {
-    background-color: red;
+    background-color: #ffffff;
     font-size: 16px;
 }
 ```
