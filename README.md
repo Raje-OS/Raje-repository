@@ -2532,67 +2532,67 @@ El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que 
     <td colspan="1"><strong>Description</strong></td>
     <td colspan="1"><strong>Estimation(Hrs)</strong></td>
     <td colspan="1"><strong>Assigned To</strong></td>
-    <td colspan="1"><strong>Status</strong></td>
+    <td colspan="1"><strong>Status (To-do / In- Process / To- Review / Done)</strong></td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td colspan="1">US-1 </td>
+    <td colspan="1">Creación de Cuenta de Usuario </td>
+    <td colspan="1">W01 </td>
+    <td colspan="1">Creación de Cuenta de Usuario </td>
+    <td colspan="1">Como usuario, deseo crear una cuenta en la plataforma para poder acceder y personalizar mi experiencia </td>
+    <td colspan="1">8 </td>
+    <td colspan="1">Cabanillas Meza Jose Mateo </td>
+    <td colspan="1">Done </td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td colspan="1">US-2 </td>
+    <td colspan="1">Inicio de Sesión </td>
+    <td colspan="1">W02 </td>
+    <td colspan="1">Inicio de Sesión </td>
+    <td colspan="1">Como usuario, quiero poder iniciar sesión en mi cuenta para acceder a mi perfil y gestionar mis reseñas y preferencias. </td>
+    <td colspan="1">6 </td>
+    <td colspan="1">Verona Flores Italo Sebastian </td>
+    <td colspan="1">Done </td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td colspan="1">US-8 </td>
+    <td colspan="1">Recuperación de Contraseña </td>
+    <td colspan="1">W03 </td>
+    <td colspan="1">Recuperación de Contraseña </td>
+    <td colspan="1">Como usuario, deseo poder recuperar mi contraseña en caso de olvidarla, para poder acceder nuevamente a mi cuenta. </td>
+    <td colspan="1">5 </td>
+    <td colspan="1">Sarmiento Medina Loreley </td>
+    <td colspan="1">Done </td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td colspan="1">US-7 </td>
+    <td colspan="1">Seguimiento de Otros Usuarios </td>
+    <td colspan="1">W04 </td>
+    <td colspan="1">Seguimiento de Otros Usuarios </td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero poder seguir a otros usuarios cuyas opiniones me interesan, para poder ver sus reseñas y recomendaciones de manera constante en mi feed. </td>
+    <td colspan="1">7 </td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo </td>
+    <td colspan="1">Done </td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td colspan="1">US-16 </td>
+    <td colspan="1">Feed de contenido trending </td>
+    <td colspan="1">W05 </td>
+    <td colspan="1">Feed de contenido trending </td>
+    <td colspan="1">Como usuario, quiero ver un feed de “Tendencias” con contenidos más reseñados y mejor valorados en la última semana, para descubrir lo más popular. </td>
+    <td colspan="1">10 </td>
+    <td colspan="1">Cabanillas Meza Jose Mateo </td>
+    <td colspan="1">Done </td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td colspan="1">US-18 </td>
+    <td colspan="1">Marcar contenido como "Visto" </td>
+    <td colspan="1">W06 </td>
+    <td colspan="1">Marcar contenido como "Visto" </td>
+    <td colspan="1">Como usuario, quiero marcar manualmente una película, serie o libro como “Visto/Leído”, para mantener mi historial actualizado. </td>
+    <td colspan="1">4 </td>
+    <td colspan="1">Cabanillas Meza Jose Mateo </td>
+    <td colspan="1">Done </td>
   </tr>
   <tr>
     <td colspan="1"> </td>
