@@ -2372,6 +2372,24 @@ Para la gestión de la documentación del proyecto, utilizamos GitHub y MarkDown
 
 ### 5.1.2. Source Code Management.
 
+Para la gestión del código fuente, utilizamos los siguientes repositorios:
+
+<table>
+    <tbody>
+        <tr>
+            <td> Producto </td>
+            <td> Repositorio </td>
+            <td> URL </td>
+        </tr>
+        <tr>
+            <td> Landing Page </td>
+            <td> Raje-landing-page </td>
+            <td><a href="link" target="_blank">link</a></td>
+        </tr>
+        
+    </tbody>
+</table>
+
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
