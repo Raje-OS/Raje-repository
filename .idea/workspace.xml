@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdb13d85-6adb-4b9f-b96c-eb8b1eeeb923" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Report_Assets/italo-verona.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,13 +24,13 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Raje-OS/Raje-repository.git",
-    "accountId": "a415f0df-92ec-411b-a113-f1246c8c32da"
+    "accountId": "7f904757-1fc2-4e7a-a735-0fdb40c7d903"
   }
 }]]></component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -74,6 +72,7 @@
       <workItem from="1745467275090" duration="2444000" />
       <workItem from="1745602595523" duration="4498000" />
       <workItem from="1745685733626" duration="1284000" />
+      <workItem from="1745724213655" duration="346000" />
     </task>
     <servers />
   </component>

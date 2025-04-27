@@ -310,7 +310,67 @@ sobre contenido audiovisual y literario, sino también leer las críticas de otr
     </tr>
      <tr>
       <td> How much ( Cuánto ) </td>
-      <td> </td>
+  <td>
+     *- Acceso a Internet*
+    
+Población Mundial: 8,000 millones de personas.
+Acceso a Internet: Aproximadamente el 66% de la población mundial tiene acceso a
+Internet, lo que representa a unos 5.3 mil millones de personas (ITU Statistics, 2023).
+
+<img src="Report_Assets/Grafico Acceso a Internet.png" alt="User Persona 1" width="200" height="200"/>
+
+*- Sin Acceso a Internet*
+
+Cerca del 34% de la población mundial, es decir, unos 2.7 mil millones de personas, no
+tienen acceso a Internet, limitando su capacidad para expresar opiniones en línea
+(Statista, 2023).
+
+<img src="Report_Assets/Grafico Sin Acceso Internet.png" alt="User Persona 1" width="200" height="200"/>
+
+*- Restricciones de Libertad de Expresión:*
+
+Población en Países con Restricciones: Según Freedom House, alrededor del 40% de la
+población mundial vive en países donde la libertad de expresión es "parcialmente libre"
+o "no libre". Esto equivale a aproximadamente 3.2 mil millones de personas que podrían
+enfrentar restricciones para compartir sus opiniones libremente en línea (Freedom
+House, 2023).
+
+*- Impacto de las Normas Sociales:*
+
+En sociedades con normas culturales estrictas o donde
+existe temor al juicio social, una parte de la población puede sentirse incómoda o
+temerosa de expresar sus opiniones honestamente. Estimando que esto afecta a un 20%
+de las personas con acceso a Internet y libertad de expresión, esto afectaría a alrededor de
+1.06 mil millones de personas (World Values Survey y Pew Research Center, n./d.).     
+
+*- Estimación Combinada:*
+
+Personas sin acceso a Internet o con libertad de expresión restringida:
+Aproximadamente 3.2 mil millones.
+Personas con acceso pero con barreras culturales o sociales: Alrededor de 1.06 mil
+millones.
+Total estimado de personas que no pueden opinar libremente: Aproximadamente 4.26
+mil millones de personas.
+
+*- Estimación Combinada:*
+
+Personas sin acceso a Internet o con libertad de expresión restringida:
+Aproximadamente 3.2 mil millones.
+Personas con acceso pero con barreras culturales o sociales: Alrededor de 1.06 mil
+millones.
+Total estimado de personas que no pueden opinar libremente: Aproximadamente 4.26
+mil millones de personas.
+
+*-  Interpretación:*
+
+Aproximadamente 4.26 mil millones de personas, o el 53% de la población mundial,
+podrían estar limitadas en su capacidad para opinar libremente sobre películas, series o
+libros debido a la falta de acceso a Internet, restricciones de libertad de expresión o
+barreras culturales. Esto destaca la importancia de crear plataformas accesibles y
+seguras que permitan a más personas compartir sus opiniones y participar en
+discusiones sobre contenido cultural sin restricciones.
+
+  </td>
     </tr>
   </tbody>
 </table>
@@ -2214,3 +2274,389 @@ El diseño de la base de datos es crucial para nuestro proyecto porque garantiza
 ### 4.8.1. Database Diagram
 
 ![Diagrama_Base_Datos](Report_Assets/Raje-Diagrama-Fisico.png)
+
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1 Software Configuration Management
+A continuación, describiremos el proceso mediante el cual organizamos, gestionamos y supervisamos los cambios a lo largo del desarrollo de este proyecto.
+
+### 5.1.1. Software Development Environment Configuration.
+En esta sección, se detallarán los diferentes productos de software utilizados por el equipo de desarrollo para realizar las actividades vinculadas con la creación del proyecto.
+
+<br>
+
+**Project Management**  
+
+Para la organización del proyecto, se requiere un sistema para la asignación de tareas, plataformas de comunicación, puntos de reunión y un repositorio donde se gestionen los avances de manera colaborativa. A continuación, se detallan los productos utilizados y su propósito en el proyecto:
+<ul>
+  <li>Repositorio de trabajo: Github</li>
+  <li>Gestión de tareas: Trello</li>
+  <li>Reuniones en línea: Google Meet</li>
+  <li>Comunicación grupal: WhatsApp</li>
+</ul>
+
+
+<br>
+
+**Requirements Management**
+
+Utilizamos Trello para asignar tareas y actividades a cada miembro del equipo, especialmente en casos de revisión o modificaciones.
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Trello</td>
+    <td>Se utiliza para asignar las tareas y actividades de cada miembro del equipo, en caso de revisiones o ajustes necesarios.</td>
+    <td><a href="https://trello.com" target="_blank">https://trello.com</a></td>
+  </tr>
+</table>
+
+
+<br>
+
+**Product UX/UI Design**
+
+Para el diseño de los wireframes y mockups, así como para la creación del prototipo de la aplicación web, utilizamos Figma.
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>Se emplea para diseñar los wireframes y mockups, además de desarrollar el prototipo de la aplicación web.</td>
+    <td><a href="https://www.figma.com/" target="_blank">https://www.figma.com/</a></td>
+  </tr>
+</table>
+
+
+<br>
+
+**Software Development**
+
+
+<br>
+
+**Software Deployment**
+
+Utilizamos GitHub Pages para desplegar nuestra landing page.
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>GitHub Pages</td>
+    <td>Se emplea para desplegar nuestra landing page.</td>
+    <td><a href="https://pages.github.com/" target="_blank">https://pages.github.com/</a></td>
+  </tr>
+</table>
+
+<br>
+
+**Software Documentation**
+
+Para la gestión de la documentación del proyecto, utilizamos GitHub y MarkDown para redactar y organizar la información.
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>Se utiliza para gestionar la documentación del proyecto.</td>
+    <td><a href="https://github.com/Raje-OS/Raje-repository/" target="_blank">https://github.com/Raje-OS/Raje-repository/</a></td>
+  </tr>
+  <tr>
+    <td>MarkDown</td>
+    <td>Se emplea para redactar y documentar el proyecto.</td>
+    <td><a href="https://markdown.es/" target="_blank">https://markdown.es/</a></td>
+  </tr>
+</table>
+
+
+### 5.1.2. Source Code Management.
+
+Para la gestión del código fuente, utilizamos los siguientes repositorios:
+
+<table>
+    <tbody>
+        <tr>
+            <td> Producto </td>
+            <td> Repositorio </td>
+            <td> URL </td>
+        </tr>
+        <tr>
+            <td> Landing Page </td>
+            <td> Raje-landing-page </td>
+            <td><a href="link" target="_blank">link</a></td>
+        </tr>
+
+
+</table>
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+
+
+### 5.1.4. Software Deployment Configuration.
+
+
+
+## 5.2. Landing Page, Services & Applications Implementation
+En esta sección se describe y demuestra el proceso de implementación, pruebas, documentación y despliegue de la Landing Page de Raje.
+
+### 5.2.1. Sprint 1
+En esta sección se describen los resultados del primer sprint de desarrollo del proyecto, abarcando el Sprint Planning, Sprint Backlog, Sprint Review y Sprint Retrospective.
+
+### 5.2.1.1. Sprint Planning 1
+En este ítem se describe el Sprint Planning del primer sprint de desarrollo del proyecto, incluyendo la fecha, hora, ubicación, preparador, asistentes, objetivo del sprint y las user stories. A continuación, se detalla el proceso de planificación realizado para el Sprint 1.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 1 Review Summary</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 1 Retrospective Summary</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 1 Goal</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 1 Velocity</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+</table>
+
+
+### 5.2.1.2. Sprint Backlog 1
+En este ítem se describe el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo el ID, la user story, las tareas/work-items, la descripción, la estimación, la asignación de responsabilidades y el estado.
+
+El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que se presenta a continuación, establece las tareas concretas que el equipo se comprometió a realizar durante la primera iteración.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+</table>
+
+
+### 5.2.1.3. Development Evidence for Sprint Review
+
+En esta sección se presentan las evidencias del desarrollo de la Landing Page de Raje durante el primer sprint de desarrollo.
+
+A continuación, se muestra una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia resalta el avance logrado en el desarrollo y ajuste de la Landing Page.
+
+**Tabla de commits de la landing-page**
+<table>
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Committed on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+No se llevaron a cabo pruebas en este sprint, ya que se centró únicamente en el desarrollo de la landing page.
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+En esta sección se presenta el despliegue de la landing page de la solución Raje:
+
+Enlace de la landing page:
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+No se utilizaron servicios adicionales, ya que el enfoque principal de este primer sprint fue la implementación de la landing page.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+
+
