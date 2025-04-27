@@ -2255,6 +2255,7 @@ A continuación, se presenta el prototipo de la aplicación web de Raje, diseña
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
+<img src="Report_Assets/RAJE-C4CONTEXT.png" alt="C4 1" width="1200"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
