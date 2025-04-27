@@ -2570,19 +2570,135 @@ El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que 
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
+En esta sección se presentan las evidencias del desarrollo de la Landing Page de Raje durante el primer sprint de desarrollo.
 
+A continuación, se muestra una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia resalta el avance logrado en el desarrollo y ajuste de la Landing Page.
+
+**Tabla de commits de la landing-page**
+<table>
+  <tr>
+    <td colspan="1"><strong>Repository</strong></td>
+    <td colspan="1"> </td>
+    <td colspan="1"><strong>Branch</strong></td>
+    <td colspan="1"> </td>
+    <td colspan="1"><strong>Commit Id</strong></td>
+    <td colspan="1"> </td>
+    <td colspan="1"><strong>Commit Message</strong></td>
+    <td colspan="1"> </td>
+    <td colspan="1"><strong>Commit Message Body</strong></td>
+    <td colspan="1"> </td>
+    <td colspan="1"><strong>Committed on (Date)</strong></td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+  <tr>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+    <td colspan="1"> </td>
+  </tr>
+</table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
-
-
+No se llevaron a cabo pruebas en este sprint, ya que se centró únicamente en el desarrollo de la landing page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+En esta sección se presenta el despliegue de la landing page de la solución Raje:
 
-
+Enlace de la landing page:
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-
+No se utilizaron servicios adicionales, ya que el enfoque principal de este primer sprint fue la implementación de la landing page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
