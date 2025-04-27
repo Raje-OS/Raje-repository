@@ -50,7 +50,7 @@ Sarmiento Medina Loreley U202310005<br>
 - Verona Flores Italo Sebastian
         -Aliaga Urbina Wilder Gonzalo
 - Sarmiento Medina, Loreley</td>
-      <td></td>
+      <td>Se realizó un trabajo integral desde la investigación inicial hasta el diseño del producto RAJE Incluyó entrevistas, análisis de usuarios, construcción de user personas, journey maps, mapas de empatía, Lean UX Canvas, wireframes, mockups y diagramas de arquitectura, consolidando así la base estratégica y visual del proyecto.</td>
     </tr>
     <tr>
       <td>TP</td>
