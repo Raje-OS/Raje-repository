@@ -1154,7 +1154,8 @@ Las entrevistas coincidieron en que las plataformas de streaming utilizan algori
     </tr>
   </tbody>
 </table>
-## 2.4. Ubiquitous Language
+
+### 2.4. Ubiquitous Language
 
 | Término                      | Definición |
 |-------------------------------|------------|
