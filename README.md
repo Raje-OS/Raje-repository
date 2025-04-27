@@ -220,7 +220,7 @@ He trabajado en proyectos colaborativos donde la comunicación y la planificaci�
 </td>
 </tr>
 <tr>
-<td><img src="Report_Assets/integrante5.png" alt="Integrante 5" width="100"/></td>
+<td><img src="Report_Assets/Loreley.PNG" alt="Integrante 5" width="100"/></td>
 <td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me
 especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos
 conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la
