@@ -342,7 +342,7 @@ Población Mundial: 8,000 millones de personas.
 Acceso a Internet: Aproximadamente el 66% de la población mundial tiene acceso a
 Internet, lo que representa a unos 5.3 mil millones de personas (ITU Statistics, 2023).
 
-<img src="Report_Assets/Grafico Acceso a Internet.png" alt="User Persona 1" width="200" height="200"/>
+<img src="Report_Assets/Grafico%20Acceso%20a%20Internet.jpeg" alt="User Persona 1" width="400" height="250"/>
 
 *- Sin Acceso a Internet*
 
@@ -350,7 +350,7 @@ Cerca del 34% de la población mundial, es decir, unos 2.7 mil millones de perso
 tienen acceso a Internet, limitando su capacidad para expresar opiniones en línea
 (Statista, 2023).
 
-<img src="Report_Assets/Grafico Sin Acceso Internet.png" alt="User Persona 1" width="200" height="200"/>
+<img src="Report_Assets/Grafico%20Sin%20Acceso%20Internet.jpeg" alt="User Persona 1" width="400" height="220"/>
 
 *- Restricciones de Libertad de Expresión:*
 
