@@ -725,7 +725,8 @@ Consumidores de Contenido Multimedia
 
 <img src="Report_Assets/foto entrevista andres.png" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EX4KkBl_vfRCuW2NP1HL_9gBpUpL5q9Uc3l4KLgKpWcdzw?e=fW5QGa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EX4KkBl_vfRCuW2NP1HL_9gBpUpL5q9Uc3l4KLgKpWcdzw?e=fW5QGa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Link de la entrevista</a></td>
+
 
 Transcripción resumen de entrevista:
 
@@ -741,7 +742,8 @@ donde los usuarios puedan expresarse libremente y descubrir contenido afín a su
 
 <img src="Report_Assets/foto%20entrevista%20posito.PNG" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EfVJe4L2MB1Ik3WVHxxnxHMBsN10nr-yrkW0qU8iQ7TFMg?e=t97eTS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EfVJe4L2MB1Ik3WVHxxnxHMBsN10nr-yrkW0qU8iQ7TFMg?e=t97eTS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Link de la entrevista</a></td>
+
 
 Transcripción resumen de entrevista:
 
@@ -751,7 +753,7 @@ En la entrevista, Matías Medina, consumidor habitual de cómics, explica que el
 
 <img src="Report_Assets/foto%20entrevista%20albino.PNG" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EZLDi8mX6mhKlgdz9it-4VcB8b_Plm-0xPkVU7pRG_Esow?e=i2QMvz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EZLDi8mX6mhKlgdz9it-4VcB8b_Plm-0xPkVU7pRG_Esow?e=i2QMvz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Link de la entrevista</a></td>
 
 Transcripción resumen de entrevista:
 
@@ -763,7 +765,7 @@ Dueños de Librerías
 
 <img src="Report_Assets/foto%20entrevista%20jorge.PNG" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EU6UCxmBit1Ih9XKPD_p3w8BRh7k5tq5iE0DmcTKHohLFw?e=2WH8BR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EU6UCxmBit1Ih9XKPD_p3w8BRh7k5tq5iE0DmcTKHohLFw?e=2WH8BR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Link de la entrevista</a></td>
 
 Transcripción resumen de entrevista:
 
@@ -773,7 +775,7 @@ En la entrevista, Jorge Linares, dueño de una librería en San Miguel, comenta 
 
 <img src="Report_Assets/foto%20entrevista%20diego.PNG" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EaShS2nRrR9Fi3eDGshxE90BIA7TGMSK8JjLQ7hU4E-TXA?e=XJRIdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EaShS2nRrR9Fi3eDGshxE90BIA7TGMSK8JjLQ7hU4E-TXA?e=XJRIdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Link de la entrevista</a></td>
 
 Transcripción resumen de entrevista:
 
@@ -783,7 +785,7 @@ En la entrevista, Diego Zapata, dueño de una librería en El Agustino, comenta 
 
 <img src="Report_Assets/foto%20entrevista%20martin.PNG" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EUrIOJhqFKlNvvhZIOjihGoBmCOlfWcjDQSIRAMa7fsBFQ?e=QSEkvQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EUrIOJhqFKlNvvhZIOjihGoBmCOlfWcjDQSIRAMa7fsBFQ?e=QSEkvQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Link de la entrevista</a></td>
 
 Transcripción resumen de entrevista:
 
@@ -795,7 +797,7 @@ En la entrevista, Martín Sarmiento, dueño de una librería en San Isidro, expl
 
 <img src="Report_Assets/foto entrevista Gabriel Herrera.png" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e617_upc_edu_pe/Eb4yO1LblFBPtoD3oFHIDqwBGEaiyQWEu0cJ8OK7EVu7tQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hed0Vb
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e617_upc_edu_pe/Eb4yO1LblFBPtoD3oFHIDqwBGEaiyQWEu0cJ8OK7EVu7tQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hed0Vb" target="_blank">Link de la entrevista</a></td>
 
 Transcripción resumen de entrevista:
 
@@ -805,7 +807,7 @@ En la entrevista, Gabriel Herrera, gerente de TI en una plataforma de streaming,
 
 <img src="Report_Assets/foto%20entrevista%20valeria.png" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/personal/u202311640_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311640%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20lore%20a%20due%C3%B1a%20de%20plataforma%20de%20streaming%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2adcfde%2D3d94%2D4e28%2Da301%2D14c76f590a23
+<a href="https://upcedupe-my.sharepoint.com/personal/u202311640_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311640%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20lore%20a%20due%C3%B1a%20de%20plataforma%20de%20streaming%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2adcfde%2D3d94%2D4e28%2Da301%2D14c76f590a23" target="_blank">Link de la entrevista</a></td>
 
 Transcripción resumen de entrevista:
 
@@ -815,7 +817,7 @@ En la entrevista, Valeria Castillo, representante vinculada a la gestión de con
 
 <img src="Report_Assets/AdrianCasanova%20entrevista.png" alt="User Persona 1" width="700" height="400"/>
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ETRsbNuiQrJInujY7XIVn4wBVNVSzxyMFTfQxgGCtVIXqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sfFAVZ
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ETRsbNuiQrJInujY7XIVn4wBVNVSzxyMFTfQxgGCtVIXqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sfFAVZ" target="_blank">Link de la entrevista</a></td>
 
 Transcripción resumen de entrevista:
 
@@ -2341,7 +2343,7 @@ A continuación un diagrama que representa los user goals.
 ## 4.5. Web Applications Prototyping
 A continuación, se presenta el prototipo de la aplicación web de Raje, diseñado para que los usuarios interactúen con la interfaz y exploren las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave de la aplicación, ofreciendo una vista preliminar de la experiencia del usuario y facilitando la evaluación y prueba de la interfaz antes de su implementación definitiva.
 
-[Link del prototipo en Figma](https://www.figma.com/proto/yQOHEffT3HtfRTe35KBqDI/Open-Source---Wireframes-and-Mockups?node-id=65-393&p=f&t=BzPs0fiMAzDMwdn4-1&scaling=min-zoom&content-scaling=fixed&page-id=27%3A63&starting-point-node-id=65%3A393)
+<a href="https://www.figma.com/proto/yQOHEffT3HtfRTe35KBqDI/Open-Source---Wireframes-and-Mockups?node-id=65-393&p=f&t=BzPs0fiMAzDMwdn4-1&scaling=min-zoom&content-scaling=fixed&page-id=27%3A63&starting-point-node-id=65%3A393" target="_blank">Link del prototipo en Figma</a>
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -2952,4 +2954,6 @@ En este sprint, las tareas se dividieron entre el diseño y la implementación d
 # Bibliografía
 
 # Anexos
-Video : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EXKoaVFEs3JBs3IbIqDWjfoBKeys4BBPvKu93_60IV57Wg?e=3G2OQf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EXKoaVFEs3JBs3IbIqDWjfoBKeys4BBPvKu93_60IV57Wg?e=3G2OQf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Video Presentacion TB1</a>
+
