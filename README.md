@@ -739,7 +739,7 @@ donde los usuarios puedan expresarse libremente y descubrir contenido afín a su
 
 -Mathias Medina Posito
 
-<img src="Report_Assets/foto entrevista posito.png" alt="User Persona 1" width="700" height="400"/>
+<img src="Report_Assets/foto%20entrevista%20posito.PNG" alt="User Persona 1" width="700" height="400"/>
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EfVJe4L2MB1Ik3WVHxxnxHMBsN10nr-yrkW0qU8iQ7TFMg?e=t97eTS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -749,7 +749,7 @@ En la entrevista, Matías Medina, consumidor habitual de cómics, explica que el
 
 -Albino Alberto Cáseres Lizarbe
 
-<img src="Report_Assets/foto entrevista albino.png" alt="User Persona 1" width="700" height="400"/>
+<img src="Report_Assets/foto%20entrevista%20albino.PNG" alt="User Persona 1" width="700" height="400"/>
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EZLDi8mX6mhKlgdz9it-4VcB8b_Plm-0xPkVU7pRG_Esow?e=i2QMvz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -761,7 +761,7 @@ Dueños de Librerías
 
 -Jorge Manuel Linares Zegarra
 
-<img src="Report_Assets/foto entrevista jorge.png" alt="User Persona 1" width="700" height="400"/>
+<img src="Report_Assets/foto%20entrevista%20jorge.PNG" alt="User Persona 1" width="700" height="400"/>
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EU6UCxmBit1Ih9XKPD_p3w8BRh7k5tq5iE0DmcTKHohLFw?e=2WH8BR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -771,7 +771,7 @@ En la entrevista, Jorge Linares, dueño de una librería en San Miguel, comenta 
 
 -Diego Rodrigo Zapata Nuñes 
 
-<img src="Report_Assets/foto entrevista diego.png" alt="User Persona 1" width="700" height="400"/>
+<img src="Report_Assets/foto%20entrevista%20diego.PNG" alt="User Persona 1" width="700" height="400"/>
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EaShS2nRrR9Fi3eDGshxE90BIA7TGMSK8JjLQ7hU4E-TXA?e=XJRIdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -781,7 +781,7 @@ En la entrevista, Diego Zapata, dueño de una librería en El Agustino, comenta 
 
 -Martin Sebastian Sarmiento Collantes
 
-<img src="Report_Assets/foto entrevista martin.png" alt="User Persona 1" width="700" height="400"/>
+<img src="Report_Assets/foto%20entrevista%20martin.PNG" alt="User Persona 1" width="700" height="400"/>
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EUrIOJhqFKlNvvhZIOjihGoBmCOlfWcjDQSIRAMa7fsBFQ?e=QSEkvQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -803,7 +803,7 @@ En la entrevista, Gabriel Herrera, gerente de TI en una plataforma de streaming,
 
 - Valeria Nicole Castillo Lopez
 
-<img src="Report_Assets/foto entrevista Valeria.png" alt="User Persona 1" width="700" height="400"/>
+<img src="Report_Assets/foto%20entrevista%20valeria.png" alt="User Persona 1" width="700" height="400"/>
 
 https://upcedupe-my.sharepoint.com/personal/u202311640_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311640%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20lore%20a%20due%C3%B1a%20de%20plataforma%20de%20streaming%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2adcfde%2D3d94%2D4e28%2Da301%2D14c76f590a23
 
