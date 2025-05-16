@@ -3024,12 +3024,12 @@ En este apartado se describe la planificación del segundo sprint del proyecto, 
 ### 5.2.2.2. Sprint Backlog 2
 En este apartado se describe el Sprint Backlog correspondiente al segundo sprint del proyecto, incluyendo el identificador, la historia de usuario, las tareas asignadas, su descripción, estimación de tiempo, responsable y estado. A continuación, se presenta el desglose de las actividades que conformaron el Sprint Backlog 2. Esta tabla refleja las historias de usuario, tareas y estimaciones que orientaron el trabajo del equipo durante este sprint.
 
-![Trello.png](Report_Assets/Trello.png)
+![Product-Backlog-2.png](Report_Assets/Product-Backlog-2.png)
 
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
-    <td colspan="7"><strong>Sprint 1</strong></td>
+    <td colspan="7"><strong>Sprint 2</strong></td>
   </tr>
   <tr>
     <td colspan="2"><strong>User Story</strong></td>
