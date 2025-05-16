@@ -2944,6 +2944,277 @@ En este sprint, las tareas se dividieron entre el diseño y la implementación d
 
 ![Team Collaboration Insights during Sprint.png](Report_Assets/Team%20Collaboration%20Insights%20during%20Sprint.png)
 
+
+
+### 5.2.2. Sprint 2
+
+En esta sección se presentan los resultados obtenidos durante el primer sprint del proyecto, incluyendo la planificación, el backlog, la revisión y la retrospectiva del sprint.
+
+### 5.2.2.1. Sprint Planning 2
+
+En este apartado se describe la planificación del segundo sprint del proyecto, incluyendo detalles como la fecha, horario, lugar, responsable de la preparación, participantes, objetivo del sprint y las historias de usuario. A continuación, se presenta un resumen del proceso de planificación realizado para el Sprint 2.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">Sprint 2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">10 - 05 - 2025</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">9:00 pm - 9:45 pm</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Reunión en Google Meet</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">
+      Cabanillas Meza Jose Mateo<br>
+      Verona Flores Italo Sebastian<br>
+      Aliaga Urbina Wilder Gonzalo<br>
+      Sarmiento Medina Loreley<br>
+      Bejarano Martínez Álvaro Leandro
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 1 Review Summary</strong></td>
+    <td colspan="1">
+      Se mejoraron los wireframes para la primera versión de la aplicación web y se avanzó en el desarrollo del frontend, logrando implementar funcionalidades clave. Además, se actualizó la documentación y reporte del proyecto.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 1 Retrospective Summary</strong></td>
+    <td colspan="1">
+      Se fortaleció la comunicación dentro del equipo y se mejoró la organización de las tareas para optimizar el flujo de trabajo.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Goal</strong></td>
+    <td colspan="1">
+      Implementar la primera versión funcional del frontend de la aplicación, asegurando la correcta integración de las funcionalidades planificadas.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Velocity</strong></td>
+    <td colspan="1">30 Story Points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">30 Story Points</td>
+  </tr>
+</table>
+
+
+
+### 5.2.2.2. Sprint Backlog 2
+En este apartado se describe el Sprint Backlog correspondiente al segundo sprint del proyecto, incluyendo el identificador, la historia de usuario, las tareas asignadas, su descripción, estimación de tiempo, responsable y estado. A continuación, se presenta el desglose de las actividades que conformaron el Sprint Backlog 2. Esta tabla refleja las historias de usuario, tareas y estimaciones que orientaron el trabajo del equipo durante este sprint.
+
+![Trello.png](Report_Assets/Trello.png)
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status (To-do / In- Process / To- Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+</table>
+
+
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+En esta sección se muestran las evidencias del desarrollo del Frontend de Raje durante el segundo sprint. A continuación, se detallan los commits realizados en el frontend durante este periodo, demostrando el avance logrado en la implementación de las funcionalidades previstas.
+
+**Tabla de commits del Frontend**
+<table>
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Committed on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Para este sprint no se realizaron pruebas debido a que solo corresponde al desarrollo de la primera version del web application.
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+En esta sección se presenta el despliegue de la landing page de la solución Raje:
+
+A continuación se entrega el enlace a la landing page actualizada: <a href="https://raje-os.github.io/RAJELandingPage/" target="_blank">Link</a></td>
+
+
+![landing-evidence-1.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-1.png)
+![landing-evidence-2.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-2.png)
+![landing-evidence-3.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-3.png)
+![landing-evidence-4.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-4.png)
+![landing-evidence-5.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-5.png)
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+No se emplearon servicios adicionales, ya que este segundo sprint se centró exclusivamente en la implementación de la primera versión del web application.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para este sprint se dividieron las tareas en diseño e implementación de la primera version del web application. El desarrollo e implementación de la web application estuvo bajo responsabilidad de Mateo Cabanillas.
+
+![Team Collaboration Insights during Sprint.png](Report_Assets/Team%20Collaboration%20Insights%20during%20Sprint.png)
+
 # Conclusiones
 
 - **Impacto de RAJE en la experiencia de los usuarios:**  
