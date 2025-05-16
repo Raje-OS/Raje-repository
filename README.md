@@ -54,9 +54,13 @@ Sarmiento Medina Loreley U202310005<br>
     </tr>
     <tr>
       <td>TP</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>16/05/2025</td>
+      <td>- Bejarano Martínez, Álvaro Leandro
+- Cabanillas Meza, José Mateo
+- Verona Flores Italo Sebastian
+        -Aliaga Urbina Wilder Gonzalo
+- Sarmiento Medina, Loreley</td>
+      <td>Mejoramos los wireframes para desarrollar la primera versión de la aplicación web. Actualizamos el reporte con los avances y trabajamos en el desarrollo de la aplicación. Además, elaboramos el capítulo 5 y actualizamos nuevamente el reporte.</td>
     </tr>
     <tr>
       <td>TB2</td>
