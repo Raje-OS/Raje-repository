@@ -807,7 +807,7 @@ En la entrevista, Gabriel Herrera, gerente de TI en una plataforma de streaming,
 
 <img src="Report_Assets/foto%20entrevista%20valeria.png" alt="User Persona 1" width="700" height="400"/>
 
-<a href="https://upcedupe-my.sharepoint.com/personal/u202311640_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311640%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20lore%20a%20due%C3%B1a%20de%20plataforma%20de%20streaming%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2adcfde%2D3d94%2D4e28%2Da301%2D14c76f590a23" target="_blank">Link de la entrevista</a></td>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EeAU5_trNxREnEC86qVdt54BRJSQdicBdV_jN2LxafOllg?e=PtMvJI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de la entrevista</a></td>
 
 Transcripción resumen de entrevista:
 
