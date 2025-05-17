@@ -3133,52 +3133,52 @@ En esta sección se muestran las evidencias del desarrollo del Frontend de Raje 
     <td><strong>Committed on (Date)</strong></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage</td>
+    <td>main      </td>
+    <td>a73b5f2    </td>
+    <td>Add logo assets</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage</td>
+    <td>main      </td>
+    <td>3c1d902      </td>
+    <td>Fix footer alignment</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage</td>
+    <td>main      </td>
+    <td>3c1d902      </td>
+    <td>Fix footer alignment</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage   </td>
+    <td>main      </td>
+    <td>3c1d902</td>
+    <td>Create script</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage   </td>
+    <td>main      </td>
+    <td>3c1d902      </td>
+    <td>Create script</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage   </td>
+    <td>main      </td>
+    <td>3c1d902      </td>
+    <td>Create script</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
 </table>
 
