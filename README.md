@@ -2233,33 +2233,32 @@ Este mockup de la página de inicio de Raje muestra cómo se visualizarán los e
 ### 4.4.1. Web Applications Wireframes
 Los wireframes de la aplicación web Raje presentan de manera estructurada la disposición de las principales pantallas y funciones, como la gestión de cuentas, publicación de reseñas, exploración de contenido y seguimiento de usuarios. Estos esquemas visuales priorizan la funcionalidad y la usabilidad, sirviendo como guía esencial para diseñadores y desarrolladores en la construcción de una experiencia intuitiva, dinámica y alineada con los intereses de los usuarios.
 
-![MacBook Air - 34.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2034.png)
-![MacBook Air - 35.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2035.png)
-![MacBook Air - 36.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2036.png)
-![MacBook Air - 37.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2037.png)
-![MacBook Air - 38.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2038.png)
-![MacBook Air - 39.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2039.png)
-![MacBook Air - 40.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2040.png)
-![MacBook Air - 41.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2041.png)
-![MacBook Air - 42.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2042.png)
-![MacBook Air - 43.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2043.png)
-![MacBook Air - 44.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2044.png)
-![MacBook Air - 45.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2045.png)
-![MacBook Air - 46.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2046.png)
-![MacBook Air - 47.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2047.png)
-![MacBook Air - 48.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2048.png)
-![MacBook Air - 49.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2049.png)
-![MacBook Air - 50.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2050.png)
-![MacBook Air - 51.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2051.png)
-![MacBook Air - 52.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2052.png)
-![MacBook Air - 53.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2053.png)
-![MacBook Air - 54.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2054.png)
-![MacBook Air - 55.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2055.png)
-![MacBook Air - 56.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2056.png)
-![MacBook Air - 57.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2057.png)
-![MacBook Air - 58.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2058.png)
-![MacBook Air - 60.png](Report_Assets/Web%20Applications%20Wireframes/MacBook%20Air%20-%2060.png)
-
+![Inicio de Sesion-1.png](Report_Assets/wireframes-mockups/Inicio%20de%20Sesion-1.png)
+![Libros filtrados-1.png](Report_Assets/wireframes-mockups/Libros%20filtrados-1.png)
+![MacBook Air - 62.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2062.png)
+![MacBook Air - 63.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2063.png)
+![MacBook Air - 64.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2064.png)
+![MacBook Air - 65.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2065.png)
+![MacBook Air - 66.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2066.png)
+![MacBook Air - 67.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2067.png)
+![MacBook Air - 68.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2068.png)
+![MacBook Air - 69.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2069.png)
+![MacBook Air - 70.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2070.png)
+![MacBook Air - 71.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2071.png)
+![MacBook Air - 72.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2072.png)
+![MacBook Air - 73.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2073.png)
+![MacBook Air - 74.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2074.png)
+![MacBook Air - 75.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2075.png)
+![MacBook Air - 76.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2076.png)
+![MacBook Air - 78.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2078.png)
+![MacBook Air - 79.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2079.png)
+![MacBook Air - 81.png](Report_Assets/wireframes-mockups/MacBook%20Air%20-%2081.png)
+![PARA TI-1.png](Report_Assets/wireframes-mockups/PARA%20TI-1.png)
+![Plataformas suscritas-1.png](Report_Assets/wireframes-mockups/Plataformas%20suscritas-1.png)
+![Registro de nuevo usuario-1.png](Report_Assets/wireframes-mockups/Registro%20de%20nuevo%20usuario-1.png)
+![Tendencias-3.png](Report_Assets/wireframes-mockups/Tendencias-3.png)
+![Top libros-1.png](Report_Assets/wireframes-mockups/Top%20libros-1.png)
+![Top libros-filtro-4.png](Report_Assets/wireframes-mockups/Top%20libros-filtro-4.png)
 ### 4.4.2. Web Applications Wireflow Diagrams
 Esta sección presenta los wireflows de la aplicación web, ilustrando los principales flujos de navegación y las interacciones del usuario en cada funcionalidad clave. Cada diagrama combina la estructura visual de las pantallas con la lógica de los recorridos, facilitando la comprensión del comportamiento esperado dentro de la plataforma.
 
@@ -3024,12 +3023,12 @@ En este apartado se describe la planificación del segundo sprint del proyecto, 
 ### 5.2.2.2. Sprint Backlog 2
 En este apartado se describe el Sprint Backlog correspondiente al segundo sprint del proyecto, incluyendo el identificador, la historia de usuario, las tareas asignadas, su descripción, estimación de tiempo, responsable y estado. A continuación, se presenta el desglose de las actividades que conformaron el Sprint Backlog 2. Esta tabla refleja las historias de usuario, tareas y estimaciones que orientaron el trabajo del equipo durante este sprint.
 
-![Trello.png](Report_Assets/Trello.png)
+![Product-Backlog-2.png](Report_Assets/Product-Backlog-2.png)
 
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
-    <td colspan="7"><strong>Sprint 1</strong></td>
+    <td colspan="7"><strong>Sprint 2</strong></td>
   </tr>
   <tr>
     <td colspan="2"><strong>User Story</strong></td>
@@ -3046,74 +3045,74 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
     <td colspan="1"><strong>Status (To-do / In- Process / To- Review / Done)</strong></td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US-11</td>
+    <td colspan="1">Ver perfil de autor o actores</td>
+    <td colspan="1">W1</td>
+    <td colspan="1">Ver perfil de autor o actores</td>
+    <td colspan="1">Como usuario, quiero poder ver la biografía y datos de un autor o actor.</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Alvaro Leandro Bejarano Martínez</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US-4</td>
+    <td colspan="1">Publicación de Reseñas y Opiniones</td>
+    <td colspan="1">W2</td>
+    <td colspan="1">Publicación de Reseñas y Opiniones</td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Verona Flores Italo Sebastian</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US-3</td>
+    <td colspan="1">Visualización de Opiniones y Calificaciones</td>
+    <td colspan="1">W3</td>
+    <td colspan="1">Visualización de Opiniones y Calificaciones</td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero tener un perfil donde pueda ver todas mis reseñas, calificaciones y el contenido que he consumido.</td>
+    <td colspan="1">1</td>
+    <td colspan="1">Alvaro Leandro Bejarano Martínez</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US-5</td>
+    <td colspan="1">Calificación de Contenido</td>
+    <td colspan="1">W4</td>
+    <td colspan="1">Calificación de Contenido</td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero poder calificar películas, series y libros que he visto o leído, para que otros puedan ver qué tan bueno o malo es.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US-12</td>
+    <td colspan="1">Consultar elenco de película/serie</td>
+    <td colspan="1">W5</td>
+    <td colspan="1">Consultar elenco de película/serie</td>
+    <td colspan="1">Como usuario, quiero ver el listado de actores y sus roles en una película o serie.</td>
+    <td colspan="1">1</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US-13</td>
+    <td colspan="1">Gestionar suscripciones a plataformas</td>
+    <td colspan="1">W6</td>
+    <td colspan="1">Gestionar suscripciones a plataformas</td>
+    <td colspan="1">Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil.</td>
+    <td colspan="1">7</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US-10</td>
+    <td colspan="1">Analizar opiniones de usuarios</td>
+    <td colspan="1">W7</td>
+    <td colspan="1">Analizar opiniones de usuarios</td>
+    <td colspan="1">Como administrador de plataforma de streaming, quiero analizar las opiniones de los usuarios sobre mi contenido.</td>
+    <td colspan="1">8</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
   </tr>
 </table>
 
@@ -3134,52 +3133,52 @@ En esta sección se muestran las evidencias del desarrollo del Frontend de Raje 
     <td><strong>Committed on (Date)</strong></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage</td>
+    <td>main      </td>
+    <td>a73b5f2    </td>
+    <td>Add logo assets</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage</td>
+    <td>main      </td>
+    <td>3c1d902      </td>
+    <td>Fix footer alignment</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage</td>
+    <td>main      </td>
+    <td>3c1d902      </td>
+    <td>Fix footer alignment</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage   </td>
+    <td>main      </td>
+    <td>3c1d902</td>
+    <td>Create script</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage   </td>
+    <td>main      </td>
+    <td>3c1d902      </td>
+    <td>Create script</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>RAJELandingPage   </td>
+    <td>main      </td>
+    <td>3c1d902      </td>
+    <td>Create script</td>
+    <td>Added SVG and PNG logo</td>
+    <td>15/05/2025</td>
   </tr>
 </table>
 
