@@ -3214,6 +3214,78 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 
 ![Team Collaboration Insights during Sprint.png](Report_Assets/Team%20Collaboration%20Insights%20during%20Sprint.png)
 
+### 5.2.3. Sprint 3
+
+En esta sección se presenta el reporte del sprint 3, el cual se enfocó en el desarrollo del Backend, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
+
+### 5.2.2.1. Sprint Planning 3
+
+En este sprint se planteó el desarrollo de la primera versión del backend de la aplicación web, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">Sprint 3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">13 - 06 - 2025</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">9:00 pm - 9:45 pm</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Reunión en Google Meet</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">
+      Cabanillas Meza Jose Mateo<br>
+      Verona Flores Italo Sebastian<br>
+      Aliaga Urbina Wilder Gonzalo<br>
+      Sarmiento Medina Loreley<br>
+      Bejarano Martínez Álvaro Leandro
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 2 Review Summary</strong></td>
+    <td colspan="1">
+      Se realizó el primer despliegue de la web application, implementando funcionalidades básicas como la creación de servicios y visualización de datos.    </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 2 Retrospective Summary</strong></td>
+    <td colspan="1">
+      Hubo un incremento considerable en la productividad y compromiso del equipo hacia el trabajo. Ademá se plantearon las bases para una organización efectiva.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Goal</strong></td>
+    <td colspan="1">
+      Desarrollar la primera versión funcional del backend de RAJE y vincularlo con el frontend para permitir el manejo de usuarios, autenticación, y la creación y consulta de opiniones sobre el contenido en el app.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Velocity</strong></td>
+    <td colspan="1">30 Story Points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">30 Story Points</td>
+  </tr>
+</table>
+
 # Conclusiones
 
 - **Impacto de RAJE en la experiencia de los usuarios:**  
