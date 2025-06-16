@@ -3246,7 +3246,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 
 En esta sección se presenta el reporte del sprint 3, el cual se enfocó en el desarrollo del Backend, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 
-### 5.2.2.1. Sprint Planning 3
+### 5.2.3.1. Sprint Planning 3
 
 En este sprint se planteó el desarrollo de la primera versión del backend de la aplicación web, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 
@@ -3313,6 +3313,62 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
     <td colspan="1">30 Story Points</td>
   </tr>
 </table>
+
+##### 5.2.3.2. Sprint Backlog 3.
+
+
+
+##### 5.2.3.3. Development Evidence for Sprint Review.
+
+
+
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+
+## 5.3. Validation Interviews.
+
+
+
+
+### 5.3.1. Diseño de Entrevistas.
+
+
+
+
+### 5.3.2. Registro de Entrevistas.
+
+
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+
+
+## 5.4. Video About-the-Product.
+
+
+
+
+
+
 
 # Conclusiones
 
