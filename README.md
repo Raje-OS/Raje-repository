@@ -3199,6 +3199,10 @@ A continuación se entrega el enlace a la landing page actualizada: <a href="htt
 ![landing-evidence-4.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-4.png)
 ![landing-evidence-5.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-5.png)
 
+Tambien se presenta el enlace a la aplicación web desplegada: <a href="https://web-4n0sskth2-albro310306s-projects.vercel.app/" target="_blank">https://web-4n0sskth2-albro310306s-projects.vercel.app/</a></td>
+
+![frontend.png](Report_Assets/frontend.png)
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 No se emplearon servicios adicionales, ya que este segundo sprint se centró exclusivamente en la implementación de la primera versión del web application.
