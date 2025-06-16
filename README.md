@@ -3205,9 +3205,15 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Antes de hacer el deployment de la aplicacion web, primero se utilizó my json server para hacer el deployment de la fake api y poder consumir los servicios de la aplicacion web desplegada.
 
+![rajeapi.png](Report_Assets/rajeapi.png)
+![dbraje.png](Report_Assets/dbraje.png)
+![deploymentFakeApi.png](Report_Assets/deploymentFakeApi.png)
 
+Luego se realizo el deployment de la aplicacion web, se utilizó Vercel.
 
+![deplaymentWebApp.png](Report_Assets/deplaymentWebApp.png)
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Para este sprint se dividieron las tareas en diseño e implementación de la primera version del web application. El desarrollo e implementación de la web application estuvo bajo responsabilidad de Mateo Cabanillas.
