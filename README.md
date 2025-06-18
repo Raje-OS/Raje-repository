@@ -3341,6 +3341,7 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 **Landing Page**
+
 Para hacer el deployment de la landing page se utilizó Github Pages, una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública. Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
 Enlace de la landing page: <a href="https://raje-os.github.io/RAJELandingPage/">https://raje-os.github.io/RAJELandingPage/</a>
 
