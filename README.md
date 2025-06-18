@@ -3322,7 +3322,6 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
 
 
 
-
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 
@@ -3341,6 +3340,12 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+**Landing Page**
+Para hacer el deployment de la landing page se utilizó Github Pages, una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública. Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
+Enlace de la landing page: <a href="https://raje-os.github.io/RAJELandingPage/">https://raje-os.github.io/RAJELandingPage/</a>
+
+![landing-TB2.png](Report_Assets/landing-TB2.png)
+
 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -3350,15 +3355,11 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 ## 5.3. Validation Interviews.
 
 
-
-
 ### 5.3.1. Diseño de Entrevistas.
 
 
 
-
 ### 5.3.2. Registro de Entrevistas.
-
 
 
 
