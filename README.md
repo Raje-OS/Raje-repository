@@ -3329,6 +3329,10 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
+
+
 
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
