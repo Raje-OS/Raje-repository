@@ -2364,7 +2364,7 @@ A continuación un diagrama que representa los user goals.
 ## 4.5. Web Applications Prototyping
 A continuación, se presenta el prototipo de la aplicación web de Raje, diseñado para que los usuarios interactúen con la interfaz y exploren las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave de la aplicación, ofreciendo una vista preliminar de la experiencia del usuario y facilitando la evaluación y prueba de la interfaz antes de su implementación definitiva.
 
-<a href="https://www.figma.com/proto/yQOHEffT3HtfRTe35KBqDI/Open-Source---Wireframes-and-Mockups?node-id=65-393&p=f&t=BzPs0fiMAzDMwdn4-1&scaling=min-zoom&content-scaling=fixed&page-id=27%3A63&starting-point-node-id=65%3A393" target="_blank">Link del prototipo en Figma</a>
+<a href="https://www.figma.com/proto/yQOHEffT3HtfRTe35KBqDI/Open-Source---Wireframes-and-Mockups?node-id=455-706&t=5AJn1y3f0stPGn8l-1&scaling=min-zoom&content-scaling=fixed&page-id=27%3A63&starting-point-node-id=455%3A706" target="_blank">https://www.figma.com/proto/yQOHEffT3HtfRTe35KBqDI/Open-Source---Wireframes-and-Mockups?node-id=455-706&t=5AJn1y3f0stPGn8l-1&scaling=min-zoom&content-scaling=fixed&page-id=27%3A63&starting-point-node-id=455%3A706</a>
 
 ## 4.6. Domain-Driven Software Architecture
 
