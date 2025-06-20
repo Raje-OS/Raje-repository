@@ -3260,7 +3260,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 
 En esta sección se presenta el reporte del sprint 3, el cual se enfocó en el desarrollo del Backend, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 
-### 5.2.3.1. Sprint Planning 3
+#### 5.2.3.1. Sprint Planning 3
 
 En este sprint se planteó el desarrollo de la primera versión del backend de la aplicación web, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 
@@ -3327,17 +3327,18 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
     <td colspan="1">30 Story Points</td>
   </tr>
 </table>
-### 5.2.3.2. Aspect Leaders and Collaborators
 
-##### 5.2.3.3. Sprint Backlog 3.
+#### 5.2.3.2. Aspect Leaders and Collaborators
 
-
-
-##### 5.2.3.4. Development Evidence for Sprint Review.
+#### 5.2.3.3. Sprint Backlog 3.
 
 
 
-##### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
 
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
 En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
@@ -3345,11 +3346,11 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 
 
 
-##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 
 
-##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 **Landing Page**
 
@@ -3360,7 +3361,7 @@ Enlace de la landing page: <a href="https://raje-os.github.io/RAJELandingPage/">
 
 
 
-##### 5.2.3.8. Team Collaboration Insights during Sprint.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
 
