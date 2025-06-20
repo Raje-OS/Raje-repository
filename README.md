@@ -170,7 +170,7 @@ Sarmiento Medina Loreley U202310005<br>
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-      -  - [5.2.2. Sprint 3](#522-sprint-2)
+     - [5.2.3. Sprint 3](#523-sprint-2)
       - [5.2.3.1. Sprint Planning 1](#5231-sprint-planning-1)
       - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
       - [5.2.3.3. Sprint Backlog 1](#5233-sprint-backlog-1)
@@ -2728,8 +2728,9 @@ Sarmiento Medina Loreley
   </tr>
 </table>
 
+### 5.2.1.2. Aspect Leaders and Collaborators
 
-### 5.2.1.2. Sprint Backlog 1
+### 5.2.1.3. Sprint Backlog 1
 En este ítem se describe el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo el ID, la user story, las tareas/work-items, la descripción, la estimación, la asignación de responsabilidades y el estado.
 
 El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que se presenta a continuación, establece las tareas concretas que el equipo se comprometió a realizar durante la primera iteración.
@@ -2838,7 +2839,7 @@ El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que 
 </table>
 
 
-### 5.2.1.3. Development Evidence for Sprint Review
+### 5.2.1.4. Development Evidence for Sprint Review
 
 En esta sección se presentan las evidencias del desarrollo de la Landing Page de Raje durante el primer sprint de desarrollo.
 
@@ -2914,10 +2915,10 @@ A continuación, se muestra una recopilación de los commits realizados en la la
 
 
 
-### 5.2.1.4. Testing Suite Evidence for Sprint Review
+### 5.2.1.5. Testing Suite Evidence for Sprint Review
 No se llevaron a cabo pruebas en este sprint, ya que se centró únicamente en el desarrollo de la landing page.
 
-### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.1.6. Execution Evidence for Sprint Review
 En esta sección se presenta el despliegue de la landing page de la solución Raje:
 
 Enlace de la landing page: https://raje-os.github.io/RAJELandingPage/
@@ -2928,7 +2929,7 @@ Enlace de la landing page: https://raje-os.github.io/RAJELandingPage/
 ![landing-evidence-4.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-4.png)
 ![landing-evidence-5.png](Report_Assets/Execution%20Evidence%20for%20Sprint%20Review/landing-evidence-5.png)
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.1.7. Services Documentation Evidence for Sprint Review
 
 No se utilizaron servicios adicionales, ya que el enfoque principal de este primer sprint fue la implementación de la landing page.
 
@@ -3053,9 +3054,9 @@ En este apartado se describe la planificación del segundo sprint del proyecto, 
   </tr>
 </table>
 
+### 5.2.2.2. Aspect Leaders and Collaborators
 
-
-### 5.2.2.2. Sprint Backlog 2
+### 5.2.2.3. Sprint Backlog 2
 En este apartado se describe el Sprint Backlog correspondiente al segundo sprint del proyecto, incluyendo el identificador, la historia de usuario, las tareas asignadas, su descripción, estimación de tiempo, responsable y estado. A continuación, se presenta el desglose de las actividades que conformaron el Sprint Backlog 2. Esta tabla refleja las historias de usuario, tareas y estimaciones que orientaron el trabajo del equipo durante este sprint.
 
 ![Product-Backlog-2.png](Report_Assets/Product-Backlog-2.png)
@@ -3153,7 +3154,7 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
 
 
 
-### 5.2.2.3. Development Evidence for Sprint Review
+### 5.2.2.4. Development Evidence for Sprint Review
 
 En esta sección se muestran las evidencias del desarrollo del Frontend de Raje durante el segundo sprint. A continuación, se detallan los commits realizados en el frontend durante este periodo, demostrando el avance logrado en la implementación de las funcionalidades previstas.
 
@@ -3217,10 +3218,6 @@ En esta sección se muestran las evidencias del desarrollo del Frontend de Raje 
   </tr>
 </table>
 
-
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review
-Para este sprint no se realizaron pruebas debido a que solo corresponde al desarrollo de la primera version del web application.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 En esta sección se presenta el despliegue de la landing page de la solución Raje:
@@ -3330,16 +3327,13 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
     <td colspan="1">30 Story Points</td>
   </tr>
 </table>
+### 5.2.3.2. Aspect Leaders and Collaborators
 
-##### 5.2.3.2. Sprint Backlog 3.
-
-
-
-##### 5.2.3.3. Development Evidence for Sprint Review.
+##### 5.2.3.3. Sprint Backlog 3.
 
 
 
-##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+##### 5.2.3.4. Development Evidence for Sprint Review.
 
 
 
