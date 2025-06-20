@@ -2297,50 +2297,52 @@ Los wireframes de la aplicación web Raje presentan de manera estructurada la di
 ### 4.4.2. Web Applications Wireflow Diagrams
 Esta sección presenta los wireflows de la aplicación web, ilustrando los principales flujos de navegación y las interacciones del usuario en cada funcionalidad clave. Cada diagrama combina la estructura visual de las pantallas con la lógica de los recorridos, facilitando la comprensión del comportamiento esperado dentro de la plataforma.
 
-**User Flow: Gestión de Notificaciones**:  
-Este flujo muestra la interacción del usuario con la sección de notificaciones, permitiendo visualizar nuevas interacciones y recomendaciones dentro de Raje.
 
-![Notificaciones.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/Notificaciones.png)
+**User Flow: Registro e Inicio de Sesión**:  
+Este flujo describe el proceso que sigue un usuario para registrarse o iniciar sesión en la plataforma Raje.
 
-**User Flow: Registro, Inicio de Sesión y Recuperación de Contraseña**:  
-Este flujo describe el proceso que sigue un usuario para registrarse, iniciar sesión o recuperar el acceso a su cuenta en la plataforma Raje.
 
-![RegistroUsuario.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/RegistroUsuario.png)
 
-**User Flow: Gestión de Perfil, Favoritos y Recomendaciones Personalizadas**:  
-Este flujo muestra cómo los usuarios pueden gestionar su perfil, acceder a sus reseñas y listas favoritas, administrar plataformas suscritas y recibir recomendaciones personalizadas basadas en su historial de contenido.
 
-![GestionPerfilInfoPersona.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/GestionPerfilInfoPersona.png)
 
-**User Flow: Visualización de Perfiles de Otros Usuarios y su Actividad**:  
-Este flujo permite a los usuarios explorar los perfiles de otros miembros de la plataforma, visualizar sus reseñas, contenido visto y las últimas actividades registradas en el feed.
+**User Flow: Gestión de Perfil**:  
+Este flujo muestra cómo los usuarios pueden gestionar su perfil y editarlo segun la informacion deseada.
 
-![Actividad comunidad.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/Actividad%20comunidad.png)
 
-**User Flow: Exploración de Tendencias y Análisis de Calificaciones**:  
-Este flujo permite a los usuarios descubrir el contenido más popular de la semana y acceder a análisis detallados de calificaciones segmentadas por categorías.
-
-![ExplorarTendencias.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/ExplorarTendencias.png)
-
-**User Flow: Búsqueda de Contenido y Visualización de Resultados**:  
-Este flujo describe cómo los usuarios pueden buscar películas, series o libros mediante palabras clave, aplicar filtros y acceder a la ficha detallada de cada contenido.
-
-![BusquedaContenido.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/BusquedaContenido.png)
-
-**User Flow: Creación y Actualización de Reseñas**:  
-Este flujo permite a los usuarios escribir nuevas reseñas o actualizar opiniones existentes sobre películas, series o libros dentro de la plataforma.
-
-![Creación y Actualización de Reseñas.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/Creaci%C3%B3n%20y%20Actualizaci%C3%B3n%20de%20Rese%C3%B1as.png)
 
 **User Flow: Creación y Gestión de Listas Personalizadas**:  
 Este flujo permite a los usuarios crear nuevas listas de contenido, así como editar o eliminar listas existentes para organizar sus películas, series y libros favoritos.
 
-![Creación y Gestión de Listas Personalizadas.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/Creaci%C3%B3n%20y%20Gesti%C3%B3n%20de%20Listas%20Personalizadas.png)
+
+
+
+**User Flow: Gestión de Listas y Plataformas**:  
+Este flujo muestra cómo los usuarios pueden acceder a sus reseñas, listas favoritas y administrar plataformas suscritas.
+
+
+
+
+**User Flow: Exploración de Tendencias y Top en Específico** :  
+Este flujo permite a los usuarios descubrir el contenido más popular de la semana y acceder a un top en específico.
+
+
+
+
+
+**User Flow: Creación y Visualización de Reseñas**:  
+Este flujo permite a los usuarios escribir nuevas reseñas y visualizar opiniones existentes sobre películas, series o libros dentro de la plataforma.
+
+
+
+
+
+
 
 **User Flow: Visualización de Ficha de Contenido y Detalle de Elenco**:  
-Este flujo permite al usuario explorar la ficha completa de una obra, visualizar el elenco participante y acceder a información detallada de cada actor o actriz.
+Este flujo permite al usuario explorar la ficha completa de una pelicula, y acceder a información detallada de cada actor o actriz.
 
-![VerFichaContenidoyActores.png](Report_Assets/Web%20Applications%20Wireflow%20Diagrams/VerFichaContenidoyActores.png)
+
+
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan los mock-ups de la aplicación web, los cuales ilustran de manera visual cómo se verá la interfaz de usuario en diferentes pantallas. Estos diseños detallan la disposición de los elementos, los colores, y las interacciones previstas, proporcionando una representación visual clara y detallada del aspecto final de la plataforma, lo que facilita la validación y optimización del diseño antes de su implementación.
