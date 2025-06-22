@@ -112,7 +112,7 @@ Sarmiento Medina Loreley U202310005<br>
 
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
+  - [3.2. es](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
 
@@ -1419,11 +1419,6 @@ Escenario 1:
                 Entonces el sistema debe enviarme un correo de verificación para confirmar mi cuenta.
 
 Escenario 2:
-Dado que tengo una cuenta en Google o Facebook,
-Cuando selecciono la opción para registrarme con estas redes sociales,
-Entonces el sistema debe permitirme crear la cuenta utilizando mis credenciales de estas plataformas.
-
-Escenario 3:
 Dado que el correo electrónico que intento registrar ya está en uso,
 Cuando intento crear la cuenta,
 Entonces el sistema debe mostrarme un mensaje indicando que el correo ya está registrado y ofrecerme la opción de
