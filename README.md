@@ -3329,7 +3329,12 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
 
 #### 5.2.3.3. Sprint Backlog 3.
 
-
+|User Story ID|	Título de User Story	|Task ID|	Título de Tarea|	Descripción|	Estimación (hrs)	|Asignado a	Estado|
+|US-6	|Recomendaciones Personalizadas|	W08|	Generación de Recomendaciones	|Como usuario, quiero recibir recomendaciones basadas en mis reseñas y calificaciones previas|	6	|Verona Flores Italo Sebastian|	Done|
+|US-9	|Ver Análisis de Libros Mejor Valorados	|W09|	Panel de Libros Mejor Valorados	|Como librero, quiero ver los libros mejor valorados para tomar decisiones comerciales|	5|	Aliaga Urbina Wilder Gonzalo|	Done|
+|US-14|	Ver Trailers y Portadas|	W10	|Multimedia en ficha de contenido	|Como usuario, quiero ver tráilers y portadas oficiales de películas o series antes de consumirlas|	4	|Cabanillas Meza Jose Mateo	|Done|
+|US-15	|Marcar contenido como “Visto”	|W11	|Funcionalidad “Marcar como visto”	|Como usuario, quiero marcar manualmente una película, serie o libro como visto para llevar un control de historial|	3	|Sarmiento Medina Loreley	|Done|
+|US-17	|Ver recomendaciones según historial|	W12|	Personalización por historial	|Como usuario, quiero recomendaciones basadas en lo que he visto o leído recientemente|	6|	Alvaro Leandro Bejarano Martínez	|Done|
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 En esta sección se presentan los commits realizados en el repositorio del frontend durante el Sprint 3 del proyecto RAJE. Cada commit representa avances en funcionalidades clave, mejoras visuales, validaciones y organización del código.
