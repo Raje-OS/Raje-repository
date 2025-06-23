@@ -3527,7 +3527,7 @@ COnsumidores de contenido multimedia:
 | **Información de presentación del producto** | Le quedó claro el mensaje de que es una plataforma para vender ropa. Los botones, instrucciones e imágenes comunican bien la propuesta de valor.              |
 | **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
 | **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “listar” y sugirió mejorar el diseño a la hora de rajar. |
-
+[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/Eeb3KPhgKM1IjaJvgdO-TvIBvOPCMO92HH4_-SEbj8ykdA?e=fAoUPw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 5.3.3. Evaluaciones según heurísticas.
 ##  EVALUACIÓN HEURÍSTICA - RAJE
