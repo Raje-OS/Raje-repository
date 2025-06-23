@@ -3464,10 +3464,35 @@ Para el deployment del Front Web usamos Vercel, dandole acceso a la cuenta de gi
 ![Insights.png](Report_Assets/TB2/Insights.png)
 
 ## 5.3. Validation Interviews.
-
-
 ### 5.3.1. Diseño de Entrevistas.
 
+Como parte de la validación de la experiencia de usuario de la plataforma **RAJE**, elaboramos una serie de preguntas dirigidas a usuarios potenciales. El objetivo fue recopilar percepciones cualitativas sobre la navegación, la claridad del mensaje, la interfaz y la utilidad general de las funcionalidades desarrolladas durante el Sprint 3.
+
+Estas entrevistas nos permiten identificar oportunidades de mejora desde la perspectiva del usuario final y orientar futuras iteraciones del producto.
+
+
+### **Preguntas de la entrevista**
+
+**1. ¿Qué tan fácil te resultó navegar por la aplicación RAJE?**  
+
+**2. ¿RAJE cumplió con tus expectativas?**  
+
+**3. ¿Qué funcionalidad de RAJE te resultó más valiosa?**  
+
+**4. ¿Hay alguna funcionalidad o característica que sentiste que faltaba o debería mejorarse?**  
+
+**5. ¿Hay pantallas, formularios o secciones de RAJE que no se vean bien o generen confusión al usarlas?**  
+
+**6. ¿El mensaje principal de la plataforma (libertad de opinar y descubrir contenido auténtico) te quedó claro al primer vistazo?**  
+
+
+**7. ¿Qué tan claro fue el llamado a la acción principal de la landing page?**  
+
+**8. ¿Hubo alguna parte del diseño o navegación que te resultó confusa o poco intuitiva?**  
+
+**9. En una escala del 1 al 10, ¿qué tan probable es que recomiendes RAJE a un amigo o colega? ¿Por qué?**  
+
+**10. ¿Qué nueva funcionalidad te gustaría que agregáramos o qué parte te gustaría que mejoráramos en RAJE?**  
 
 
 ### 5.3.2. Registro de Entrevistas.
