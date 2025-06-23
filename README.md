@@ -3052,6 +3052,12 @@ En este apartado se describe la planificación del segundo sprint del proyecto, 
 </table>
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
+| Integrante del equipo              | GitHub                | Recomendaciones Personalizadas | Análisis de Libros | Multimedia (Trailers/Portadas) | “Visto” / Historial | Recomendaciones según historial |
+|-----------------------------------|------------------------|-------------------------------|--------------------|-------------------------------|----------------------|-------------------------------|
+| Wilder Gonzalo       | Gonzalo1905      | C                             | L                  |                               |                      |                               |
+| Cabanillas Meza Jose Mateo        | marckszz               | C                             |                    |                               | L                    |                               |
+| Sarmiento Medina Loreley          | loreleysarmiento       | C                             |                    |                               | C                    | L                             |
+| Alvaro Leandro Bejarano Martínez | Albro310306            | C                             |                    |                               |                      | C                             |
 
 ### 5.2.2.3. Sprint Backlog 2
 En este apartado se describe el Sprint Backlog correspondiente al segundo sprint del proyecto, incluyendo el identificador, la historia de usuario, las tareas asignadas, su descripción, estimación de tiempo, responsable y estado. A continuación, se presenta el desglose de las actividades que conformaron el Sprint Backlog 2. Esta tabla refleja las historias de usuario, tareas y estimaciones que orientaron el trabajo del equipo durante este sprint.
