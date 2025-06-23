@@ -3366,10 +3366,12 @@ Enlace de la landing page: <a href="https://raje-os.github.io/RAJELandingPage/">
 ![landing-TB2.png](Report_Assets/landing-TB2.png)
 
 **FrontEnd App**
-
-
-
-
+Para el deployment del Front Web usamos Vercel, dandole acceso a la cuenta de github donde se encontraba el repositorio de esta desplegandolo, se uso una api estatica deployada en render para conectar los datos
+![landing-TB2.png](Report_Assets/DeployRaje-1.PNG)
+![landing-TB2.png](Report_Assets/DeployRaje-2.PNG)
+![landing-TB2.png](Report_Assets/DeployRaje-3.PNG)
+![landing-TB2.png](Report_Assets/DeployRaje-4.PNG)
+![landing-TB2.png](Report_Assets/DeployRaje-5.PNG)
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 **FrontEnd Repository**
