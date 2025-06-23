@@ -3325,6 +3325,83 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
 
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
+En esta sección se presentan los commits realizados en el repositorio del frontend durante el Sprint 3 del proyecto RAJE. Cada commit representa avances en funcionalidades clave, mejoras visuales, validaciones y organización del código.
+
+
+<table>
+  <tr>
+    <td><b>Repository</b></td>
+    <td><b>Branch</b></td>
+    <td><b>Commit Id</b></td>
+    <td><b>Commit Message</b></td>
+    <td><b>Commit Message Body</b></td>
+    <td><b>Committed on (Date)</b></td>
+  </tr>
+  <tr>
+    <td>https://github.com/Raje-OS/FrontEnd</td>
+    <td>main</td>
+    <td>f6c1f26</td>
+    <td>register tests</td>
+    <td>register tests</td>
+    <td>22/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Raje-OS/FrontEnd</td>
+    <td>main</td>
+    <td>7915e89</td>
+    <td>favoritos component ts</td>
+    <td>favoritos component ts</td>
+    <td>22/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Raje-OS/FrontEnd</td>
+    <td>main</td>
+    <td>16c0d8b</td>
+    <td>favoritos component</td>
+    <td>favoritos component</td>
+    <td>22/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Raje-OS/FrontEnd</td>
+    <td>main</td>
+    <td>fb2242e</td>
+    <td>Registrationvalidation</td>
+    <td>Registrationvalidation</td>
+    <td>22/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Raje-OS/FrontEnd</td>
+    <td>main</td>
+    <td>7a3a178</td>
+    <td>Merge pull request #3 from Raje-OS/Favorites</td>
+    <td>Merge favorito feature branch to main</td>
+    <td>22/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Raje-OS/FrontEnd</td>
+    <td>main</td>
+    <td>3286971</td>
+    <td>Merge pull request #2 from Raje-OS/Tendencies</td>
+    <td>Merge branch tendencies to main</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Raje-OS/FrontEnd</td>
+    <td>main</td>
+    <td>9fa8b0a</td>
+    <td>Merge pull request #1 from Raje-OS/reviews</td>
+    <td>Review feature integrated to main</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Raje-OS/FrontEnd</td>
+    <td>main</td>
+    <td>e9bc606</td>
+    <td>first commit</td>
+    <td>Initial setup of the frontend</td>
+    <td>18/06/2025</td>
+  </tr>
+</table>
 
 
 
