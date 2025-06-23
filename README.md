@@ -3500,47 +3500,91 @@ Estas entrevistas nos permiten identificar oportunidades de mejora desde la pers
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
+##  EVALUACIÓN HEURÍSTICA - RAJE
 
-**UX Heuristics & Principles Evaluation**
-
-**Carrera:** Ingeniería de Software  
-**Curso:** Desarrollo de Aplicaciones Open Source
-**Sección:** 4334  
-**Clientes:** Raje  
-
-**Sitio Evaluado:** Plataforma Web y Landing Page de Raje  
-**Versión:** Revisión de interfaz estática y estructura de navegación inicial de la Aplicaion Web
+**ENTREVISTADO**: [Nombre del participante]  
+**Rol o segmento**: [Ej. consumidor de contenido, dueño de librería, artista, streamer]  
+**Fecha de evaluación**: [Fecha]
 
 ---
 
-### Tareas evaluadas
+###  TAREAS EVALUADAS
 
-#### Landing Page
-- Visualización de propuesta del proyecto
-- CTA hacia inicio de sesión 
-- Navegación general (header/footer)
-
-#### Web Application
-- Visualización de perfil de usuario 
-- Creación de reseñas, favoritos , analisis de tendencias y perfil
-- 
+1. Ingreso a la landing page y comprensión del valor de RAJE.  
+2. Publicación de una reseña sin censura.  
+3. Visualización de recomendaciones personalizadas.  
+4. Acceso al perfil y visualización de historial de reseñas.  
+5. Interacción general con la plataforma.
 
 ---
 
-### Escala de Severidad
+###  ESCALA DE SEVERIDAD
 
 | Nivel | Descripción |
 |-------|-------------|
-| 1     | Problema superficial |
-| 2     | Problema menor |
-| 3     | Problema mayor |
-| 4     | Problema muy grave |
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario. |
+| 2     | Problema menor: ocurre ocasionalmente o requiere poco esfuerzo para solucionarlo. |
+| 3     | Problema mayor: afecta la experiencia o genera errores relevantes. |
+| 4     | Problema crítico: impide continuar o causa confusión grave. |
 
 ---
 
+###  TABLA RESUMEN DE PROBLEMAS
 
+| Nº | Problema identificado | Severidad | Heurística violada |
+|----|------------------------|-----------|---------------------|
+| 1  |  |  |  |
+| 2  |  |  | |
+| 3  |  |  | |
+| 4  | |  | |
+| 5  |  |  |  |
 
 ---
+
+### 🧠 DESCRIPCIÓN DE PROBLEMAS
+
+#### 🔹 PROBLEMA #1
+**Descripción**: [Describe el problema observado]  
+**Recomendación**: [Qué cambio concreto lo resolvería]  
+**Heurística violada**: Visibilidad del estado del sistema  
+
+---
+
+#### 🔹 PROBLEMA #2
+**Descripción**: [...]  
+**Recomendación**: [...]  
+**Heurística violada**: Prevención de errores  
+
+---
+
+#### 🔹 PROBLEMA #3
+**Descripción**: [...]  
+**Recomendación**: [...]  
+**Heurística violada**: Correspondencia entre el sistema y el mundo real  
+
+---
+
+#### 🔹 PROBLEMA #4
+**Descripción**: [...]  
+**Recomendación**: [...]  
+**Heurística violada**: Ayuda y documentación  
+
+---
+
+#### 🔹 PROBLEMA #5
+**Descripción**: [...]  
+**Recomendación**: [...]  
+**Heurística violada**: Control y libertad del usuario  
+
+---
+
+### 📌 COMENTARIOS DEL USUARIO
+
+- **Percepción general**: [¿Cómo describió su experiencia en términos generales?]  
+- **Facilidad de uso**: [¿Fue fluido? ¿Tuvo dudas?]  
+- **Satisfacción con el flujo evaluado**: [Escala del 1 al 10]  
+- **Sugerencias**: [Propuestas de mejora dadas por el usuario]
+
 
 ### Descripción de Problemas
 
