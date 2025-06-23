@@ -1534,61 +1534,9 @@ Entonces el sistema debe actualizar las recomendaciones según mis nuevas prefer
 <td>EP02</td>
 </tr>
 <tr>
-<td>US-07</td>
-<td>Seguimiento de Otros Usuarios</td>
-<td>Como consumidor de contenido multimedia, quiero poder seguir a otros usuarios cuyas opiniones me interesan, para
-poder ver sus reseñas y recomendaciones de manera constante en mi feed.</td>
-<td>
-Escenario 1:
-Dado que estoy interesado en las opiniones de otro usuario,
-Cuando sigo a ese usuario desde su perfil,
-Entonces debo poder ver sus reseñas y recomendaciones en mi feed personal.
 
-Escenario 2:
-Dado que ya sigo a varios usuarios,
-Cuando accedo a mi feed,
-Entonces debo ver una lista de las reseñas y recomendaciones más recientes de los usuarios que sigo.
-
-Escenario 3:
-Dado que ya sigo a un usuario,
-Cuando decido dejar de seguirlo,
-Entonces el sistema debe dejar de mostrar sus reseñas y recomendaciones en mi feed.
-</td>
-<td>EP02</td>
-</tr>
 <tr>
-<td>US-08</td>
-<td>
-Recuperación de Contraseña
-</td>
-<td>
-Como usuario, deseo poder recuperar mi contraseña en caso de olvidarla, para poder acceder nuevamente a mi cuenta.
-</td>
-<td>
-Escenario 1:
-Dado que he olvidado mi contraseña y hago clic en "¿Olvidaste tu contraseña?",
-Cuando ingreso mi correo electrónico en el formulario de recuperación,
-Entonces el sistema debe enviarme un enlace para restablecer la contraseña.
-
-Escenario 2:
-Dado que he recibido el enlace de restablecimiento de contraseña,
-Cuando hago clic en el enlace y establezco una nueva contraseña,
-Entonces el sistema debe confirmar que mi contraseña ha sido actualizada correctamente y redirigirme a la página de
-inicio de sesión.
-
-Escenario 3:
-Dado que he ingresado una nueva contraseña,
-Cuando intento iniciar sesión con la nueva contraseña,
-Entonces el sistema debe autenticarme correctamente y llevarme a mi página de inicio.
-
-Escenario 4:
-Dado que el correo electrónico ingresado no está registrado,
-Cuando intento recuperar la contraseña,
-Entonces el sistema debe mostrar un mensaje indicando que no se ha encontrado una cuenta asociada con ese correo.
-</td>
-<td>EP01</td>
-<tr>
-  <td>US-9</td>
+  <td>US-07</td>
   <td>Ver análisis de libros mejor valorados</td>
   <td>Como dueño de librería, quiero poder ver un análisis de los libros con mejor valoración y reseñas en la plataforma, para poder hacer promociones basadas en estas valoraciones.</td>
   <td>
@@ -1610,30 +1558,9 @@ Entonces el sistema muestra un mensaje: “Genero no existente”
   </td>
   <td>EPIC-4</td>
 </tr>
-<tr>
-  <td>US-10</td>
-  <td>Analizar opiniones de usuarios</td>
-  <td>Como administrador de plataforma de streaming, quiero analizar las opiniones de los usuarios sobre mi contenido, para ajustar mi catálogo y ofrecer mejores opciones que se alineen con sus preferencias.</td>
-  <td>
-Escenario 1: Métricas generales por contenido
-    Dado que soy administrador de plataforma
-    Cuando accedo al panel de análisis
-    Entonces veo calificación promedio
 
-Escenario 2: Filtro por fecha
-Dado que quiero analizar los últimos 30 días
-Cuando aplico un filtro de fecha
-Entonces el panel muestra solo métricas del rango indicado
-
-Escenario 3: Filtro por género
-Dado que administro contenido de múltiples géneros
-Cuando selecciono “Drama”
-Entonces el sistema actualiza las métricas solo con contenido etiquetado como drama
-  </td>
-  <td>EPIC-8</td>
-</tr>
 <tr>
-  <td>US-11</td>
+  <td>US-08</td>
   <td>Ver perfil de autor o actores</td>
   <td>Como usuario, quiero poder ver la biografía y datos de un autor o actor (nombre, biografía, fecha de nacimiento, etc.), para conocer más sobre sus trabajos.</td>
   <td>
@@ -1655,7 +1582,7 @@ Entonces el sistema muestra un mensaje de error y permite reintentar
   <td>EPIC-4</td>
 </tr>
 <tr>
-  <td>US-12</td>
+  <td>US-09</td>
   <td>Consultar elenco de película/serie</td>
   <td>Como usuario, quiero ver el listado de actores y sus roles en una película o serie, para tener contexto sobre el reparto.</td>
   <td>
@@ -1677,7 +1604,7 @@ Entonces cada actor muestra en cuántos episodios ha participado
   <td>EPIC-4</td>
 </tr>
 <tr>
-  <td>US-13</td>
+  <td>US-10</td>
   <td>Gestionar suscripciones a plataformas</td>
   <td>Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil, para que la plataforma sepa dónde busco contenido.</td>
   <td>
@@ -1699,7 +1626,7 @@ Entonces solo se muestran contenidos disponibles en esas
   <td>EPIC-2</td>
 </tr>
 <tr>
-  <td>US-14</td>
+  <td>US-11</td>
   <td>Marcar contenido como favorito</td>
   <td>Como consumidor de contenido multimedia, quiero poder marcar una película, serie o libro como favorito, tener un acceso rápido a mi contenido preferido.</td>
   <td>
@@ -1722,7 +1649,7 @@ Entonces veo una notificación “Agregado a favoritos” o “Eliminado de favo
   <td>EPIC-4</td>
 </tr>
 <tr>
-  <td>US-15</td>
+  <td>US-12</td>
   <td>Listar mis favoritos</td>
   <td>Como consumidor de contenido multimedia, quiero ver en mi perfil una sección “Favoritos” con todas las obras que marqué, para acceder rápidamente a ellas.</td>
   <td>
@@ -1745,7 +1672,7 @@ Entonces soy redirigido a la ficha completa de ese contenido
   <td>EPIC-4</td>
 </tr>
 <tr>
-  <td>US-16</td>
+  <td>US-13</td>
   <td>Feed de contenido trending</td>
   <td>Como usuario, quiero ver un feed de “Tendencias” con contenidos más reseñados y mejor valorados en la última semana, para descubrir lo más popular.</td>
   <td>
@@ -1767,7 +1694,7 @@ Entonces se abre la sección completa con más recomendaciones populares
   <td>EPIC-4</td>
 </tr>
 <tr>
-  <td>US-17</td>
+  <td>US-14</td>
   <td>Ver trailers y portadas</td>
   <td>Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie dentro de la ficha de contenido, para tener un adelanto visual antes de consumirla.</td>
   <td>
@@ -1789,7 +1716,7 @@ Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”
   <td>EPIC-4</td>
 </tr>
 <tr>
-  <td>US-18</td>
+  <td>US-15</td>
   <td>Marcar contenido como “Visto”</td>
   <td>Como usuario, quiero marcar manualmente una película, serie o libro como “Visto/Leído”, para mantener mi historial actualizado.</td>
   <td>
@@ -1812,7 +1739,7 @@ Entonces se elimina del historial
   <td>EPIC-4</td>
 </tr>
 <tr>
-  <td>US-19</td>
+  <td>US-16</td>
   <td>Crear lista personalizada de contenido</td>
   <td>Como usuario, quiero poder crear listas personalizadas de películas, series o libros, para organizarlos de acuerdo a mis intereses.</td>
   <td>
@@ -1835,7 +1762,7 @@ Escenario 3: Eliminar contenido de la lista
   <td>EPIC-2</td>
 </tr>
 <tr>
-  <td>US-20</td>
+  <td>US-17</td>
   <td>Ver recomendaciones personalizadas</td>
   <td>Como usuario, quiero recibir recomendaciones personalizadas basadas en mi historial de contenido, para descubrir cosas nuevas que me gusten.</td>
   <td>
@@ -1856,7 +1783,88 @@ Entonces las recomendaciones se actualizan según mi historial reciente
   </td>
   <td>EPIC-4</td>
 </tr>
+<tr>
+  <td>US-18</td>
+  <td>Cambio de idioma en Landing Page</td>
+  <td>Como usuario, quiero poder cambiar el idioma de la página entre español e inglés, para entender el contenido en mi idioma preferido.</td>
+  <td>
+ Escenario 1: Cambio a inglés
+   Dado que estoy en la landing page y está en español
+   Cuando hago clic en el botón "EN",
+  Entonces todo el contenido de la página se traduce al inglés.
+Escenario 2: Cambio de regreso a español
+            Dado que la página está en inglés,
+            Cuando hago clic en el botón "ES",
+            Entonces todo el contenido vuelve a mostrarse en español.
+  </td>
+  <td>EPIC-4</td>
+</tr>
+<tr>
+        <td>US-19</td>
+        <td>Explorar la sección Inicio en Landing Page</td>
+        <td>Como visitante, quiero ver contenido destacado y opiniones auténticas al ingresar a la sección de Inicio, para entender el valor diferencial de RAJE.</td>
+        <td>
+            Escenario 1: Visualización de reseñas destacadas
+            Dado que estoy en la sección de inicio,
+            Cuando cargo la página,
+            Entonces veo una reseña destacada en el centro con una película y dos opiniones destacadas a los costados.
+            Escenario 2: Acceso al botón de inicio
+            Dado que quiero empezar a usar la plataforma,
+            Cuando hago clic en “INICIA AHORA”,
+            Entonces se me redirige a la página de registro o inicio de sesión.
+        </td>
+        <td>EPIC-4</td>
+    </tr>
+<tr>
+        <td>US-20</td>
+        <td>Explorar la sección Contenido en Landing Page</td>
+        <td>Como visitante, quiero explorar fácilmente las películas y series destacadas en la sección Contenido, para conocer lo que RAJE ofrece.</td>
+        <td>
+            Escenario 1: Carrusel de contenido
+            Dado que me encuentro en la sección Contenido,
+            Cuando navego hacia abajo,
+            Entonces visualizo tarjetas de películas y series con sus respectivas portadas.
+            Escenario 2: Acceso a más información
+            Dado que me interesa una portada específica,
+            Cuando hago clic sobre ella,
+            Entonces accedo a la ficha de detalles del contenido.
+        </td>
+        <td>EPIC-5</td>
+    </tr>
+<tr>
+        <td>US-21</td>
+        <td>Explorar la sección Comunidad en Landing Page</td>
+        <td>Como usuario nuevo, quiero ver lo que otras personas opinan en la sección Comunidad, para entender el tipo de experiencias compartidas en RAJE.</td>
+        <td>
+            Escenario 1: Ver últimas opiniones<br>
+            Dado que ingreso a la sección Comunidad,
+            Cuando visualizo el contenido,
+            Entonces veo tarjetas con usuarios, opiniones y calificaciones recientes.
+            Escenario 2: Lectura del mensaje comunitario
+            Dado que estoy en Comunidad,
+            Cuando leo el mensaje de bienvenida,
+            Entonces entiendo que RAJE valora la sinceridad, la autenticidad y la libertad de expresión.
+        </td>
+        <td>EPIC-5</td>
+    </tr>
+<tr>
+        <td>US-22</td>
+        <td>Explorar la sección RAJE en Landing Page</td>
+        <td>Como visitante, quiero conocer la misión y esencia de la plataforma en la sección RAJE, para entender su identidad y propuesta de valor.</td>
+        <td>
+            Escenario 1: Visualización del logo e identidad
+            Dado que accedo a la sección RAJE,
+            Cuando bajo por la página,
+            Entonces veo el logo gráfico central y el texto con el mensaje de la marca.
+            Escenario 2: Comprensión del mensaje
+            Dado que leo el texto en la sección RAJE,
+            Cuando termino de leer,
+            Entonces entiendo que RAJE es una plataforma para opinar sin filtros ni censura sobre contenido multimedia.
+        </td>
+        <td>EPIC51</td>
+    </tr>
     </tbody>
+
 </table>
 
 
