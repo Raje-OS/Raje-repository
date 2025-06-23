@@ -2032,28 +2032,30 @@ Escala de Story Points (Fibonacci):
 | 4     | US-04         | Publicación de Reseñas y Opiniones                | Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación. | 5            |
 | 5     | US-05         | Calificación de Contenido         | Como consumidor de contenido multimedia, quiero poder calificar películas, series y libros que he visto o leído, para que otros puedan ver qué tan bueno o malo es. | 3            |
 | 6     | US-06         | Recomendaciones Personalizadas            | Como consumidor de contenido multimedia, quiero recibir recomendaciones personalizadas basadas en mis calificaciones y reseñas. | 5            |
-| 7     | US-07         | Seguimiento de Otros Usuarios  | Como consumidor de contenido multimedia, quiero poder seguir a otros usuarios cuyas opiniones me interesan. | 5            |
-| 8     | US-08         | Recuperación de Contraseña         | Como usuario, deseo poder recuperar mi contraseña en caso de olvidarla. | 3            |
-| 9     | US-09         | Ver análisis de libros mejor valorados      | Como dueño de librería, quiero ver un análisis de los libros con mejor valoración y reseñas en la plataforma. | 5            |
-| 10    | US-10         | Analizar opiniones de usuarios | Como administrador de plataforma de streaming, quiero analizar las opiniones de los usuarios sobre mi contenido. | 8            |
-| 11    | US-11         | Ver perfil de autor o actores | Como usuario, quiero poder ver la biografía y datos de un autor o actor. | 3            |
-| 12    | US-12         | Consultar elenco de película/serie      | Como usuario, quiero ver el listado de actores y sus roles en una película o serie. | 3            |
-| 13    | US-13         | Gestionar suscripciones a plataformas   | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil. | 5            |
-| 14    | US-14         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido. | 2            |
-| 15    | US-15         | Listar mis favoritos     | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil. | 2            |
-| 16    | US-16         | Feed de contenido trending | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana. | 3            |
-| 17    | US-17         | Ver trailers y portadas            | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie. | 3            |
-| 18    | US-18         | Marcar contenido como “Visto”          | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”. | 2            |
-| 19    | US-19         | Crear lista personalizada de contenido    | Como usuario, quiero crear listas personalizadas de películas, series o libros. | 3           |
-| 20    | US-20         | Ver recomendaciones personalizadas         | Como usuario, quiero recibir recomendaciones personalizadas basadas en mi historial. | 5            |
-| 21    | US-12         | Consultar elenco de película/serie      | Como usuario, quiero ver el listado de actores y sus roles en una película o serie. | 3            |
-| 22    | US-13         | Gestionar suscripciones a plataformas   | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil. | 5            |
-| 23    | US-14         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido. | 2            |
-| 24    | US-15         | Listar mis favoritos     | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil. | 2            |
-| 25    | US-16         | Feed de contenido trending | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana. | 3            |
-| 26    | US-17         | Ver trailers y portadas            | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie. | 3            |
-| 27    | US-18         | Marcar contenido como “Visto”          | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”. | 2            |
-| 28    | US-19         | Crear lista personalizada de contenido    | Como usuario, quiero crear listas personalizadas de películas, series o libros. | 3           |
+| 7     | US-07         | Ver análisis de libros mejor valorados      | Como dueño de librería, quiero ver un análisis de los libros con mejor valoración y reseñas en la plataforma. | 5            |
+| 8    | US-08         | Ver perfil de autor o actores | Como usuario, quiero poder ver la biografía y datos de un autor o actor. | 3            |
+| 9    | US-09         | Consultar elenco de película/serie      | Como usuario, quiero ver el listado de actores y sus roles en una película o serie. | 3            |
+| 10    | US-10         | Gestionar suscripciones a plataformas   | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil. | 5            |
+| 11    | US-11         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido. | 2            |
+| 12    | US-12         | Listar mis favoritos     | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil. | 2            |
+| 13    | US-13         | Feed de contenido trending | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana. | 3            |
+| 14    | US-14         | Ver trailers y portadas            | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie. | 3            |
+| 15    | US-15         | Marcar contenido como “Visto”          | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”. | 2            |
+| 16    | US-16         | Crear lista personalizada de contenido    | Como usuario, quiero crear listas personalizadas de películas, series o libros. | 3           |
+| 17    | US-17         | Ver recomendaciones personalizadas         | Como usuario, quiero recibir recomendaciones personalizadas basadas en mi historial. | 5            |
+| 18    | US-18         | Cambio de idioma en Landing Page	         | Como usuario, quiero poder cambiar el idioma de la página entre español e inglés, para entender el contenido en mi idioma preferido.	 | 2            |
+| 19    | US-19         | Explorar la sección Inicio en Landing Page	 | Como visitante, quiero ver contenido destacado y opiniones auténticas en la sección de Inicio, para entender el valor diferencial de RAJE. | 2            |
+| 20    | US-20         | Explorar la sección Contenido en Landing Page	         | Como visitante, quiero explorar fácilmente películas y series destacadas, para conocer lo que RAJE ofrece en la sección Contenido.	 | 2            |
+| 21    | US-21         | Explorar la sección Comunidad en Landing Page	         | Como usuario nuevo, quiero ver lo que otras personas opinan en la sección Comunidad, para entender el tipo de experiencias compartidas en RAJE.	 | 2            |
+| 22    | US-22         | Explorar la sección RAJE en Landing Page	         | Como visitante, quiero conocer la misión y esencia de la plataforma en la sección RAJE, para entender su identidad y propuesta de valor.	 | 2            |
+| 23    | US-12         | Consultar elenco de película/serie      | Como usuario, quiero ver el listado de actores y sus roles en una película o serie. | 3            |
+| 24    | US-13         | Gestionar suscripciones a plataformas   | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil. | 5            |
+| 25    | US-14         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido. | 2            |
+| 26    | US-15         | Listar mis favoritos     | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil. | 2            |
+| 27    | US-16         | Feed de contenido trending | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana. | 3            |
+| 28    | US-17         | Ver trailers y portadas            | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie. | 3            |
+| 29    | US-18         | Marcar contenido como “Visto”          | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”. | 2            |
+| 30    | US-19         | Crear lista personalizada de contenido    | Como usuario, quiero crear listas personalizadas de películas, series o libros. | 3           |
 
 
 
