@@ -3498,6 +3498,36 @@ Estas entrevistas nos permiten identificar oportunidades de mejora desde la pers
 ### 5.3.2. Registro de Entrevistas.
 
 
+COnsumidores de contenido multimedia:
+
+**Entrevista 1**
+| **Dato**                             | **Información**                                                                                                                                                      |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado**                     | Victor andré Amado Horna                                                                                                                                       |
+| **Edad**                             | 25 años                                                                                                                                                               |
+| **Distrito**                         | Lima - Surco                                                                                                                                                          |
+| **Inicio de la entrevista**          | 00:00                                                                                                                                                                 |
+| **Foto captura**                     | <img src="./Report_Assets/entrevistaxd.jpg">                                                                                                                    |
+| **Diseño de presentación del producto** | El entrevistado percibió el diseño como comprensible, visualmente atractivo y fácil de usar. Indicó que la navegación fue fluida y no encontró dificultades para ubicar la información que necesitaba.     |
+| **Información de presentación del producto** | Le quedó claro el mensaje de que es una plataforma para vender ropa. Los botones, instrucciones e imágenes comunican bien la propuesta de valor.              |
+| **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
+| **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “listar” y sugirió mejorar el diseño a la hora de rajar. |
+
+[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EVRn8dnNNdxMkP8A2LYtHQgBz-c_IQUE3mmtp-cugLk49g?e=5xlr7S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Entrevista 2**
+| **Dato**                             | **Información**                                                                                                                                                      |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado**                     | Anthony Jose Chavez Villafuerte                                                                                                                                       |
+| **Edad**                             | 18 años                                                                                                                                                               |
+| **Distrito**                         | Lima - San Juan de Lurigancho                                                                                                                                                          |
+| **Inicio de la entrevista**          | 00:00                                                                                                                                                                 |
+| **Foto captura**                     | <img src="./Report_Assets/entrevistaxd.jpg">                                                                                                                    |
+| **Diseño de presentación del producto** | El entrevistado describió el diseño como claro, agradable a la vista y de uso sencillo. Comentó que la experiencia de navegación fue ágil y que pudo encontrar la información que buscaba sin complicaciones.    |
+| **Información de presentación del producto** | Le quedó claro el mensaje de que es una plataforma para vender ropa. Los botones, instrucciones e imágenes comunican bien la propuesta de valor.              |
+| **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
+| **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “listar” y sugirió mejorar el diseño a la hora de rajar. |
+
 
 ### 5.3.3. Evaluaciones según heurísticas.
 ##  EVALUACIÓN HEURÍSTICA - RAJE
