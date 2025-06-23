@@ -3370,7 +3370,9 @@ Enlace de la landing page: <a href="https://raje-os.github.io/RAJELandingPage/">
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+**FrontEnd Repository**
 
+![Insights.png](Report_Assets/TB2/Insights.png)
 
 ## 5.3. Validation Interviews.
 
