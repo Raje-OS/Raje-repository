@@ -2291,37 +2291,37 @@ Esta sección presenta los wireflows de la aplicación web, ilustrando los princ
 Este flujo describe el proceso que sigue un usuario para registrarse o iniciar sesión en la plataforma Raje.
 
 
-
+![User Flow Registro e Inicio de Sesion.jpg](Report_Assets/TB2/FrontApp/wireflows/User%20Flow%20Registro%20e%20Inicio%20de%20Sesion.jpg)
 
 
 **User Flow: Gestión de Perfil**:  
 Este flujo muestra cómo los usuarios pueden gestionar su perfil y editarlo segun la informacion deseada.
 
-
+![User Flow Gestion de Perfil.jpg](Report_Assets/TB2/FrontApp/wireflows/User%20Flow%20Gestion%20de%20Perfil.jpg)
 
 **User Flow: Creación y Gestión de Listas Personalizadas**:  
 Este flujo permite a los usuarios crear nuevas listas de contenido, así como editar o eliminar listas existentes para organizar sus películas, series y libros favoritos.
 
-
+![User Flow Creacion y Gestion de Listas Personalizadas.jpg](Report_Assets/TB2/FrontApp/wireflows/User%20Flow%20Creacion%20y%20Gestion%20de%20Listas%20Personalizadas.jpg)
 
 
 **User Flow: Gestión de Listas y Plataformas**:  
 Este flujo muestra cómo los usuarios pueden acceder a sus reseñas, listas favoritas y administrar plataformas suscritas.
 
-
+![User Flow Gestion de Listas y Plataformas.jpg](Report_Assets/TB2/FrontApp/wireflows/User%20Flow%20Gestion%20de%20Listas%20y%20Plataformas.jpg)
 
 
 **User Flow: Exploración de Tendencias y Top en Específico** :  
 Este flujo permite a los usuarios descubrir el contenido más popular de la semana y acceder a un top en específico.
 
 
-
+![User Flow Exploracion de Tendencias y Top en Especifico.jpg](Report_Assets/TB2/FrontApp/wireflows/User%20Flow%20Exploracion%20de%20Tendencias%20y%20Top%20en%20Especifico.jpg)
 
 
 **User Flow: Creación y Visualización de Reseñas**:  
 Este flujo permite a los usuarios escribir nuevas reseñas y visualizar opiniones existentes sobre películas, series o libros dentro de la plataforma.
 
-
+![User Flow Creacion y Visualización de Reseñas.jpg](Report_Assets/TB2/FrontApp/wireflows/User%20Flow%20Creacion%20y%20Visualizaci%C3%B3n%20de%20Rese%C3%B1as.jpg)
 
 
 
@@ -2330,7 +2330,7 @@ Este flujo permite a los usuarios escribir nuevas reseñas y visualizar opinione
 **User Flow: Visualización de Ficha de Contenido y Detalle de Elenco**:  
 Este flujo permite al usuario explorar la ficha completa de una pelicula, y acceder a información detallada de cada actor o actriz.
 
-
+![User Flow Visualización de Ficha de Contenido y Detalle de Elenco.jpg](Report_Assets/TB2/FrontApp/wireflows/User%20Flow%20Visualizaci%C3%B3n%20de%20Ficha%20de%20Contenido%20y%20Detalle%20de%20Elenco.jpg)
 
 
 ### 4.4.3. Web Applications Mock-ups
