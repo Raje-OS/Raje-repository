@@ -3526,6 +3526,11 @@ COnsumidores de contenido multimedia:
 
 [URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EVRn8dnNNdxMkP8A2LYtHQgBz-c_IQUE3mmtp-cugLk49g?e=5xlr7S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+Resumen de entrevista:
+Víctor André Amadi Horna, joven de 19 años del distrito de San Miguel, evaluó positivamente su experiencia con la aplicación RAJE, destinada a criticar películas y series. Destacó que la navegación le resultó muy fácil e intuitiva, cumpliendo con sus expectativas como usuario. Considera especialmente valiosa la opción de editar comentarios, ya que le permite mejorar o corregir sus opiniones tras publicarlas. Mencionó que la aplicación está mayormente bien realizada y no identifica mejoras urgentes que necesite. Además, afirmó que el llamado de acción en el Landing Page es claro y atractivo, reforzando la comprensión del propósito de la app. En general, considera muy probable que recomiende RAJE a otros, lo cual valida su nivel de satisfacción con la experiencia ofrecida.
+
+
+
 **Entrevista 2**
 | **Dato**                             | **Información**                                                                                                                                                      |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3540,12 +3545,16 @@ COnsumidores de contenido multimedia:
 | **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “listar” y sugirió mejorar el diseño a la hora de rajar. |
 [URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/Eeb3KPhgKM1IjaJvgdO-TvIBvOPCMO92HH4_-SEbj8ykdA?e=fAoUPw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+Resumen de entrevista:
+Anthony Chávez, fanático del contenido multimedia y con 18 años, disfruta ver películas y compartir opiniones sobre ellas. Al probar la aplicación RAJE, expresó que esta cumple con sus expectativas y valoró especialmente la funcionalidad de calificación de contenido, ya que le permite expresar su experiencia como espectador. Sugirió como mejora importante la incorporación de una funcionalidad que permita ver en qué plataformas están disponibles las películas o series, algo que considera necesario para enriquecer la experiencia del usuario. También destacó el diseño llamativo y estéticamente atractivo de la app, y afirmó que el mensaje de la plataforma es claro desde el primer uso. Su opinión refuerza la importancia de seguir desarrollando funciones que conecten la crítica con la disponibilidad del contenido.
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 ## EVALUACIÓN HEURÍSTICA - RAJE
 
 **ENTREVISTADO**: Grupo general de usuarios testers (incluye observaciones específicas de Víctor André Amado Horna)  
 **Rol o segmento**: Consumidores de contenido multimedia  
-**Fecha de evaluación**: [Fecha de la sesión]
+**Fecha de evaluación**: 22/06/2025
 
 ---
 
