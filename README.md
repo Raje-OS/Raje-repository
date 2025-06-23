@@ -3501,6 +3501,49 @@ Estas entrevistas nos permiten identificar oportunidades de mejora desde la pers
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+**UX Heuristics & Principles Evaluation**
+
+**Carrera:** Ingeniería de Software  
+**Curso:** Desarrollo de Aplicaciones Open Source
+**Sección:** 4334  
+**Clientes:** Raje  
+
+**Sitio Evaluado:** Plataforma Web y Landing Page de Raje  
+**Versión:** Revisión de interfaz estática y estructura de navegación inicial de la Aplicaion Web
+
+---
+
+### Tareas evaluadas
+
+#### Landing Page
+- Visualización de propuesta del proyecto
+- CTA hacia inicio de sesión 
+- Navegación general (header/footer)
+
+#### Web Application
+- Visualización de perfil de usuario 
+- Creación de reseñas, favoritos , analisis de tendencias y perfil
+- 
+
+---
+
+### Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial |
+| 2     | Problema menor |
+| 3     | Problema mayor |
+| 4     | Problema muy grave |
+
+---
+
+
+
+---
+
+### Descripción de Problemas
+
 
 
 ## 5.4. Video About-the-Product.
