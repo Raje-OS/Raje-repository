@@ -64,9 +64,16 @@ Sarmiento Medina Loreley U202310005<br>
     </tr>
     <tr>
       <td>TB2</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>22/06/2025</td>
+      <td>- Bejarano Martínez, Álvaro Leandro
+- Cabanillas Meza, José Mateo
+-Aliaga Urbina Wilder Gonzalo
+- Sarmiento Medina, Loreley</td>
+      <td>Para esta entrega se implementaron funcionalidades clave como favoritos, registro, 
+validaciones en frontend. Se desplegó una nueva versión de la landing page y
+aplicación web. Se documentaron evidencias técnicas (commits, ejecución), 
+se elaboraron conclusiones, se actualizó el Student Outcome, 
+y se completó el Registro de Entrevistas y Evaluación heurística.</td>
     </tr>
     <tr>
       <td>TF</td>
@@ -76,8 +83,6 @@ Sarmiento Medina Loreley U202310005<br>
     </tr>
   </tbody>
 </table>
-
-## Contents
 
 ## Contents
 
