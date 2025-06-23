@@ -2254,11 +2254,13 @@ Con esta forma de navegar, buscamos que cualquier usuario, nuevo o recurrente, s
 ### 4.3.1. Landing Page Wireframe
 Este wireframe muestra el diseño inicial de la página de inicio de Raje, con una navegación clara hacia contenido destacado como películas, series y libros recomendados. Además, incluye una sección interactiva donde los usuarios pueden compartir sus opiniones y recomendaciones, fomentando la participación dentro de la comunidad.
 
-![Landing Page Wireframe.png](Report_Assets/Landing%20Page%20Wireframe.png)
+![Frame 1 (1).png](Report_Assets/TB2/Landing/Wireframe/Frame%201%20%281%29.png)
+
 ### 4.3.2. Landing Page Mock-up
 Este mockup de la página de inicio de Raje muestra cómo se visualizarán los elementos clave de la plataforma. La interfaz destaca las recomendaciones más populares en películas, series y libros, permitiendo a los usuarios explorar el contenido según sus intereses. También se incluyen secciones interactivas donde los usuarios pueden leer y compartir opiniones, creando una experiencia dinámica y comunitaria. El diseño tiene un enfoque minimalista y atractivo, fomentando la participación mientras resalta las funcionalidades principales de la plataforma.
 
-![Landing Page Mockup.png](Report_Assets/Landing%20Page%20Mockup.png)
+![Frame 2.png](Report_Assets/TB2/Landing/Mockup/Frame%202.png)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 Los wireframes de la aplicación web Raje presentan de manera estructurada la disposición de las principales pantallas y funciones, como la gestión de cuentas, publicación de reseñas, exploración de contenido y seguimiento de usuarios. Estos esquemas visuales priorizan la funcionalidad y la usabilidad, sirviendo como guía esencial para diseñadores y desarrolladores en la construcción de una experiencia intuitiva, dinámica y alineada con los intereses de los usuarios.
