@@ -3341,6 +3341,23 @@ Enlace de la landing page: <a href="https://raje-os.github.io/RAJELandingPage/">
 
 ![landing-TB2.png](Report_Assets/landing-TB2.png)
 
+**FrontEnd App**
+
+![1.png](Report_Assets/TB2/FrontApp/front_app/1.png)
+![2.png](Report_Assets/TB2/FrontApp/front_app/2.png)
+![3.png](Report_Assets/TB2/FrontApp/front_app/3.png)
+![4.png](Report_Assets/TB2/FrontApp/front_app/4.png)
+![5.png](Report_Assets/TB2/FrontApp/front_app/5.png)
+![6.png](Report_Assets/TB2/FrontApp/front_app/6.png)
+![7.png](Report_Assets/TB2/FrontApp/front_app/7.png)
+![8.png](Report_Assets/TB2/FrontApp/front_app/8.png)
+![9.png](Report_Assets/TB2/FrontApp/front_app/9.png)
+![10.png](Report_Assets/TB2/FrontApp/front_app/10.png)
+![11.png](Report_Assets/TB2/FrontApp/front_app/11.png)
+![12.png](Report_Assets/TB2/FrontApp/front_app/12.png)
+![13.png](Report_Assets/TB2/FrontApp/front_app/13.png)
+![14.png](Report_Assets/TB2/FrontApp/front_app/14.png)
+![15.png](Report_Assets/TB2/FrontApp/front_app/15.png)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
