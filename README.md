@@ -3297,7 +3297,7 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
   <tr>
     <td colspan="1"><strong>Sprint 3 Goal</strong></td>
     <td colspan="1">
-      Desarrollar la primera versión funcional del backend de RAJE y vincularlo con el frontend para permitir el manejo de usuarios, autenticación, y la creación y consulta de opiniones sobre el contenido en el app.
+      Completar las funcionalidades del frontend para permitir el manejo de usuarios, autenticación, y la creación y consulta de opiniones sobre el contenido en el app, agregar adicionalmente funcionalidades de listas y demás.
     </td>
   </tr>
   <tr>
