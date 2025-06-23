@@ -188,15 +188,15 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-## STUDENT OUTCOME
+## Student Outcome
 
 ABET – EAC – Student Outcome 3: Habilidad para comunicarse de manera efectiva ante diversas audiencias.  
 A continuación, se presenta un cuadro donde se detallan las actividades realizadas y las conclusiones alcanzadas por el equipo, evidenciando el cumplimiento de este resultado de aprendizaje.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |:--------------------|:--------------------|:-------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | El equipo de RAJE realizó exposiciones orales durante las presentaciones de avances semanales, defensa de entrevistas y hallazgos de usuario, y sustentación de entregables como el Lean UX Canvas, los wireframes y los diagramas de arquitectura de software. Cada miembro presentó partes clave frente a compañeros, usuarios entrevistados y docentes, adecuando el nivel técnico según el público. | Estas exposiciones nos ayudaron a mejorar nuestra capacidad de expresión técnica y persuasiva, permitiéndonos transmitir nuestras ideas de manera clara y precisa a diferentes audiencias. Además, el feedback recibido enriqueció el diseño de la plataforma RAJE, corrigiendo tempranamente errores de enfoque y optimizando nuestras decisiones de desarrollo. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Todo el equipo redactó colaborativamente documentos técnicos y estratégicos como el análisis competitivo, especificaciones de requisitos, user personas, matriz de tareas, backlog de producto, wireflows, y el informe de arquitectura. Se cuidó el tono según la audiencia: más técnico para bases de datos y software, más conceptual para entrevistas de usuarios y presentación de solución. | La documentación escrita facilitó la organización interna, permitió mantener la coherencia a lo largo del desarrollo de RAJE, y dejó evidencia clara para los docentes y posibles stakeholders externos. También fortaleció nuestra habilidad de síntesis, redacción técnica y estructuración de ideas, habilidades fundamentales para proyectos reales en ingeniería de software. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Durante el TB2 explicamos los avances del Sprint 3, presentando las funcionalidades desarrolladas en el frontend como la sección de favoritos, validaciones y el registro de usuarios. Adaptamos nuestras presentaciones al público, enfocándonos en la claridad técnica y funcional. | Estas presentaciones nos permitieron fortalecer nuestra capacidad para explicar decisiones de desarrollo de manera clara. Mejoramos nuestra habilidad para compartir avances con docentes y compañeros, respondiendo preguntas y recibiendo retroalimentación útil para siguientes iteraciones. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Redactamos el informe del TB2 en conjunto, documentando las funcionalidades del frontend, los cambios realizados, los commits más relevantes y nuestras conclusiones. También elaboramos de manera colaborativa la sección de Student Outcome y el registro de versiones. | Esta documentación escrita mejoró nuestra organización como equipo y facilitó la comunicación clara de nuestros aportes. Nos permitió dejar evidencia estructurada del trabajo realizado, útil tanto para revisión académica como para el desarrollo de habilidades de redacción técnica. |
 
 
 
