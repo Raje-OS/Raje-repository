@@ -3535,25 +3535,29 @@ COnsumidores de contenido multimedia:
 [URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/Eeb3KPhgKM1IjaJvgdO-TvIBvOPCMO92HH4_-SEbj8ykdA?e=fAoUPw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 5.3.3. Evaluaciones según heurísticas.
-##  EVALUACIÓN HEURÍSTICA - RAJE
+## EVALUACIÓN HEURÍSTICA - RAJE
 
-**ENTREVISTADO**: [Nombre del participante]  
-**Rol o segmento**: [Ej. consumidor de contenido, dueño de librería, artista, streamer]  
-**Fecha de evaluación**: [Fecha]
+**ENTREVISTADO**: Grupo general de usuarios testers (incluye observaciones específicas de Víctor André Amado Horna)  
+**Rol o segmento**: Consumidores de contenido multimedia  
+**Fecha de evaluación**: [Fecha de la sesión]
 
 ---
 
-###  TAREAS EVALUADAS
+### TAREAS EVALUADAS
 
 1. Ingreso a la landing page y comprensión del valor de RAJE.  
 2. Publicación de una reseña sin censura.  
 3. Visualización de recomendaciones personalizadas.  
 4. Acceso al perfil y visualización de historial de reseñas.  
-5. Interacción general con la plataforma.
+5. Agregar contenido a favoritos.  
+6. Editar información del perfil personal.  
+7. Visualizar listas creadas por el usuario.  
+8. Consultar recomendaciones personalizadas desde la sección de tendencias.  
+9. Interacción general con la plataforma.
 
 ---
 
-###  ESCALA DE SEVERIDAD
+### ESCALA DE SEVERIDAD
 
 | Nivel | Descripción |
 |-------|-------------|
@@ -3564,64 +3568,70 @@ COnsumidores de contenido multimedia:
 
 ---
 
-###  TABLA RESUMEN DE PROBLEMAS
+### TABLA RESUMEN DE PROBLEMAS
 
-| Nº | Problema identificado | Severidad | Heurística violada |
-|----|------------------------|-----------|---------------------|
-| 1  |  |  |  |
-| 2  |  |  | |
-| 3  |  |  | |
-| 4  | |  | |
-| 5  |  |  |  |
-
----
-
-### 🧠 DESCRIPCIÓN DE PROBLEMAS
-
-#### 🔹 PROBLEMA #1
-**Descripción**: [Describe el problema observado]  
-**Recomendación**: [Qué cambio concreto lo resolvería]  
-**Heurística violada**: Visibilidad del estado del sistema  
+| Nº | Problema identificado                                                                 | Severidad | Heurística violada                        |
+|----|----------------------------------------------------------------------------------------|-----------|-------------------------------------------|
+| 1  | El diseño de la landing page no guía explícitamente al usuario nuevo                  | 2         | Visibilidad del estado del sistema        |
+| 2  | El botón de “rajar” o dejar una opinión no es lo suficientemente intuitivo            | 2         | Reconocer mejor que recordar              |
+| 3  | No hay indicadores visuales al seleccionar contenidos para listar o evaluar           | 2         | Feedback inmediato                        |
+| 4  | Ausencia de ayuda contextual o mensajes de guía en el primer uso                      | 2         | Ayuda y documentación                     |
+| 5  | Algunas tarjetas de contenido y secciones como plataformas no se visualizan claramente | 2         | Consistencia y estándares                 |
+| 6  | La funcionalidad de rajar no es clara ni estéticamente cómoda para algunos usuarios   | 3         | Estética y diseño minimalista             |
 
 ---
 
-#### 🔹 PROBLEMA #2
-**Descripción**: [...]  
-**Recomendación**: [...]  
-**Heurística violada**: Prevención de errores  
+### DESCRIPCIÓN DE PROBLEMAS
+
+#### PROBLEMA #1  
+**Descripción**: Aunque el diseño fue percibido como claro y visualmente atractivo, los usuarios no identificaron inmediatamente una llamada a la acción o guía inicial.  
+**Recomendación**: Incluir un mensaje inicial o banner con instrucciones simples del primer paso a seguir.  
+**Heurística violada**: Visibilidad del estado del sistema
 
 ---
 
-#### 🔹 PROBLEMA #3
-**Descripción**: [...]  
-**Recomendación**: [...]  
-**Heurística violada**: Correspondencia entre el sistema y el mundo real  
+#### PROBLEMA #2  
+**Descripción**: Los usuarios valoraron la funcionalidad de “rajar”, pero mencionaron que su ubicación o presentación puede pasar desapercibida.  
+**Recomendación**: Aumentar la prominencia visual del botón “rajar” mediante color o animación contextual.  
+**Heurística violada**: Reconocer mejor que recordar
 
 ---
 
-#### 🔹 PROBLEMA #4
-**Descripción**: [...]  
-**Recomendación**: [...]  
-**Heurística violada**: Ayuda y documentación  
+#### PROBLEMA #3  
+**Descripción**: Al listar o seleccionar contenido, no hay retroalimentación inmediata o visual clara que indique que la acción se ha registrado.  
+**Recomendación**: Añadir confirmaciones visuales, como resaltado, animaciones o mensajes breves.  
+**Heurística violada**: Feedback inmediato
 
 ---
 
-#### 🔹 PROBLEMA #5
-**Descripción**: [...]  
-**Recomendación**: [...]  
-**Heurística violada**: Control y libertad del usuario  
+#### PROBLEMA #4  
+**Descripción**: No se encontraron elementos de ayuda para usuarios nuevos sobre cómo usar la aplicación en su primer acceso.  
+**Recomendación**: Incorporar tooltips, mensajes de bienvenida o tutorial básico inicial.  
+**Heurística violada**: Ayuda y documentación
 
 ---
 
-### 📌 COMENTARIOS DEL USUARIO
+#### PROBLEMA #5  
+**Descripción**: Algunas cards de contenido no se visualizaron correctamente, y las plataformas asociadas a las obras no estaban claras.  
+**Recomendación**: Optimizar el diseño responsivo y validar las condiciones de carga para los elementos visuales.  
+**Heurística violada**: Consistencia y estándares
 
-- **Percepción general**: [¿Cómo describió su experiencia en términos generales?]  
-- **Facilidad de uso**: [¿Fue fluido? ¿Tuvo dudas?]  
-- **Satisfacción con el flujo evaluado**: [Escala del 1 al 10]  
-- **Sugerencias**: [Propuestas de mejora dadas por el usuario]
+---
 
+#### PROBLEMA #6  
+**Descripción**: La forma de comentar o “rajar” no resultó cómoda ni estéticamente clara para el usuario Víctor André Amado Horna. No le agradó la disposición visual de los elementos ni el flujo de interacción.  
+**Recomendación**: Rediseñar el módulo de comentarios con un enfoque más amigable y moderno, mejorando también la jerarquía visual.  
+**Heurística violada**: Estética y diseño minimalista
 
-### Descripción de Problemas
+---
+
+### COMENTARIOS DEL USUARIO
+
+- **Percepción general**: El diseño fue considerado visualmente atractivo y claro en general, aunque con espacios de mejora en la comodidad estética y visual de ciertos componentes.  
+- **Facilidad de uso**: La navegación fue fluida y sin dificultades mayores para entender la propuesta general.  
+- **Satisfacción con el flujo evaluado**: Alta en términos de rendimiento; media en cuanto a experiencia estética con algunas funcionalidades clave como rajar.  
+- **Sugerencias**: Incluir guía inicial, revisar visualización de cards y plataformas, rediseñar la experiencia de dejar comentarios, y mejorar claridad de botones relacionados con edición de perfil, favoritos y tendencias.
+
 
 
 
