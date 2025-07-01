@@ -1866,7 +1866,176 @@ Escenario 2: Cambio de regreso a español
             Cuando termino de leer,
             Entonces entiendo que RAJE es una plataforma para opinar sin filtros ni censura sobre contenido multimedia.
         </td>
-        <td>EPIC51</td>
+        <td>EPIC-1</td>
+    </tr>
+    <tr>
+        <td>US-23</td>
+        <td>Búsqueda de Contenido por Título</td>
+        <td>Como usuario, quiero poder buscar películas, series o libros por título, para encontrar fácilmente el contenido que me interesa.	</td>
+        <td>
+          Escenario 1:
+          Dado que estoy en la barra de búsqueda, 
+          Cuando ingreso el nombre de un contenido, 
+          Entonces el sistema debe mostrar una lista de resultados relevantes.
+          Escenario 2:
+          Dado que no hay coincidencias,
+          Cuando realizo la búsqueda, 
+          Entonces el sistema debe mostrar un mensaje como “No se encontraron resultados para tu búsqueda”.
+        </td>
+        <td>EPIC-2</td>
+    </tr>
+    <tr>
+        <td>US-24</td>
+        <td>Visualizar Mis Listas de Contenido</td>
+        <td>Como usuario, quiero poder visualizar las listas que he creado, para acceder fácilmente al contenido que he organizado.</td>
+        <td>
+          Escenario 1:
+          Dado que ya he creado listas, 
+          Cuando accedo a mi perfil, 
+          Entonces debo ver una sección con todas mis listas personalizadas.
+          Escenario 2:
+          Dado que aún no he creado ninguna lista, 
+          Cuando ingreso a la sección de listas, 
+          Entonces el sistema debe mostrar un boton para crear una lista.
+        </td>
+        <td>EPIC-2</td>
+    </tr>
+    <tr>
+        <td>US-25</td>
+        <td>Ver Plataforma de Streaming del Contenido</td>
+        <td>Como usuario, quiero ver en qué plataforma de streaming está cada contenido multimedia, para saber dónde puedo verlo.	</td>
+        <td>
+          Escenario 1: 
+          Dado que estoy en la ficha de un contenido, 
+          Cuando la visualizo, 
+          Entonces el sistema debe mostrar las plataformas de streaming donde está disponible.
+          Escenario 2: 
+          Dado que estoy en la ficha de un contenido, 
+          Cuando la visualizo y no hay plataformas para ese contenido, 
+          Entonces el sistema no imprimirá ninguna plataforma de streaming.
+        </td>
+        <td>EPIC-4</td>
+    </tr>
+    <tr>
+        <td>US-26</td>
+        <td>Eliminar Reseña</td>
+        <td>Como usuario, quiero poder borrar las reseñas que realicé, para tener control total sobre mi contenido.</td>
+        <td>
+          Escenario 1: 
+          Dado que ya tengo reseñas publicadas y estoy dentro de mi perfil, 
+          Cuando le doy al boton de borar, 
+          Entonces el sistema debe borrar la reseña que seleccioné.
+        </td>
+        <td>EPIC-3</td>
+    </tr>
+    <tr>
+        <td>US-27</td>
+        <td>Editar Reseña</td>
+        <td>Como usuario, quiero poder modificar las reseñas que realicé, para corregir errores o actualizar mis opiniones.</td>
+        <td>
+          Escenario 1: 
+          Dado que tengo una reseña publicada y estoy en mi perfil, 
+          Cuando accedo al boton de modificar, edito los datos y presiono el boton de guardar, 
+          Entonces la reseña se habrá modificado.
+          Escenario 2: 
+          Dado que tengo una reseña publicada y estoy en mi perfil, 
+          Cuando accedo al boton de modificar, edito los datos y presiono el boton de cancelar, 
+          Entonces la reseña no se habrá modificado.
+        </td>
+        <td>EPIC-3</td>
+    </tr>
+    <tr>
+        <td>US-28</td>
+        <td>Editar Perfil de Usuario</td>
+        <td>Como usuario, quiero poder editar mi perfil, incluyendo nombre, foto y descripción, para personalizar mi identidad en la plataforma.</td>
+        <td>
+        Escenario 1:
+        Dado que estoy en mi perfil, 
+        Cuando hago clic en “Editar Perfil”, cambio mis datos y presiono guardar cambios,
+        Entonces los datos del perfil se habran modificado.
+        Escenario 2: 
+        Dado que estoy en mi perfil, 
+        Cuando hago clic en “Editar Perfil”, cambio mis datos y presiono retroseder,
+        Entonces los datos del perfil no se habran modificado.
+        </td>
+        <td>EPIC-2</td>
+    </tr>
+    <tr>
+        <td>US-29</td>
+        <td>Agregar Contenido a Lista</td>
+        <td>Como usuario, quiero poder agregar contenido multimedia a mis listas personalizadas, para organizar lo que quiero ver o ya he visto.</td>
+        <td>
+        Escenario 1: Dado que tengo listas creadas, 
+        Cuando visualizo una película o libro, 
+        Entonces debo tener la opción “Agregar a lista” y seleccionar una lista existente.
+        Escenario 2: Dado que no tengo listas, 
+        Cuando intento agregar un contenido, 
+        Entonces el sistema debe mostrar un mensaje invitando a crear una lista primero.
+        </td>
+        <td>EPIC-2</td>
+    </tr>
+    <tr>
+        <td>US-30</td>
+        <td>Agregar Contenido a Lista</td>
+        <td>Como usuario, quiero poder agregar contenido multimedia a mis listas personalizadas, para organizar lo que quiero ver o ya he visto.</td>
+        <td>
+        Escenario 1: Dado que tengo listas creadas, 
+        Cuando visualizo una película o libro, 
+        Entonces debo tener la opción “Agregar a lista” y seleccionar una lista existente.
+        Escenario 2: Dado que no tengo listas, 
+        Cuando intento agregar un contenido, 
+        Entonces el sistema debe mostrar un mensaje invitando a crear una lista primero.
+        </td>
+        <td>EPIC-2</td>
+    </tr>
+    <tr>
+        <td>US-31</td>
+        <td>Cerrar Sesión</td>
+        <td>Como usuario, quiero poder cerrar sesión de mi cuenta, para asegurar la privacidad de mi información.</td>
+        <td>
+        Escenario 1: Dado que estoy autenticado, 
+        Cuando selecciono “Cerrar sesión”, 
+        Entonces el sistema debe cerrar mi sesión y redirigirme a la página de inicio.
+        Escenario 2: Dado que cierro sesión,
+        Cuando intento volver a una página protegida, 
+        Entonces el sistema debe pedirme que inicie sesión nuevamente.
+        </td>
+        <td>EPIC-2</td>
+    </tr>
+    <tr>
+        <td>US-32</td>
+        <td>Eliminar Lista Personalizada</td>
+        <td>Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.</td>
+        <td>
+        Escenario 1: Dado que estoy autenticado, 
+        Cuando selecciono “Cerrar sesión”, 
+        Entonces el sistema debe cerrar mi sesión y redirigirme a la página de inicio.
+        Escenario 2: Dado que cierro sesión,
+        Cuando intento volver a una página protegida, 
+        Entonces el sistema debe pedirme que inicie sesión nuevamente.
+        </td>
+        <td>EPIC-1</td>
+    </tr>
+    <tr>
+        <td>US-33</td>
+        <td>Eliminar Lista Personalizada</td>
+        <td>Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.</td>
+        <td>
+        Escenario 1: Dado que estoy en la sección de mis listas, cuando accedo a una lista específica, entonces el sistema debe mostrar un botón o icono para eliminarla.
+Escenario 2: Dado que selecciono eliminar una lista, cuando confirmo la acción, entonces el sistema debe eliminar la lista permanentemente y mostrar un mensaje de éxito.
+Escenario 3: Dado que la lista fue eliminada, cuando regreso a la sección de listas, entonces esta ya no debe aparecer en mi perfil.
+        </td>
+        <td>EPIC-1</td>
+    </tr>
+    <tr>
+        <td>US-34</td>
+        <td>Eliminar Contenido de una Lista	</td>
+        <td>Como usuario, quiero poder borrar contenido dentro de mi lista, para mantenerla organizada según mis preferencias.</td>
+        <td>
+        Escenario 1: Dado que estoy visualizando una lista personalizada, cuando accedo a los elementos dentro de ella, entonces el sistema debe mostrar una opción para eliminar cada contenido.
+Escenario 2: Dado que elimino un contenido de la lista, cuando actualizo o regreso a la lista, entonces el contenido eliminado ya no debe aparecer.
+        </td>
+        <td>EPIC-1</td>
     </tr>
     </tbody>
 
