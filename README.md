@@ -1976,20 +1976,6 @@ Escenario 2: Cambio de regreso a español
     </tr>
     <tr>
         <td>US-30</td>
-        <td>Agregar Contenido a Lista</td>
-        <td>Como usuario, quiero poder agregar contenido multimedia a mis listas personalizadas, para organizar lo que quiero ver o ya he visto.</td>
-        <td>
-        Escenario 1: Dado que tengo listas creadas, 
-        Cuando visualizo una película o libro, 
-        Entonces debo tener la opción “Agregar a lista” y seleccionar una lista existente.
-        Escenario 2: Dado que no tengo listas, 
-        Cuando intento agregar un contenido, 
-        Entonces el sistema debe mostrar un mensaje invitando a crear una lista primero.
-        </td>
-        <td>EPIC-2</td>
-    </tr>
-    <tr>
-        <td>US-31</td>
         <td>Cerrar Sesión</td>
         <td>Como usuario, quiero poder cerrar sesión de mi cuenta, para asegurar la privacidad de mi información.</td>
         <td>
@@ -2003,21 +1989,7 @@ Escenario 2: Cambio de regreso a español
         <td>EPIC-2</td>
     </tr>
     <tr>
-        <td>US-32</td>
-        <td>Eliminar Lista Personalizada</td>
-        <td>Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.</td>
-        <td>
-        Escenario 1: Dado que estoy autenticado, 
-        Cuando selecciono “Cerrar sesión”, 
-        Entonces el sistema debe cerrar mi sesión y redirigirme a la página de inicio.
-        Escenario 2: Dado que cierro sesión,
-        Cuando intento volver a una página protegida, 
-        Entonces el sistema debe pedirme que inicie sesión nuevamente.
-        </td>
-        <td>EPIC-1</td>
-    </tr>
-    <tr>
-        <td>US-33</td>
+        <td>US-31</td>
         <td>Eliminar Lista Personalizada</td>
         <td>Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.</td>
         <td>
@@ -2028,7 +2000,7 @@ Escenario 3: Dado que la lista fue eliminada, cuando regreso a la sección de li
         <td>EPIC-1</td>
     </tr>
     <tr>
-        <td>US-34</td>
+        <td>US-32</td>
         <td>Eliminar Contenido de una Lista	</td>
         <td>Como usuario, quiero poder borrar contenido dentro de mi lista, para mantenerla organizada según mis preferencias.</td>
         <td>
@@ -2222,14 +2194,24 @@ Escala de Story Points (Fibonacci):
 | 20    | US-20         | Explorar la sección Contenido en Landing Page	         | Como visitante, quiero explorar fácilmente películas y series destacadas, para conocer lo que RAJE ofrece en la sección Contenido.	 | 2            |
 | 21    | US-21         | Explorar la sección Comunidad en Landing Page	         | Como usuario nuevo, quiero ver lo que otras personas opinan en la sección Comunidad, para entender el tipo de experiencias compartidas en RAJE.	 | 2            |
 | 22    | US-22         | Explorar la sección RAJE en Landing Page	         | Como visitante, quiero conocer la misión y esencia de la plataforma en la sección RAJE, para entender su identidad y propuesta de valor.	 | 2            |
-| 23    | US-12         | Consultar elenco de película/serie      | Como usuario, quiero ver el listado de actores y sus roles en una película o serie. | 3            |
-| 24    | US-13         | Gestionar suscripciones a plataformas   | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil. | 5            |
-| 25    | US-14         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido. | 2            |
-| 26    | US-15         | Listar mis favoritos     | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil. | 2            |
-| 27    | US-16         | Feed de contenido trending | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana. | 3            |
-| 28    | US-17         | Ver trailers y portadas            | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie. | 3            |
-| 29    | US-18         | Marcar contenido como “Visto”          | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”. | 2            |
-| 30    | US-19         | Crear lista personalizada de contenido    | Como usuario, quiero crear listas personalizadas de películas, series o libros. | 3           |
+| 23    | US-23         | Búsqueda de Contenido por Título	         | Como usuario, quiero poder buscar películas, series o libros por título, para encontrar fácilmente el contenido que me interesa.	 | 3            |
+| 24    | US-24         | Visualizar Mis Listas de Contenido        | Como usuario, quiero poder visualizar las listas que he creado, para acceder fácilmente al contenido que he organizado.	 | 3            |
+| 25    | US-25         | Ver Plataforma de Streaming del Contenido         | Como usuario, quiero ver en qué plataforma de streaming está cada contenido multimedia, para saber dónde puedo verlo.	 | 5            |
+| 26    | US-26         | Eliminar Reseña         | Como usuario, quiero poder borrar las reseñas que realicé, para tener control total sobre mi contenido.	 | 3            |
+| 27    | US-27         | Editar Reseña	         | Como usuario, quiero poder modificar las reseñas que realicé, para corregir errores o actualizar mis opiniones.	 | 3            |
+| 28    | US-28         | Editar Perfil de Usuario         | Como usuario, quiero poder editar mi perfil, incluyendo nombre, foto y descripción, para personalizar mi identidad en la plataforma. | 3            |
+| 29    | US-29         | Agregar Contenido a Lista	         | Como usuario, quiero poder agregar contenido multimedia a mis listas personalizadas, para organizar lo que quiero ver o ya he visto.	 | 2            |
+| 30    | US-30         | Cerrar Sesión	         | Como usuario, quiero poder cerrar sesión de mi cuenta, para asegurar la privacidad de mi información. | 2            |
+| 31    | US-31         | Eliminar Lista Personalizada	         |Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.| 2            |
+| 32    | US-32         | Eliminar Contenido de una Lista         | Como usuario, quiero poder borrar contenido dentro de mi lista, para mantenerla organizada según mis preferencias. | 3            |
+| 33    | TS-01         | Diseño del Esquema Relacional en MySQL      | Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos. | 5            |
+| 34    | TS-02         | Implementación de búsqueda por contenido   | Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend. | 5            |
+| 35    | TS-03         | Mockup funcional de perfil de usuario   | Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto. | 3            |
+| 36    | TS-04         | Implementar relaciones N:M con tablas intermedias     | Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL. | 5            |
+| 37    | TS-05         | Sistema de ordenamiento y filtros en recomendaciones | Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones. | 5            |
+| 38    | TS-06         | Componente frontend de 'Tendencias'            | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 3            |
+| 39    | TS-07         | Registro de actividad del usuario         | Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.| 5            |
+| 40    | TS-08         | Agregar índices en campos clave de MySQL    | Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento. | 5           |
 
 
 
