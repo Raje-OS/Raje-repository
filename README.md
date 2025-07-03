@@ -2912,7 +2912,7 @@ El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que 
     <td colspan="1">Como usuario, deseo crear una cuenta en la plataforma para poder acceder y personalizar mi experiencia </td>
     <td colspan="1">8 </td>
     <td colspan="1">Cabanillas Meza Jose Mateo </td>
-    <td colspan="1">Done </td>
+    <td colspan="1">In-Process</td>
   </tr>
   <tr>
     <td colspan="1">US-2 </td>
@@ -2922,67 +2922,67 @@ El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que 
     <td colspan="1">Como usuario, quiero poder iniciar sesión en mi cuenta para acceder a mi perfil y gestionar mis reseñas y preferencias. </td>
     <td colspan="1">6 </td>
     <td colspan="1">Verona Flores Italo Sebastian </td>
-    <td colspan="1">Done </td>
+    <td colspan="1">In-Process</td>
   </tr>
   <tr>
-    <td colspan="1">US-8 </td>
-    <td colspan="1">Recuperación de Contraseña </td>
+    <td colspan="1">US-03</td>
+    <td colspan="1">Visualización de Opiniones y Calificaciones</td>
     <td colspan="1">W03 </td>
-    <td colspan="1">Recuperación de Contraseña </td>
-    <td colspan="1">Como usuario, deseo poder recuperar mi contraseña en caso de olvidarla, para poder acceder nuevamente a mi cuenta. </td>
-    <td colspan="1">5 </td>
-    <td colspan="1">Sarmiento Medina Loreley </td>
-    <td colspan="1">Done </td>
+    <td colspan="1">Ver Reseñas y Calificaciones</td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero tener un perfil donde pueda ver todas mis reseñas, calificaciones y el contenido que he consumido.</td>
+    <td colspan="1">6</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">In-Process</td>
   </tr>
   <tr>
-    <td colspan="1">US-7 </td>
-    <td colspan="1">Seguimiento de Otros Usuarios </td>
+    <td colspan="1">US-18</td>
+    <td colspan="1">Cambio de idioma en Landing Page</td>
     <td colspan="1">W04 </td>
-    <td colspan="1">Seguimiento de Otros Usuarios </td>
-    <td colspan="1">Como consumidor de contenido multimedia, quiero poder seguir a otros usuarios cuyas opiniones me interesan, para poder ver sus reseñas y recomendaciones de manera constante en mi feed. </td>
+    <td colspan="1">Cambiar de idioma</td>
+    <td colspan="1">Como usuario, quiero poder cambiar el idioma de la página entre español e inglés, para entender el contenido en mi idioma preferido.</td>
     <td colspan="1">7 </td>
     <td colspan="1">Aliaga Urbina Wilder Gonzalo </td>
     <td colspan="1">Done </td>
   </tr>
   <tr>
-    <td colspan="1">US-16 </td>
-    <td colspan="1">Feed de contenido trending </td>
+    <td colspan="1">US-19</td>
+    <td colspan="1">Explorar la sección Inicio en Landing Page</td>
     <td colspan="1">W05 </td>
-    <td colspan="1">Feed de contenido trending </td>
-    <td colspan="1">Como usuario, quiero ver un feed de “Tendencias” con contenidos más reseñados y mejor valorados en la última semana, para descubrir lo más popular. </td>
-    <td colspan="1">10 </td>
-    <td colspan="1">Cabanillas Meza Jose Mateo </td>
+    <td colspan="1">Landing: Inicio</td>
+    <td colspan="1">Como visitante, quiero ver contenido destacado y opiniones auténticas al ingresar a la sección de Inicio, para entender el valor diferencial de RAJE.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
     <td colspan="1">Done </td>
   </tr>
   <tr>
-    <td colspan="1">US-18 </td>
-    <td colspan="1">Marcar contenido como "Visto" </td>
+    <td colspan="1">US-20</td>
+    <td colspan="1">Explorar la sección Contenido en Landing Page	</td>
     <td colspan="1">W06 </td>
-    <td colspan="1">Marcar contenido como "Visto" </td>
-    <td colspan="1">Como usuario, quiero marcar manualmente una película, serie o libro como “Visto/Leído”, para mantener mi historial actualizado. </td>
+    <td colspan="1">Landing: Contenido</td>
+    <td colspan="1">Como visitante, quiero explorar fácilmente las películas y series destacadas en la sección Contenido, para conocer lo que RAJE ofrece.</td>
     <td colspan="1">4 </td>
-    <td colspan="1">Cabanillas Meza Jose Mateo </td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
     <td colspan="1">Done </td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td colspan="1">US-21</td>
+    <td colspan="1">Explorar la sección Comunidad </td>
+    <td colspan="1">W07</td>
+    <td colspan="1">Landing: Comunidad </td>
+    <td colspan="1">Como usuario nuevo, quiero ver lo que otras personas opinan en la sección Comunidad, para entender el tipo de experiencias compartidas en RAJE.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Verona Flores Italo Sebastian</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
-    <td colspan="1"> </td>
+    <td colspan="1">US-22</td>
+    <td colspan="1">Explorar la sección RAJE</td>
+    <td colspan="1">W08</td>
+    <td colspan="1">Landing: RAJE</td>
+    <td colspan="1">Como visitante, quiero conocer la misión y esencia de la plataforma en la sección RAJE, para entender su identidad y propuesta de valor.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
   </tr>
 </table>
 
