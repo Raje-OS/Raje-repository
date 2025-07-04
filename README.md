@@ -3235,18 +3235,18 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
     <td colspan="1"><strong>Status (To-do / In- Process / To- Review / Done)</strong></td>
   </tr>
   <tr>
-    <td colspan="1">US-11</td>
-    <td colspan="1">Ver perfil de autor o actores</td>
+    <td colspan="1">US-01</td>
+    <td colspan="1">Creación de Cuenta de Usuario</td>
     <td colspan="1">W1</td>
-    <td colspan="1">Ver perfil de autor o actores</td>
-    <td colspan="1">Como usuario, quiero poder ver la biografía y datos de un autor o actor.</td>
+    <td colspan="1">Crear cuenta</td>
+    <td colspan="1">Como usuario, deseo crear una cuenta en la plataforma para poder acceder y personalizar mi experiencia</td>
     <td colspan="1">2</td>
-    <td colspan="1">Alvaro Leandro Bejarano Martínez</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US-4</td>
-    <td colspan="1">Publicación de Reseñas y Opiniones</td>
+    <td colspan="1">US-02</td>
+    <td colspan="1">Inicio de Sesión</td>
     <td colspan="1">W2</td>
     <td colspan="1">Publicación de Reseñas y Opiniones</td>
     <td colspan="1">Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación.</td>
