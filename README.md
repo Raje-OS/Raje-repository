@@ -3403,30 +3403,30 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
     <td colspan="1">US-02</td>
     <td colspan="1">Inicio de Sesión</td>
     <td colspan="1">W2</td>
-    <td colspan="1">Publicación de Reseñas y Opiniones</td>
-    <td colspan="1">Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación.</td>
+    <td colspan="1">Inicio de sesión</td>
+    <td colspan="1">Como usuario, quiero poder iniciar sesión en mi cuenta para acceder a mi perfil y gestionar mis reseñas y preferencias.</td>
     <td colspan="1">4</td>
     <td colspan="1">Verona Flores Italo Sebastian</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US-3</td>
-    <td colspan="1">Visualización de Opiniones y Calificaciones</td>
+    <td colspan="1">US-08</td>
+    <td colspan="1">Ver perfil de autor o actores</td>
     <td colspan="1">W3</td>
-    <td colspan="1">Visualización de Opiniones y Calificaciones</td>
-    <td colspan="1">Como consumidor de contenido multimedia, quiero tener un perfil donde pueda ver todas mis reseñas, calificaciones y el contenido que he consumido.</td>
-    <td colspan="1">1</td>
-    <td colspan="1">Alvaro Leandro Bejarano Martínez</td>
+    <td colspan="1">Ver perfil de autor/actor</td>
+    <td colspan="1">Como usuario, quiero poder ver la biografía y datos de un autor o actor.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo/td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US-5</td>
-    <td colspan="1">Calificación de Contenido</td>
+    <td colspan="1">US-30</td>
+    <td colspan="1">Cerrar Sesión</td>
     <td colspan="1">W4</td>
-    <td colspan="1">Calificación de Contenido</td>
-    <td colspan="1">Como consumidor de contenido multimedia, quiero poder calificar películas, series y libros que he visto o leído, para que otros puedan ver qué tan bueno o malo es.</td>
+    <td colspan="1">Cerrar sesión</td>
+    <td colspan="1">Como usuario, quiero poder cerrar sesión de mi cuenta, para asegurar la privacidad de mi información.</td>
     <td colspan="1">4</td>
-    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -3435,29 +3435,39 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
     <td colspan="1">W5</td>
     <td colspan="1">Consultar elenco de película/serie</td>
     <td colspan="1">Como usuario, quiero ver el listado de actores y sus roles en una película o serie.</td>
-    <td colspan="1">1</td>
+    <td colspan="1">5</td>
     <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US-13</td>
-    <td colspan="1">Gestionar suscripciones a plataformas</td>
+    <td colspan="1">US-09</td>
+    <td colspan="1">Consultar elenco de película/serie</td>
     <td colspan="1">W6</td>
-    <td colspan="1">Gestionar suscripciones a plataformas</td>
-    <td colspan="1">Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil.</td>
-    <td colspan="1">7</td>
+    <td colspan="1">Consultar elenco</td>
+    <td colspan="1">Como usuario, quiero ver el listado de actores y sus roles en una película o serie.</td>
+    <td colspan="1">5</td>
     <td colspan="1">Cabanillas Meza Jose Mateo</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">In-Process</td>
   </tr>
   <tr>
-    <td colspan="1">US-10</td>
-    <td colspan="1">Analizar opiniones de usuarios</td>
+    <td colspan="1">US-13</td>
+    <td colspan="1">Gestionar suscripciones a plataformas</td>
     <td colspan="1">W7</td>
-    <td colspan="1">Analizar opiniones de usuarios</td>
-    <td colspan="1">Como administrador de plataforma de streaming, quiero analizar las opiniones de los usuarios sobre mi contenido.</td>
-    <td colspan="1">8</td>
-    <td colspan="1">Sarmiento Medina Loreley</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">Gestionar suscripciones</td>
+    <td colspan="1">Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Verona Flores Italo Sebastian</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-25</td>
+    <td colspan="1">Ver Plataforma de Streaming del Contenido</td>
+    <td colspan="1">W7</td>
+    <td colspan="1">Ver plataformas de streaming</td>
+    <td colspan="1">Como usuario, quiero ver en qué plataforma de streaming está cada contenido multimedia, para saber dónde puedo verlo.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">In-Process</td>
   </tr>
 </table>
 
