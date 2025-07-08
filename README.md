@@ -117,7 +117,7 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. es](#32-user-stories)
+  - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
 
@@ -1338,6 +1338,7 @@ Las entrevistas coincidieron en que las plataformas de streaming utilizan algori
     </tr>
   </tbody>
 </table>
+
 ## 3.2. User Stories
 
 ### Epics
