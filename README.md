@@ -2072,20 +2072,69 @@ Entonces el sistema debe mostrar el número total de reseñas, calificación pro
         </td>
         <td>EPIC-8</td>
     </tr>
-<tr>
+    <tr>
         <td>US-37</td>
-        <td>Cerrar sesión</td>
-        <td>Como plataforma de streaming (usuario administrador), quiero poder cerrar sesión para proteger mi cuenta después de usar la aplicación.</td>
+        <td>Añadir libros al catálogo	</td>
+        <td>Como dueño de librería, quiero añadir libros a mi catálogo para ampliar la oferta disponible y facilitar que los usuarios descubran mis productos.</td>
         <td>
-        Escenario 1: Dado que he iniciado sesión en mi cuenta,
-Cuando hago clic en el botón “Cerrar sesión”,
-Entonces el sistema debe cerrar mi sesión y redirigirme a la página de inicio de sesión.
+        Escenario 1: Dado que soy un dueño de librería autenticado,
+Cuando accedo a mi panel y completo el formulario de nuevo libro,
+Entonces el sistema debe guardar el libro y mostrarlo en mi catálogo visible en RAJE.
 Escenario 2:
-Dado que ya cerré sesión,
-Cuando intento acceder a una sección protegida,
-Entonces el sistema debe redirigirme al login con el mensaje “Debes iniciar sesión”.
+Dado que he dejado campos obligatorios vacíos,
+Cuando intento guardar el libro,
+Entonces el sistema debe mostrar un mensaje indicando que falta completar los campos requeridos.
         </td>
-        <td>EPIC-1</td>
+        <td>EPIC-8</td>
+    </tr>
+    <tr>
+        <td>US-38</td>
+        <td>Eliminar libros del catálogo</td>
+        <td>Como dueño de librería, quiero eliminar libros de mi catálogo, para mantener actualizada la lista de libros disponibles.</td>
+        <td>
+        Escenario 1: Dado que soy un dueño de librería autenticado,
+Cuando selecciono un libro de mi catálogo y presiono “Eliminar”,
+Entonces el sistema debe quitar ese libro de la vista pública.
+Escenario 2:
+Dado que el libro tiene reseñas asociadas,
+Cuando intento eliminarlo,
+Entonces el sistema debe mostrar una advertencia sobre la eliminación y pedir confirmación.
+        </td>
+        <td>EPIC-8</td>
+    </tr>
+    <tr>
+        <td>US-39</td>
+        <td>Ver estadísticas del catálogo</td>
+        <td>Como dueño de librería,
+quiero ver estadísticas sobre los libros de mi catálogo,
+para identificar cuáles son los más valorados o buscados por los usuarios.</td>
+        <td>
+        Escenario 1: Dado que soy dueño de librería autenticado,
+Cuando ingreso a la sección de estadísticas,
+Entonces el sistema debe mostrar un ranking de mis libros con mayor calificación y cantidad de reseñas.
+Escenario 2:
+Dado que deseo analizar el rendimiento por género,
+Cuando selecciono un filtro de género,
+Entonces el sistema debe mostrar las estadísticas segmentadas según ese género.
+        </td>
+        <td>EPIC-8</td>
+    </tr>
+    <tr>
+        <td>US-40</td>
+        <td>Agregar ubicación de mi librería</td>
+        <td>Como dueño de librería,
+quiero poder agregar la ubicación de mi librería,
+para que los usuarios sepan dónde encontrar mis libros físicamente.</td>
+        <td>
+        Escenario 1: Dado que soy dueño de librería autenticado,
+Cuando accedo al formulario de ubicación y agrego dirección y mapa,
+Entonces el sistema debe registrar la ubicación y mostrarla en el perfil de mi librería.
+Escenario 2:
+Dado que ya he registrado una ubicación,
+Cuando edito la dirección,
+Entonces el sistema debe actualizar la nueva ubicación en el mapa visible para los usuarios.
+        </td>
+        <td>EPIC-8</td>
     </tr>
     </tbody>
 
@@ -2282,19 +2331,22 @@ Escala de Story Points (Fibonacci):
 | 30    | US-30         | Cerrar Sesión	         | Como usuario, quiero poder cerrar sesión de mi cuenta, para asegurar la privacidad de mi información. | 2            |
 | 31    | US-31         | Eliminar Lista Personalizada	         |Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.| 2            |
 | 32    | US-32         | Eliminar Contenido de una Lista         | Como usuario, quiero poder borrar contenido dentro de mi lista, para mantenerla organizada según mis preferencias. | 3            |
-| 32    | US-33         | Añadir contenido al catálogo	         | Como plataforma de streaming, quiero poder añadir nuevas series o películas a mi catálogo para tener un mejor catálogo y ofrecer más opciones a los usuarios.	 | 5           |
-| 32    | US-34         | Quitar contenido del catálogo	        | Como plataforma de streaming, quiero quitar series o películas de mi catálogo para mantener actualizada la oferta disponible para los usuarios.	 | 5           |
-| 32    | US-35         | Ver estadísticas del catálogo	         | Como plataforma de streaming, quiero ver estadísticas sobre mi catálogo para entender qué contenido es más popular y cómo se comportan los usuarios.	| 5           |
-| 32    | US-36         | Ver puntuación promedio de contenido	         | Como plataforma de streaming, quiero ver la puntuación promedio de cada serie y película de mi catálogo para evaluar su recepción por parte del público.	 | 3            |
-| 32    | US-37         | Cerrar sesión	         | Como plataforma de streaming , quiero poder cerrar sesión para proteger mi cuenta después de usar la aplicación.	 | 3            |  
-| 33    | TS-01         | Diseño del Esquema Relacional en MySQL      | Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos. | 5            |
-| 34    | TS-02         | Implementación de búsqueda por contenido   | Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend. | 5            |
-| 35    | TS-03         | Mockup funcional de perfil de usuario   | Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto. | 3            |
-| 36    | TS-04         | Implementar relaciones N:M con tablas intermedias     | Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL. | 5            |
-| 37    | TS-05         | Sistema de ordenamiento y filtros en recomendaciones | Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones. | 5            |
-| 38    | TS-06         | Componente frontend de 'Tendencias'            | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 3            |
-| 39    | TS-07         | Registro de actividad del usuario         | Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.| 5            |
-| 40    | TS-08         | Agregar índices en campos clave de MySQL    | Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento. | 5           |
+| 33    | US-33         | Añadir contenido al catálogo	         | Como plataforma de streaming, quiero poder añadir nuevas series o películas a mi catálogo para tener un mejor catálogo y ofrecer más opciones a los usuarios.	 | 5           |
+| 34    | US-34         | Quitar contenido del catálogo	        | Como plataforma de streaming, quiero quitar series o películas de mi catálogo para mantener actualizada la oferta disponible para los usuarios.	 | 5           |
+| 35    | US-35         | Ver estadísticas del catálogo	         | Como plataforma de streaming, quiero ver estadísticas sobre mi catálogo para entender qué contenido es más popular y cómo se comportan los usuarios.	| 5           |
+| 36    | US-36         | Ver puntuación promedio de contenido	         | Como plataforma de streaming, quiero ver la puntuación promedio de cada serie y película de mi catálogo para evaluar su recepción por parte del público.	 | 3            |
+| 37    | US-37         | Añadir libros al catálogo		         | Como dueño de librería, quiero añadir libros a mi catálogo para ampliar la oferta disponible y facilitar que los usuarios descubran mis productos.	 | 5            |
+| 38    | US-38         | Eliminar libros del catálogo	         | Como dueño de librería, quiero eliminar libros de mi catálogo para mantener actualizada la lista de libros disponibles.		 | 3            |
+| 39    | US-39         | Ver estadísticas del catálogo		         | Como dueño de librería, quiero ver estadísticas sobre los libros de mi catálogo para identificar cuáles son los más valorados o buscados por los usuarios.	 | 5            |
+| 40    | US-40         | Agregar ubicación de la librería	        | Como dueño de librería, quiero poder agregar la ubicación de mi librería para que los usuarios sepan dónde encontrar mis libros físicamente.		 | 3            |
+| 41    | TS-01         | Diseño del Esquema Relacional en MySQL      | Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos. | 5            |
+| 42    | TS-02         | Implementación de búsqueda por contenido   | Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend. | 5            |
+| 43    | TS-03         | Mockup funcional de perfil de usuario   | Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto. | 3            |
+| 44    | TS-04         | Implementar relaciones N:M con tablas intermedias     | Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL. | 5            |
+| 45    | TS-05         | Sistema de ordenamiento y filtros en recomendaciones | Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones. | 5            |
+| 46    | TS-06         | Componente frontend de 'Tendencias'            | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 3            |
+| 47    | TS-07         | Registro de actividad del usuario         | Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.| 5            |
+| 48    | TS-08         | Agregar índices en campos clave de MySQL    | Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento. | 5           |
 
 
 
