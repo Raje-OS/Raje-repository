@@ -2136,6 +2136,25 @@ Entonces el sistema debe actualizar la nueva ubicación en el mapa visible para 
         </td>
         <td>EPIC-8</td>
     </tr>
+    <tr>
+        <td>US-41</td>
+        <td>Eliminar ubicación de mi librería</td>
+        <td>Como dueño de librería,
+quiero eliminar la ubicación registrada de mi librería,
+para que deje de mostrarse públicamente en mi perfil si ya no está activa o disponible.</td>
+        <td>
+        Escenario 1:
+Dado que tengo una ubicación ya registrada,
+Cuando ingreso a la configuración de mi perfil y presiono “Eliminar ubicación”,
+Entonces el sistema debe borrar los datos geográficos y dejar de mostrar la ubicación en el perfil público.
+
+Escenario 2:
+Dado que no tengo ninguna ubicación registrada,
+Cuando accedo a la opción de “Eliminar ubicación”,
+Entonces el sistema debe mostrar un mensaje indicando que no hay ninguna ubicación registrada actualmente.
+        </td>
+        <td>EPIC-8</td>
+    </tr>
     </tbody>
 
 </table>
@@ -2339,14 +2358,15 @@ Escala de Story Points (Fibonacci):
 | 38    | US-38         | Eliminar libros del catálogo	         | Como dueño de librería, quiero eliminar libros de mi catálogo para mantener actualizada la lista de libros disponibles.		 | 3            |
 | 39    | US-39         | Ver estadísticas del catálogo		         | Como dueño de librería, quiero ver estadísticas sobre los libros de mi catálogo para identificar cuáles son los más valorados o buscados por los usuarios.	 | 5            |
 | 40    | US-40         | Agregar ubicación de la librería	        | Como dueño de librería, quiero poder agregar la ubicación de mi librería para que los usuarios sepan dónde encontrar mis libros físicamente.		 | 3            |
-| 41    | TS-01         | Diseño del Esquema Relacional en MySQL      | Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos. | 5            |
-| 42    | TS-02         | Implementación de búsqueda por contenido   | Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend. | 5            |
-| 43    | TS-03         | Mockup funcional de perfil de usuario   | Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto. | 3            |
-| 44    | TS-04         | Implementar relaciones N:M con tablas intermedias     | Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL. | 5            |
-| 45    | TS-05         | Sistema de ordenamiento y filtros en recomendaciones | Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones. | 5            |
-| 46    | TS-06         | Componente frontend de 'Tendencias'            | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 3            |
-| 47    | TS-07         | Registro de actividad del usuario         | Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.| 5            |
-| 48    | TS-08         | Agregar índices en campos clave de MySQL    | Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento. | 5           |
+| 41    | US-41         | Eliminar ubicación de la librería		        | Como dueño de librería, quiero eliminar la ubicación registrada de mi librería para que deje de mostrarse públicamente en caso ya no esté activa.		 | 3            |
+| 42    | TS-01         | Diseño del Esquema Relacional en MySQL      | Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos. | 5            |
+| 43    | TS-02         | Implementación de búsqueda por contenido   | Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend. | 5            |
+| 44    | TS-03         | Mockup funcional de perfil de usuario   | Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto. | 3            |
+| 45    | TS-04         | Implementar relaciones N:M con tablas intermedias     | Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL. | 5            |
+| 46    | TS-05         | Sistema de ordenamiento y filtros en recomendaciones | Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones. | 5            |
+| 47    | TS-06         | Componente frontend de 'Tendencias'            | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 3            |
+| 48    | TS-07         | Registro de actividad del usuario         | Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.| 5            |
+| 49    | TS-08         | Agregar índices en campos clave de MySQL    | Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento. | 5           |
 
 
 
