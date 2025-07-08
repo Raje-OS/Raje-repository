@@ -2009,6 +2009,84 @@ Escenario 2: Dado que elimino un contenido de la lista, cuando actualizo o regre
         </td>
         <td>EPIC-1</td>
     </tr>
+    <tr>
+        <td>US-33</td>
+        <td>Añadir contenido al catálogo</td>
+        <td>Como plataforma de streaming, quiero poder añadir nuevas series o películas a mi catálogo para tener un mejor catálogo y ofrecer más opciones a los usuarios.</td>
+        <td>
+          Escenario 1:
+        Dado que soy un administrador autenticado,
+Cuando ingreso los datos de un contenido nuevo y presiono "Agregar",
+Entonces el sistema debe guardar el contenido y mostrarlo en el catálogo disponible para los usuarios.
+Escenario 2:
+Dado que he dejado campos obligatorios sin completar,
+Cuando intento guardar el nuevo contenido,
+Entonces el sistema debe mostrar un mensaje de validación indicando los campos faltantes.
+        </td>
+        <td>EPIC-8</td>
+    </tr>
+    <tr>
+        <td>US-34</td>
+        <td>Quitar contenido del catálogo</td>
+        <td>Como plataforma de streaming, quiero quitar series o películas de mi catálogo para mantener actualizada la oferta disponible para los usuarios.</td>
+        <td>
+          Escenario 1:
+        Dado que soy un administrador autenticado,
+Cuando selecciono un contenido del catálogo y presiono “Eliminar”,
+Entonces el sistema debe eliminar ese contenido del listado público.
+Escenario 2:
+Dado que el contenido seleccionado tiene reseñas asociadas,
+Cuando intento eliminarlo,
+Entonces el sistema debe mostrar una advertencia de impacto y solicitar confirmación.
+        </td>
+        <td>EPIC-8</td>
+    </tr>
+    <tr>
+        <td>US-35</td>
+        <td>Ver estadísticas del catálogo</td>
+        <td>Como plataforma de streaming, quiero ver estadísticas sobre mi catálogo para entender qué contenido es más popular y cómo se comportan los usuarios.</td>
+        <td>
+          Escenario 1:
+       Dado que estoy en el panel administrativo,
+Cuando ingreso a la sección de estadísticas,
+Entonces debo ver métricas como número total de obras por género y cantidad de reseñas por tipo de contenido.
+Escenario 2:
+Dado que deseo analizar contenido reciente,
+Cuando aplico un filtro por fecha,
+Entonces el sistema debe actualizar las estadísticas mostradas según ese rango.
+        </td>
+        <td>EPIC-8</td>
+    </tr>
+    <tr>
+        <td>US-36</td>
+        <td>Ver puntuación promedio de contenido</td>
+        <td>Como plataforma de streaming, quiero ver la puntuación promedio de cada serie y película de mi catálogo para evaluar su recepción por parte del público.</td>
+        <td>
+        Escenario 1: Dado que estoy en el listado de contenidos,
+Cuando visualizo los datos de una obra,
+Entonces debo ver su calificación promedio basada en las reseñas de los usuarios.
+Escenario 2:
+Dado que quiero más detalle,
+Cuando hago clic sobre el título de una obra,
+Entonces el sistema debe mostrar el número total de reseñas, calificación promedio y comentarios destacados.
+        </td>
+        <td>EPIC-8</td>
+    </tr>
+<tr>
+        <td>US-37</td>
+        <td>Cerrar sesión</td>
+        <td>Como plataforma de streaming (usuario administrador), quiero poder cerrar sesión para proteger mi cuenta después de usar la aplicación.</td>
+        <td>
+        Escenario 1: Dado que he iniciado sesión en mi cuenta,
+Cuando hago clic en el botón “Cerrar sesión”,
+Entonces el sistema debe cerrar mi sesión y redirigirme a la página de inicio de sesión.
+Escenario 2:
+Dado que ya cerré sesión,
+Cuando intento acceder a una sección protegida,
+Entonces el sistema debe redirigirme al login con el mensaje “Debes iniciar sesión”.
+        </td>
+        <td>EPIC-1</td>
+    </tr>
     </tbody>
 
 </table>
