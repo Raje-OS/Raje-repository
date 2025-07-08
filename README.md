@@ -1570,20 +1570,16 @@ Entonces el sistema muestra un mensaje: “Genero no existente”
   <td>Ver perfil de autor o actores</td>
   <td>Como usuario, quiero poder ver la biografía y datos de un autor o actor (nombre, biografía, fecha de nacimiento, etc.), para conocer más sobre sus trabajos.</td>
   <td>
-Escenario 1: Registro exitoso
-    Dado que soy un nuevo usuario
-    Cuando completo el formulario de registro
-    Entonces el sistema crea mi cuenta y me redirige al perfil
+Escenario 1: Vista exitosa
+    Dado que le doy click a la foto de una actor o autor
+    Cuando estoy en el detalle de un contenido
+    Entonces el sistema me muestra el detalle del elenco
 
-Escenario 2: Inicio de sesión válido
-Dado que ya tengo una cuenta
-Cuando ingreso mis credenciales correctamente
-Entonces accedo a mi perfil y funciones completas
+Escenario 2: Vista fallida
+  Dado que le doy click a la foto de una actor o autor
+    Cuando estoy en el detalle de un contenido
+    Entonces el sistema me muestra un mensaje de error al cargar la biografia
 
-Escenario 3: Error en inicio de sesión
-Dado que escribo mal mi contraseña
-Cuando intento iniciar sesión
-Entonces el sistema muestra un mensaje de error y permite reintentar
   </td>
   <td>EPIC-4</td>
 </tr>
@@ -2156,6 +2152,42 @@ Entonces el sistema debe mostrar un mensaje indicando que no hay ninguna ubicaci
         </td>
         <td>EPIC-8</td>
     </tr>
+        <tr>
+        <td>US-42</td>
+        <td>Ver Librerias del Contenido</td>
+        <td>Como usuario,
+quiero ver en qué libreria está cada contenido, para saber dónde puedo comprarlo.</td>
+        <td>
+        Escenario 1:
+ Dado que estoy en la ficha de un contenido, 
+ Cuando la visualizo, 
+ Entonces el sistema debe mostrar las librerias donde está disponible
+
+Escenario 2:
+ Dado que estoy en la ficha de un contenido, 
+ Cuando la visualizo y no hay libreriras para ese contenido, 
+Entonces el sistema no imprimirá ninguna libreria.
+</td>
+        <td>EPIC-4</td>
+    </tr>
+          <tr>
+        <td>US-43</td>
+        <td>Ver Ubicaciones de las Librerias</td>
+        <td>Como usuario,
+quiero poder ver las ubiaciones de mis librerias para saber como encontrarlas.</td>
+        <td>
+       Escenario 1: Vista exitosa
+    Dado que le doy click a la foto de una libreria
+    Cuando estoy en el detalle de un contenido
+    Entonces el sistema me muestra un mapa con las ubicaciones de esa libreria
+
+Escenario 2: Vista fallida
+Dado que le doy click a la foto de una libreria
+    Cuando estoy en el detalle de un contenido, y la libreria no cuenta con ubicaciones
+    Entonces el sistema me muestra un mapa vacio
+</td>
+        <td>EPIC-4</td>
+    </tr>
     </tbody>
 
 </table>
@@ -2317,57 +2349,59 @@ Escala de Story Points (Fibonacci):
 
 
 
-| Orden | User Story Id | Título                                   | Descripción                                                                                                                                                          | Story Points |
-|-------|---------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| 1     | US-01         | Creación de Cuenta de Usuario           | Como usuario, deseo crear una cuenta en la plataforma para poder acceder y personalizar mi experiencia | 3           |
-| 2     | US-02         | Inicio de Sesión          | Como usuario, quiero poder iniciar sesión en mi cuenta para acceder a mi perfil y gestionar mis reseñas y preferencias.                                                              | 3           |
-| 3     | US-03         | Visualización de Opiniones y Calificaciones  | Como consumidor de contenido multimedia, quiero tener un perfil donde pueda ver todas mis reseñas, calificaciones y el contenido que he consumido. | 3          |
-| 4     | US-04         | Publicación de Reseñas y Opiniones                | Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación. | 5            |
-| 5     | US-05         | Calificación de Contenido         | Como consumidor de contenido multimedia, quiero poder calificar películas, series y libros que he visto o leído, para que otros puedan ver qué tan bueno o malo es. | 3            |
-| 6     | US-06         | Recomendaciones Personalizadas            | Como consumidor de contenido multimedia, quiero recibir recomendaciones personalizadas basadas en mis calificaciones y reseñas. | 5            |
-| 7     | US-07         | Ver análisis de libros mejor valorados      | Como dueño de librería, quiero ver un análisis de los libros con mejor valoración y reseñas en la plataforma. | 5            |
-| 8    | US-08         | Ver perfil de autor o actores | Como usuario, quiero poder ver la biografía y datos de un autor o actor. | 3            |
-| 9    | US-09         | Consultar elenco de película/serie      | Como usuario, quiero ver el listado de actores y sus roles en una película o serie. | 3            |
-| 10    | US-10         | Gestionar suscripciones a plataformas   | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil. | 5            |
-| 11    | US-11         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido. | 2            |
-| 12    | US-12         | Listar mis favoritos     | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil. | 2            |
-| 13    | US-13         | Feed de contenido trending | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana. | 3            |
-| 14    | US-14         | Ver trailers y portadas            | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie. | 3            |
-| 15    | US-15         | Marcar contenido como “Visto”          | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”. | 2            |
-| 16    | US-16         | Crear lista personalizada de contenido    | Como usuario, quiero crear listas personalizadas de películas, series o libros. | 3           |
-| 17    | US-17         | Ver recomendaciones personalizadas         | Como usuario, quiero recibir recomendaciones personalizadas basadas en mi historial. | 5            |
-| 18    | US-18         | Cambio de idioma en Landing Page	         | Como usuario, quiero poder cambiar el idioma de la página entre español e inglés, para entender el contenido en mi idioma preferido.	 | 2            |
-| 19    | US-19         | Explorar la sección Inicio en Landing Page	 | Como visitante, quiero ver contenido destacado y opiniones auténticas en la sección de Inicio, para entender el valor diferencial de RAJE. | 2            |
-| 20    | US-20         | Explorar la sección Contenido en Landing Page	         | Como visitante, quiero explorar fácilmente películas y series destacadas, para conocer lo que RAJE ofrece en la sección Contenido.	 | 2            |
-| 21    | US-21         | Explorar la sección Comunidad en Landing Page	         | Como usuario nuevo, quiero ver lo que otras personas opinan en la sección Comunidad, para entender el tipo de experiencias compartidas en RAJE.	 | 2            |
-| 22    | US-22         | Explorar la sección RAJE en Landing Page	         | Como visitante, quiero conocer la misión y esencia de la plataforma en la sección RAJE, para entender su identidad y propuesta de valor.	 | 2            |
-| 23    | US-23         | Búsqueda de Contenido por Título	         | Como usuario, quiero poder buscar películas, series o libros por título, para encontrar fácilmente el contenido que me interesa.	 | 3            |
-| 24    | US-24         | Visualizar Mis Listas de Contenido        | Como usuario, quiero poder visualizar las listas que he creado, para acceder fácilmente al contenido que he organizado.	 | 3            |
-| 25    | US-25         | Ver Plataforma de Streaming del Contenido         | Como usuario, quiero ver en qué plataforma de streaming está cada contenido multimedia, para saber dónde puedo verlo.	 | 5            |
-| 26    | US-26         | Eliminar Reseña         | Como usuario, quiero poder borrar las reseñas que realicé, para tener control total sobre mi contenido.	 | 3            |
-| 27    | US-27         | Editar Reseña	         | Como usuario, quiero poder modificar las reseñas que realicé, para corregir errores o actualizar mis opiniones.	 | 3            |
-| 28    | US-28         | Editar Perfil de Usuario         | Como usuario, quiero poder editar mi perfil, incluyendo nombre, foto y descripción, para personalizar mi identidad en la plataforma. | 3            |
-| 29    | US-29         | Agregar Contenido a Lista	         | Como usuario, quiero poder agregar contenido multimedia a mis listas personalizadas, para organizar lo que quiero ver o ya he visto.	 | 2            |
-| 30    | US-30         | Cerrar Sesión	         | Como usuario, quiero poder cerrar sesión de mi cuenta, para asegurar la privacidad de mi información. | 2            |
-| 31    | US-31         | Eliminar Lista Personalizada	         |Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.| 2            |
-| 32    | US-32         | Eliminar Contenido de una Lista         | Como usuario, quiero poder borrar contenido dentro de mi lista, para mantenerla organizada según mis preferencias. | 3            |
-| 33    | US-33         | Añadir contenido al catálogo	         | Como plataforma de streaming, quiero poder añadir nuevas series o películas a mi catálogo para tener un mejor catálogo y ofrecer más opciones a los usuarios.	 | 5           |
-| 34    | US-34         | Quitar contenido del catálogo	        | Como plataforma de streaming, quiero quitar series o películas de mi catálogo para mantener actualizada la oferta disponible para los usuarios.	 | 5           |
-| 35    | US-35         | Ver estadísticas del catálogo	         | Como plataforma de streaming, quiero ver estadísticas sobre mi catálogo para entender qué contenido es más popular y cómo se comportan los usuarios.	| 5           |
-| 36    | US-36         | Ver puntuación promedio de contenido	         | Como plataforma de streaming, quiero ver la puntuación promedio de cada serie y película de mi catálogo para evaluar su recepción por parte del público.	 | 3            |
-| 37    | US-37         | Añadir libros al catálogo		         | Como dueño de librería, quiero añadir libros a mi catálogo para ampliar la oferta disponible y facilitar que los usuarios descubran mis productos.	 | 5            |
-| 38    | US-38         | Eliminar libros del catálogo	         | Como dueño de librería, quiero eliminar libros de mi catálogo para mantener actualizada la lista de libros disponibles.		 | 3            |
-| 39    | US-39         | Ver estadísticas del catálogo		         | Como dueño de librería, quiero ver estadísticas sobre los libros de mi catálogo para identificar cuáles son los más valorados o buscados por los usuarios.	 | 5            |
-| 40    | US-40         | Agregar ubicación de la librería	        | Como dueño de librería, quiero poder agregar la ubicación de mi librería para que los usuarios sepan dónde encontrar mis libros físicamente.		 | 3            |
-| 41    | US-41         | Eliminar ubicación de la librería		        | Como dueño de librería, quiero eliminar la ubicación registrada de mi librería para que deje de mostrarse públicamente en caso ya no esté activa.		 | 3            |
-| 42    | TS-01         | Diseño del Esquema Relacional en MySQL      | Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos. | 5            |
-| 43    | TS-02         | Implementación de búsqueda por contenido   | Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend. | 5            |
-| 44    | TS-03         | Mockup funcional de perfil de usuario   | Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto. | 3            |
-| 45    | TS-04         | Implementar relaciones N:M con tablas intermedias     | Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL. | 5            |
-| 46    | TS-05         | Sistema de ordenamiento y filtros en recomendaciones | Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones. | 5            |
-| 47    | TS-06         | Componente frontend de 'Tendencias'            | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 3            |
-| 48    | TS-07         | Registro de actividad del usuario         | Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.| 5            |
-| 49    | TS-08         | Agregar índices en campos clave de MySQL    | Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento. | 5           |
+| Orden | User Story Id | Título                           | Descripción                                                                                                                                                          | Story Points |
+|-------|---------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1     | US-01         | Creación de Cuenta de Usuario    | Como usuario, deseo crear una cuenta en la plataforma para poder acceder y personalizar mi experiencia                                                              | 3            |
+| 2     | US-02         | Inicio de Sesión                 | Como usuario, quiero poder iniciar sesión en mi cuenta para acceder a mi perfil y gestionar mis reseñas y preferencias.                                             | 3            |
+| 3     | US-03         | Visualización de Opiniones y Calificaciones | Como consumidor de contenido multimedia, quiero tener un perfil donde pueda ver todas mis reseñas, calificaciones y el contenido que he consumido. | 3            |
+| 4     | US-04         | Publicación de Reseñas y Opiniones | Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación. | 5            |
+| 5     | US-05         | Calificación de Contenido        | Como consumidor de contenido multimedia, quiero poder calificar películas, series y libros que he visto o leído, para que otros puedan ver qué tan bueno o malo es. | 3            |
+| 6     | US-06         | Recomendaciones Personalizadas   | Como consumidor de contenido multimedia, quiero recibir recomendaciones personalizadas basadas en mis calificaciones y reseñas.                                     | 5            |
+| 7     | US-07         | Ver análisis de libros mejor valorados | Como dueño de librería, quiero ver un análisis de los libros con mejor valoración y reseñas en la plataforma.                                                      | 5            |
+| 8     | US-08         | Ver perfil de autor o actores    | Como usuario, quiero poder ver la biografía y datos de un autor o actor.                                                                                            | 3            |
+| 9     | US-09         | Consultar elenco de película/serie | Como usuario, quiero ver el listado de actores y sus roles en una película o serie.                                                                                 | 3            |
+| 10    | US-10         | Gestionar suscripciones a plataformas | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil.                                                                            | 5            |
+| 11    | US-11         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido.                                                           | 2            |
+| 12    | US-12         | Listar mis favoritos             | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil.                                                                           | 2            |
+| 13    | US-13         | Feed de contenido trending       | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana.                                                                       | 3            |
+| 14    | US-14         | Ver trailers y portadas          | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie.                                                                                  | 3            |
+| 15    | US-15         | Marcar contenido como “Visto”    | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”.                                                                                               | 2            |
+| 16    | US-16         | Crear lista personalizada de contenido | Como usuario, quiero crear listas personalizadas de películas, series o libros.                                                                                     | 3            |
+| 17    | US-17         | Ver recomendaciones personalizadas | Como usuario, quiero recibir recomendaciones personalizadas basadas en mi historial.                                                                                | 5            |
+| 18    | US-18         | Cambio de idioma en Landing Page | Como usuario, quiero poder cambiar el idioma de la página entre español e inglés, para entender el contenido en mi idioma preferido.                               | 2            |
+| 19    | US-19         | Explorar la sección Inicio en Landing Page | Como visitante, quiero ver contenido destacado y opiniones auténticas en la sección de Inicio, para entender el valor diferencial de RAJE.                  | 2            |
+| 20    | US-20         | Explorar la sección Contenido en Landing Page | Como visitante, quiero explorar fácilmente películas y series destacadas, para conocer lo que RAJE ofrece en la sección Contenido.                             | 2            |
+| 21    | US-21         | Explorar la sección Comunidad en Landing Page | Como usuario nuevo, quiero ver lo que otras personas opinan en la sección Comunidad, para entender el tipo de experiencias compartidas en RAJE.            | 2            |
+| 22    | US-22         | Explorar la sección RAJE en Landing Page | Como visitante, quiero conocer la misión y esencia de la plataforma en la sección RAJE, para entender su identidad y propuesta de valor.                   | 2            |
+| 23    | US-23         | Búsqueda de Contenido por Título | Como usuario, quiero poder buscar películas, series o libros por título, para encontrar fácilmente el contenido que me interesa.                                   | 3            |
+| 24    | US-24         | Visualizar Mis Listas de Contenido | Como usuario, quiero poder visualizar las listas que he creado, para acceder fácilmente al contenido que he organizado.                                            | 3            |
+| 25    | US-25         | Ver Plataforma de Streaming del Contenido | Como usuario, quiero ver en qué plataforma de streaming está cada contenido multimedia, para saber dónde puedo verlo.                                              | 5            |
+| 26    | US-26         | Eliminar Reseña                  | Como usuario, quiero poder borrar las reseñas que realicé, para tener control total sobre mi contenido.                                                            | 3            |
+| 27    | US-27         | Editar Reseña                    | Como usuario, quiero poder modificar las reseñas que realicé, para corregir errores o actualizar mis opiniones.                                                    | 3            |
+| 28    | US-28         | Editar Perfil de Usuario         | Como usuario, quiero poder editar mi perfil, incluyendo nombre, foto y descripción, para personalizar mi identidad en la plataforma.                              | 3            |
+| 29    | US-29         | Agregar Contenido a Lista        | Como usuario, quiero poder agregar contenido multimedia a mis listas personalizadas, para organizar lo que quiero ver o ya he visto.                              | 2            |
+| 30    | US-30         | Cerrar Sesión                    | Como usuario, quiero poder cerrar sesión de mi cuenta, para asegurar la privacidad de mi información.                                                              | 2            |
+| 31    | US-31         | Eliminar Lista Personalizada     | Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.                                                              | 2            |
+| 32    | US-32         | Eliminar Contenido de una Lista  | Como usuario, quiero poder borrar contenido dentro de mi lista, para mantenerla organizada según mis preferencias.                                                 | 3            |
+| 33    | US-33         | Añadir contenido al catálogo     | Como plataforma de streaming, quiero poder añadir nuevas series o películas a mi catálogo para tener un mejor catálogo y ofrecer más opciones a los usuarios.     | 5            |
+| 34    | US-34         | Quitar contenido del catálogo    | Como plataforma de streaming, quiero quitar series o películas de mi catálogo para mantener actualizada la oferta disponible para los usuarios.                   | 5            |
+| 35    | US-35         | Ver estadísticas del catálogo    | Como plataforma de streaming, quiero ver estadísticas sobre mi catálogo para entender qué contenido es más popular y cómo se comportan los usuarios.             | 5            |
+| 36    | US-36         | Ver puntuación promedio de contenido | Como plataforma de streaming, quiero ver la puntuación promedio de cada serie y película de mi catálogo para evaluar su recepción por parte del público.     | 3            |
+| 37    | US-37         | Añadir libros al catálogo        | Como dueño de librería, quiero añadir libros a mi catálogo para ampliar la oferta disponible y facilitar que los usuarios descubran mis productos.               | 5            |
+| 38    | US-38         | Eliminar libros del catálogo     | Como dueño de librería, quiero eliminar libros de mi catálogo para mantener actualizada la lista de libros disponibles.                                           | 3            |
+| 39    | US-39         | Ver estadísticas del catálogo    | Como dueño de librería, quiero ver estadísticas sobre los libros de mi catálogo para identificar cuáles son los más valorados o buscados por los usuarios.       | 5            |
+| 40    | US-40         | Agregar ubicación de la librería | Como dueño de librería, quiero poder agregar la ubicación de mi librería para que los usuarios sepan dónde encontrar mis libros físicamente.                     | 3            |
+| 41    | US-41         | Eliminar ubicación de la librería | Como dueño de librería, quiero eliminar la ubicación registrada de mi librería para que deje de mostrarse públicamente en caso ya no esté activa.                | 3            |
+| 42    | US-42         | Ver Librerías del Contenido      | Como usuario, quiero ver en qué librería está cada contenido, para saber dónde puedo comprarlo.                                                                     | 3 |
+| 43    | US-43         | Ver Ubicaciones de las Librerías | Como usuario, quiero poder ver las ubicaciones de mis librerías para saber cómo encontrarlas.                                                                        | 3 |
+| 44    | TS-01         | Diseño del Esquema Relacional en MySQL      | Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos. | 5            |
+| 45    | TS-02         | Implementación de búsqueda por contenido   | Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend. | 5            |
+| 46    | TS-03         | Mockup funcional de perfil de usuario   | Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto. | 3            |
+| 47    | TS-04         | Implementar relaciones N:M con tablas intermedias     | Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL. | 5            |
+| 48    | TS-05         | Sistema de ordenamiento y filtros en recomendaciones | Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones. | 5            |
+| 44    | TS-06         | Componente frontend de 'Tendencias'            | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 3            |
+| 50    | TS-07         | Registro de actividad del usuario         | Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.| 5            |
+| 51    | TS-08         | Agregar índices en campos clave de MySQL    | Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento. | 5           |
 
 
 
