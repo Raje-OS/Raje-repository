@@ -3416,7 +3416,7 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
     <td colspan="1">Ver perfil de autor/actor</td>
     <td colspan="1">Como usuario, quiero poder ver la biografía y datos de un autor o actor.</td>
     <td colspan="1">3</td>
-    <td colspan="1">Aliaga Urbina Wilder Gonzalo/td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -3433,16 +3433,6 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
     <td colspan="1">US-09</td>
     <td colspan="1">Consultar elenco de película/serie</td>
     <td colspan="1">W5</td>
-    <td colspan="1">Consultar elenco de película/serie</td>
-    <td colspan="1">Como usuario, quiero ver el listado de actores y sus roles en una película o serie.</td>
-    <td colspan="1">5</td>
-    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1">US-09</td>
-    <td colspan="1">Consultar elenco de película/serie</td>
-    <td colspan="1">W6</td>
     <td colspan="1">Consultar elenco</td>
     <td colspan="1">Como usuario, quiero ver el listado de actores y sus roles en una película o serie.</td>
     <td colspan="1">5</td>
@@ -3452,7 +3442,7 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
   <tr>
     <td colspan="1">US-13</td>
     <td colspan="1">Gestionar suscripciones a plataformas</td>
-    <td colspan="1">W7</td>
+    <td colspan="1">W6</td>
     <td colspan="1">Gestionar suscripciones</td>
     <td colspan="1">Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil.</td>
     <td colspan="1">4</td>
@@ -3711,7 +3701,7 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US-11/td>
+    <td colspan="1">US-11</td>
     <td colspan="1">Marcar contenido como favorito</td>
     <td colspan="1">W5</td>
     <td colspan="1">Marcar favoritos</td>
