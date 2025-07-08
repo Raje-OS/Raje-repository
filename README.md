@@ -3430,7 +3430,7 @@ En este apartado se describe el Sprint Backlog correspondiente al segundo sprint
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">US-12</td>
+    <td colspan="1">US-09</td>
     <td colspan="1">Consultar elenco de película/serie</td>
     <td colspan="1">W5</td>
     <td colspan="1">Consultar elenco de película/serie</td>
@@ -3651,13 +3651,178 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
 
 #### 5.2.3.3. Sprint Backlog 3.
 
-| User Story ID | Título de User Story                        | Task ID | Título de Tarea                 | Descripción                                                                 | Estimación (hrs) | Asignado a                          | Estado |
-|---------------|---------------------------------------------|---------|----------------------------------|------------------------------------------------------------------------------|------------------|-------------------------------------|--------|
-| US-6          | Recomendaciones Personalizadas              | W08     | Generación de Recomendaciones   | Como usuario, quiero recibir recomendaciones basadas en mis reseñas y calificaciones previas | 6                | Verona Flores Italo Sebastián       | Done   |
-| US-9          | Ver Análisis de Libros Mejor Valorados      | W09     | Panel de Libros Mejor Valorados | Como librero, quiero ver los libros mejor valorados para tomar decisiones comerciales         | 5                | Aliaga Urbina Wilder Gonzalo        | Done   |
-| US-14         | Ver Trailers y Portadas                     | W10     | Multimedia en ficha de contenido| Como usuario, quiero ver tráilers y portadas oficiales de películas o series antes de consumirlas | 4                | Cabanillas Meza José Mateo          | Done   |
-| US-15         | Marcar contenido como “Visto”               | W11     | Funcionalidad “Marcar como visto”| Como usuario, quiero marcar manualmente una película, serie o libro como visto para llevar un control de historial | 3                | Sarmiento Medina Loreley            | Done   |
-| US-17         | Ver recomendaciones según historial         | W12     | Personalización por historial   | Como usuario, quiero recomendaciones basadas en lo que he visto o leído recientemente          | 6                | Álvaro Leandro Bejarano Martínez    | Done   |
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status (To-do / In- Process / To- Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1">US-04</td>
+    <td colspan="1">Publicación de Reseñas y Opiniones</td>
+    <td colspan="1">W1</td>
+    <td colspan="1">Publicar reseñas</td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-05</td>
+    <td colspan="1">Calificación de Contenido</td>
+    <td colspan="1">W2</td>
+    <td colspan="1">Calificar contenido</td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero poder calificar películas, series y libros que he visto o leído, para que otros puedan ver qué tan bueno o malo es.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-09</td>
+    <td colspan="1">Consultar elenco de película/serie</td>
+    <td colspan="1">W3</td>
+    <td colspan="1">Consultar elenco</td>
+    <td colspan="1">Como usuario, quiero ver el listado de actores y sus roles en una película o serie.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo/td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-10</td>
+    <td colspan="1">Gestionar suscripciones a plataformas</td>
+    <td colspan="1">W4</td>
+    <td colspan="1">Gestionar suscripciones/td>
+    <td colspan="1">Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-11/td>
+    <td colspan="1">Marcar contenido como favorito</td>
+    <td colspan="1">W5</td>
+    <td colspan="1">Marcar favoritos</td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-12</td>
+    <td colspan="1">Listar mis favoritos</td>
+    <td colspan="1">W6</td>
+    <td colspan="1">Listar favoritos</td>
+    <td colspan="1">Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-13</td>
+    <td colspan="1">Feed de contenido trending/td>
+    <td colspan="1">W7</td>
+    <td colspan="1">Ver contenido trending</td>
+    <td colspan="1">Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-16</td>
+    <td colspan="1">Crear lista personalizada de contenido</td>
+    <td colspan="1">W7</td>
+    <td colspan="1">Crear lista personalizada</td>
+    <td colspan="1">Como usuario, quiero crear listas personalizadas de películas, series o libros.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+  </tr>
+   <tr>
+    <td colspan="1">US-24</td>
+    <td colspan="1">Visualizar Mis Listas de Contenido</td>
+    <td colspan="1">W8</td>
+    <td colspan="1">Ver mis listas</td>
+    <td colspan="1">Como usuario, quiero poder visualizar las listas que he creado, para acceder fácilmente al contenido que he organizado.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-25</td>
+    <td colspan="1">Ver Plataforma de Streaming del Contenido</td>
+    <td colspan="1">W9</td>
+    <td colspan="1">Mostrar plataformas de streaming</td>
+    <td colspan="1">Como usuario, quiero ver en qué plataforma de streaming está cada contenido multimedia, para saber dónde puedo verlo.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-26</td>
+    <td colspan="1">Eliminar Reseña</td>
+    <td colspan="1">W10</td>
+    <td colspan="1">Eliminar reseña</td>
+    <td colspan="1">Como usuario, quiero poder borrar las reseñas que realicé, para tener control total sobre mi contenido.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-27</td>
+    <td colspan="1">Editar Reseña</td>
+    <td colspan="1">W11</td>
+    <td colspan="1">Editar reseña</td>
+    <td colspan="1">Como usuario, quiero poder modificar las reseñas que realicé, para corregir errores o actualizar mis opiniones.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-28</td>
+    <td colspan="1">Editar Perfil de Usuario</td>
+    <td colspan="1">W12</td>
+    <td colspan="1">Editar perfil</td>
+    <td colspan="1">Como usuario, quiero poder editar mi perfil, incluyendo nombre, foto y descripción, para personalizar mi identidad en la plataforma.</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-29</td>
+    <td colspan="1">Agregar Contenido a Lista</td>
+    <td colspan="1">W13</td>
+    <td colspan="1">Agregar a lista</td>
+    <td colspan="1">Como usuario, quiero poder agregar contenido multimedia a mis listas personalizadas, para organizar lo que quiero ver o ya he visto.</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US-31</td>
+    <td colspan="1">Eliminar Lista Personalizada</td>
+    <td colspan="1">W14</td>
+    <td colspan="1">Eliminar lista</td>
+    <td colspan="1">Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
+
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 En esta sección se presentan los commits realizados en el repositorio del frontend durante el Sprint 3 del proyecto RAJE. Cada commit representa avances en funcionalidades clave, mejoras visuales, validaciones y organización del código.
