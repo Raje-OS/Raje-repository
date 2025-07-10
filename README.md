@@ -184,6 +184,15 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+     - [5.2.3. Sprint 4](#523-sprint-4)
+       - [5.2.3.1. Sprint Planning 4](#5231-sprint-planning-4)
+       - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+       - [5.2.3.3. Sprint Backlog 4](#5233-sprint-backlog-4)
+       - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+       - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -3980,6 +3989,207 @@ Para el deployment del Front Web usamos Vercel, dandole acceso a la cuenta de gi
 **FrontEnd Repository**
 
 ![Insights.png](Report_Assets/TB2/Insights.png)
+
+
+5.2.3. Sprint 4
+
+
+
+5.2.3.1. Sprint Planning 4
+
+
+
+5.2.3.2. Aspect Leaders and Collaborators
+
+
+
+5.2.3.3. Sprint Backlog 4
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 2</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status (To-do / In- Process / To- Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1">US-07</td>
+    <td colspan="1">Ver análisis de libros mejor valorados</td>
+    <td colspan="1">W1</td>
+    <td colspan="1">Ver análisis de libros</td>
+    <td colspan="1">Como dueño de librería, quiero poder ver un análisis de los libros mejor valorados para hacer promociones basadas en estas valoraciones.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-31</td>
+    <td colspan="1">Eliminar Lista Personalizada</td>
+    <td colspan="1">W2</td>
+    <td colspan="1">Eliminar lista personalizada</td>
+    <td colspan="1">Como usuario, quiero poder borrar mi lista creada, para eliminar contenido que ya no deseo organizar.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-32</td>
+    <td colspan="1">Eliminar Contenido de una Lista</td>
+    <td colspan="1">W3</td>
+    <td colspan="1">Eliminar contenido de lista</td>
+    <td colspan="1">Como usuario, quiero poder borrar contenido dentro de mi lista, para mantenerla organizada según mis preferencias.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-33</td>
+    <td colspan="1">Añadir contenido al catálogo</td>
+    <td colspan="1">W4</td>
+    <td colspan="1">Añadir contenido al catálogo</td>
+    <td colspan="1">Como plataforma de streaming, quiero poder añadir nuevas series o películas a mi catálogo para tener un mejor catálogo y ofrecer más opciones a los usuarios.</td>
+    <td colspan="1">6</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-34</td>
+    <td colspan="1">Quitar contenido del catálogo</td>
+    <td colspan="1">W5</td>
+    <td colspan="1">Quitar contenido del catálogo</td>
+    <td colspan="1">Como plataforma de streaming, quiero quitar series o películas de mi catálogo para mantener actualizada la oferta disponible para los usuarios.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-35</td>
+    <td colspan="1">Ver estadísticas del catálogo</td>
+    <td colspan="1">W6</td>
+    <td colspan="1">Ver estadísticas del catálogo</td>
+    <td colspan="1">Como plataforma de streaming, quiero ver estadísticas sobre mi catálogo para entender qué contenido es más popular y cómo se comportan los usuarios.</td>
+    <td colspan="1">6</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-36</td>
+    <td colspan="1">Ver puntuación promedio de contenido</td>
+    <td colspan="1">W7</td>
+    <td colspan="1">Ver puntuación promedio</td>
+    <td colspan="1">Como plataforma de streaming, quiero ver la puntuación promedio de cada serie y película de mi catálogo para evaluar su recepción por parte del público.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-37</td>
+    <td colspan="1">Añadir libros al catálogo</td>
+    <td colspan="1">W8</td>
+    <td colspan="1">Añadir libros al catálogo</td>
+    <td colspan="1">Como dueño de librería, quiero añadir libros a mi catálogo para ampliar la oferta disponible y facilitar que los usuarios descubran mis productos.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-38</td>
+    <td colspan="1">Eliminar libros del catálogo</td>
+    <td colspan="1">W9</td>
+    <td colspan="1">Eliminar libros del catálogo</td>
+    <td colspan="1">Como dueño de librería, quiero eliminar libros de mi catálogo para mantener actualizada la lista de libros disponibles.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-39</td>
+    <td colspan="1">Ver estadísticas del catálogo de librería</td>
+    <td colspan="1">W10</td>
+    <td colspan="1">Ver estadísticas de librería</td>
+    <td colspan="1">Como dueño de librería, quiero ver estadísticas sobre los libros de mi catálogo, para identificar cuáles son los más valorados o buscados por los usuarios.</td>
+    <td colspan="1">6</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-40</td>
+    <td colspan="1">Agregar ubicación de mi librería</td>
+    <td colspan="1">W11</td>
+    <td colspan="1">Agregar ubicación de librería</td>
+    <td colspan="1">Como dueño de librería, quiero poder agregar la ubicación de mi librería, para que los usuarios sepan dónde encontrar mis libros físicamente.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-41</td>
+    <td colspan="1">Eliminar ubicación de mi librería</td>
+    <td colspan="1">W12</td>
+    <td colspan="1">Eliminar ubicación de librería</td>
+    <td colspan="1">Como dueño de librería, quiero eliminar la ubicación registrada de mi librería, para que deje de mostrarse públicamente en mi perfil si ya no está activa o disponible.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-42</td>
+    <td colspan="1">Ver librerías del contenido</td>
+    <td colspan="1">W13</td>
+    <td colspan="1">Ver librerías del contenido</td>
+    <td colspan="1">Como usuario, quiero ver en qué librería está cada contenido, para saber dónde puedo comprarlo.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-43</td>
+    <td colspan="1">Ver ubicaciones de las librerías</td>
+    <td colspan="1">W14</td>
+    <td colspan="1">Ver ubicaciones de librerías</td>
+    <td colspan="1">Como usuario, quiero poder ver las ubicaciones de mis librerías para saber cómo encontrarlas.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+
+5.2.3.4. Development Evidence for Sprint Review
+
+
+
+5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+
+5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+5.2.3.8. Team Collaboration Insights during Sprint
+
+
+
+
+
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
