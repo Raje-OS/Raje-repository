@@ -4008,7 +4008,7 @@ Para el deployment del Front Web usamos Vercel, dandole acceso a la cuenta de gi
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
-    <td colspan="7"><strong>Sprint 2</strong></td>
+    <td colspan="7"><strong>Sprint 4</strong></td>
   </tr>
   <tr>
     <td colspan="2"><strong>User Story</strong></td>
