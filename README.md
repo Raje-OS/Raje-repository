@@ -3433,11 +3433,11 @@ En este apartado se describe la planificación del segundo sprint del proyecto, 
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 | Integrante del equipo              | GitHub                | Recomendaciones Personalizadas | Análisis de Libros | Multimedia (Trailers/Portadas) | “Visto” / Historial | Recomendaciones según historial |
-|-----------------------------------|------------------------|-------------------------------|--------------------|-------------------------------|----------------------|-------------------------------|
-| Wilder Gonzalo       | Gonzalo1905      | C                             | L                  |                               |                      |                               |
-| Cabanillas Meza Jose Mateo        | marckszz               | C                             |                    |                               | L                    |                               |
-| Sarmiento Medina Loreley          | loreleysarmiento       | C                             |                    |                               | C                    | L                             |
-| Alvaro Leandro Bejarano Martínez | Albro310306            | C                             |                    |                               |                      | C                             |
+|-----------------------------------|------------------------|-------------------------------|--------------------|--------------------------------|---------------------|---------------------------------|
+| Wilder Gonzalo       | Gonzalo1905      | C                             | L                  | C                              | C                   | C                               |
+| Cabanillas Meza Jose Mateo        | marckszz               | C                             | C                  | C                              | L                   | C                               |
+| Sarmiento Medina Loreley          | loreleysarmiento       | C                             | C                  | C                              | C                   | L                               |
+| Alvaro Leandro Bejarano Martínez | Albro310306            | C                             | C                  | C                              | C                   | C                               |
 
 ### 5.2.2.3. Sprint Backlog 2
 En este apartado se describe el Sprint Backlog correspondiente al segundo sprint del proyecto, incluyendo el identificador, la historia de usuario, las tareas asignadas, su descripción, estimación de tiempo, responsable y estado. A continuación, se presenta el desglose de las actividades que conformaron el Sprint Backlog 2. Esta tabla refleja las historias de usuario, tareas y estimaciones que orientaron el trabajo del equipo durante este sprint.
@@ -4042,11 +4042,11 @@ En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la c
 ##### 5.2.4.2. Aspect Leaders and Collaborators
 
 | Team Member (Last Name, First Name)     | GitHub Username     | Personalized Lists (L/C) | Catalog Management (L/C) | Catalog Statistics (L/C) | Store Locations (L/C) |
-|-----------------------------------------|----------------------|---------------------------|---------------------------|---------------------------|------------------------|
-| Cabanillas Meza, Jose Mateo            | marckszz         | C                         | L                         | C                         | L                      |
-| Sarmiento Medina, Loreley              | loreleySarmiento     | L                         | -                         | L                         | C                      |
-| Aliaga Urbina, Wilder Gonzalo          | Gonzalo1905          | L                         | -                         | C                         | L                      |
-| Bejarano Martínez, Alvaro Leandro      | Albro310306         | -                         | C                         | -                         | C                      |
+|-----------------------------------------|----------------------|--------------------------|--------------------------|--------------------------|------------------------|
+| Cabanillas Meza, Jose Mateo            | marckszz         | C                        | L                        | C                        | L                      |
+| Sarmiento Medina, Loreley              | loreleySarmiento     | L                        | C                        | L                        | C                      |
+| Aliaga Urbina, Wilder Gonzalo          | Gonzalo1905          | L                        | C                        | C                        | L                      |
+| Bejarano Martínez, Alvaro Leandro      | Albro310306         | C                        | C                        | C                        | C                      |
 
 
 ##### 5.2.4.3. Sprint Backlog 4
