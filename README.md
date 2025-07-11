@@ -1704,28 +1704,10 @@ Entonces se abre la sección completa con más recomendaciones populares
   </td>
   <td>EPIC-4</td>
 </tr>
-<tr>
-  <td>US-14</td>
-  <td>Ver trailers y portadas</td>
-  <td>Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie dentro de la ficha de contenido, para tener un adelanto visual antes de consumirla.</td>
-  <td>
-Escenario 1: Mostrar tráiler
-    Dado que estoy en la ficha de una película
-    Cuando accedo a la sección “Multimedia”
-    Entonces se muestra el tráiler en un reproductor de video embebido
 
-Escenario 2: Imagen de portada cargada correctamente
-Dado que consulto la página de una serie
-Cuando accedo a la sección de contenido
-Entonces aparece la imagen oficial de portada en alta resolución
 
-Escenario 3: Multimedia no disponible
-Dado que el contenido no tiene tráiler cargado
-Cuando accedo a la sección “Multimedia”
-Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”
-  </td>
-  <td>EPIC-4</td>
-</tr>
+
+
 <tr>
   <td>US-15</td>
   <td>Marcar contenido como “Visto”</td>
