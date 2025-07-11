@@ -93,7 +93,8 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 
 - **URL del repositorio del informe del proyecto:**  
   [https://github.com/Raje-OS/Raje-repository](https://github.com/Raje-OS/Raje-repository)
-
+- 
+![repositoryRAJEinsights.png](Report_Assets/TF/repositoryRAJEinsights.png)
 
 - **URL del repositorio del landing page del proyecto:**  
   [https://github.com/Raje-OS/RAJELandingPage](https://github.com/Raje-OS/RAJELandingPage)
