@@ -22,11 +22,10 @@
 
 Bejarano Martínez Alvaro Leandro U202311640<br>
 Cabanillas Meza Jose Mateo U202311458<br>
-Verona Flores Italo Sebastian U20221E617<br>
 Aliaga Urbina Wilder Gonzalo U202222001<br>
 Sarmiento Medina Loreley U202310005<br>
 
-# *Abril de 2025*
+# *Julio de 2025*
 
 </div>
 
@@ -77,12 +76,39 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
     </tr>
     <tr>
       <td>TF</td>
-      <td></td>
-      <td></td>
+      <td>11/07/2025</td>
+      <td>- Bejarano Martínez, Álvaro Leandro
+- Cabanillas Meza, José Mateo
+-Aliaga Urbina Wilder Gonzalo
+- Sarmiento Medina, Loreley</td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
+## Project Report Collaboration Insights
+- **URL de la organización del proyecto:**  
+  [https://github.com/Raje-OS](https://github.com/Raje-OS)
+
+
+- **URL del repositorio del informe del proyecto:**  
+  [https://github.com/Raje-OS/Raje-repository](https://github.com/Raje-OS/Raje-repository)
+
+
+- **URL del repositorio del landing page del proyecto:**  
+  [https://github.com/Raje-OS/RAJELandingPage](https://github.com/Raje-OS/RAJELandingPage)
+
+  
+
+- **URL del repositorio del frontend del proyecto:**  
+  [https://github.com/Raje-OS/FrontEnd](https://github.com/Raje-OS/FrontEnd)
+
+![frontopeninsights.png](Report_Assets/TF/frontopeninsights.png)
+
+- **URL del repositorio del backend del proyecto:**  
+  [https://github.com/Raje-OS/Backend](https://github.com/Raje-OS/Backend)
+
+
 
 ## Contents
 
