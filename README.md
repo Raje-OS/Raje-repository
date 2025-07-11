@@ -4369,7 +4369,7 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 
 
 **Frontend**
-
+![frontopeninsights.png](Report_Assets/TF/frontopeninsights.png)
 
 **Backend**
 
