@@ -4119,6 +4119,7 @@ Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y 
 Para la gestión y el control de estas tareas, estamos utilizando Trello.
 
 Enlace:
+<a href="https://trello.com/b/1b0c5d2a/raje-os" target="_blank">https://trello.com/b/1b0c5d2a/raje-os</a>
 
 <table>
   <tr>
@@ -4502,9 +4503,12 @@ Anthony Chávez, fanático del contenido multimedia y con 18 años, disfruta ver
 
 ## 5.4. Video About-the-Product.
 
-
-
-
+| **Sección**                          | **Descripción**                                                                                                                                                                                                           |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de RAJE y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma. |
+| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                      |
+| **Cuadro de Video Representativo**   | <img src="resources/chapter-5/About-the-product-cap.png" alt="Descripción de la imagen" width="300" height="200">                                                                                                         |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]( ) <br/> **Youtube**:[Link de acceso]( )                                                                                                                                           |
 
 
 
