@@ -3991,19 +3991,31 @@ Para el deployment del Front Web usamos Vercel, dandole acceso a la cuenta de gi
 ![Insights.png](Report_Assets/TB2/Insights.png)
 
 
-5.2.4. Sprint 4
+### 5.2.4. Sprint 4
+
+En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la culminación del desarrollo de la plataforma, implementando nuevas funcionalidades y mejoras en la experiencia de usuario.
+
+### 5.2.4.1. Sprint Planning 4
 
 
 
-5.2.4.1. Sprint Planning 4
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name)     | GitHub Username     | Personalized Lists (L/C) | Catalog Management (L/C) | Catalog Statistics (L/C) | Store Locations (L/C) |
+|-----------------------------------------|----------------------|---------------------------|---------------------------|---------------------------|------------------------|
+| Cabanillas Meza, Jose Mateo            | josemateo-cm         | C                         | L                         | C                         | L                      |
+| Sarmiento Medina, Loreley              | loreleySarmiento     | L                         | -                         | L                         | C                      |
+| Aliaga Urbina, Wilder Gonzalo          | Gonzalo1905          | L                         | -                         | C                         | L                      |
+| Bejarano Martínez, Alvaro Leandro      | AlvaroBM2003         | -                         | C                         | -                         | C                      |
 
 
+##### 5.2.4.3. Sprint Backlog 4
 
-5.2.4.2. Aspect Leaders and Collaborators
+Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma RAJE. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
 
+Para la gestión y el control de estas tareas, estamos utilizando Trello.
 
-
-5.2.4.3. Sprint Backlog 4
+Enlace:
 
 <table>
   <tr>
@@ -4167,23 +4179,36 @@ Para el deployment del Front Web usamos Vercel, dandole acceso a la cuenta de gi
 </table>
 
 
-5.2.4.4. Development Evidence for Sprint Review
+##### 5.2.4.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 4.
+
+**Commits realizados en el repositorio de frontend durante el sprint 4:**
+
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
 
 
-5.2.4.5. Execution Evidence for Sprint Review
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
 
 
-5.2.4.6. Services Documentation Evidence for Sprint Review
+##### 5.2.4.5. Execution Evidence for Sprint Review
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 
 
-5.2.4.7. Software Deployment Evidence for Sprint Review
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 
 
-5.2.4.8. Team Collaboration Insights during Sprint
+##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
 
