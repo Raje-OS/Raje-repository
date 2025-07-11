@@ -3077,6 +3077,54 @@ Sarmiento Medina Loreley
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
+<p>Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX) para la plataforma RAJE. Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint 1.</p>
+
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>User Account & Session<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>User Interaction (Ratings & Reviews)<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Landing Page (UI/UX)<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Cabanillas Meza, Jose Mateo</td>
+    <td>marckszz</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Verona Flores, Italo Sebastián</td>
+    <td>atomdragon1318</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2">Aliaga Urbina, Wilder Gonzalo</td>
+    <td>Gonzalo1905</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sarmiento Medina, Loreley</td>
+    <td>loreleySarmiento</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Bejarano Martínez, Alvaro Leandro</td>
+    <td>Albro310306</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+
+
 ### 5.2.1.3. Sprint Backlog 1
 En este ítem se describe el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo el ID, la user story, las tareas/work-items, la descripción, la estimación, la asignación de responsabilidades y el estado.
 
@@ -3683,6 +3731,16 @@ En este sprint se planteó el desarrollo de la primera versión del backend de l
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX) para la plataforma RAJE. Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint 3.
+
+| Team Member (Last Name, First Name)    | GitHub Username         | Reviews & Ratings (L/C) | Cast & Profiles (L/C) | Favorites & Lists (L/C) | Subscriptions & Platforms (L/C) | Profile Management (L/C) |
+|----------------------------------------|--------------------------|--------------------------|------------------------|--------------------------|----------------------------------|---------------------------|
+| Cabanillas Meza, Jose Mateo           | marckszz             | L                        | C                      | C                        | C                                | C                         |
+| Sarmiento Medina, Loreley             | loreleySarmiento         | C                        | C                      | L                        | C                                | L                         |
+| Aliaga Urbina, Wilder Gonzalo         | Gonzalo1905              | C                        | L                      | L                        | C                                | C                         |
+| Bejarano Martínez, Alvaro Leandro     | Albro310306             | C                        | C                      | C                        | L                                | C                         |
+
+
 #### 5.2.3.3. Sprint Backlog 3.
 
 <table>
@@ -4003,10 +4061,10 @@ En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la c
 
 | Team Member (Last Name, First Name)     | GitHub Username     | Personalized Lists (L/C) | Catalog Management (L/C) | Catalog Statistics (L/C) | Store Locations (L/C) |
 |-----------------------------------------|----------------------|---------------------------|---------------------------|---------------------------|------------------------|
-| Cabanillas Meza, Jose Mateo            | josemateo-cm         | C                         | L                         | C                         | L                      |
+| Cabanillas Meza, Jose Mateo            | marckszz         | C                         | L                         | C                         | L                      |
 | Sarmiento Medina, Loreley              | loreleySarmiento     | L                         | -                         | L                         | C                      |
 | Aliaga Urbina, Wilder Gonzalo          | Gonzalo1905          | L                         | -                         | C                         | L                      |
-| Bejarano Martínez, Alvaro Leandro      | AlvaroBM2003         | -                         | C                         | -                         | C                      |
+| Bejarano Martínez, Alvaro Leandro      | Albro310306         | -                         | C                         | -                         | C                      |
 
 
 ##### 5.2.4.3. Sprint Backlog 4
@@ -4210,9 +4268,13 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
+**Landing Page**
 
 
+**Frontend**
 
+
+**Backend**
 
 
 
