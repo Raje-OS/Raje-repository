@@ -4290,6 +4290,58 @@ En esta sección se presentan los commits realizados en el repositorio de backen
 
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
+| Repository     | Branch | Commit Id | Commit Message                          | Commit Message Body                    | Committed on (Date) |
+|----------------|--------|-----------|-----------------------------------------|----------------------------------------|----------------------|
+| RAJE-Frontend  | main   | 74bb250   | json update fechaNacimiento cards       | json update fechaNacimiento cards      | Jul 11, 2025         |
+| RAJE-Frontend  | main   | 2c21a7e   | json update authors                     | json update authors                    | Jul 11, 2025         |
+| RAJE-Frontend  | main   | 334b776   | json update directors                   | json update directors                  | Jul 10, 2025         |
+| RAJE-Frontend  | main   | bbd1b47   | fix platform statistics and dashboard appearances | fix platform statistics and dashboard appearances | Jul 10, 2025 |
+| RAJE-Frontend  | main   | 880f78c   | fix platform statistics and dashboard   | fix platform statistics and dashboard  | Jul 10, 2025         |
+| RAJE-Frontend  | main   | 94631ad   | fix padding top favorites               | fix padding top favorites              | Jul 9, 2025          |
+| RAJE-Frontend  | main   | 746bf70   | fix padding top tendencies              | fix padding top tendencies             | Jul 9, 2025          |
+| RAJE-Frontend  | main   | c56d481   | fix tendencies                          | fix tendencies                          | Jul 9, 2025          |
+| RAJE-Frontend  | main   | 570087c   | fix db.json                             | fix db.json                             | Jul 9, 2025          |
+| RAJE-Frontend  | main   | 5e30d9f   | correct json                            | correct json                            | Jul 9, 2025          |
+| RAJE-Frontend  | main   | ea3f59f   | Libreria json                           | Libreria json                           | Jul 9, 2025          |
+| RAJE-Frontend  | main   | f355eb9   | Merge remote-tracking branch 'origin/main' | Merge remote-tracking branch 'origin/main' | Jul 9, 2025      |
+| RAJE-Frontend  | main   | 0d5d139   | Libreria json                           | Libreria json                           | Jul 9, 2025          |
+| RAJE-Frontend  | main   | 56048aa   | Update content-mixed.component.ts       | Update content-mixed.component.ts       | Jul 9, 2025         |
+| RAJE-Frontend  | main   | 16150a3   | Merge pull request #6 from Raje-OS/library | Merge pull request #6 from Raje-OS/library | Jul 8, 2025     |
+| RAJE-Frontend  | main   | 564b7b9   | Historial                                | Historial                                | Jul 8, 2025         |
+| RAJE-Frontend  | main   | 8da28bf   | Merge pull request #5 from Raje-OS/library | Merge pull request #5 from Raje-OS/library | Jul 7, 2025     |
+| RAJE-Frontend  | main   | b32421e   | Library User                             | Library User                             | Jul 7, 2025         |
+| RAJE-Frontend  | main   | 7f20c21   | Library User                             | Library User                             | Jul 7, 2025         |
+| RAJE-Frontend  | main   | 588699b   | Merge pull request #4 from Raje-OS/library | Merge pull request #4 from Raje-OS/library | Jul 7, 2025     |
+| RAJE-Frontend  | main   | eb7610a   | Library Entity                           | Library Entity                           | Jul 7, 2025         |
+| RAJE-Frontend  | main   | 4e0ad92   | ADD PLATFORM FUNCTIONSssss               | ADD PLATFORM FUNCTIONSssss               | Jul 6, 2025         |
+| RAJE-Frontend  | main   | 7718fb3   | ADD PLATFORM FUNCTIONSsss                | ADD PLATFORM FUNCTIONSsss                | Jul 6, 2025         |
+| RAJE-Frontend  | main   | 7f1595b   | ADD PLATFORM FUNCTIONSsss                | ADD PLATFORM FUNCTIONSsss                | Jul 6, 2025         |
+| RAJE-Frontend  | main   | 20710b6   | ADD PLATFORM FUNCTIONS                   | ADD PLATFORM FUNCTIONS                   | Jul 6, 2025         |
+| RAJE-Frontend  | main   | fd3f839   | fix stream platforms dashboard           | fix stream platforms dashboard           | Jul 6, 2025         |
+| RAJE-Frontend  | main   | 85da7d9   | fix stream platforms pages               | fix stream platforms pages               | Jul 5, 2025         |
+| RAJE-Frontend  | main   | 7aa617f   | fix stream platforms pages               | fix stream platforms pages               | Jul 5, 2025         |
+| RAJE-Frontend  | main   | f630669   | add stream platforms pages               | add stream platforms pages               | Jul 5, 2025         |
+| RAJE-Frontend  | main   | 667e376   | Update user-detail.entity.ts             | Update user-detail.entity.ts             | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 97d0be1   | Update user-detail.entity.ts             | Update user-detail.entity.ts             | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 41fc731   | Update edit-profile.component.ts         | Update edit-profile.component.ts         | Jun 22, 2025        |
+| RAJE-Frontend  | main   | cb61477   | Update edit-profile.component.css        | Update edit-profile.component.css        | Jun 22, 2025        |
+| RAJE-Frontend  | main   | f6c1f26   | register tests                           | register tests                           | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 7915e89   | favoritos component ts                   | favoritos component ts                   | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 16c0d8b   | favoritos component                      | favoritos component                      | Jun 22, 2025        |
+| RAJE-Frontend  | main   | fb2242e   | Registrationvalidation                   | Registrationvalidation                   | Jun 22, 2025        |
+| RAJE-Frontend  | main   | d4a6544   | Registrationjson                         | Registrationjson                         | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 24da214   | Registration                             | Registration                             | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 57a0a08   | FavoritesRoutess                         | FavoritesRoutess                         | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 84dd8e2   | FavoritesRoute                           | FavoritesRoute                           | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 7a3a178   | Merge pull request #3 from Raje-OS/Favorites | Merge pull request #3 from Raje-OS/Favorites | Jun 22, 2025    |
+| RAJE-Frontend  | main   | 2039575   | Favorites                                | Favorites                                | Jun 22, 2025        |
+| RAJE-Frontend  | main   | 3286971   | Merge pull request #2 from Raje-OS/Tendencies | Merge pull request #2 from Raje-OS/Tendencies | Jun 19, 2025    |
+| RAJE-Frontend  | main   | dc1ccd5   | Merge branch 'main' into Tendencies      | Merge branch 'main' into Tendencies      | Jun 19, 2025        |
+| RAJE-Frontend  | main   | abea30a   | Tendencies and top Update                | Tendencies and top Update                | Jun 19, 2025        |
+| RAJE-Frontend  | main   | 7a9393e   | Tendencies and top Update                | Tendencies and top Update                | Jun 19, 2025        |
+| RAJE-Frontend  | main   | 9fa8b0a   | Merge pull request #1 from Raje-OS/reviews | Merge pull request #1 from Raje-OS/reviews | Jun 19, 2025     |
+| RAJE-Frontend  | main   | 7388bb2   | Review update                            | Review update                            | Jun 19, 2025        |
+| RAJE-Frontend  | main   | e9bc606   | first commit                             | first commit                             | Jun 18, 2025        |
 
 
 **Commits realizados en el repositorio de backend durante el sprint 4:**
