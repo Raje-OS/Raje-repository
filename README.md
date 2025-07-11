@@ -4362,6 +4362,166 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">Sarmiento Medina Loreley</td>
     <td colspan="1">Done</td>
 </tr>
+  <tr>
+    <td colspan="1">TS-01	</td>
+    <td colspan="1">Crear nuevo autor</td>
+    <td colspan="1">W15</td>
+    <td colspan="1">Crear a un nuevo actor</td>
+    <td colspan="1">Como desarrollador quiero crear un nuevo author para registrar su información en el sistema	</td>
+    <td colspan="1">6</td>
+    <td colspan="1">Cabannillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+  <tr>
+    <td colspan="1">TS-02	</td>
+    <td colspan="1">Obtener autor por ID	</td>
+    <td colspan="1">W16</td>
+    <td colspan="1">Obtener autor por ID	</td>
+    <td colspan="1">Como desarrollador quiero obtener el author por id para mostrar su información completa	</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+  <tr>
+    <td colspan="1">TS-03</td>
+    <td colspan="1">Remover ubicación</td>
+    <td colspan="1">W17</td>
+    <td colspan="1">Remover ubicación</td>
+    <td colspan="1">Como desarrollador quiero remover la ubicación de una librería para mantener actualizada su información</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-04</td>
+    <td colspan="1">Añadir ubicación</td>
+    <td colspan="1">W18</td>
+    <td colspan="1">Añadir ubicación</td>
+    <td colspan="1">Como desarrollador quiero añadir una ubicación de una librería para registrar una nueva sede</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-05</td>
+    <td colspan="1">Buscar librería por email</td>
+    <td colspan="1">W19</td>
+    <td colspan="1">Buscar librería por email</td>
+    <td colspan="1">Como desarrollador quiero obtener una librería por email para validar su existencia</td>
+    <td colspan="1">6</td>
+    <td colspan="1">Cabannillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-06</td>
+    <td colspan="1">Buscar librería por ID</td>
+    <td colspan="1">W20</td>
+    <td colspan="1">Buscar librería por ID</td>
+    <td colspan="1">Como desarrollador quiero obtener una librería por id para acceder a todos sus detalles</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-07</td>
+    <td colspan="1">Registrar director</td>
+    <td colspan="1">W21</td>
+    <td colspan="1">Registrar director</td>
+    <td colspan="1">Como desarrollador quiero crear un director para registrarlo como responsable de contenido</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-08</td>
+    <td colspan="1">Obtener director por ID</td>
+    <td colspan="1">W22</td>
+    <td colspan="1">Obtener director por ID</td>
+    <td colspan="1">Como desarrollador quiero obterner un director por id para mostrar su perfil</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-09</td>
+    <td colspan="1">Listar películas</td>
+    <td colspan="1">W23</td>
+    <td colspan="1">Listar películas</td>
+    <td colspan="1">Como desarrollador quiero obtener todas las películas para mostrar el catálogo completo</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Cabannillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-10</td>
+    <td colspan="1">Buscar película por ID</td>
+    <td colspan="1">W24</td>
+    <td colspan="1">Buscar película por ID</td>
+    <td colspan="1">Como desarrollador quiero obtener una película por id para mostrar su información detallada</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-11</td>
+    <td colspan="1">Listar plataformas</td>
+    <td colspan="1">W25</td>
+    <td colspan="1">Listar plataformas</td>
+    <td colspan="1">Como desarrollador quiero obterner todas las plataformas para mostrar servicios disponibles</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-12</td>
+    <td colspan="1">Buscar plataforma por ID</td>
+    <td colspan="1">W26</td>
+    <td colspan="1">Buscar plataforma por ID</td>
+    <td colspan="1">Como desarrollador quiero obtener una plataforma por id para mostrar sus detalles</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-13</td>
+    <td colspan="1">Buscar plataformas por ID</td>
+    <td colspan="1">W27</td>
+    <td colspan="1">Buscar plataformas por ID</td>
+    <td colspan="1">Como desarrollador quiero obterner varias plataformas por varios id para consultar múltiples resultados</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Cabannillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-14</td>
+    <td colspan="1">Buscar actores por ID</td>
+    <td colspan="1">W28</td>
+    <td colspan="1">Buscar actores por ID</td>
+    <td colspan="1">Como desarrollador quiero obtener actores por multiples ids para mostrar perfiles simultáneamente</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-15</td>
+    <td colspan="1">Registrar actor</td>
+    <td colspan="1">W29</td>
+    <td colspan="1">Registrar actor</td>
+    <td colspan="1">Como desarrollador quiero crear un nuevco actor para incluirlo en el sistema</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-16</td>
+    <td colspan="1">Buscar actor por ID</td>
+    <td colspan="1">W30</td>
+    <td colspan="1">Buscar actor por ID</td>
+    <td colspan="1">Como desarrollador quiero obtener un actor por id para mostrar su información completa</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
 </table>
 
 
