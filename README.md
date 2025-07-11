@@ -2459,14 +2459,23 @@ Escala de Story Points (Fibonacci):
 | 41    | US-41         | Eliminar ubicación de la librería | Como dueño de librería, quiero eliminar la ubicación registrada de mi librería para que deje de mostrarse públicamente en caso ya no esté activa.                | 3            |
 | 42    | US-42         | Ver Librerías del Contenido      | Como usuario, quiero ver en qué librería está cada contenido, para saber dónde puedo comprarlo.                                                                     | 3 |
 | 43    | US-43         | Ver Ubicaciones de las Librerías | Como usuario, quiero poder ver las ubicaciones de mis librerías para saber cómo encontrarlas.                                                                        | 3 |
-| 44    | TS-01         | Diseño del Esquema Relacional en MySQL      | Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos. | 5            |
-| 45    | TS-02         | Implementación de búsqueda por contenido   | Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend. | 5            |
-| 46    | TS-03         | Mockup funcional de perfil de usuario   | Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto. | 3            |
-| 47    | TS-04         | Implementar relaciones N:M con tablas intermedias     | Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL. | 5            |
-| 48    | TS-05         | Sistema de ordenamiento y filtros en recomendaciones | Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones. | 5            |
-| 44    | TS-06         | Componente frontend de 'Tendencias'            | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 3            |
-| 50    | TS-07         | Registro de actividad del usuario         | Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.| 5            |
-| 51    | TS-08         | Agregar índices en campos clave de MySQL    | Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento. | 5           |
+| 44    | TS-01         | Crear un nuevo autor                     | Como desarrollador quiero crear un nuevo author para registrar su información en el sistema                     | 3            |
+| 45    | TS-02         | Obtener autor por ID                     | Como desarrollador quiero obtener el author por id para mostrar su información completa                         | 2            |
+| 46    | TS-03         | Remover ubicación de una librería        | Como desarrollador quiero remover la ubicación de una librería para mantener actualizada su información         | 3            |
+| 47    | TS-04         | Añadir ubicación a una librería          | Como desarrollador quiero añadir una ubicación de una librería para registrar una nueva sede                    | 3            |
+| 48    | TS-05         | Obtener librería por email               | Como desarrollador quiero obtener una librería por email para validar su existencia                             | 2            |
+| 49    | TS-06         | Obtener librería por ID                  | Como desarrollador quiero obtener una librería por id para acceder a todos sus detalles                         | 2            |
+| 50    | TS-07         | Crear un nuevo director                  | Como desarrollador quiero crear un director para registrarlo como responsable de contenido                      | 3            |
+| 51    | TS-08         | Obtener director por ID                  | Como desarrollador quiero obterner un director por id para mostrar su perfil                                    | 2            |
+| 52    | TS-09         | Obtener todas las películas              | Como desarrollador quiero obtener todas las películas para mostrar el catálogo completo                         | 3            |
+| 53    | TS-10         | Obtener película por ID                  | Como desarrollador quiero obtener una película por id para mostrar su información detallada                     | 2            |
+| 54    | TS-11         | Obtener todas las plataformas            | Como desarrollador quiero obterner todas las plataformas para mostrar servicios disponibles                     | 2            |
+| 55    | TS-12         | Obtener plataforma por ID                | Como desarrollador quiero obtener una plataforma por id para mostrar sus detalles                               | 2            |
+| 56    | TS-13         | Obtener varias plataformas por ID        | Como desarrollador quiero obterner varias plataformas por varios id para consultar múltiples resultados         | 3            |
+| 57    | TS-14         | Obtener actores por múltiples IDs        | Como desarrollador quiero obtener actores por multiples ids para mostrar perfiles simultáneamente               | 3            |
+| 58    | TS-15         | Crear un nuevo actor                     | Como desarrollador quiero crear un nuevco actor para incluirlo en el sistema                                    | 3            |
+| 59    | TS-16         | Obtener actor por ID                     | Como desarrollador quiero obtener un actor por id para mostrar su información completa                          | 2            |
+
 
 
 
