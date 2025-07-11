@@ -2229,117 +2229,164 @@ Dado que le doy click a la foto de una libreria
     <tbody>
         <tr>
             <td>TS-01</td>
-            <td>Diseño del Esquema Relacional en MySQL</td>
-            <td>Como desarrollador, quiero diseñar el esquema relacional para MySQL basado en el modelo entidad-relación de RAJE, para estructurar correctamente los datos.</td>
+            <td>Crear un nuevo autor/td>
+            <td>Como desarrollador quiero crear un nuevo author para registrar su información en el sistema</td>
             <td>
-Escenario 1:
-Dado que se ha definido el modelo E/R
-Cuando se escriben los scripts de creación
-Entonces el esquema debe reflejar todas las entidades y relaciones normalizadas.
-Escenario 2:
-Dado que se crean claves foráneas
-Cuando se realizan consultas JOIN
-Entonces deben retornar resultados consistentes.
+Escenario 1: Dado que tengo el nombre y la biografía del autor, cuando realizo la solicitud POST /api/v1/authors, entonces el autor se registra correctamente.
+Escenario 2: Dado que omito el campo nombre, cuando realizo la solicitud, entonces recibo un error 400 de validación.
 </td>
-<td>EP08</td>
+<td>EP04</td>
 </tr>
 <tr>
 <td>TS-02</td>
-<td>Implementación de búsqueda por contenido/td>
-<td>Como desarrollador, quiero permitir que los usuarios busquen contenido por título, género o palabra clave desde el frontend y backend.</td>
+<td>Obtener autor por ID</td>
+<td>Como desarrollador quiero obtener el author por id para mostrar su información completa</td>
 <td>
-Escenario 1:
-GET /api/contenido?search=acción devuelve coincidencias por título o género.
-Escenario 2:
-Si no hay resultados, se retorna un array vacío.
-Escenario 3:
-La búsqueda es insensible a mayúsculas/minúsculas.
-</td>
-<td>EP04</td>
-</tr>
-<tr>
-<td>TS-03</td>
-<td>Mockup funcional de perfil de usuario</td>
-<td>Como desarrollador frontend, quiero construir el componente del perfil de usuario que muestre su nombre, foto, reseñas, calificaciones y lista de contenido visto.</td>
-<td>
-Escenario 1:
-Se visualiza correctamente el perfil cargando desde una API.
-Escenario 2:
-El componente tiene diseño responsivo.
-Escenario 3:
-Las reseñas se muestran ordenadas cronológicamente.
-</td>
-<td>EP02</td>
-</tr>
-<tr>
-<td>TS-04</td>
-<td>Implementar relaciones N:M con tablas intermedias</td>
-<td>Como desarrollador, quiero crear correctamente las relaciones muchos a muchos (por ejemplo, contenido-género o usuario-plataforma) usando tablas intermedias en MySQL.</td>
-<td>
-Escenario 1:
-Existen tablas intermedias con claves foráneas y claves primarias compuestas.
-Escenario 2:
-Las consultas muestran correctamente los géneros asociados a un contenido y viceversa.
-</td>
-<td>EP08</td>
-</tr>
-<tr>
-<td>TS-05</td>
-<td>Sistema de ordenamiento y filtros en recomendaciones	</td>
-<td>Como desarrollador, quiero implementar filtros por género, tipo de contenido y ordenamiento por calificación o popularidad en el sistema de recomendaciones.</td>
-<td>
-Escenario 1:
-El usuario puede filtrar por "solo series", "drama", etc.
-Escenario 2:
-Puede ordenar por calificación descendente.
-Escenario 3:
-La URL incluye parámetros como ?genero=drama&orden=calificacion.
-</td>
-<td>EP04</td>
-</tr>
-<tr>
-<td>TS-06</td>
-<td>Componente frontend de "Tendencias"</td>
-<td>Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales.	</td>
-<td>
-Escenario 1:
-Se cargan los títulos más populares desde una API.
-Escenario 2:
-Incluye imagen de portada, nombre, calificación y tipo.
-Escenario 3:
-Es visible tanto en desktop como móvil.
-</td>
-<td>EP04</td>
-</tr>
-<tr>
-<td>TS-07</td>
-<td>
-Registro de actividad del usuario
-</td>
-<td>
-Como desarrollador, quiero registrar las acciones clave de los usuarios (reseñas, calificaciones, favoritos) para análisis futuros y mostrar su historial.
-</td>
-<td>
-Escenario 1:
-La tabla actividad_usuario almacena el tipo, fecha y entidad relacionada.
-Escenario 2:
-Se puede consultar el historial desde /api/usuario/{id}/actividad.
-</td>
-<td>EP01</td>
-<tr>
-  <td>TS-8</td>
-  <td>Agregar índices en campos clave de MySQL</td>
-  <td>Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento.</td>
-  <td>
+Escenario 1: Dado que el ID del autor existe, cuando realizo una solicitud GET /api/v1/authors/{id}, entonces obtengo los datos del autor.
 
-Escenario 1:
-Los tiempos de consulta se reducen en más del 50%.
-Escenario 2:
-Las consultas con WHERE y JOIN son óptimas.
-Escenario 3:
-No hay duplicidad de índices innecesarios.
+Escenario 2: Dado que el ID no existe, cuando realizo la solicitud, entonces recibo un error 404.
+</td>
+<td>EP04</td>
+</tr>
+<tr>
+  <td>TS-03</td>
+  <td>Remover ubicación de una librería</td>
+  <td>Como desarrollador quiero remover la ubicación de una librería para mantener actualizada su información</td>
+  <td>
+    Escenario 1: Dado que envío un ID válido de librería y una ubicación existente, cuando realizo la solicitud PUT /api/v1/libraries/{id}/remove-location, entonces la ubicación es eliminada correctamente.<br>
+    Escenario 2: Dado que la ubicación no existe, cuando intento removerla, entonces el sistema responde con error 404.
   </td>
-  <td>EPIC-8</td>
+  <td>EP08</td>
+</tr>
+<tr>
+  <td>TS-04</td>
+  <td>Añadir ubicación a una librería</td>
+  <td>Como desarrollador quiero añadir una ubicación de una librería para registrar una nueva sede</td>
+  <td>
+    Escenario 1: Dado que envío una dirección, latitud y longitud válidas, cuando realizo la solicitud PUT /api/v1/libraries/{id}/add-location, entonces la ubicación se registra correctamente.<br>
+    Escenario 2: Dado que falta un campo obligatorio, cuando realizo la solicitud, entonces el sistema responde con error 400.
+  </td>
+  <td>EP08</td>
+</tr>
+<tr>
+  <td>TS-05</td>
+  <td>Obtener librería por email</td>
+  <td>Como desarrollador quiero obtener una librería por email para validar su existencia</td>
+  <td>
+    Escenario 1: Dado que el email está registrado, cuando realizo una solicitud GET /api/v1/libraries?email=biblio@raje.com, entonces obtengo los datos de la librería.<br>
+    Escenario 2: Dado que el email no está registrado, cuando hago la solicitud, entonces el sistema responde con error 404.
+  </td>
+  <td>EP08</td>
+</tr>
+<tr>
+  <td>TS-06</td>
+  <td>Obtener librería por ID</td>
+  <td>Como desarrollador quiero obtener una librería por id para acceder a todos sus detalles</td>
+  <td>
+    Escenario 1: Dado que el ID existe, cuando realizo una solicitud GET /api/v1/libraries/{id}, entonces recibo todos los datos de la librería.<br>
+    Escenario 2: Dado que el ID no existe, cuando hago la solicitud, entonces el sistema responde con error 404.
+  </td>
+  <td>EP08</td>
+</tr>
+<tr>
+  <td>TS-07</td>
+  <td>Crear un nuevo director</td>
+  <td>Como desarrollador quiero crear un director para registrarlo como responsable de contenido</td>
+  <td>
+    Escenario 1: Dado que envío nombre, biografía y fecha de nacimiento válidos, cuando realizo la solicitud POST /api/v1/directors, entonces el director se registra correctamente.<br>
+    Escenario 2: Dado que falta algún campo obligatorio, cuando hago la solicitud, entonces obtengo un error 400.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-08</td>
+  <td>Obtener director por ID</td>
+  <td>Como desarrollador quiero obterner un director por id para mostrar su perfil</td>
+  <td>
+    Escenario 1: Dado que el ID del director existe, cuando realizo una solicitud GET /api/v1/directors/{id}, entonces obtengo todos sus datos.<br>
+    Escenario 2: Dado que el ID no existe, cuando realizo la solicitud, entonces recibo un error 404.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-09</td>
+  <td>Obtener todas las películas</td>
+  <td>Como desarrollador quiero obtener todas las películas para mostrar el catálogo completo</td>
+  <td>
+    Escenario 1: Dado que existen películas en la base de datos, cuando realizo una solicitud GET /api/v1/movies, entonces obtengo la lista completa.<br>
+    Escenario 2: Dado que no hay películas registradas, cuando hago la solicitud, entonces el sistema responde con una lista vacía.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-10</td>
+  <td>Obtener película por ID</td>
+  <td>Como desarrollador quiero obtener una película por id para mostrar su información detallada</td>
+  <td>
+    Escenario 1: Dado que el ID de la película existe, cuando realizo una solicitud GET /api/v1/movies/{id}, entonces obtengo los datos completos.<br>
+    Escenario 2: Dado que el ID no existe, cuando hago la solicitud, entonces obtengo un error 404.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-11</td>
+  <td>Obtener todas las plataformas</td>
+  <td>Como desarrollador quiero obterner todas las plataformas para mostrar servicios disponibles</td>
+  <td>
+    Escenario 1: Dado que hay plataformas registradas, cuando realizo una solicitud GET /api/v1/platforms, entonces obtengo la lista completa.<br>
+    Escenario 2: Dado que no hay plataformas registradas, cuando hago la solicitud, entonces obtengo una lista vacía.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-12</td>
+  <td>Obtener plataforma por ID</td>
+  <td>Como desarrollador quiero obtener una plataforma por id para mostrar sus detalles</td>
+  <td>
+    Escenario 1: Dado que el ID de la plataforma existe, cuando realizo una solicitud GET /api/v1/platforms/{id}, entonces obtengo los datos de la plataforma.<br>
+    Escenario 2: Dado que el ID no existe, cuando hago la solicitud, entonces obtengo un error 404.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-13</td>
+  <td>Obtener varias plataformas por ID</td>
+  <td>Como desarrollador quiero obterner varias plataformas por varios id para consultar múltiples resultados</td>
+  <td>
+    Escenario 1: Dado que envío múltiples IDs válidos, cuando realizo una solicitud GET /api/v1/platforms/by-ids?ids=1,2,3, entonces obtengo las plataformas correspondientes.<br>
+    Escenario 2: Dado que uno de los IDs no existe, cuando hago la solicitud, entonces el sistema lo ignora o responde con error según configuración.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-14</td>
+  <td>Obtener actores por múltiples IDs</td>
+  <td>Como desarrollador quiero obtener actores por multiples ids para mostrar perfiles simultáneamente</td>
+  <td>
+    Escenario 1: Dado que envío varios IDs válidos, cuando realizo una solicitud GET /api/v1/actors?ids=1,2,3, entonces obtengo los actores correspondientes.<br>
+    Escenario 2: Dado que uno de los IDs no existe, cuando hago la solicitud, entonces el sistema responde con error o lista parcial.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-15</td>
+  <td>Crear un nuevo actor</td>
+  <td>Como desarrollador quiero crear un nuevco actor para incluirlo en el sistema</td>
+  <td>
+    Escenario 1: Dado que envío todos los campos requeridos, cuando realizo la solicitud POST /api/v1/actors, entonces el actor se registra correctamente.<br>
+    Escenario 2: Dado que falta algún campo obligatorio, cuando realizo la solicitud, entonces el sistema responde con error 400.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-16</td>
+  <td>Obtener actor por ID</td>
+  <td>Como desarrollador quiero obtener un actor por id para mostrar su información completa</td>
+  <td>
+    Escenario 1: Dado que el ID del actor existe, cuando realizo una solicitud GET /api/v1/actors/{id}, entonces obtengo su perfil completo.<br>
+    Escenario 2: Dado que el ID no existe, cuando hago la solicitud, entonces obtengo error 404.
+  </td>
+  <td>EP04</td>
 </tr>
     </tbody>
 </table>
