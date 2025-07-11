@@ -4037,7 +4037,70 @@ En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la c
 
 ### 5.2.4.1. Sprint Planning 4
 
-
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">Sprint 4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">26 - 06 - 2025</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">9:00 pm - 9:45 pm</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Reunión en Google Meet</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Cabanillas Meza Jose Mateo</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">
+      Cabanillas Meza Jose Mateo<br>
+      Aliaga Urbina Wilder Gonzalo<br>
+      Sarmiento Medina Loreley<br>
+      Bejarano Martínez Álvaro Leandro
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 3 Review Summary</strong></td>
+    <td colspan="1">
+      Se implementaron funcionalidades críticas en el frontend, avanzando en la integración del sistema.   </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 3 Retrospective Summary</strong></td>
+    <td colspan="1">
+      El equipo mostró un alto nivel de colaboración, con mejoras sustanciales en la organización y planificación.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 4 Goal</strong></td>
+    <td colspan="1">
+      Desarrollar funcionalidades que permitan a usuarios y propietarios gestionar catálogos de contenido y listas 
+      personalizadas, visualizar estadísticas relevantes, y administrar ubicaciones físicas de librerías, 
+        mejorando así la experiencia de exploración, control y análisis dentro de la plataforma RAJE.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
+    <td colspan="1">30 Story Points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">30 Story Points</td>
+  </tr>
+</table>
 
 ##### 5.2.4.2. Aspect Leaders and Collaborators
 
