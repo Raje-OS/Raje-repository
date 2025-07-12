@@ -10707,6 +10707,14 @@ Durante el Sprint 4 se integraron múltiples endpoints para cubrir operaciones C
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 
+Deployment Frontend:
+
+[Link] `https://front-raje.vercel.app/`
+
+![deplymentfront.png](Report_Assets/TF/deplymentfront.png)
+![deplymentfront2.png](Report_Assets/TF/deplymentfront2.png)
+![deplymentfront3.png](Report_Assets/TF/deplymentfront3.png)
+
 
 Deployment MySQL
 ![deploymysql.png](Report_Assets/TF/deploymysql.png)
