@@ -10706,9 +10706,10 @@ Durante el Sprint 4 se integraron múltiples endpoints para cubrir operaciones C
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+
+
 Deployment MySQL
 ![deploymysql.png](Report_Assets/TF/deploymysql.png)
-
 
 
 Deployment Backend
