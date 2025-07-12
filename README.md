@@ -88,9 +88,6 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
   </tbody>
 </table>
 
-## Project Report Collaboration Insights
-- **URL de la organización del proyecto:**  
-  `https://github.com/Raje-OS`
 
 <div align="center">
 
@@ -205,7 +202,7 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 - **URL del repositorio del backend del proyecto:**  
   [https://github.com/Raje-OS/Backend]`https://github.com/Raje-OS/Backend`
 
-![insightsback.png](Report_Assets/TF/insightsback.png)
+![insightsbackendRAJE.png](Report_Assets/TF/insightsbackendRAJE.png)
 
 ## Contents
 
@@ -10720,7 +10717,7 @@ Durante el Sprint 4 se integraron múltiples endpoints para cubrir operaciones C
 ![frontopeninsights.png](Report_Assets/TF/frontopeninsights.png)
 
 **Backend**
-![insightsback.png](Report_Assets/TF/insightsback.png)
+![insightsbackendRAJE.png](Report_Assets/TF/insightsbackendRAJE.png)
 
 
 ## 5.3. Validation Interviews.
@@ -11048,6 +11045,7 @@ Matías Medina, de 19 años, valoró positivamente la experiencia con RAJE, dest
 - REST API Tutorial. (s.f.). *What is REST?*. Recuperado el 10 de julio de 2025, de `https://www.restapitutorial.com/introduction/whatisrest`
 
 - RESTfulAPI.net. (s.f.). *REST API tutorial*. Recuperado el 10 de julio de 2025, de `https://restfulapi.net`
+
 
 # Anexos
 
