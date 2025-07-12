@@ -4799,6 +4799,166 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
     <td colspan="1">Done</td>
 </tr>
+  <tr>
+    <td colspan="1">TS-17</td>
+    <td colspan="1">Obtener libro por ID</td>
+    <td colspan="1">W31</td>
+    <td colspan="1">Obtener libro por ID</td>
+    <td colspan="1">Como desarrollador quiero obtener un libro por id para mostrar su información completa</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Cabannillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-18</td>
+    <td colspan="1">Actualizar un libro</td>
+    <td colspan="1">W32</td>
+    <td colspan="1">Actualizar un libro</td>
+    <td colspan="1">Como desarrollador quiero actualizar un libro para modificar su información almacenada</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-19</td>
+    <td colspan="1">Obtener todos los libros</td>
+    <td colspan="1">W33</td>
+    <td colspan="1">Obtener todos los libros</td>
+    <td colspan="1">Como desarrollador quiero obtener todos los libros para listar el catálogo de lectura</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-20</td>
+    <td colspan="1">Obtener libros por calificación</td>
+    <td colspan="1">W34</td>
+    <td colspan="1">Obtener libros por calificación</td>
+    <td colspan="1">Como desarrollador quiero obtener todos los libros por orden de calificación para mostrar los mejores</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-21</td>
+    <td colspan="1">Actualizar una reseña</td>
+    <td colspan="1">W35</td>
+    <td colspan="1">Actualizar reseña</td>
+    <td colspan="1">Como desarrollador quiero actualizar una reseña para reflejar una opinión modificada</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Cabannillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-22</td>
+    <td colspan="1">Eliminar una reseña por ID</td>
+    <td colspan="1">W36</td>
+    <td colspan="1">Eliminar reseña</td>
+    <td colspan="1">Como desarrollador quiero eliminar una reseña por id para permitir su eliminación del sistema</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-23</td>
+    <td colspan="1">Obtener todas las reseñas</td>
+    <td colspan="1">W37</td>
+    <td colspan="1">Obtener reseñas</td>
+    <td colspan="1">Como desarrollador quiero obterner todas las reseñas para mostrarlas en la sección de comunidad</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-24</td>
+    <td colspan="1">Crear una reseña</td>
+    <td colspan="1">W38</td>
+    <td colspan="1">Crear reseña</td>
+    <td colspan="1">Como desarrollador quiero crear una reseña para que los usuarios puedan dejar su opinión sobre contenido</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-25</td>
+    <td colspan="1">Obtener reseñas por ID de usuario</td>
+    <td colspan="1">W39</td>
+    <td colspan="1">Obtener reseñas por usuario</td>
+    <td colspan="1">Como desarrollador quiero obtener las reseñas por id del usuario para mostrar su historial de opiniones</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Cabannillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-26</td>
+    <td colspan="1">Obtener reseñas por ID de contenido</td>
+    <td colspan="1">W40</td>
+    <td colspan="1">Obtener reseñas por contenido</td>
+    <td colspan="1">Como desarrollador quiero obtener las reseñas por id del contenido para mostrarlas en su página detallada</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-27</td>
+    <td colspan="1">Actualizar una película</td>
+    <td colspan="1">W41</td>
+    <td colspan="1">Actualizar película</td>
+    <td colspan="1">Como desarrollador quiero actualizar una película para modificar su información registrada</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-28</td>
+    <td colspan="1">Obtener películas por calificación</td>
+    <td colspan="1">W42</td>
+    <td colspan="1">Películas por calificación</td>
+    <td colspan="1">Como desarrollador quiero obtener todas las películas por orden de calificación para mostrar las destacadas</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-29</td>
+    <td colspan="1">Obtener serie por ID</td>
+    <td colspan="1">W43</td>
+    <td colspan="1">Obtener serie por ID</td>
+    <td colspan="1">Como desarrollador quiero obtener una serie por id para mostrar su información completa</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Cabannillas Meza Jose Mateo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-30</td>
+    <td colspan="1">Actualizar una serie</td>
+    <td colspan="1">W44</td>
+    <td colspan="1">Actualizar serie</td>
+    <td colspan="1">Como desarrollador quiero actualizar una serie para modificar sus datos guardados</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Sarmiento Medina Loreley</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-31</td>
+    <td colspan="1">Obtener todas las series</td>
+    <td colspan="1">W45</td>
+    <td colspan="1">Listar series</td>
+    <td colspan="1">Como desarrollador quiero obtener todas las series para listarlas en el catálogo</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Aliaga Urbina Wilder Gonzalo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-32</td>
+    <td colspan="1">Obtener series por calificación</td>
+    <td colspan="1">W46</td>
+    <td colspan="1">Series por calificación</td>
+    <td colspan="1">Como desarrollador quiero obtener todas las series por orden de calificación para mostrar las mejor valoradas</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Bejarano Martínez Alvaro Leandro</td>
+    <td colspan="1">Done</td>
+</tr>
 </table>
 
 
