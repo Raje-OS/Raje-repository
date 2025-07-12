@@ -5259,8 +5259,8 @@ Isabela Rodríguez Ruiz, administradora de la librería Crisol en la sede Mall A
 | **Diseño de presentación del producto** |  Consideró que el diseño es claro e intuitivo en general. Sin embargo, identificó detalles como el efecto de zoom en tarjetas que no se pueden cliquear, lo cual genera confusión.     |
 | **Información de presentación del producto** |      Entendió el propósito de RAJE desde el primer contacto. Señaló que el mensaje de libertad de opinión es visible desde el nombre y la estructura de la página.
  |
-| **Visualización de la página**       |       La navegación le pareció intuitiva y bien organizada. Sugirió que la sección de listas sea más accesible (por ejemplo, junto a favoritos) y que se facilite regresar al landing page.                                                                                                         |
-| **Evaluación de funcionalidades clave** | Las funcionalidades que más valoró fueron las reseñas y el apartado “Para Ti” por su capacidad de ofrecer recomendaciones personalizadas, algo poco común en otras plataformas. También destacó la edición de perfil y el historial de contenido visto.
+| **Visualización de la página**       |       La navegación le pareció intuitiva y bien organizada. Sugirió que la sección de listas sea más accesible (por ejemplo, junto a favoritos) y que se facilite regresar al landing page. |
+| **Evaluación de funcionalidades clave** | Las funcionalidades que más valoró fueron las reseñas y el apartado “Para Ti” por su capacidad de ofrecer recomendaciones personalizadas, algo poco común en otras plataformas. También destacó la edición de perfil y el historial de contenido visto.|
 
 
 
