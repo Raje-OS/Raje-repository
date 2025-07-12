@@ -2735,6 +2735,23 @@ Escala de Story Points (Fibonacci):
 | 57    | TS-14         | Obtener actores por múltiples IDs        | Como desarrollador quiero obtener actores por multiples ids para mostrar perfiles simultáneamente               | 3            |
 | 58    | TS-15         | Crear un nuevo actor                     | Como desarrollador quiero crear un nuevco actor para incluirlo en el sistema                                    | 3            |
 | 59    | TS-16         | Obtener actor por ID                     | Como desarrollador quiero obtener un actor por id para mostrar su información completa                          | 2            |
+| 60    | TS-17         | Obtener libro por ID                     | Como desarrollador quiero obtener un libro por id para mostrar su información completa                          | 2            |
+| 61    | TS-18         | Actualizar un libro                      | Como desarrollador quiero actualizar un libro para modificar su información almacenada                          | 3            |
+| 62    | TS-19         | Obtener todos los libros                 | Como desarrollador quiero obtener todos los libros para listar el catálogo de lectura                           | 2            |
+| 63    | TS-20         | Obtener libros por orden de calificación | Como desarrollador quiero obtener todos los libros por orden de calificación para mostrar los mejores           | 2            |
+| 64    | TS-21         | Actualizar una reseña                    | Como desarrollador quiero actualizar una reseña para reflejar una opinión modificada                            | 3            |
+| 65    | TS-22         | Eliminar una reseña por ID               | Como desarrollador quiero eliminar una reseña por id para permitir su eliminación del sistema                   | 3            |
+| 66    | TS-23         | Obtener todas las reseñas                | Como desarrollador quiero obterner todas las reseñas para mostrarlas en la sección de comunidad                 | 2            |
+| 67    | TS-24         | Crear una reseña                         | Como desarrollador quiero crear una reseña para que los usuarios puedan dejar su opinión sobre contenido        | 3            |
+| 68    | TS-25         | Obtener reseñas por ID de usuario        | Como desarrollador quiero obtener las reseñas por id del usuario para mostrar su historial de opiniones         | 2            |
+| 69    | TS-26         | Obtener reseñas por ID de contenido      | Como desarrollador quiero obtener las reseñas por id del contenido para mostrarlas en su página detallada       | 2            |
+| 70    | TS-27         | Actualizar una película                  | Como desarrollador quiero actualizar una película para modificar su información registrada                      | 3            |
+| 71    | TS-28         | Obtener películas por calificación       | Como desarrollador quiero obtener todas las películas por orden de calificación para mostrar las destacadas     | 2            |
+| 72    | TS-29         | Obtener serie por ID                     | Como desarrollador quiero obtener una serie por id para mostrar su información completa                         | 2            |
+| 73    | TS-30         | Actualizar una serie                     | Como desarrollador quiero actualizar una serie para modificar sus datos guardados                               | 3            |
+| 74    | TS-31         | Obtener todas las series                 | Como desarrollador quiero obtener todas las series para listarlas en el catálogo                                | 2            |
+| 75    | TS-32         | Obtener series por calificación          | Como desarrollador quiero obtener todas las series por orden de calificación para mostrar las mejor valoradas   | 2            |
+
 
 
 
