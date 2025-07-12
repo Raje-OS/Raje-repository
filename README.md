@@ -2390,6 +2390,264 @@ Escenario 2: Dado que el ID no existe, cuando realizo la solicitud, entonces rec
   </td>
   <td>EP04</td>
 </tr>
+<tr>
+  <td>TS-17</td>
+  <td>Obtener libro por ID</td>
+  <td>Como desarrollador quiero obtener un libro por id para mostrar su información completa.</td>
+  <td>
+   Escenario 1:
+Dado que el ID del libro existe,
+cuando realizo una solicitud GET a /api/v1/books/{id},
+entonces obtengo los detalles del libro.
+
+Escenario 2:
+Dado que el ID no existe en la base de datos,
+cuando realizo la solicitud,
+entonces recibo un error 404.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-18</td>
+  <td>Actualizar un libro</td>
+  <td>Como desarrollador quiero actualizar un libro para modificar su información almacenada.</td>
+  <td>
+   Escenario 1:
+Dado que el ID del libro existe y envío datos válidos,
+cuando realizo una solicitud PUT a /api/v1/books/{id},
+entonces el libro se actualiza correctamente.
+
+Escenario 2:
+Dado que envío datos incompletos,
+cuando realizo la solicitud,
+entonces obtengo un error 400 de validación.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-19</td>
+  <td>Obtener todos los libros</td>
+  <td>Como desarrollador quiero obtener todos los libros para listar el catálogo de lectura.</td>
+  <td>
+    Escenario 1:  
+    Dado que hay libros registrados,  
+    cuando realizo una solicitud GET a /api/v1/books,  
+    entonces obtengo una lista con todos los libros.  
+    Escenario 2:  
+    Dado que no hay libros en el sistema,  
+    cuando realizo la solicitud,  
+    entonces obtengo una lista vacía.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-20</td>
+  <td>Obtener libros por orden de calificación</td>
+  <td>Como desarrollador quiero obtener todos los libros por orden de calificación para mostrar los mejores.</td>
+  <td>
+    Escenario 1:  
+    Dado que hay libros con calificaciones registradas,  
+    cuando realizo una solicitud GET a /api/v1/books/ordered-by-rating,  
+    entonces obtengo los libros ordenados por puntuación.  
+    Escenario 2:  
+    Dado que no hay libros,  
+    cuando hago la solicitud,  
+    entonces obtengo una lista vacía.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-21</td>
+  <td>Actualizar una reseña</td>
+  <td>Como desarrollador quiero actualizar una reseña para reflejar una opinión modificada.</td>
+  <td>
+    Escenario 1:  
+    Dado que el ID de la reseña existe y tengo permisos,  
+    cuando realizo una solicitud PUT a /api/v1/reviews/{id},  
+    entonces la reseña se actualiza exitosamente.  
+    Escenario 2:  
+    Dado que no tengo permisos sobre la reseña,  
+    cuando realizo la solicitud,  
+    entonces obtengo un error 403.
+  </td>
+  <td>EP03</td>
+</tr>
+<tr>
+  <td>TS-22</td>
+  <td>Eliminar una reseña por ID</td>
+  <td>Como desarrollador quiero eliminar una reseña por id para permitir su eliminación del sistema.</td>
+  <td>
+    Escenario 1:  
+    Dado que el usuario es el autor de la reseña,  
+    cuando realiza una solicitud DELETE a /api/v1/reviews/{id},  
+    entonces la reseña se elimina correctamente.  
+    Escenario 2:  
+    Dado que el ID no existe,  
+    cuando realizo la solicitud,  
+    entonces obtengo un error 404.
+  </td>
+  <td>EP03</td>
+</tr>
+<tr>
+  <td>TS-23</td>
+  <td>Obtener todas las reseñas</td>
+  <td>Como desarrollador quiero obterner todas las reseñas para mostrarlas en la sección de comunidad.</td>
+  <td>
+    Escenario 1:  
+    Dado que existen reseñas en el sistema,  
+    cuando realizo una solicitud GET a /api/v1/reviews,  
+    entonces obtengo la lista completa.  
+    Escenario 2:  
+    Dado que no hay reseñas registradas,  
+    cuando realizo la solicitud,  
+    entonces obtengo una lista vacía.
+  </td>
+  <td>EP03</td>
+</tr>
+<tr>
+  <td>TS-24</td>
+  <td>Crear una reseña</td>
+  <td>Como desarrollador quiero crear una reseña para que los usuarios puedan dejar su opinión sobre contenido.</td>
+  <td>
+    Escenario 1:  
+    Dado que envío contenido válido y rating,  
+    cuando realizo una solicitud POST a /api/v1/reviews,  
+    entonces se crea la reseña correctamente.  
+    Escenario 2:  
+    Dado que no se incluye el ID del contenido,  
+    cuando realizo la solicitud,  
+    entonces recibo un error 400.
+  </td>
+  <td>EP03</td>
+</tr>
+<tr>
+  <td>TS-25</td>
+  <td>Obtener reseñas por ID de usuario</td>
+  <td>Como desarrollador quiero obtener las reseñas por id del usuario para mostrar su historial de opiniones.</td>
+  <td>
+    Escenario 1:  
+    Dado que el usuario tiene reseñas registradas,  
+    cuando realizo GET a /api/v1/reviews/user/{userId},  
+    entonces obtengo su historial.  
+    Escenario 2:  
+    Dado que no tiene reseñas,  
+    cuando hago la solicitud,  
+    entonces obtengo una lista vacía.
+  </td>
+  <td>EP03</td>
+</tr>
+<tr>
+  <td>TS-26</td>
+  <td>Obtener reseñas por ID de contenido</td>
+  <td>Como desarrollador quiero obtener las reseñas por id del contenido para mostrarlas en su página detallada.</td>
+  <td>
+    Escenario 1:  
+    Dado que hay reseñas para el contenido,  
+    cuando hago GET a /api/v1/reviews/content/{contenidoId},  
+    entonces obtengo la lista correspondiente.  
+    Escenario 2:  
+    Dado que el contenido no tiene reseñas,  
+    cuando hago la solicitud,  
+    entonces obtengo una lista vacía.
+  </td>
+  <td>EP03</td>
+</tr>
+<tr>
+  <td>TS-27</td>
+  <td>Actualizar una película</td>
+  <td>Como desarrollador quiero actualizar una película para modificar su información registrada.</td>
+  <td>
+    Escenario 1:  
+    Dado que el ID existe y los datos son válidos,  
+    cuando realizo una solicitud PUT a /api/v1/movies/{id},  
+    entonces la película se actualiza.  
+    Escenario 2:  
+    Dado que el ID no existe,  
+    cuando hago la solicitud,  
+    entonces obtengo error 404.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-28</td>
+  <td>Obtener películas por orden de calificación</td>
+  <td>Como desarrollador quiero obtener todas las películas por orden de calificación para mostrar las destacadas.</td>
+  <td>
+    Escenario 1:  
+    Dado que hay películas calificadas,  
+    cuando realizo GET a /api/v1/movies/ordered-by-rating,  
+    entonces obtengo la lista ordenada.  
+    Escenario 2:  
+    Dado que no hay películas registradas,  
+    cuando realizo la solicitud,  
+    entonces obtengo una lista vacía.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-29</td>
+  <td>Obtener serie por ID</td>
+  <td>Como desarrollador quiero obtener una serie por id para mostrar su información completa.</td>
+  <td>
+    Escenario 1:  
+    Dado que el ID de la serie existe,  
+    cuando realizo GET a /api/v1/series/{id},  
+    entonces obtengo sus detalles.  
+    Escenario 2:  
+    Dado que el ID no existe,  
+    cuando hago la solicitud,  
+    entonces recibo un error 404.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-30</td>
+  <td>Actualizar una serie</td>
+  <td>Como desarrollador quiero actualizar una serie para modificar sus datos guardados.</td>
+  <td>
+    Escenario 1:  
+    Dado que el ID es válido y los datos correctos,  
+    cuando realizo PUT a /api/v1/series/{id},  
+    entonces la serie se actualiza exitosamente.  
+    Escenario 2:  
+    Dado que falta un campo requerido,  
+    cuando hago la solicitud,  
+    entonces obtengo error 400.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-31</td>
+  <td>Obtener todas las series</td>
+  <td>Como desarrollador quiero obtener todas las series para listarlas en el catálogo.</td>
+  <td>
+    Escenario 1:  
+    Dado que existen series registradas,  
+    cuando hago GET a /api/v1/series,  
+    entonces obtengo la lista completa.  
+    Escenario 2:  
+    Dado que no hay series en el sistema,  
+    cuando hago la solicitud,  
+    entonces obtengo una lista vacía.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>TS-32</td>
+  <td>Obtener series por orden de calificación</td>
+  <td>Como desarrollador quiero obtener todas las series por orden de calificación para mostrar las mejor valoradas.</td>
+  <td>
+    Escenario 1:  
+    Dado que hay series con calificaciones,  
+    cuando hago GET a /api/v1/series/ordered-by-rating,  
+    entonces obtengo la lista ordenada.  
+    Escenario 2:  
+    Dado que no hay calificaciones disponibles,  
+    cuando hago la solicitud,  
+    entonces obtengo una lista vacía.
+  </td>
+  <td>EP04</td>
+</tr>
     </tbody>
 </table>
 
