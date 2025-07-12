@@ -4776,7 +4776,7 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 | **Visualización de la página**       |                                                                                                                                          |
 | **Evaluación de funcionalidades clave** |  |
 
-[URL entrevista]()
+[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EfUWYDtZnCJHihMdj6ZHYXYB4zMAJNFjopcdpipTWbZ72Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nkv0dP)
 
 **Resumen de entrevista:**
 
