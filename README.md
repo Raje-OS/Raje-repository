@@ -4799,6 +4799,32 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 
 Isabela Rodríguez Ruiz, administradora de la librería Crisol en la sede Mall Aventura Trujillo, valoró muy positivamente la experiencia con RAJE. Indicó que la sección de administración de libros fue sencilla de usar, sin dificultades en la navegación. La funcionalidad que más destacó fue la visualización de reseñas y rankings de libros, lo cual le ayuda a tomar decisiones sobre stock. No encontró pantallas confusas, aunque sugirió mejorar la facilidad para añadir sedes. Afirmó que el propósito principal de la plataforma fue claro desde el inicio, al igual que el llamado a la acción para gestionar el catálogo. Finalmente, calificó con un 10 la probabilidad de recomendar RAJE a otros gestores de librerías, destacando su utilidad para mejorar el servicio al cliente. Sugirió como mejora incorporar un catálogo más amplio para tener mayor variedad de títulos disponibles.
 
+**Entrevista 4**
+
+
+| **Dato**                             | **Información**                                                                                                                                                                                                                  |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado**                     | Matías Medina Posito                                                                                                                                                                                                               |
+| **Edad**                             | 19 años                                                                                                                                                                                                                          |
+| **Distrito**                         | 	La Molina                                                                                                                                                                                                                |
+| **Inicio de la entrevista**          | 00:04                                                                                                                                                                                                                           |
+| **Foto captura**                     | <img src="Report_Assets/TF/entrevista1.png">                                                                                                                                                                              |
+| **Diseño de presentación del producto** |  Consideró que el diseño es claro e intuitivo en general. Sin embargo, identificó detalles como el efecto de zoom en tarjetas que no se pueden cliquear, lo cual genera confusión.     |
+| **Información de presentación del producto** |      Entendió el propósito de RAJE desde el primer contacto. Señaló que el mensaje de libertad de opinión es visible desde el nombre y la estructura de la página.
+ |
+| **Visualización de la página**       |       La navegación le pareció intuitiva y bien organizada. Sugirió que la sección de listas sea más accesible (por ejemplo, junto a favoritos) y que se facilite regresar al landing page.                                                                                                         |
+| **Evaluación de funcionalidades clave** | Las funcionalidades que más valoró fueron las reseñas y el apartado “Para Ti” por su capacidad de ofrecer recomendaciones personalizadas, algo poco común en otras plataformas. También destacó la edición de perfil y el historial de contenido visto.
+
+
+
+[URL entrevista]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EfUWYDtZnCJHihMdj6ZHYXYB4zMAJNFjopcdpipTWbZ72Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nkv0dP](https://upcedupe-my.sharepoint.com/personal/u202222001_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202222001_upc_edu_pe%2FDocuments%2Fentrevistas%20open%2FEntrevista%20Mathias%20Medina%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E10caeb56-d713-4050-bd46-05de82a177cb&mode=Edit))
+
+**Resumen de entrevista:**
+
+Matías Medina, de 19 años, valoró positivamente la experiencia con RAJE, destacando su diseño intuitivo, la funcionalidad de reseñas y el apartado “Para Ti” como sus elementos más útiles. Sugirió mejoras como permitir borrar listas, añadir accesos directos a las listas desde la barra superior, incluir enlaces a tráilers o sitios de lectura/compra, y facilitar el regreso al landing page. Aunque percibió claramente el mensaje principal de la plataforma, señaló detalles de usabilidad que podrían optimizarse. Calificó con un 7 u 8 la probabilidad de recomendar la aplicación, reconociendo su potencial y utilidad para los usuarios interesados en contenido multimedia.
+
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas.
 ## EVALUACIÓN HEURÍSTICA - RAJE
