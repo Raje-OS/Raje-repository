@@ -5080,7 +5080,7 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 ![frontopeninsights.png](Report_Assets/TF/frontopeninsights.png)
 
 **Backend**
-
+![insightsback.png](Report_Assets/TF/insightsback.png)
 
 
 ## 5.3. Validation Interviews.
