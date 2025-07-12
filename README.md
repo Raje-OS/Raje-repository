@@ -83,7 +83,7 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 - Sarmiento Medina, Loreley</td>
       <td>Desarrollamos funcionalidades que permitan a usuarios y propietarios gestionar catálogos de contenido y listas 
       personalizadas, visualizar estadísticas relevantes, y administrar ubicaciones físicas de librerías, 
-        mejorando así la experiencia de exploración, control y análisis dentro de la plataforma RAJE.</td>
+        mejorando así la experiencia de exploración, control y análisis dentro de la plataforma RAJE. Tambien se realizo el backend de la app, de tal manera que puedan trabajar frontend y backend en simultaneo</td>
     </tr>
   </tbody>
 </table>
@@ -4450,6 +4450,7 @@ En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la c
       Desarrollar funcionalidades que permitan a usuarios y propietarios gestionar catálogos de contenido y listas 
       personalizadas, visualizar estadísticas relevantes, y administrar ubicaciones físicas de librerías, 
         mejorando así la experiencia de exploración, control y análisis dentro de la plataforma RAJE.
+Tambien se realizó el backend de la app, de tal manera que puedan trabajar frontend y backend en simultaneo
     </td>
   </tr>
   <tr>
