@@ -5063,8 +5063,120 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 ![exxxx.png](Report_Assets/TF/Execution/exxxx.png)
 ![exxxxxx.png](Report_Assets/TF/Execution/exxxxxx.png)
 
-##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 4 se integraron múltiples endpoints para cubrir operaciones CRUD sobre recursos clave del sistema RAJE como libros, autores, librerías, reseñas, directores, películas, series, plataformas y actores. Esta documentación presenta los endpoints expuestos en el backend, organizados por entidad y funcionalidad.
+
+---
+
+### Books - Operaciones relacionadas con libros
+
+| Método | Endpoint                                 | Descripción                                      |
+|--------|------------------------------------------|--------------------------------------------------|
+| GET    | `/api/v1/books/{id}`                     | Obtener un libro por ID                          |
+| PUT    | `/api/v1/books/{id}`                     | Actualizar un libro existente                    |
+| GET    | `/api/v1/books`                          | Obtener todos los libros                         |
+| GET    | `/api/v1/books/ordered-by-rating`        | Obtener libros ordenados por calificación        |
+
+![books.png](Report_Assets/TF/services/books.png)
+---
+
+### Authors - Operaciones relacionadas con autores
+
+| Método | Endpoint                                 | Descripción                                      |
+|--------|------------------------------------------|--------------------------------------------------|
+| POST   | `/api/v1/authors`                        | Crear un nuevo autor                             |
+| GET    | `/api/v1/authors/{id}`                   | Obtener un autor por ID                          |
+
+
+![authors.png](Report_Assets/TF/services/authors.png)
+---
+
+### Libraries - Operaciones relacionadas con librerías
+
+| Método | Endpoint                                             | Descripción                                           |
+|--------|------------------------------------------------------|-------------------------------------------------------|
+| PUT    | `/api/v1/libraries/{id}/remove-location`            | Remover una ubicación de una librería                |
+| PUT    | `/api/v1/libraries/{id}/add-location`               | Añadir una ubicación a una librería                  |
+| GET    | `/api/v1/libraries`                                  | Obtener librería por correo electrónico              |
+| GET    | `/api/v1/libraries/{id}`                             | Obtener una librería por ID                          |
+
+![libraries.png](Report_Assets/TF/services/libraries.png)
+
+---
+
+### Reviews - Operaciones relacionadas con reseñas de usuarios
+
+| Método | Endpoint                                                  | Descripción                                         |
+|--------|-----------------------------------------------------------|-----------------------------------------------------|
+| PUT    | `/api/v1/reviews/{id}`                                    | Actualizar una reseña existente                     |
+| DELETE | `/api/v1/reviews/{id}`                                    | Eliminar una reseña por ID                          |
+| GET    | `/api/v1/reviews`                                         | Obtener todas las reseñas                           |
+| POST   | `/api/v1/reviews`                                         | Crear una nueva reseña                              |
+| GET    | `/api/v1/reviews/user/{userId}`                           | Obtener reseñas realizadas por un usuario           |
+| GET    | `/api/v1/reviews/content/{contenidoId}`                  | Obtener reseñas asociadas a un contenido específico |
+
+![reviews.png](Report_Assets/TF/services/reviews.png)
+---
+
+### Directors - Operaciones relacionadas con directores
+
+| Método | Endpoint                                 | Descripción                                      |
+|--------|------------------------------------------|--------------------------------------------------|
+| POST   | `/api/v1/directors`                      | Crear un nuevo director                          |
+| GET    | `/api/v1/directors/{id}`                 | Obtener director por ID                          |
+
+![directors.png](Report_Assets/TF/services/directors.png)
+
+---
+
+### Movies - Operaciones relacionadas con películas
+
+| Método | Endpoint                                 | Descripción                                      |
+|--------|------------------------------------------|--------------------------------------------------|
+| GET    | `/api/v1/movies/{id}`                    | Obtener película por ID                          |
+| PUT    | `/api/v1/movies/{id}`                    | Actualizar información de una película           |
+| GET    | `/api/v1/movies`                         | Obtener todas las películas                      |
+| GET    | `/api/v1/movies/ordered-by-rating`       | Obtener películas ordenadas por calificación     |
+
+![movies.png](Report_Assets/TF/services/movies.png)
+
+---
+
+### Series - Operaciones relacionadas con series
+
+| Método | Endpoint                                 | Descripción                                      |
+|--------|------------------------------------------|--------------------------------------------------|
+| GET    | `/api/v1/series/{id}`                    | Obtener una serie por ID                         |
+| PUT    | `/api/v1/series/{id}`                    | Actualizar una serie existente                   |
+| GET    | `/api/v1/series`                         | Obtener todas las series                         |
+| GET    | `/api/v1/series/ordered-by-rating`       | Obtener series ordenadas por calificación        |
+
+![series.png](Report_Assets/TF/services/series.png)
+
+---
+
+### Platforms - Operaciones relacionadas con plataformas
+
+| Método | Endpoint                                 | Descripción                                      |
+|--------|------------------------------------------|--------------------------------------------------|
+| GET    | `/api/v1/platforms`                      | Obtener todas las plataformas                    |
+| GET    | `/api/v1/platforms/{id}`                 | Obtener plataforma por ID                        |
+| GET    | `/api/v1/platforms/by-ids`               | Obtener plataformas por múltiples IDs            |
+
+![platforms.png](Report_Assets/TF/services/platforms.png)
+
+---
+
+### Actors - Operaciones relacionadas con actores
+
+| Método | Endpoint                                 | Descripción                                      |
+|--------|------------------------------------------|--------------------------------------------------|
+| GET    | `/api/v1/actors`                         | Obtener actores por múltiples IDs                |
+| POST   | `/api/v1/actors`                         | Crear un nuevo actor                             |
+| GET    | `/api/v1/actors/{id}`                    | Obtener un actor por ID                          |
+
+![actors.png](Report_Assets/TF/services/actors.png)
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
