@@ -4776,22 +4776,28 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 
 **Entrevista 4**
 
+
 | **Dato**                             | **Información**                                                                                                                                                                                                                  |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Entrevistado**                     | Isabella Rodriguez                                                                                                                                                                                                               |
 | **Edad**                             | 22 años                                                                                                                                                                                                                          |
-| **Distrito**                         | Lima - San Miguel                                                                                                                                                                                                                |
-| **Inicio de la entrevista**          | 00:00                                                                                                                                                                                                                            |
+| **Distrito**                         | 	Trujillo – Mall Aventura                                                                                                                                                                                                                |
+| **Inicio de la entrevista**          | 00:02                                                                                                                                                                                                                            |
 | **Foto captura**                     | <img src="Report_Assets/TF/entrevistaisabella.png">                                                                                                                                                                              |
-| **Diseño de presentación del producto** |                                                                                                               |
-| **Información de presentación del producto** |                                                                   |
-| **Visualización de la página**       |                                                                                                                                          |
-| **Evaluación de funcionalidades clave** |  |
+| **Diseño de presentación del producto** |        Le pareció bastante claro e intuitivo. Mencionó que solo la parte de añadir sedes podría simplificarse un poco más.                              |
+| **Información de presentación del producto** |       Comprendió de inmediato el propósito de RAJE como un espacio libre para opinar sobre contenido multimedia sin filtros.
+                        |
+| **Visualización de la página**       |       Consideró que la navegación fue muy clara, sin confusiones en las pantallas ni formularios.
+                                                                                                         |
+| **Evaluación de funcionalidades clave** | Destacó como más útil la funcionalidad de conocer cuáles son los libros mejor y peor rankeados, ya que le permite ajustar el stock de su librería en base a opiniones. También valoró el sistema de catálogo y estadísticas.
+
+ |
 
 [URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EfUWYDtZnCJHihMdj6ZHYXYB4zMAJNFjopcdpipTWbZ72Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nkv0dP)
 
 **Resumen de entrevista:**
 
+Isabela Rodríguez Ruiz, administradora de la librería Crisol en la sede Mall Aventura Trujillo, valoró muy positivamente la experiencia con RAJE. Indicó que la sección de administración de libros fue sencilla de usar, sin dificultades en la navegación. La funcionalidad que más destacó fue la visualización de reseñas y rankings de libros, lo cual le ayuda a tomar decisiones sobre stock. No encontró pantallas confusas, aunque sugirió mejorar la facilidad para añadir sedes. Afirmó que el propósito principal de la plataforma fue claro desde el inicio, al igual que el llamado a la acción para gestionar el catálogo. Finalmente, calificó con un 10 la probabilidad de recomendar RAJE a otros gestores de librerías, destacando su utilidad para mejorar el servicio al cliente. Sugirió como mejora incorporar un catálogo más amplio para tener mayor variedad de títulos disponibles.
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
