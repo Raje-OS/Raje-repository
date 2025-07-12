@@ -4694,6 +4694,27 @@ Resumen de entrevista:
 Anthony Chávez, fanático del contenido multimedia y con 18 años, disfruta ver películas y compartir opiniones sobre ellas. Al probar la aplicación RAJE, expresó que esta cumple con sus expectativas y valoró especialmente la funcionalidad de calificación de contenido, ya que le permite expresar su experiencia como espectador. Sugirió como mejora importante la incorporación de una funcionalidad que permita ver en qué plataformas están disponibles las películas o series, algo que considera necesario para enriquecer la experiencia del usuario. También destacó el diseño llamativo y estéticamente atractivo de la app, y afirmó que el mensaje de la plataforma es claro desde el primer uso. Su opinión refuerza la importancia de seguir desarrollando funciones que conecten la crítica con la disponibilidad del contenido.
 
 
+**Entrevista 3**
+
+| **Dato**                             | **Información**                                                                                                                                                      |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado**                     | Angelo Alejos                                                                                                                                                        |
+| **Edad**                             | 20 años                                                                                                                                                              |
+| **Distrito**                         | Lima - San Miguel                                                                                                                                                    |
+| **Inicio de la entrevista**          | 00:00                                                                                                                                                                |
+| **Foto captura**                     | <img src="Report_Assets/TF/entrevistaAnyelo.png">                                                                                                                    |
+| **Diseño de presentación del producto** | Le pareció visualmente adecuado en general, aunque mencionó que algunos botones podrían mejorarse a nivel estético.                                                 |
+| **Información de presentación del producto** | Consideró que el mensaje principal de RAJE (libertad de opinar y descubrir contenido auténtico) fue claro desde el primer vistazo gracias a la landing page.        |
+| **Visualización de la página**       | La navegación le pareció muy fácil e intuitiva. No tuvo ningún tipo de dificultad.                                                                                   |
+| **Evaluación de funcionalidades clave** | Destacó la funcionalidad de crear listas como la más valiosa, ya que permite guardar películas para ver luego y acceder fácilmente a ellas. No sintió que faltaran funciones, salvo mejorar el estilo visual de algunos botones. |
+
+[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EWBn5R62falLgeS7M8JT-UgBk90oT8Yp-lR3FOpxKarjYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=apWT1A)
+
+**Resumen de entrevista:**  
+Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJE le pareció muy fácil de usar y navegar, destacando su interfaz intuitiva. Afirmó que la aplicación cumplió completamente con sus expectativas, ya que desde el inicio comprendió que se trataba de una plataforma para compartir reseñas sin filtros. Valoró especialmente la funcionalidad de listas, que le permite organizar contenido por ver. Aunque no encontró secciones confusas, sugirió mejorar el estilo de algunos botones. También consideró que tanto el mensaje principal como el llamado a la acción estaban claros y bien diseñados. Finalmente, calificó con un 10 la probabilidad de recomendar RAJE a otras personas, resaltando la utilidad de acceder a opiniones auténticas.
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 ## EVALUACIÓN HEURÍSTICA - RAJE
 
