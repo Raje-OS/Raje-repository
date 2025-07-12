@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdb13d85-6adb-4b9f-b96c-eb8b1eeeb923" name="Changes" comment="fix: Fix doc">
+    <list default="true" id="bdb13d85-6adb-4b9f-b96c-eb8b1eeeb923" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Report_Assets/TF/videoproductraje.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -79,7 +80,18 @@
       <workItem from="1745767236349" duration="2142000" />
       <workItem from="1745782506414" duration="339000" />
       <workItem from="1747185724065" duration="43000" />
-      <workItem from="1750051539147" duration="2966000" />
+      <workItem from="1750051539147" duration="5434000" />
+      <workItem from="1750249622047" duration="27000" />
+      <workItem from="1750249879484" duration="2843000" />
+      <workItem from="1750291881887" duration="1316000" />
+      <workItem from="1750346967956" duration="903000" />
+      <workItem from="1750400341387" duration="709000" />
+      <workItem from="1750441446387" duration="4003000" />
+      <workItem from="1750634316391" duration="10153000" />
+      <workItem from="1752154092155" duration="22016000" />
+      <workItem from="1752253948477" duration="688000" />
+      <workItem from="1752288903852" duration="13105000" />
+      <workItem from="1752310437059" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update sprint 2">
       <option name="closed" value="true" />
@@ -105,7 +117,303 @@
       <option name="project" value="LOCAL" />
       <updated>1750053590793</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: update sprint 3">
+      <option name="closed" value="true" />
+      <created>1750054789539</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750054789539</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update Execution Evidence for Sprint Review">
+      <option name="closed" value="true" />
+      <created>1750250832418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750250832418</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update Software Deployment Evidence for Sprint Review">
+      <option name="closed" value="true" />
+      <created>1750251512810</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750251512810</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix Software Deployment Evidence for Sprint Review">
+      <option name="closed" value="true" />
+      <created>1750251647756</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750251647756</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update Web Applications Prototyping">
+      <option name="closed" value="true" />
+      <created>1750311500519</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750311500519</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update Web Applications Prototyping">
+      <option name="closed" value="true" />
+      <created>1750401057248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750401057248</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update Web Applications Wireflow Diagrams">
+      <option name="closed" value="true" />
+      <created>1750447949461</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1750447949461</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add TB2 assets">
+      <option name="closed" value="true" />
+      <created>1750639422225</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1750639422225</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update Landing Page files">
+      <option name="closed" value="true" />
+      <created>1750639437485</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1750639437485</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update Web Applications Wireframes">
+      <option name="closed" value="true" />
+      <created>1750639505636</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750639505636</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update User Flows">
+      <option name="closed" value="true" />
+      <created>1750639560825</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1750639560825</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update Web Applications Mock-ups">
+      <option name="closed" value="true" />
+      <created>1750639630699</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750639630699</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update User Flow Diagrams">
+      <option name="closed" value="true" />
+      <created>1750639721489</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1750639721489</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add FrontEnd App Software Deployment Evidence">
+      <option name="closed" value="true" />
+      <created>1750639796228</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1750639796228</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add Execution Evidence for Sprint Review">
+      <option name="closed" value="true" />
+      <created>1750639881594</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1750639881594</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add Team Collaboration Insights during Sprint">
+      <option name="closed" value="true" />
+      <created>1750642832858</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1750642832858</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add Development Evidence for Sprint Review">
+      <option name="closed" value="true" />
+      <created>1750643175482</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1750643175482</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update Registro de Versiones del Informe">
+      <option name="closed" value="true" />
+      <created>1750643934265</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1750643934265</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update Student Outcome">
+      <option name="closed" value="true" />
+      <created>1750644435185</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1750644435185</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add Diseño de Entrevistas">
+      <option name="closed" value="true" />
+      <created>1750644898566</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1750644898566</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update table">
+      <option name="closed" value="true" />
+      <created>1750647552372</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1750647552372</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fix student outcome">
+      <option name="closed" value="true" />
+      <created>1752167978250</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1752167978250</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update doc">
+      <option name="closed" value="true" />
+      <created>1752211976839</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1752211976839</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add Aspect Leaders and Collaborators">
+      <option name="closed" value="true" />
+      <created>1752213628030</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1752213628030</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix Aspect Leaders and Collaborators">
+      <option name="closed" value="true" />
+      <created>1752213772703</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1752213772703</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update doc">
+      <option name="closed" value="true" />
+      <created>1752214904000</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1752214904000</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update doc">
+      <option name="closed" value="true" />
+      <created>1752217963663</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1752217963663</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add trello">
+      <option name="closed" value="true" />
+      <created>1752219433314</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1752219433314</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add Development Evidence for Sprint Review in Frontend">
+      <option name="closed" value="true" />
+      <created>1752219701130</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1752219701130</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add Collaboration Insights in Frontend">
+      <option name="closed" value="true" />
+      <created>1752219933728</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1752219933728</updated>
+    </task>
+    <task id="LOCAL-00034" summary="updatte doc">
+      <option name="closed" value="true" />
+      <created>1752220739848</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1752220739848</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add files">
+      <option name="closed" value="true" />
+      <created>1752220878227</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1752220878227</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add interview">
+      <option name="closed" value="true" />
+      <created>1752295405521</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1752295405521</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update doc">
+      <option name="closed" value="true" />
+      <created>1752297757979</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1752297757979</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update doc">
+      <option name="closed" value="true" />
+      <created>1752297907648</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1752297907648</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add execution evidence">
+      <option name="closed" value="true" />
+      <created>1752298640668</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1752298640668</updated>
+    </task>
+    <task id="LOCAL-00040" summary="update doc">
+      <option name="closed" value="true" />
+      <created>1752306667173</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1752306667173</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,9 +434,32 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="feat: update sprint 2" />
-    <MESSAGE value="fix: Fix doc" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: Fix doc" />
+    <MESSAGE value="add TB2 assets" />
+    <MESSAGE value="update Landing Page files" />
+    <MESSAGE value="update Web Applications Wireframes" />
+    <MESSAGE value="update User Flows" />
+    <MESSAGE value="update Web Applications Mock-ups" />
+    <MESSAGE value="update User Flow Diagrams" />
+    <MESSAGE value="add FrontEnd App Software Deployment Evidence" />
+    <MESSAGE value="add Execution Evidence for Sprint Review" />
+    <MESSAGE value="add Team Collaboration Insights during Sprint" />
+    <MESSAGE value="add Development Evidence for Sprint Review" />
+    <MESSAGE value="update Registro de Versiones del Informe" />
+    <MESSAGE value="update Student Outcome" />
+    <MESSAGE value="add Diseño de Entrevistas" />
+    <MESSAGE value="update table" />
+    <MESSAGE value="fix student outcome" />
+    <MESSAGE value="add Aspect Leaders and Collaborators" />
+    <MESSAGE value="fix Aspect Leaders and Collaborators" />
+    <MESSAGE value="add trello" />
+    <MESSAGE value="add Development Evidence for Sprint Review in Frontend" />
+    <MESSAGE value="add Collaboration Insights in Frontend" />
+    <MESSAGE value="updatte doc" />
+    <MESSAGE value="add files" />
+    <MESSAGE value="add interview" />
+    <MESSAGE value="add execution evidence" />
+    <MESSAGE value="update doc" />
+    <option name="LAST_COMMIT_MESSAGE" value="update doc" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

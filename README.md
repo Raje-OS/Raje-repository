@@ -5212,21 +5212,18 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 **Entrevista 4**
 
 
-| **Dato**                             | **Información**                                                                                                                                                                                                                  |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Entrevistado**                     | Isabella Rodriguez                                                                                                                                                                                                               |
-| **Edad**                             | 22 años                                                                                                                                                                                                                          |
-| **Distrito**                         | 	Trujillo – Mall Aventura                                                                                                                                                                                                                |
-| **Inicio de la entrevista**          | 00:02                                                                                                                                                                                                                            |
-| **Foto captura**                     | <img src="Report_Assets/TF/entrevistaisabella.png">                                                                                                                                                                              |
-| **Diseño de presentación del producto** |        Le pareció bastante claro e intuitivo. Mencionó que solo la parte de añadir sedes podría simplificarse un poco más.                              |
-| **Información de presentación del producto** |       Comprendió de inmediato el propósito de RAJE como un espacio libre para opinar sobre contenido multimedia sin filtros.
-                        |
-| **Visualización de la página**       |       Consideró que la navegación fue muy clara, sin confusiones en las pantallas ni formularios.
-                                                                                                         |
-| **Evaluación de funcionalidades clave** | Destacó como más útil la funcionalidad de conocer cuáles son los libros mejor y peor rankeados, ya que le permite ajustar el stock de su librería en base a opiniones. También valoró el sistema de catálogo y estadísticas.
+| **Dato**                             | **Información**                                                                                                                                                                                                             |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado**                     | Isabella Rodriguez                                                                                                                                                                                                          |
+| **Edad**                             | 22 años                                                                                                                                                                                                                     |
+| **Distrito**                         | 	Trujillo – Mall Aventura                                                                                                                                                                                                   |
+| **Inicio de la entrevista**          | 00:02                                                                                                                                                                                                                       |
+| **Foto captura**                     | <img src="Report_Assets/TF/entrevistaisabella.png">                                                                                                                                                                         |
+| **Diseño de presentación del producto** |    Le pareció bastante claro e intuitivo. Mencionó que solo la parte de añadir sedes podría simplificarse un poco más.                                                                                                      |
+| **Información de presentación del producto** | Comprendió de inmediato el propósito de RAJE como un espacio libre para opinar sobre contenido multimedia sin filtros.                                                                                                      |
+| **Visualización de la página**       | Consideró que la navegación fue muy clara, sin confusiones en las pantallas ni formularios.                                                                                                                                 |
+| **Evaluación de funcionalidades clave** | Destacó como más útil la funcionalidad de conocer cuáles son los libros mejor y peor rankeados, ya que le permite ajustar el stock de su librería en base a opiniones. También valoró el sistema de catálogo y estadísticas. |
 
- |
 
 [URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EfUWYDtZnCJHihMdj6ZHYXYB4zMAJNFjopcdpipTWbZ72Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nkv0dP)
 
@@ -5362,12 +5359,12 @@ Matías Medina, de 19 años, valoró positivamente la experiencia con RAJE, dest
 
 ## 5.4. Video About-the-Product.
 
-| **Sección**                          | **Descripción**                                                                                                                                                                                                           |
-|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de RAJE y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma. |
-| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                      |
-| **Cuadro de Video Representativo**   | <img src="resources/chapter-5/About-the-product-cap.png" alt="Descripción de la imagen" width="300" height="200">                                                                                                         |
-| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]( )                                                                                             |
+| **Sección**                          | **Descripción**                                                                                                                                                                                                                                                                                                                                                     |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de RAJE y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma.                                                                                                                                           |
+| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:13**: Features <br> **00:00:43**: Recorrido del usuario <br> **00:04:06**: Recorrido de plataformas <br> **00:04:53**: Recorrido de librerias <br> **00:05:52**: Cierre y conclusiones                                                                                                                                      |
+| **Cuadro de Video Representativo**   | <img src="Report_Assets/TF/videoproductraje.png" alt="Descripción de la imagen" width="300" height="200">                                                                                                                                                                                                                                                           |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EcSPOzCkHS1Gti7FOzhxv8YBRmIkqHR6fiBt7tabVVBUcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BhSChd) |
 
 
 # Conclusiones
