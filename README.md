@@ -3187,7 +3187,7 @@ El diseño de la base de datos es crucial para nuestro proyecto porque garantiza
 
 ### 4.8.1. Database Diagram
 
-![Diagrama_Base_Datos](Report_Assets/ClaseUML.png)
+![Diagrama_Base_Datos](Report_Assets/imagen_2025-07-12_064836489.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1 Software Configuration Management
