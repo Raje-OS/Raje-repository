@@ -5028,7 +5028,22 @@ A continuación se presenta un registro de los cambios realizados en la interfaz
 
 A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
-
+| Repository     | Branch | Commit Id | Commit Message                          | Commit Message Body                    | Committed on (Date) |
+|----------------|--------|-----------|-----------------------------------------|----------------------------------------|----------------------|
+| RAJE-Backend   | main   | dff3505   | oka                                     | oka                                    | Jul 12, 2025         |
+| RAJE-Backend   | main   | 62bcab8   | .                                       | .                                      | Jul 12, 2025         |
+| RAJE-Backend   | main   | d5f1097   | .                                       | .                                      | Jul 12, 2025         |
+| RAJE-Backend   | main   | 9615084   | review                                  | review                                 | Jul 12, 2025         |
+| RAJE-Backend   | main   | 4fab5f    | .                                       | .                                      | Jul 11, 2025         |
+| RAJE-Backend   | main   | cac95e8   | books                                   | books                                  | Jul 11, 2025         |
+| RAJE-Backend   | main   | 3aa0d2d   | uwu,corrección de errores del back anterior, librerías y plataformas añadidas, lógica de contenidos iniciada | uwu,corrección de errores del back anterior, librerías y plataformas añadidas, lógica de contenidos iniciada | Jul 10, 2025         |
+| RAJE-Backend   | main   | d738e33   | uwu,corrección de errores del back anterior, librerías y plataformas añadidas, lógica de contenidos iniciada | uwu,corrección de errores del back anterior, librerías y plataformas añadidas, lógica de contenidos iniciada | Jul 10, 2025         |
+| RAJE-Backend   | main   | 36565a0   | actors actualization                    | actors actualization                   | Jul 10, 2025         |
+| RAJE-Backend   | main   | 0da337c   | actors actualization                    | actors actualization                   | Jul 10, 2025         |
+| RAJE-Backend   | main   | 2e3e0d0   | actors actualization                    | actors actualization                   | Jul 10, 2025         |
+| RAJE-Backend   | main   | 8c2484f   | Add files via upload                    | Add files via upload                   | Jul 09, 2025         |
+| RAJE-Backend   | main   | 6763ceb   | Delete Raje-Backend.zip                 | Delete Raje-Backend.zip                | Jul 09, 2025         |
+| RAJE-Backend   | main   | 17a2e6a   | Add files via upload                    | Add files via upload                   | Jul 09, 2025         |
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
@@ -5164,7 +5179,7 @@ COnsumidores de contenido multimedia:
 | **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
 | **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “listar” y sugirió mejorar el diseño a la hora de rajar. |
 
-[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EVRn8dnNNdxMkP8A2LYtHQgBz-c_IQUE3mmtp-cugLk49g?e=5xlr7S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EVRn8dnNNdxMkP8A2LYtHQgBz-c_IQUE3mmtp-cugLk49g?e=5xlr7S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Resumen de entrevista:
 Víctor André Amadi Horna, joven de 19 años del distrito de San Miguel, evaluó positivamente su experiencia con la aplicación RAJE, destinada a criticar películas y series. Destacó que la navegación le resultó muy fácil e intuitiva, cumpliendo con sus expectativas como usuario. Considera especialmente valiosa la opción de editar comentarios, ya que le permite mejorar o corregir sus opiniones tras publicarlas. Mencionó que la aplicación está mayormente bien realizada y no identifica mejoras urgentes que necesite. Además, afirmó que el llamado de acción en el Landing Page es claro y atractivo, reforzando la comprensión del propósito de la app. En general, considera muy probable que recomiende RAJE a otros, lo cual valida su nivel de satisfacción con la experiencia ofrecida.
