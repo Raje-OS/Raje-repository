@@ -101,7 +101,7 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 - **URL del repositorio del landing page del proyecto:**  
   [https://github.com/Raje-OS/RAJELandingPage](https://github.com/Raje-OS/RAJELandingPage)
 
-  
+  ![insightslanding.png](Report_Assets/TF/insightslanding.png)
 
 - **URL del repositorio del frontend del proyecto:**  
   [https://github.com/Raje-OS/FrontEnd](https://github.com/Raje-OS/FrontEnd)
@@ -4624,7 +4624,7 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 **Landing Page**
-
+![insightslanding.png](Report_Assets/TF/insightslanding.png)
 
 **Frontend**
 ![frontopeninsights.png](Report_Assets/TF/frontopeninsights.png)
