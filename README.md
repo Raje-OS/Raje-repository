@@ -10706,6 +10706,13 @@ Durante el Sprint 4 se integraron múltiples endpoints para cubrir operaciones C
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Deployment Landing Page:
+
+[Link] `https://raje-os.github.io/RAJELandingPage/`
+
+![deploylanding.png](Report_Assets/TF/deploylanding.png)
+
+
 
 Deployment Frontend:
 
@@ -10717,13 +10724,18 @@ Deployment Frontend:
 
 
 Deployment MySQL
+
+
 ![deploymysql.png](Report_Assets/TF/deploymysql.png)
 
 
 Deployment Backend
-![deployback.png](Report_Assets/TF/deployback.png)
 
 [Link] `https://backend-qatk.onrender.com/`
+
+![deployback.png](Report_Assets/TF/deployback.png)
+
+
 
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
