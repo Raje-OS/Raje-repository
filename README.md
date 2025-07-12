@@ -5348,8 +5348,7 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 | **Foto captura**                     | <img src="Report_Assets/TF/entrevistaisabella.png">                                                                                                                                                                              |
 | **Diseño de presentación del producto** |        Le pareció bastante claro e intuitivo. Mencionó que solo la parte de añadir sedes podría simplificarse un poco más.                              |
 | **Información de presentación del producto** |       Comprendió de inmediato el propósito de RAJE como un espacio libre para opinar sobre contenido multimedia sin filtros.|
-| **Visualización de la página**       |       Consideró que la navegación fue muy clara, sin confusiones en las pantallas ni formularios.
-                                                                                                         |
+| **Visualización de la página**       |       Consideró que la navegación fue muy clara, sin confusiones en las pantallas ni formularios.|
 | **Evaluación de funcionalidades clave** | Destacó como más útil la funcionalidad de conocer cuáles son los libros mejor y peor rankeados, ya que le permite ajustar el stock de su librería en base a opiniones. También valoró el sistema de catálogo y estadísticas.|
 
 `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EfUWYDtZnCJHihMdj6ZHYXYB4zMAJNFjopcdpipTWbZ72Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nkv0dP`
