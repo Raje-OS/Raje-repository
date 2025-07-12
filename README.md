@@ -10574,6 +10574,9 @@ A continuación se presenta un registro detallado de los commits realizados en e
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
 En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
 
+- Link de video de ejecucion: [Link de acceso]`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EcSPOzCkHS1Gti7FOzhxv8YBRmIkqHR6fiBt7tabVVBUcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BhSChd`
+
+
 ![ex.png](Report_Assets/TF/Execution/ex.png)
 ![ex2.png](Report_Assets/TF/Execution/ex2.png)
 ![ex3.png](Report_Assets/TF/Execution/ex3.png)
