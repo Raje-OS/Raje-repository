@@ -4631,6 +4631,8 @@ Estas entrevistas nos permiten identificar oportunidades de mejora desde la pers
 
 ### **Preguntas de la entrevista**
 
+**Segmento objetivo Usuarios:**  
+
 **1. ¿Qué tan fácil te resultó navegar por la aplicación RAJE?**  
 
 **2. ¿RAJE cumplió con tus expectativas?**  
@@ -4643,7 +4645,6 @@ Estas entrevistas nos permiten identificar oportunidades de mejora desde la pers
 
 **6. ¿El mensaje principal de la plataforma (libertad de opinar y descubrir contenido auténtico) te quedó claro al primer vistazo?**  
 
-
 **7. ¿Qué tan claro fue el llamado a la acción principal de la landing page?**  
 
 **8. ¿Hubo alguna parte del diseño o navegación que te resultó confusa o poco intuitiva?**  
@@ -4651,6 +4652,51 @@ Estas entrevistas nos permiten identificar oportunidades de mejora desde la pers
 **9. En una escala del 1 al 10, ¿qué tan probable es que recomiendes RAJE a un amigo o colega? ¿Por qué?**  
 
 **10. ¿Qué nueva funcionalidad te gustaría que agregáramos o qué parte te gustaría que mejoráramos en RAJE?**  
+
+**Segmento objetivo Dueños de librerías:**
+
+**1. ¿Qué tan fácil te resultó navegar por la sección de administración de libros dentro de RAJE?**
+
+*2. ¿RAJE cumplió con tus expectativas para gestionar el catálogo de libros de tu librería?**
+
+*3.¿Qué funcionalidad te resultó más útil dentro de RAJE?
+(Por ejemplo: ver libros con mejores reseñas, publicar promociones, descubrir intereses del público, etc.)**
+
+*4.¿Sentiste que faltaba alguna funcionalidad clave para gestionar correctamente tu catálogo o conocer las tendencias de lectura?**
+
+*5.¿Hubo alguna pantalla, formulario o sección de RAJE que te generó confusión o no funcionó como esperabas?**
+
+*6.¿El propósito principal de RAJE (crear un espacio libre para opinar y descubrir contenido auténtico) se entendió claramente desde el inicio?**
+
+*7.¿El llamado a la acción para gestionar tu catálogo o conocer los libros más valorados fue claro desde la página principal o dashboard?**
+
+*8.¿Hubo alguna parte del diseño o navegación de la plataforma que te pareció poco intuitiva o complicada de usar como administrador de librería?**
+
+*9.En una escala del 1 al 10, ¿qué tan probable es que recomiendes RAJE a otros dueños de librerías? ¿Por qué?**
+
+*10.¿Qué funcionalidad nueva te gustaría que incluyéramos o qué parte de RAJE mejorarías para facilitar la gestión de tu librería?**
+
+**Segmento objetivo Plataformas de Streaming:**
+
+**1. ¿Qué tan fácil te resultó navegar por la sección de administración de tu contenido en RAJE?**
+
+**2. ¿La plataforma RAJE cumplió con tus expectativas para gestionar el contenido asociado a tu servicio de streaming?**
+
+**3. ¿Qué funcionalidad te resultó más útil dentro de RAJE (por ejemplo, editar catálogo, ver estadísticas por género o ranking, etc.)?**
+
+**4. ¿Sentiste que faltaba alguna funcionalidad clave para gestionar correctamente tu contenido o estadísticas?**
+
+**5. ¿Hubo alguna pantalla, formulario o sección de RAJE que te generó confusión o no funcionó como esperabas?**
+
+**6. ¿El propósito principal de RAJE (brindar un espacio libre para opinar y descubrir contenido auténtico) se entendió claramente desde el inicio?**
+
+**7. ¿El llamado a la acción para gestionar o revisar tu catálogo fue claro desde la landing page?**
+
+**8. ¿Hubo alguna parte del diseño o navegación de la plataforma que te pareció poco intuitiva o complicada de usar como administrador?**
+
+**9. En una escala del 1 al 10, ¿qué tan probable es que recomiendes RAJE a otros dueños o administradores de plataformas de streaming? ¿Por qué?**
+
+**10. ¿Qué funcionalidad nueva te gustaría que incluyéramos o qué parte de RAJE mejorarías para facilitar la gestión de tu plataforma de streaming?**
 
 
 ### 5.3.2. Registro de Entrevistas.
