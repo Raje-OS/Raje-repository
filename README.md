@@ -5357,7 +5357,7 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 
 Isabela Rodríguez Ruiz, administradora de la librería Crisol en la sede Mall Aventura Trujillo, valoró muy positivamente la experiencia con RAJE. Indicó que la sección de administración de libros fue sencilla de usar, sin dificultades en la navegación. La funcionalidad que más destacó fue la visualización de reseñas y rankings de libros, lo cual le ayuda a tomar decisiones sobre stock. No encontró pantallas confusas, aunque sugirió mejorar la facilidad para añadir sedes. Afirmó que el propósito principal de la plataforma fue claro desde el inicio, al igual que el llamado a la acción para gestionar el catálogo. Finalmente, calificó con un 10 la probabilidad de recomendar RAJE a otros gestores de librerías, destacando su utilidad para mejorar el servicio al cliente. Sugirió como mejora incorporar un catálogo más amplio para tener mayor variedad de títulos disponibles.
 
-**Entrevista 4**
+**Entrevista 5**
 
 
 | **Dato**                             | **Información**                                                                                                                                                                                                                  |
@@ -5492,14 +5492,20 @@ Matías Medina, de 19 años, valoró positivamente la experiencia con RAJE, dest
 
 # Conclusiones
 
-- **Impacto de RAJE en la experiencia de los usuarios:**  
-  RAJE logró desarrollar un espacio auténtico donde los usuarios pueden expresar libremente sus opiniones sobre películas, series y libros, cubriendo una necesidad real que no era satisfecha por las plataformas tradicionales.
+- El desarrollo de la plataforma **RAJE** permitió aplicar de forma práctica los conocimientos adquiridos durante el curso, integrando tecnologías web modernas y metodologías ágiles en un entorno colaborativo.
 
-- **Construcción de una comunidad basada en opiniones genuinas:**  
-  A través de su propuesta centrada en la libertad de expresión y la recomendación personalizada, RAJE fomenta la creación de una comunidad vibrante, dinámica y diversa, donde cada voz tiene un impacto real.
+- Se logró construir una **arquitectura modular y escalable**, separando de forma clara el backend (servicios REST) del frontend, lo que facilitó el desarrollo, pruebas e integración de nuevas funcionalidades.
 
-- **Base sólida para el crecimiento futuro del proyecto:**  
-  El desarrollo de una arquitectura tecnológica robusta, acompañada de la validación de necesidades reales de usuarios, dueños de librerías y plataformas de streaming, sienta las bases para la expansión y evolución continua de RAJE como un referente en el descubrimiento de contenido cultural auténtico.
+- Se implementaron funcionalidades clave como:
+    - Gestión de catálogos de contenido (libros, películas, series).
+    - Creación y edición de listas personalizadas por parte de los usuarios.
+    - Sistema de reseñas auténticas y calificaciones sin filtros.
+    - Visualización de estadísticas para librerías y plataformas de streaming.
+
+- El uso de herramientas como **Trello**, **GitHub**, y control de versiones permitió una mejor planificación, asignación de tareas y seguimiento continuo del avance.
+
+- Como equipo, se fortalecieron habilidades como la **comunicación efectiva**, la **colaboración**, la **resolución de problemas** y la **documentación técnica**, lo cual fue fundamental para cumplir con los objetivos del proyecto.
+
 
 # Bibliografía
 
