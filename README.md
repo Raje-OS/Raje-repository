@@ -5291,7 +5291,7 @@ COnsumidores de contenido multimedia:
 | **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
 | **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “listar” y sugirió mejorar el diseño a la hora de rajar. |
 
-[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EVRn8dnNNdxMkP8A2LYtHQgBz-c_IQUE3mmtp-cugLk49g?e=5xlr7S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EVRn8dnNNdxMkP8A2LYtHQgBz-c_IQUE3mmtp-cugLk49g?e=5xlr7S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 Resumen de entrevista:
 Víctor André Amadi Horna, joven de 19 años del distrito de San Miguel, evaluó positivamente su experiencia con la aplicación RAJE, destinada a criticar películas y series. Destacó que la navegación le resultó muy fácil e intuitiva, cumpliendo con sus expectativas como usuario. Considera especialmente valiosa la opción de editar comentarios, ya que le permite mejorar o corregir sus opiniones tras publicarlas. Mencionó que la aplicación está mayormente bien realizada y no identifica mejoras urgentes que necesite. Además, afirmó que el llamado de acción en el Landing Page es claro y atractivo, reforzando la comprensión del propósito de la app. En general, considera muy probable que recomiende RAJE a otros, lo cual valida su nivel de satisfacción con la experiencia ofrecida.
@@ -5311,7 +5311,7 @@ Víctor André Amadi Horna, joven de 19 años del distrito de San Miguel, evalu�
 | **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
 | **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “listar” y sugirió mejorar el diseño a la hora de rajar. |
 
-[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/Eeb3KPhgKM1IjaJvgdO-TvIBvOPCMO92HH4_-SEbj8ykdA?e=fAoUPw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/Eeb3KPhgKM1IjaJvgdO-TvIBvOPCMO92HH4_-SEbj8ykdA?e=fAoUPw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 Resumen de entrevista:
 Anthony Chávez, fanático del contenido multimedia y con 18 años, disfruta ver películas y compartir opiniones sobre ellas. Al probar la aplicación RAJE, expresó que esta cumple con sus expectativas y valoró especialmente la funcionalidad de calificación de contenido, ya que le permite expresar su experiencia como espectador. Sugirió como mejora importante la incorporación de una funcionalidad que permita ver en qué plataformas están disponibles las películas o series, algo que considera necesario para enriquecer la experiencia del usuario. También destacó el diseño llamativo y estéticamente atractivo de la app, y afirmó que el mensaje de la plataforma es claro desde el primer uso. Su opinión refuerza la importancia de seguir desarrollando funciones que conecten la crítica con la disponibilidad del contenido.
@@ -5331,7 +5331,7 @@ Anthony Chávez, fanático del contenido multimedia y con 18 años, disfruta ver
 | **Visualización de la página**       | La navegación le pareció muy fácil e intuitiva. No tuvo ningún tipo de dificultad.                                                                                   |
 | **Evaluación de funcionalidades clave** | Destacó la funcionalidad de crear listas como la más valiosa, ya que permite guardar películas para ver luego y acceder fácilmente a ellas. No sintió que faltaran funciones, salvo mejorar el estilo visual de algunos botones. |
 
-[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EWBn5R62falLgeS7M8JT-UgBk90oT8Yp-lR3FOpxKarjYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=apWT1A)
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EWBn5R62falLgeS7M8JT-UgBk90oT8Yp-lR3FOpxKarjYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=apWT1A`
 
 **Resumen de entrevista:**  
 Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJE le pareció muy fácil de usar y navegar, destacando su interfaz intuitiva. Afirmó que la aplicación cumplió completamente con sus expectativas, ya que desde el inicio comprendió que se trataba de una plataforma para compartir reseñas sin filtros. Valoró especialmente la funcionalidad de listas, que le permite organizar contenido por ver. Aunque no encontró secciones confusas, sugirió mejorar el estilo de algunos botones. También consideró que tanto el mensaje principal como el llamado a la acción estaban claros y bien diseñados. Finalmente, calificó con un 10 la probabilidad de recomendar RAJE a otras personas, resaltando la utilidad de acceder a opiniones auténticas.
@@ -5339,26 +5339,26 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 **Entrevista 4**
 
 
-| **Dato**                             | **Información**                                                                                                                                                                                                             |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Entrevistado**                     | Isabella Rodriguez                                                                                                                                                                                                          |
-| **Edad**                             | 22 años                                                                                                                                                                                                                     |
-| **Distrito**                         | 	Trujillo – Mall Aventura                                                                                                                                                                                                   |
-| **Inicio de la entrevista**          | 00:02                                                                                                                                                                                                                       |
-| **Foto captura**                     | <img src="Report_Assets/TF/entrevistaisabella.png">                                                                                                                                                                         |
-| **Diseño de presentación del producto** |    Le pareció bastante claro e intuitivo. Mencionó que solo la parte de añadir sedes podría simplificarse un poco más.                                                                                                      |
-| **Información de presentación del producto** | Comprendió de inmediato el propósito de RAJE como un espacio libre para opinar sobre contenido multimedia sin filtros.                                                                                                      |
-| **Visualización de la página**       | Consideró que la navegación fue muy clara, sin confusiones en las pantallas ni formularios.                                                                                                                                 |
-| **Evaluación de funcionalidades clave** | Destacó como más útil la funcionalidad de conocer cuáles son los libros mejor y peor rankeados, ya que le permite ajustar el stock de su librería en base a opiniones. También valoró el sistema de catálogo y estadísticas. |
+| **Dato**                             | **Información**                                                                                                                                                                                                                  |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado**                     | Isabella Rodriguez                                                                                                                                                                                                               |
+| **Edad**                             | 22 años                                                                                                                                                                                                                          |
+| **Distrito**                         | 	Trujillo – Mall Aventura                                                                                                                                                                                                                |
+| **Inicio de la entrevista**          | 00:02                                                                                                                                                                                                                            |
+| **Foto captura**                     | <img src="Report_Assets/TF/entrevistaisabella.png">                                                                                                                                                                              |
+| **Diseño de presentación del producto** |        Le pareció bastante claro e intuitivo. Mencionó que solo la parte de añadir sedes podría simplificarse un poco más.                              |
+| **Información de presentación del producto** |       Comprendió de inmediato el propósito de RAJE como un espacio libre para opinar sobre contenido multimedia sin filtros.|
+| **Visualización de la página**       |       Consideró que la navegación fue muy clara, sin confusiones en las pantallas ni formularios.
+                                                                                                         |
+| **Evaluación de funcionalidades clave** | Destacó como más útil la funcionalidad de conocer cuáles son los libros mejor y peor rankeados, ya que le permite ajustar el stock de su librería en base a opiniones. También valoró el sistema de catálogo y estadísticas.|
 
-
-[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EfUWYDtZnCJHihMdj6ZHYXYB4zMAJNFjopcdpipTWbZ72Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nkv0dP)
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EfUWYDtZnCJHihMdj6ZHYXYB4zMAJNFjopcdpipTWbZ72Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nkv0dP`
 
 **Resumen de entrevista:**
 
 Isabela Rodríguez Ruiz, administradora de la librería Crisol en la sede Mall Aventura Trujillo, valoró muy positivamente la experiencia con RAJE. Indicó que la sección de administración de libros fue sencilla de usar, sin dificultades en la navegación. La funcionalidad que más destacó fue la visualización de reseñas y rankings de libros, lo cual le ayuda a tomar decisiones sobre stock. No encontró pantallas confusas, aunque sugirió mejorar la facilidad para añadir sedes. Afirmó que el propósito principal de la plataforma fue claro desde el inicio, al igual que el llamado a la acción para gestionar el catálogo. Finalmente, calificó con un 10 la probabilidad de recomendar RAJE a otros gestores de librerías, destacando su utilidad para mejorar el servicio al cliente. Sugirió como mejora incorporar un catálogo más amplio para tener mayor variedad de títulos disponibles.
 
-**Entrevista 5**
+**Entrevista 4**
 
 
 | **Dato**                             | **Información**                                                                                                                                                                                                                  |
@@ -5369,20 +5369,17 @@ Isabela Rodríguez Ruiz, administradora de la librería Crisol en la sede Mall A
 | **Inicio de la entrevista**          | 00:04                                                                                                                                                                                                                           |
 | **Foto captura**                     | <img src="Report_Assets/TF/entrevista1.png">                                                                                                                                                                              |
 | **Diseño de presentación del producto** |  Consideró que el diseño es claro e intuitivo en general. Sin embargo, identificó detalles como el efecto de zoom en tarjetas que no se pueden cliquear, lo cual genera confusión.     |
-| **Información de presentación del producto** |      Entendió el propósito de RAJE desde el primer contacto. Señaló que el mensaje de libertad de opinión es visible desde el nombre y la estructura de la página.
- |
-| **Visualización de la página**       |       La navegación le pareció intuitiva y bien organizada. Sugirió que la sección de listas sea más accesible (por ejemplo, junto a favoritos) y que se facilite regresar al landing page. |
-| **Evaluación de funcionalidades clave** | Las funcionalidades que más valoró fueron las reseñas y el apartado “Para Ti” por su capacidad de ofrecer recomendaciones personalizadas, algo poco común en otras plataformas. También destacó la edición de perfil y el historial de contenido visto.|
+| **Información de presentación del producto** |      Entendió el propósito de RAJE desde el primer contacto. Señaló que el mensaje de libertad de opinión es visible desde el nombre y la estructura de la página.|
+| **Visualización de la página**       |       La navegación le pareció intuitiva y bien organizada. Sugirió que la sección de listas sea más accesible (por ejemplo, junto a favoritos) y que se facilite regresar al landing page.                                                                                                         |
+| **Evaluación de funcionalidades clave** | Las funcionalidades que más valoró fueron las reseñas y el apartado “Para Ti” por su capacidad de ofrecer recomendaciones personalizadas, algo poco común en otras plataformas. También destacó la edición de perfil y el historial de contenido visto.
 
 
 
-[URL entrevista]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EfUWYDtZnCJHihMdj6ZHYXYB4zMAJNFjopcdpipTWbZ72Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nkv0dP](https://upcedupe-my.sharepoint.com/personal/u202222001_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202222001_upc_edu_pe%2FDocuments%2Fentrevistas%20open%2FEntrevista%20Mathias%20Medina%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E10caeb56-d713-4050-bd46-05de82a177cb&mode=Edit))
+`https://upcedupe-my.sharepoint.com/personal/u202222001_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202222001_upc_edu_pe%2FDocuments%2Fentrevistas%20open%2FEntrevista%20Mathias%20Medina%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E10caeb56-d713-4050-bd46-05de82a177cb&mode=Edit`
 
 **Resumen de entrevista:**
 
 Matías Medina, de 19 años, valoró positivamente la experiencia con RAJE, destacando su diseño intuitivo, la funcionalidad de reseñas y el apartado “Para Ti” como sus elementos más útiles. Sugirió mejoras como permitir borrar listas, añadir accesos directos a las listas desde la barra superior, incluir enlaces a tráilers o sitios de lectura/compra, y facilitar el regreso al landing page. Aunque percibió claramente el mensaje principal de la plataforma, señaló detalles de usabilidad que podrían optimizarse. Calificó con un 7 u 8 la probabilidad de recomendar la aplicación, reconociendo su potencial y utilidad para los usuarios interesados en contenido multimedia.
-
-
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
