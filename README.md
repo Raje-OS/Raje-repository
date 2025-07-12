@@ -5358,7 +5358,7 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 
 Isabela Rodríguez Ruiz, administradora de la librería Crisol en la sede Mall Aventura Trujillo, valoró muy positivamente la experiencia con RAJE. Indicó que la sección de administración de libros fue sencilla de usar, sin dificultades en la navegación. La funcionalidad que más destacó fue la visualización de reseñas y rankings de libros, lo cual le ayuda a tomar decisiones sobre stock. No encontró pantallas confusas, aunque sugirió mejorar la facilidad para añadir sedes. Afirmó que el propósito principal de la plataforma fue claro desde el inicio, al igual que el llamado a la acción para gestionar el catálogo. Finalmente, calificó con un 10 la probabilidad de recomendar RAJE a otros gestores de librerías, destacando su utilidad para mejorar el servicio al cliente. Sugirió como mejora incorporar un catálogo más amplio para tener mayor variedad de títulos disponibles.
 
-**Entrevista 4**
+**Entrevista 5**
 
 
 | **Dato**                             | **Información**                                                                                                                                                                                                                  |
