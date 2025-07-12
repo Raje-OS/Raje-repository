@@ -81,7 +81,9 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 - Cabanillas Meza, José Mateo
 -Aliaga Urbina Wilder Gonzalo
 - Sarmiento Medina, Loreley</td>
-      <td></td>
+      <td>Desarrollamos funcionalidades que permitan a usuarios y propietarios gestionar catálogos de contenido y listas 
+      personalizadas, visualizar estadísticas relevantes, y administrar ubicaciones físicas de librerías, 
+        mejorando así la experiencia de exploración, control y análisis dentro de la plataforma RAJE.</td>
     </tr>
   </tbody>
 </table>
@@ -240,8 +242,8 @@ A continuación, se presenta un cuadro donde se detallan las actividades realiza
 
 ## 1.1. Startup Profile
 
-### 1.1.1. Descripción de la Startup
-
+### 1.1.1. Descripción de la Startup*
+*
 Caleta Innovations es una startup enfocada en revolucionar la forma en que las personas expresan sus opiniones y acceden
 a contenido literario y audiovisual. En Caleta Innovations, valoramos la libertad de expresión y creemos en la
 importancia de que cada voz sea escuchada sin filtros. Nos dedicamos a ofrecer soluciones innovadoras que permitan a
@@ -4188,11 +4190,11 @@ En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la c
 ##### 5.2.4.2. Aspect Leaders and Collaborators
 
 | Team Member (Last Name, First Name)     | GitHub Username     | Personalized Lists (L/C) | Catalog Management (L/C) | Catalog Statistics (L/C) | Store Locations (L/C) |
-|-----------------------------------------|----------------------|--------------------------|--------------------------|--------------------------|------------------------|
-| Cabanillas Meza, Jose Mateo            | marckszz         | C                        | L                        | C                        | L                      |
-| Sarmiento Medina, Loreley              | loreleySarmiento     | L                        | C                        | L                        | C                      |
-| Aliaga Urbina, Wilder Gonzalo          | Gonzalo1905          | L                        | C                        | C                        | L                      |
-| Bejarano Martínez, Alvaro Leandro      | Albro310306         | C                        | C                        | C                        | C                      |
+|-----------------------------------------|----------------------|--------------------------|--------------------------|--------------------------|-----------------------|
+| Cabanillas Meza, Jose Mateo            | marckszz         | C                        | L                        | C                        | L                     |
+| Sarmiento Medina, Loreley              | loreleySarmiento     | L                        | C                        | L                        | C                     |
+| Aliaga Urbina, Wilder Gonzalo          | Gonzalo1905          | L                        | C                        | C                        | C                     |
+| Bejarano Martínez, Alvaro Leandro      | Albro310306         | C                        | C                        | C                        | C                     |
 
 
 ##### 5.2.4.3. Sprint Backlog 4
@@ -4598,6 +4600,7 @@ En esta sección se presentan las evidencias de la ejecución de la aplicación 
 En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
 
 
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 
@@ -4713,6 +4716,24 @@ Anthony Chávez, fanático del contenido multimedia y con 18 años, disfruta ver
 **Resumen de entrevista:**  
 Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJE le pareció muy fácil de usar y navegar, destacando su interfaz intuitiva. Afirmó que la aplicación cumplió completamente con sus expectativas, ya que desde el inicio comprendió que se trataba de una plataforma para compartir reseñas sin filtros. Valoró especialmente la funcionalidad de listas, que le permite organizar contenido por ver. Aunque no encontró secciones confusas, sugirió mejorar el estilo de algunos botones. También consideró que tanto el mensaje principal como el llamado a la acción estaban claros y bien diseñados. Finalmente, calificó con un 10 la probabilidad de recomendar RAJE a otras personas, resaltando la utilidad de acceder a opiniones auténticas.
 
+**Entrevista 4**
+
+| **Dato**                             | **Información**                                                                                                                                                                                                                  |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado**                     | Isabella Rodriguez                                                                                                                                                                                                               |
+| **Edad**                             | 22 años                                                                                                                                                                                                                          |
+| **Distrito**                         | Lima - San Miguel                                                                                                                                                                                                                |
+| **Inicio de la entrevista**          | 00:00                                                                                                                                                                                                                            |
+| **Foto captura**                     | <img src="Report_Assets/TF/entrevistaisabella.png">                                                                                                                                                                              |
+| **Diseño de presentación del producto** |                                                                                                               |
+| **Información de presentación del producto** |                                                                   |
+| **Visualización de la página**       |                                                                                                                                          |
+| **Evaluación de funcionalidades clave** |  |
+
+[URL entrevista]()
+
+**Resumen de entrevista:**
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
@@ -4821,7 +4842,7 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 | **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de RAJE y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma. |
 | **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                      |
 | **Cuadro de Video Representativo**   | <img src="resources/chapter-5/About-the-product-cap.png" alt="Descripción de la imagen" width="300" height="200">                                                                                                         |
-| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]( ) <br/> **Youtube**:[Link de acceso]( )                                                                                                                                           |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]( )                                                                                             |
 
 
 # Conclusiones
@@ -4853,3 +4874,4 @@ Angelo Alejos, estudiante de Ingeniería de Software en la UPC, expresó que RAJ
 
 - Link de exposicion TB1: [Link TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EXKoaVFEs3JBs3IbIqDWjfoBKeys4BBPvKu93_60IV57Wg?e=3G2OQf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Link de exposicion TP: [Link TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EU9mbwcLC9ZHguxqAA2eThkBgjlHSZBPsofFPEjz6pFRpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GyTQUH)
+- Link de exposicion TB2: [Link TB2]()
