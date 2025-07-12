@@ -5487,7 +5487,7 @@ Matías Medina, de 19 años, valoró positivamente la experiencia con RAJE, dest
 | **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de RAJE y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma.                                                                                                                                           |
 | **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:13**: Features <br> **00:00:43**: Recorrido del usuario <br> **00:04:06**: Recorrido de plataformas <br> **00:04:53**: Recorrido de librerias <br> **00:05:52**: Cierre y conclusiones                                                                                                                                      |
 | **Cuadro de Video Representativo**   | <img src="Report_Assets/TF/videoproductraje.png" alt="Descripción de la imagen" width="300" height="200">                                                                                                                                                                                                                                                           |
-| **URL del Video**                    | **Microsoft Stream**: [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EcSPOzCkHS1Gti7FOzhxv8YBRmIkqHR6fiBt7tabVVBUcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BhSChd) |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EcSPOzCkHS1Gti7FOzhxv8YBRmIkqHR6fiBt7tabVVBUcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BhSChd` |
 
 
 # Conclusiones
@@ -5503,20 +5503,20 @@ Matías Medina, de 19 años, valoró positivamente la experiencia con RAJE, dest
 
 # Bibliografía
 
-- Cohn, M. (s.f.). *User stories articles*. Mountain Goat Software. Recuperado el 10 de julio de 2025, de https://www.mountaingoatsoftware.com/blog/tag/user-stories
+- Cohn, M. (s.f.). *User stories articles*. Mountain Goat Software. Recuperado el 10 de julio de 2025, de `https://www.mountaingoatsoftware.com/blog/tag/user-stories`
 
-- Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de https://google.github.io/styleguide/htmlcssguide.html
+- Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de `https://google.github.io/styleguide/htmlcssguide.html`
 
-- Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/front-end-style-guides/
+- Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de `https://www.nngroup.com/articles/front-end-style-guides/`
 
-- Render. (s.f.). *Deployments*. Recuperado el 10 de julio de 2025, de https://render.com/docs/deploys
+- Render. (s.f.). *Deployments*. Recuperado el 10 de julio de 2025, de `https://render.com/docs/deploys`
 
-- REST API Tutorial. (s.f.). *What is REST?*. Recuperado el 10 de julio de 2025, de https://www.restapitutorial.com/introduction/whatisrest
+- REST API Tutorial. (s.f.). *What is REST?*. Recuperado el 10 de julio de 2025, de `https://www.restapitutorial.com/introduction/whatisrest`
 
-- RESTfulAPI.net. (s.f.). *REST API tutorial*. Recuperado el 10 de julio de 2025, de https://restfulapi.net
+- RESTfulAPI.net. (s.f.). *REST API tutorial*. Recuperado el 10 de julio de 2025, de `https://restfulapi.net`
 
 # Anexos
 
-- Link de exposicion TB1: [Link TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EXKoaVFEs3JBs3IbIqDWjfoBKeys4BBPvKu93_60IV57Wg?e=3G2OQf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- Link de exposicion TP: [Link TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EU9mbwcLC9ZHguxqAA2eThkBgjlHSZBPsofFPEjz6pFRpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GyTQUH)
+- Link de exposicion TB1: [Link TB1]`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311640_upc_edu_pe/EXKoaVFEs3JBs3IbIqDWjfoBKeys4BBPvKu93_60IV57Wg?e=3G2OQf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+- Link de exposicion TP: [Link TP]`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EU9mbwcLC9ZHguxqAA2eThkBgjlHSZBPsofFPEjz6pFRpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GyTQUH`
 - Link de exposicion TB2: [Link TB2]()
