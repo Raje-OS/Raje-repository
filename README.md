@@ -90,7 +90,9 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 
 ## Project Report Collaboration Insights
 - **URL de la organización del proyecto:**  
-  `https://github.com/Raje-OS`(<div align="center">
+  `https://github.com/Raje-OS`
+
+<div align="center">
 
 ## Universidad Peruana de Ciencias Aplicadas
 
@@ -203,7 +205,7 @@ y se completó el Registro de Entrevistas y Evaluación heurística.</td>
 - **URL del repositorio del backend del proyecto:**  
   [https://github.com/Raje-OS/Backend]`https://github.com/Raje-OS/Backend`
 
-
+![insightsback.png](Report_Assets/TF/insightsback.png)
 
 ## Contents
 
